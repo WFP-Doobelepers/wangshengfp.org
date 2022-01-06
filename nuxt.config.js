@@ -78,7 +78,11 @@ export default {
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
-    markdown: {}
+    markdown: {
+      remarkPlugins: [
+        ['remark-autolink-headings', { behavior: 'wrap' }]
+      ]
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -93,6 +97,9 @@ export default {
 
   // Fallback to 404.html
   generate: {
-    fallback: true
+    fallback: true,
+    routes: [
+      'guides/_slug'
+    ]
   }
 }

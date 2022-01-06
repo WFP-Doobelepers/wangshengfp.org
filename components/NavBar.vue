@@ -41,20 +41,9 @@
             Guides
           </NuxtLink>
 
-          <div class="dropdown">
-            <NuxtLink to="/events">
-              Events
-              <img src="~/assets/icons/chevron-down.svg" style="height: 20px;" class="inline">
-            </NuxtLink>
-            <div class="dropdown-content">
-              <NuxtLink to="/events#50K">
-                50K Event
-              </NuxtLink>
-              <NuxtLink to="/events#100K">
-                100K Event
-              </NuxtLink>
-            </div>
-          </div>
+          <NuxtLink to="/calculator">
+            Calculator
+          </NuxtLink>
 
           <NuxtLink to="/forms">
             Forms
@@ -169,34 +158,14 @@
             </NuxtLink>
           </li>
 
-          <li class="mb-4">
+          <li>
             <NuxtLink
-              to="/events"
-              class="mt-4 inline-block"
+              to="/calculator"
+              class="my-4 inline-block"
               @click.native="isOpen = false"
             >
-              Events
+              Calculator
             </NuxtLink>
-            <ul>
-              <li>
-                <NuxtLink
-                  to="/events#50K"
-                  class="pl-3"
-                  @click.native="isOpen = false"
-                >
-                  <img src="~/assets/icons/plus.svg" style="height: 15px;" class="inline"> 50K Event
-                </NuxtLink>
-              </li>
-              <li>
-                <NuxtLink
-                  to="/events#100K"
-                  class="pl-3"
-                  @click.native="isOpen = false"
-                >
-                  <img src="~/assets/icons/plus.svg" style="height: 15px;" class="inline"> 100K Event
-                </NuxtLink>
-              </li>
-            </ul>
           </li>
 
           <li>
