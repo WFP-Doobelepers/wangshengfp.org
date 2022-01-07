@@ -1,8 +1,10 @@
 <template>
-  <div>Under Construction</div>
+  <div class="guides">
+    Under Construction
+  </div>
 </template>
 
-<script lang='ts'>
+<script lang="ts">
 import Vue from 'vue'
 
 export default Vue.extend({

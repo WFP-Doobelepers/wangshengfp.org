@@ -1,12 +1,14 @@
 ---
 title: 'Becoming the One and Oni: An Arataki Itto Guide'
 character: 'Itto'
-slug: 'itto'
+guide_slug: 'itto'
 aliases: []
 last_updated_game_version: '2.4'
-author: 'Emiliabyss#1641'
+author: ['Emiliabyss#1641']
 ---
 # Becoming the One and Oni: An Arataki Itto Guide
+
+![](https://lh4.googleusercontent.com/8zkkQ3AVm5D0DYL8QcQsI2PB6Um2WVq6KBSolPUY-wfCHcTlTUA-cQiW9rNYIwe7YPcIRDs28bLms-MWTkJ7lV8xrBYcifK-0wlQxtCerbZXAAdHMk_u7nT5bVP89qaqiQrzFSOP)
 
 *“When I say being a champ — that means kicking some serious butt, alright? I don't care if you're playing card games or you're brawling — no losing! Not to anyone!”*
 
@@ -50,7 +52,8 @@ One could, in theory, opt into Chongyun or C6 Bennet to try and encourage amplif
 ### Drawbacks
 
 - Needs quite high resin investment (hyper investing) to get a competitive state; Itto must be levelled to 90 and all of his talents need attention.
-Barely functions outside of his Burst; energy requirements must be satisfied.
+
+- Barely functions outside of his Burst; energy requirements must be satisfied.
 
 - You’re basically required to farm 4pc Husk of Opulent Dreams or suffer a 10%+ DPS penalty.
 

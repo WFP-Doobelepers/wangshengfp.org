@@ -1,16 +1,12 @@
 module.exports = {
+  mode: 'jit',
   theme: {
     extend: {
       backgroundImage: {
         wuwang: "url('~/assets/backgrounds/wuwang.png')"
       },
-      spacing: {
-        '30%': '30%',
-        '10%': '10%'
-      },
-      colors: {
-        '#452222': '#452222',
-        '#281414': '#281414'
+      fontFamily: {
+        wfp: ['Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif']
       }
     }
   }

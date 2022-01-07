@@ -1,8 +1,16 @@
 <template>
-  <nuxt-content :document="guide" styles="parent-style" />
+  <div class="guide">
+    <nuxt-content :document="guide" />
+    <a :href="`https://github.com/${$config.user}/${$config.repo}/edit/${$config.branch}/content/guides/${guide.slug}.md`" target="_blank">
+      <div class="m-2 text-white">
+        <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px;" class="inline">
+        Edit this page on GitHub
+      </div>
+    </a>
+  </div>
 </template>
 
-<script lang='ts'>
+<script lang="ts">
 import Vue from 'vue'
 
 export default Vue.extend({
@@ -10,7 +18,7 @@ export default Vue.extend({
   validate ({ $content, params }) {
     return $content('guides').where({
       $or: [
-        { slug: params.slug },
+        { guide_slug: params.slug },
         { aliases: { $contains: params.slug } }
       ]
     }).fetch().then((results) => {
@@ -20,7 +28,7 @@ export default Vue.extend({
   async asyncData ({ $content, params }) {
     const guide = await $content('guides').where({
       $or: [
-        { slug: params.slug },
+        { guide_slug: params.slug },
         { aliases: { $contains: params.slug } }
       ]
     }).fetch()
@@ -30,39 +38,36 @@ export default Vue.extend({
 })
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 ::v-deep .nuxt-content {
-  padding: 10px 30%;
-  color: white;
+  @apply py-2 px-[10%] lg:px-[30%] text-white;
+}
+
+::v-deep .nuxt-content > *::before {
+  @apply block h-0 m-0 lg:h-[60px] lg:mt-[-60px];
+  content: '';
 }
 
 ::v-deep .nuxt-content h1 {
-  font-weight: bold;
-  font-size: 32px;
-  text-align: center;
+  @apply font-bold text-4xl text-center;
 }
 
 ::v-deep .nuxt-content h2 {
-  font-weight: bold;
-  font-size: 28px;
+  @apply font-bold text-3xl;
 }
 
 ::v-deep .nuxt-content h3 {
-  font-weight: bold;
-  font-size: 22px;
+  @apply font-bold text-2xl;
 }
 
-::v-deep .nuxt-content p {
-  margin-bottom: 20px;
+::v-deep .nuxt-content > p {
+  @apply mb-5;
 }
 
 ::v-deep .nuxt-content ul {
-  list-style-type: disc;
-}
-
-@media (max-width: 1024px) {
-  ::v-deep .nuxt-content {
-    padding: 10px 10%;
+  @apply list-disc mb-5;
+  & p {
+    @apply mb-1;
   }
 }
 </style>

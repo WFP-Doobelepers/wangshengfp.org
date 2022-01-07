@@ -1,5 +1,5 @@
 <template>
-  <nav class="sticky top-0 block w-full lg:bg-#281414 bg-transparent z-10">
+  <nav class="sticky top-0 block w-full lg:bg-[#281414] bg-transparent z-10">
     <div class="flex items-center justify-center">
       <!-- Mobile toggle -->
       <div class="lg:hidden absolute top-5 right-5 z-10">
@@ -75,21 +75,7 @@
 
       <!-- Drawer Menu -->
       <aside
-        class="
-                    p-5
-                    transform
-                    top-0
-                    left-0
-                    w-64
-                    bg-white
-                    fixed
-                    h-full
-                    overflow-auto
-                    ease-in-out
-                    transition-all
-                    duration-300
-                    z-30
-                "
+        class="p-5 transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
       >
         <div class="close">
@@ -246,53 +232,36 @@ export default Vue.extend({
 })
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 .navbar a {
-  float: left;
-  font-size: 18px;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  text-decoration: none;
-  width: 200px;
+  @apply text-white float-left text-lg text-center p-5 no-underline w-[200px] h-[60px];
 }
 
 .dropdown {
-  float: left;
-  overflow: hidden;
+  @apply float-left overflow-hidden;
 }
 
 .navbar a:hover, .navbar > ul > .nuxt-link-exact-active {
-  background-color: #452222;
+  @apply bg-[#452222];
 }
 
 li .nuxt-link-exact-active {
-  color: #452222;
-  font-weight: bold;
+  @apply text-[#452222] font-bold;
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  margin-top: 60px;
-  background-color: #f9f9f9;
-  z-index: 1;
+  @apply hidden absolute mt-[60px] bg-gray-100 z-10;
 }
 
 .dropdown-content a {
-  float: none;
-  color: #281414;
-  padding: 15px;
-  text-decoration: none;
-  text-align: center;
-  display: block;
+  @apply float-none text-[#281414] p-4 no-underline text-center block;
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  @apply bg-gray-200
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+  @apply block;
 }
 </style>

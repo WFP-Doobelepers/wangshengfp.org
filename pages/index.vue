@@ -1,9 +1,11 @@
 <template>
-  <div class="text-white whitespace-pre-wrap py-10 px-10% lg:px-30%">
-    <div id="container">
-      <img src="~/assets/wfp_logo.svg">
+  <div class="text-white whitespace-pre-wrap py-10 px-[10%] lg:px-[30%]">
+    <div id="container" class="flex justify-center w-full">
+      <img src="~/assets/wfp_logo.svg" class="w-[30%] lg:w-4/5 h-auto">
     </div>
-    <h1>WANGSHENG FUNERAL PARLOR</h1>
+    <p class="text-center leading-none font-wfp text-3xl lg:text-[80px] whitespace-normal">
+      WANGSHENG FUNERAL PARLOR
+    </p>
 
     <p align="center">
       <iframe
@@ -33,33 +35,3 @@ export default Vue.extend({
   name: 'HomeIndexPage'
 })
 </script>
-
-<style scoped>
-#container {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-}
-
-img {
-  width: 80%;
-  height: auto;
-}
-
-h1 {
-  text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 80px;
-  line-height: 1;
-}
-
-@media (max-width: 1024px) {
-  h1 {
-    font-size: 30px;
-  }
-
-  img {
-    width: 30%;
-  }
-}
-</style>

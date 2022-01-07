@@ -1,16 +1,20 @@
-// Get the repo name and branch
+// Get user, repo and branch
 import { execSync } from 'child_process'
-let base
-if (process.env.NODE_ENV !== 'production' || process.env.NETLIFY) {
-  base = undefined
-} else {
-  const repo = /[^/]*$/.exec(execSync('git config --get remote.origin.url').toString().trim().replace(/.git/g, ''))[0]
-  const branch = execSync('git branch --show-current').toString().trim()
-  base = `/${repo}/${branch}/`
-}
+const user = execSync('git config --get remote.origin.url').toString().trim().replace('https://github.com/', '').split('/')[0]
+const repo = /[^/]*$/.exec(execSync('git config --get remote.origin.url').toString().trim().replace(/.git/g, ''))[0]
+const branch = execSync('git branch --show-current').toString().trim()
+const base = (process.env.NODE_ENV !== 'production' || process.env.NETLIFY) ? undefined : `/${repo}/${branch}/`
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
+
+  // Export variables
+  publicRuntimeConfig: {
+    user,
+    repo,
+    branch
+  },
 
   // Set the repo name with branch to be the base URL when deployed to production
   router: {
