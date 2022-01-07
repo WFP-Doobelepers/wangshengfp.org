@@ -1,22 +1,25 @@
 <template>
     <div class="error flex flex-col justify-center items-center text-white text-center">
         <p class="text-9xl">
-            Error 404
+            Error {{ error.statusCode }}
         </p>
-        <p class="text-4xl">
+        <p v-if="error.statusCode === 404" class="text-4xl">
             Page Under Construction 🚧
         </p>
     </div>
 </template>
 
-<script lang="ts">
+<script>
 import Vue from 'vue'
 
 export default Vue.extend({
-    name: 'GuidesIndexPage',
-    async asyncData ({ $content }) {
-        const guides = await $content('guides').fetch()
-        return guides
+    name: 'ErrorPage',
+    layout: 'error',
+    props: {
+        error: {
+            type: String,
+            required: true
+        }
     }
 })
 </script>

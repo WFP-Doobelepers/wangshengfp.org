@@ -1,5 +1,6 @@
 ---
 title: 'Becoming the One and Oni: An Arataki Itto Guide'
+thumbnail: 'https://lh4.googleusercontent.com/8zkkQ3AVm5D0DYL8QcQsI2PB6Um2WVq6KBSolPUY-wfCHcTlTUA-cQiW9rNYIwe7YPcIRDs28bLms-MWTkJ7lV8xrBYcifK-0wlQxtCerbZXAAdHMk_u7nT5bVP89qaqiQrzFSOP'
 character: 'Itto'
 guide_slug: 'itto'
 aliases: []
@@ -7,8 +8,6 @@ last_updated_game_version: '2.4'
 author: ['Emiliabyss#1641']
 ---
 # Becoming the One and Oni: An Arataki Itto Guide
-
-![](https://lh4.googleusercontent.com/8zkkQ3AVm5D0DYL8QcQsI2PB6Um2WVq6KBSolPUY-wfCHcTlTUA-cQiW9rNYIwe7YPcIRDs28bLms-MWTkJ7lV8xrBYcifK-0wlQxtCerbZXAAdHMk_u7nT5bVP89qaqiQrzFSOP)
 
 *“When I say being a champ — that means kicking some serious butt, alright? I don't care if you're playing card games or you're brawling — no losing! Not to anyone!”*
 

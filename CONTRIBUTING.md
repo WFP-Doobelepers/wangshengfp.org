@@ -34,8 +34,8 @@ $ npm run lint
 ## Project Structure
 - **`.nuxt`**: contains the dynamically generated files when `npm run dev` is used. *Ignored by Git*.
 - **`assets`**: contains the un-complied assets such as images or fonts.
-  - **`icons`**
-  - **`background`**
+    - **`icons`**
+    - **`background`**
 - **`components`**: contains all the `.Vue` components used on the website.
 - **`content`**: contains all the Markdown, JSON and CSV files used on the website. A MongoDB-like API is exposed on `localhost:3000/_content/`.
 - **`dist`**: contains the dynamically generated files when `npm run generate` is used. *Ignored by Git*.
