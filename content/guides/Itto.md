@@ -5,7 +5,7 @@ aliases: ['arataki_itto']
 last_updated_game_version: '2.4'
 author: ['Emiliabyss#1641']
 ---
-<div class="w-[200px]"><dynamic-image path="guides/itto/cover.png" imageclass="w-full"></dynamic-image></div>
+<dynamic-image path="guides/itto/cover.png" width="50%"></dynamic-image>
 
 *“When I say being a champ — that means kicking some serious butt, alright? I don't care if you're playing card games or you're brawling — no losing! Not to anyone!”*
 

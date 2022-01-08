@@ -53,7 +53,7 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content > *::before {
-    @apply block h-0 m-0 lg:h-[60px] lg:mt-[-60px] content-none
+    @apply block h-0 m-0 lg:h-[60px] lg:mt-[-60px] content-['']
 }
 
 ::v-deep .nuxt-content h1 {
