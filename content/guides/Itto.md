@@ -1,21 +1,19 @@
 ---
 title: 'Becoming the One and Oni: An Arataki Itto Guide'
-thumbnail: 'https://lh4.googleusercontent.com/8zkkQ3AVm5D0DYL8QcQsI2PB6Um2WVq6KBSolPUY-wfCHcTlTUA-cQiW9rNYIwe7YPcIRDs28bLms-MWTkJ7lV8xrBYcifK-0wlQxtCerbZXAAdHMk_u7nT5bVP89qaqiQrzFSOP'
 character: 'Itto'
-guide_slug: 'itto'
-aliases: []
+aliases: ['arataki_itto']
 last_updated_game_version: '2.4'
 author: ['Emiliabyss#1641']
 ---
-# Becoming the One and Oni: An Arataki Itto Guide
+<div class="w-[200px]"><dynamic-image path="guides/itto/cover.png" imageclass="w-full"></dynamic-image></div>
 
 *“When I say being a champ — that means kicking some serious butt, alright? I don't care if you're playing card games or you're brawling — no losing! Not to anyone!”*
 
-## Why Should You Play Itto? An Analysis
+# Why Should You Play Itto? An Analysis
 
 Itto is a character with many available attack combos, some of which are better in particular circumstances than others. As such, Itto is a character that rewards adaptability, based on the many factors that alter his damage. He is playable for beginners and improves in damage the more skilled you become with his attack strings. He is also the premier 5-star Geo DPS at the time of writing this.
 
-### What is Itto's role in a team?
+## What is Itto's role in a team?
 
 Itto is a Geo-based hypercarry, requiring the most resources and field time out of any other team role. This means that you should level Itto to 90 (especially due to Itto’s DEF scaling) and raise his talent levels to 9 or 10. In exchange, Itto deals massive damage. Teams utilizing Itto will primarily be off-field supports that take little time on-field to do their job and boost Itto’s effectiveness in some way, either by increasing his damage output or by satisfying his needs to function, such as his ER% requirement to keep Itto's Bursts coming.
 
@@ -26,9 +24,9 @@ Hypercarries typically are locked into a few specific team comps, making Itto in
 
 One could, in theory, opt into Chongyun or C6 Bennet to try and encourage amplifying elemental reactions with Itto on a Cryo or Pyro goblet, but when in Itto’s Burst mode, his attacks stay as Geo. This would effectively render the most important aspect of Itto’s kit, his Elemental Burst, useless.
 
-## Pros and Cons
+# Pros and Cons
 
-### Benefits
+## Benefits
 
 - Capable of dealing strong, consistent Geo damage, with a very high damage burst in every rotation. Basically, he has high multipliers.
 
@@ -48,7 +46,7 @@ One could, in theory, opt into Chongyun or C6 Bennet to try and encourage amplif
 
 - Itto beatboxes for you on your birthday.
 
-### Drawbacks
+## Drawbacks
 
 - Needs quite high resin investment (hyper investing) to get a competitive state; Itto must be levelled to 90 and all of his talents need attention.
 

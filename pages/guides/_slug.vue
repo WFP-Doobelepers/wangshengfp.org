@@ -1,5 +1,14 @@
 <template>
     <div class="guide flex flex-col justify-center items-center bg-[#323232]">
+        <p class="font-bold text-white text-4xl text-center pt-5">
+            {{ guide.title }}
+        </p>
+        <p class="text-white text-xl text-center pt-2">
+            {{ guide.author.join(', ') }}
+        </p>
+        <p class="text-gray-300 text-xl text-center">
+            Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+        </p>
         <nuxt-content :document="guide" />
         <a :href="`https://github.com/${$config.user}/${$config.repo}/edit/${$config.branch}/content${guide.path}${guide.extension}`" target="_blank">
             <div class="m-2 text-white">
@@ -18,7 +27,7 @@ export default Vue.extend({
     validate ({ $content, params }) {
         return $content('guides').where({
             $or: [
-                { guide_slug: params.slug },
+                { slug: params.slug },
                 { aliases: { $contains: params.slug } }
             ]
         }).fetch().then((results) => {
@@ -28,7 +37,7 @@ export default Vue.extend({
     async asyncData ({ $content, params }) {
         const guide = await $content('guides').where({
             $or: [
-                { guide_slug: params.slug },
+                { slug: params.slug },
                 { aliases: { $contains: params.slug } }
             ]
         }).fetch()
@@ -48,14 +57,10 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content h1 {
-    @apply font-bold text-4xl text-center pb-5
-}
-
-::v-deep .nuxt-content h2 {
     @apply font-bold text-3xl
 }
 
-::v-deep .nuxt-content h3 {
+::v-deep .nuxt-content h2 {
     @apply font-bold text-2xl
 }
 

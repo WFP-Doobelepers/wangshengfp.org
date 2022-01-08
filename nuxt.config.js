@@ -82,6 +82,7 @@ export default {
 
     // Content module configuration: https://go.nuxtjs.dev/config-content
     content: {
+        liveEdit: false,
         markdown: {
             remarkPlugins: [
                 ['remark-autolink-headings', { behavior: 'wrap' }]
