@@ -56,12 +56,16 @@ export default Vue.extend({
     @apply block h-0 m-0 lg:h-[60px] lg:mt-[-60px] content-['']
 }
 
-::v-deep .nuxt-content h1 {
+::v-deep .nuxt-content h2 {
     @apply font-bold text-3xl
 }
 
-::v-deep .nuxt-content h2 {
+::v-deep .nuxt-content h3 {
     @apply font-bold text-2xl
+}
+
+::v-deep .nuxt-content h4 {
+    @apply font-bold text-xl
 }
 
 ::v-deep .nuxt-content > p {
@@ -72,11 +76,35 @@ export default Vue.extend({
     @apply mx-auto
 }
 
+::v-deep .nuxt-content > ul {
+    @apply pb-5
+}
+
 ::v-deep .nuxt-content ul {
-    @apply list-disc mb-5 pl-5;
+    @apply pl-5
 }
 
 ::v-deep .nuxt-content ul p {
     @apply mb-1
+}
+
+::v-deep .nuxt-content ul > li {
+    @apply list-disc
+}
+
+::v-deep .nuxt-content li * li {
+    @apply list-[square]
+}
+
+::v-deep .nuxt-content li * li * li {
+    @apply list-[circle]
+}
+
+::v-deep .nuxt-content table {
+    @apply mx-auto border-collapse border-2
+}
+
+::v-deep .nuxt-content table td {
+    @apply border-2 p-2
 }
 </style>
