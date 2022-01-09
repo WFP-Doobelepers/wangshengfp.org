@@ -10,7 +10,7 @@
             Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
         </p>
         <nuxt-content :document="guide" />
-        <a :href="`https://github.com/${$config.user}/${$config.repo}/edit/${$config.branch}/content${guide.path}${guide.extension}`" target="_blank">
+        <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
             <div class="m-2 text-white">
                 <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
                 Edit this page on GitHub
