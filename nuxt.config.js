@@ -1,4 +1,5 @@
 // Get user, repo and branch
+import { execSync } from 'child_process'
 let base
 if (process.env.NODE_ENV !== 'production' || process.env.NETLIFY) {
     base = undefined
