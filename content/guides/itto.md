@@ -123,3 +123,5 @@ Please note that a character is only as good as their team comp’s damage, and 
 | Ascension Stat / Build Ease |         Crit Rate% ✔️         |           DEF% ❌          |
 |          Team Needs         |      Shields / Heals…? ❌     | Provides shields / heals✔️ |
 |            Misc.            | Will let you join his gang.  |   Will clean your house.  |
+
+Test
