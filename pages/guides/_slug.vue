@@ -1,21 +1,26 @@
 <template>
-    <div class="guide flex flex-col justify-center items-center bg-[#323232]">
-        <p class="font-bold text-white text-4xl text-center pt-5">
-            {{ guide.title }}
-        </p>
-        <p class="text-white text-xl text-center pt-2">
-            {{ guide.author.join(', ') }}
-        </p>
-        <p class="text-gray-300 text-xl text-center">
-            Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
-        </p>
-        <nuxt-content :document="guide" />
-        <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
-            <div class="m-2 text-white">
-                <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
-                Edit this page on GitHub
-            </div>
-        </a>
+    <div class="w-full bg-[#323232]">
+        <NavBar />
+        <div class="guide flex flex-col justify-center items-center">
+            <p class="font-bold text-white text-4xl text-center pt-5">
+                {{ guide.title }}
+            </p>
+            <p class="text-white text-xl text-center pt-2">
+                {{ guide.author.join(', ') }}
+            </p>
+            <p class="text-gray-300 text-xl text-center">
+                Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+            </p>
+            <nuxt-content :document="guide" />
+            <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
+                <div class="m-2 text-white">
+                    <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
+                    Edit this page on GitHub
+                </div>
+            </a>
+        </div>
+        <Footer />
+        <GuidesBottomNavBar :guide="guide" />
     </div>
 </template>
 
@@ -24,6 +29,7 @@ import Vue from 'vue'
 
 export default Vue.extend({
     name: 'GuidePage',
+    layout: 'empty',
     validate ({ $content, params }) {
         return $content('guides').where({
             $or: [
