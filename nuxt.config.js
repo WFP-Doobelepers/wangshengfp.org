@@ -13,6 +13,12 @@ export default {
     // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
     ssr: false,
 
+    // Allows testing on mobile
+    server: {
+        port: 3000,
+        host: '0.0.0.0'
+    },
+
     // Set the repo name with branch to be the base URL when deployed to production
     router: {
         base

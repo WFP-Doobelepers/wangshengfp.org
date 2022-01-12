@@ -1,8 +1,8 @@
 <template>
-    <nav class="sticky top-0 block w-full lg:bg-[#281414] bg-transparent z-10">
+    <nav class="sticky top-0 block w-full lg:bg-[#281414] bg-transparent z-20">
         <div class="flex items-center justify-center">
             <!-- Mobile toggle -->
-            <div class="lg:hidden absolute top-5 right-5 z-10">
+            <div class="lg:hidden absolute top-5 right-5 z-20">
                 <button @click="drawer">
                     <svg
                         class="h-8 w-8 fill-current text-white"

@@ -5,7 +5,8 @@ aliases: ['arataki_itto']
 last_updated_game_version: '2.4'
 author: ['Emiliabyss#1641']
 ---
-<dynamic-image path="guides/itto/cover.png" width="50%"></dynamic-image>
+
+<img src="https://lh5.googleusercontent.com/da0ifDm6rvL6WcV1ZfqANXRAt9-_yhgbN_CUflmonOrRCXjloqScIbPqH9e0rAXKs92pjFsX4h3v6AzrbDSBF67sMHv_fwNfBfaPyDKze_y9_uNvDR0qfHMch4Pmxj6925ktSQE2" width="50%" />
 
 *“When I say being a champ — that means kicking some serious butt, alright? I don't care if you're playing card games or you're brawling — no losing! Not to anyone!”*
 
@@ -123,3 +124,27 @@ Please note that a character is only as good as their team comp’s damage, and 
 | Ascension Stat / Build Ease |         Crit Rate% ✔️         |           DEF% ❌          |
 |          Team Needs         |      Shields / Heals…? ❌     | Provides shields / heals✔️ |
 |            Misc.            | Will let you join his gang.  |   Will clean your house.  |
+
+## Article I: Character Overview
+
+### Active Talents
+
+### Passive Talents
+
+### Burst Combos
+
+### Constellations
+
+## Article II: Equipment & Gear
+
+### Artifact Sets
+
+### Weapons
+
+## Article III: Team Composition
+
+### Building the Core: Geo Support Information
+
+### Fleshing Out the Team: Non-Geo Support Info
+
+### Full Team Compositions

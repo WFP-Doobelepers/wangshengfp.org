@@ -1,6 +1,37 @@
 <template>
-    <div class="sticky bottom-0 w-full bg-[#281414] lg:hidden">
-        Bottom Navigation Bar
+    <div class="sticky bottom-0 w-full z-10 lg:hidden">
+        <!-- Dark Background Transition -->
+        <transition
+            enter-class="opacity-0"
+            enter-active-class="ease-out transition-medium"
+            enter-to-class="opacity-100"
+            leave-class="opacity-100"
+            leave-active-class="ease-out transition-medium"
+            leave-to-class="opacity-0"
+        >
+            <div
+                v-show="isOpen"
+                class="z-10 fixed inset-0 transition-opacity"
+                @keydown.esc="isOpen = false"
+            >
+                <div
+                    class="absolute inset-0 bg-black opacity-50"
+                    tabindex="0"
+                    @click="isOpen = false"
+                />
+            </div>
+        </transition>
+
+        <div class="sticky bottom-0 w-full bg-[#281414] z-20">
+            <div class="p-5">
+                <div class="text-white w-max inline-block">
+                    Bottom Navigation Bar
+                </div>
+                <button class="float-right inline-block" @click="drawer">
+                    <img :src="isOpen ? require('~/assets/icons/chevron-down.svg') : require('~/assets/icons/chevron-up.svg')" style="height: 30px">
+                </button>
+            </div>
+        </div>
     </div>
 </template>
 
@@ -12,6 +43,37 @@ export default Vue.extend({
         guide: {
             type: Object,
             required: true
+        }
+    },
+    data () {
+        return {
+            isOpen: false
+        }
+    },
+    watch: {
+        isOpen: {
+            immediate: true,
+            handler (isOpen) {
+                if (process.client) {
+                    if (isOpen) {
+                        document.body.style.setProperty('overflow', 'hidden')
+                    } else {
+                        document.body.style.removeProperty('overflow')
+                    }
+                }
+            }
+        }
+    },
+    mounted () {
+        document.addEventListener('keydown', (e) => {
+            if (e.keyCode === 27 && this.isOpen) {
+                this.isOpen = false
+            }
+        })
+    },
+    methods: {
+        drawer () {
+            this.isOpen = !this.isOpen
         }
     }
 })
