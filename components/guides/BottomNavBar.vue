@@ -1,13 +1,15 @@
 <template>
-    <div class="sticky bottom-0 w-full z-20 lg:hidden">
+    <div class="sticky bottom-0 w-full z-10 lg:hidden">
         <div
-            class="w-full z-20 sticky overflow-auto ease-in-out transition-all duration-300"
-            :class="isOpen ? '-translate-y-0' : 'translate-y-full h-0'"
+            class="w-full z-20 fixed overflow-auto ease-in-out transition-all duration-300 right-0 transform"
+            :class="isOpen ? '-translate-y-0' : 'translate-y-full'"
+            :style="{ 'bottom': `${getBottom()}px` }"
         >
             <div
                 v-for="header in headerMain"
                 :key="header.id"
-                class="text-white text-right pr-5 py-3 font-bold text-2xl"
+                class="header text-white text-right p-3 pr-5 font-bold text-2xl font-guide-header float-right"
+                ontouchstart=""
             >
                 <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
             </div>
@@ -24,7 +26,7 @@
         >
             <div
                 v-show="isOpen"
-                class="z-10 fixed inset-0 transition-opacity"
+                class="z-10 fixed inset-0 transition-opacity backdrop-blur-sm"
                 @keydown.esc="isOpen = false"
             >
                 <div
@@ -35,7 +37,7 @@
             </div>
         </transition>
 
-        <div class="sticky bottom-0 w-full bg-[#281414] z-30">
+        <div id="bottom-nav-bar" class="sticky bottom-0 w-full bg-[#281414] z-20">
             <div class="p-5">
                 <div class="text-white w-max inline-block">
                     Place Holder Text
@@ -93,7 +95,21 @@ export default Vue.extend({
     methods: {
         drawer () {
             this.isOpen = !this.isOpen
+        },
+        getBottom () {
+            return document.getElementById('bottom-nav-bar')?.clientHeight
         }
     }
 })
 </script>
+
+<style lang="postcss" scoped>
+div.header:active {
+  animation: blink 0.1s 20 alternate;
+}
+
+@keyframes blink {
+  from { background-image: none; }
+  to { background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.5)); }
+}
+</style>
