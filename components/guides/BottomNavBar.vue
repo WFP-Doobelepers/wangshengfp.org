@@ -1,5 +1,18 @@
 <template>
-    <div class="sticky bottom-0 w-full z-10 lg:hidden">
+    <div class="sticky bottom-0 w-full z-20 lg:hidden">
+        <div
+            class="w-full z-20 sticky overflow-auto ease-in-out transition-all duration-300"
+            :class="isOpen ? '-translate-y-0' : 'translate-y-full h-0'"
+        >
+            <div
+                v-for="header in headerMain"
+                :key="header.id"
+                class="text-white text-right pr-5 py-3 font-bold text-2xl"
+            >
+                <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
+            </div>
+        </div>
+
         <!-- Dark Background Transition -->
         <transition
             enter-class="opacity-0"
@@ -22,10 +35,10 @@
             </div>
         </transition>
 
-        <div class="sticky bottom-0 w-full bg-[#281414] z-20">
+        <div class="sticky bottom-0 w-full bg-[#281414] z-30">
             <div class="p-5">
                 <div class="text-white w-max inline-block">
-                    Bottom Navigation Bar
+                    Place Holder Text
                 </div>
                 <button class="float-right inline-block" @click="drawer">
                     <img :src="isOpen ? require('~/assets/icons/chevron-down.svg') : require('~/assets/icons/chevron-up.svg')" style="height: 30px">
@@ -48,6 +61,12 @@ export default Vue.extend({
     data () {
         return {
             isOpen: false
+        }
+    },
+    computed: {
+        headerMain () {
+            const vm: any = this
+            return vm.guide.toc.filter((x: any) => x.depth === 2)
         }
     },
     watch: {
