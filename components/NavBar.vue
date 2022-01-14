@@ -29,6 +29,10 @@
                         Guides
                     </NuxtLink>
 
+                    <NuxtLink to="/about-us">
+                        About Us
+                    </NuxtLink>
+
                     <NuxtLink to="/calculator">
                         Calculator
                     </NuxtLink>
