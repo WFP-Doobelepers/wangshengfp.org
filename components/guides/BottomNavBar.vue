@@ -8,7 +8,7 @@
             <div
                 v-for="header in headerMain"
                 :key="header.id"
-                class="header text-white text-right p-3 pr-5 font-bold text-2xl font-guide-header float-right"
+                class="header text-white text-right p-3 pr-5 font-bold text-2xl font-quicksand float-right"
                 ontouchstart=""
             >
                 <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
@@ -38,9 +38,9 @@
         </transition>
 
         <div id="bottom-nav-bar" class="sticky bottom-0 w-full bg-[#281414] z-20">
-            <div class="p-5">
-                <div class="text-white w-max inline-block">
-                    Place Holder Text
+            <div class="px-5 py-3">
+                <div class="font-quicksand text-2xl text-white w-max inline-block">
+                    {{ currentHeader }}
                 </div>
                 <button class="float-right inline-block" @click="drawer">
                     <img :src="isOpen ? require('~/assets/icons/chevron-down.svg') : require('~/assets/icons/chevron-up.svg')" style="height: 30px">
@@ -57,6 +57,10 @@ export default Vue.extend({
     props: {
         guide: {
             type: Object,
+            required: true
+        },
+        currentHeader: {
+            type: String,
             required: true
         }
     },
