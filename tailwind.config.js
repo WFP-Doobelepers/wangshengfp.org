@@ -11,12 +11,12 @@ module.exports = {
                 quicksand: ['Quicksand', 'sans-serif']
             },
             colors: {
-                pyro: '#fc935b',
-                hydro: '#21e1eb',
-                anemo: '#73e2c2',
-                electro: '#a756cc',
-                cryo: '#a0e9e5',
-                geo: '#da9640'
+                pyro: '#ff9999',
+                hydro: '#7fc0ff',
+                anemo: '#80ffd8',
+                electro: '#ffadff',
+                cryo: '#9affff',
+                geo: '#ffd77f'
             }
         }
     }

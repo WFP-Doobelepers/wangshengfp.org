@@ -43,7 +43,7 @@ author: ['Emiliabyss#1641']
     - Itto / Albedo / Zhongli / Gorou (ideally C4 for the mild healing)
     - Flex: Bennet, Diona, Fischl, Geo MC, Ninnguang (depending on team needs)
 
-## Why Should You Play Itto? An Analysis
+## Introduction
 
 Itto is a character with many available attack combos, some of which are better in particular circumstances than others. As such, Itto is a character that rewards adaptability, based on the many factors that alter his damage. He is playable for beginners and improves in damage the more skilled you become with his attack strings. He is also the premier 5-star Geo DPS at the time of writing this.
 
@@ -125,7 +125,7 @@ Please note that a character is only as good as their team comp’s damage, and 
 |          Team Needs         |      Shields / Heals…? ❌     | Provides shields / heals✔️ |
 |            Misc.            | Will let you join his gang.  |   Will clean your house.  |
 
-## Article I: Character Overview
+## Character Overview
 
 ### Active Talents
 
@@ -135,13 +135,13 @@ Please note that a character is only as good as their team comp’s damage, and 
 
 ### Constellations
 
-## Article II: Equipment & Gear
+## Equipment & Gear
 
 ### Artifact Sets
 
 ### Weapons
 
-## Article III: Team Composition
+## Team Composition
 
 ### Building the Core: Geo Support Information
 

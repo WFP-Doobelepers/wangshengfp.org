@@ -6,9 +6,9 @@
             :style="{ 'bottom': `${getBottom()}px` }"
         >
             <div
-                v-for="header in headerMain"
+                v-for="header of guide.toc.filter(x => x.depth === 2)"
                 :key="header.id"
-                class="header text-white text-right p-3 pr-5 font-bold text-2xl font-quicksand float-right"
+                class="header text-white text-right p-3 pr-5 font-bold text-[6vw] font-quicksand float-right"
                 ontouchstart=""
             >
                 <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
@@ -26,7 +26,7 @@
         >
             <div
                 v-show="isOpen"
-                class="z-10 fixed inset-0 transition-opacity backdrop-blur-sm"
+                class="z-10 fixed inset-0 transition-opacity backdrop-blur-lg"
                 @keydown.esc="isOpen = false"
             >
                 <div
@@ -39,7 +39,7 @@
 
         <div id="bottom-nav-bar" class="sticky bottom-0 w-full bg-[#281414] z-20">
             <div class="px-5 py-3">
-                <div class="font-quicksand text-2xl text-white w-max inline-block">
+                <div class="font-quicksand text-[6vw] text-white w-max inline-block">
                     {{ currentHeader }}
                 </div>
                 <button class="float-right inline-block" @click="drawer">
@@ -67,12 +67,6 @@ export default Vue.extend({
     data () {
         return {
             isOpen: false
-        }
-    },
-    computed: {
-        headerMain () {
-            const vm: any = this
-            return vm.guide.toc.filter((x: any) => x.depth === 2)
         }
     },
     watch: {

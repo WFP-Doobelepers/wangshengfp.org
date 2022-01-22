@@ -1,32 +1,28 @@
 <template>
     <div
-        class="w-full bg-cover bg-fixed"
+        class="w-full bg-cover bg-fixed vignette bg-none"
         :style="{ backgroundImage: `url(${backgroundURL})` }"
     >
         <NavBar />
         <img
             :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
-            class="fixed top-[-20%] right-[-20%] hidden lg:block"
+            class="fixed top-[-20%] right-[-20%] hidden lg:block opacity-30"
             width="60%"
         >
 
         <div class="guide flex flex-row justify-center font-quicksand text-lg relative z-10">
-            <aside class="flex flex-col max-w-[15%]">
-                <nav class="header-navigation sticky top-16 hidden lg:block pt-8 m-2">
+            <aside class="flex-col flex-none w-[15%] hidden lg:flex">
+                <nav class="sticky top-16 pt-8 m-2">
                     <ul>
                         <li
-                            v-for="link of guide.toc"
+                            v-for="link of guide.toc.filter(x => x.depth === 2)"
                             :key="link.id"
-                            :class="{
-                                'pl-4': link.depth === 3,
-                            }"
-                            class="toc-list"
                             @click="tableOfContentsHeadingClick(link)"
                         >
                             <a
-                                :class="link.id == currentlyActiveToc ? `text-${guide.element} text-2xl` : 'text-black'"
+                                :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-black text-2xl'"
                                 role="button"
-                                class="transition-colors duration-75 mb-2 block"
+                                class="mb-2 block float-right text-right"
                                 :href="`#${link.id}`"
                             >{{ link.text }}</a>
                         </li>
@@ -35,7 +31,7 @@
             </aside>
             <div class="guide-content">
                 <div class="header pl-3">
-                    <p class="font-bold font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
+                    <p class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
                         {{ guide.character }}
                     </p>
                     <div>
@@ -55,10 +51,37 @@
                     </p>
                 </div>
 
-                <nuxt-content
-                    :document="guide"
-                    class="m-2 max-w-screen-lg text-white backdrop-blur-lg bg-black bg-opacity-50 p-5"
-                />
+                <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-50 flex flex-row justify-center">
+                    <aside class="flex-col flex-none w-[20%] hidden lg:flex">
+                        <nav class="sticky top-16 m-2 pt-10">
+                            <ul>
+                                <li
+                                    v-for="link of subheaderMapping[currentH2]"
+                                    :key="link.id"
+                                    @click="tableOfContentsSubHeadingClick(link)"
+                                >
+                                    <a
+                                        :class="link.id == currentH3 ? `text-${guide.element}` : 'text-black'"
+                                        role="button"
+                                        class="mb-2 block float-right text-right text-2xl"
+                                        :href="`#${link.id}`"
+                                    >{{ link.text }}</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </aside>
+
+                    <div
+                        class="hidden lg:flex w-5 my-10 ml-2"
+                        :class="`bg-${guide.element}`"
+                    />
+
+                    <nuxt-content
+                        :document="guide"
+                        class="text-white p-5"
+                    />
+                </div>
+
                 <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
                     <div class="m-2 text-white">
                         <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
@@ -70,12 +93,12 @@
         <Footer />
         <GuidesBottomNavBar :guide="guide" :current-header="currentHeader" />
         <!-- <div class="hidden">
-            <div class="text-pyro" />
-            <div class="text-hydro" />
-            <div class="text-anemo" />
-            <div class="text-electro" />
-            <div class="text-cryo" />
-            <div class="text-geo" />
+            <div class="text-pyro bg-pyro" />
+            <div class="text-hydro bg-hydro" />
+            <div class="text-anemo bg-anemo" />
+            <div class="text-electro bg-electro" />
+            <div class="text-cryo bg-cryo" />
+            <div class="text-geo bg-geo" />
         </div> -->
     </div>
 </template>
@@ -97,19 +120,33 @@ export default Vue.extend({
         })
     },
     async asyncData ({ $content, params }) {
-        const guide = await $content('guides').where({
+        const guideFetch = await $content('guides').where({
             $or: [
                 { slug: params.slug },
                 { aliases: { $contains: params.slug } }
             ]
         }).fetch()
 
-        return { guide: Array.isArray(guide) ? guide[0] : guide }
+        const guide: any = Array.isArray(guideFetch) ? guideFetch[0] : guideFetch
+
+        const subheaderMapping: any = {}
+        let currentLinkHeader
+        for (const link of guide.toc) {
+            if (link.depth === 2) {
+                currentLinkHeader = link.id
+                subheaderMapping[currentLinkHeader] = []
+            } else if (link.depth === 3) {
+                subheaderMapping[currentLinkHeader].push(link)
+            }
+        }
+
+        return { guide, subheaderMapping }
     },
     data () {
         return {
-            currentlyActiveToc: '' as null | string,
             currentHeader: '' as null | string,
+            currentH2: '' as null | string,
+            currentH3: '' as null | string,
             observer: null as any,
             observerOptions: {
                 root: this.$refs.nuxtContent,
@@ -128,8 +165,12 @@ export default Vue.extend({
                 const id = entry.target.getAttribute('id')
                 const text = entry.target.textContent
                 if (entry.isIntersecting) {
-                    this.currentlyActiveToc = id
-                    this.currentHeader = text
+                    if (entry.target.tagName === 'H2') {
+                        this.currentH2 = id
+                        this.currentHeader = text
+                    } else if (entry.target.tagName === 'H3') {
+                        this.currentH3 = id
+                    }
                 }
             })
         }, this.observerOptions)
@@ -144,13 +185,22 @@ export default Vue.extend({
     },
     methods: {
         tableOfContentsHeadingClick (link: any) {
-            this.currentlyActiveToc = link.id
+            this.currentH2 = link.id
+        },
+        tableOfContentsSubHeadingClick (link: any) {
+            this.currentH3 = link.id
         }
     }
 })
 </script>
 
 <style lang="postcss" scoped>
+@media (min-width: 1024px) {
+    .vignette {
+        box-shadow: 0 0 5vw 2vw black inset;
+    }
+}
+
 ::v-deep .nuxt-content > *::before {
     @apply block h-0 m-0 lg:h-[60px] lg:mt-[-60px] content-['']
 }
@@ -204,6 +254,6 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content table td {
-    @apply border-2 p-2
+    @apply border-2 lg:p-2
 }
 </style>
