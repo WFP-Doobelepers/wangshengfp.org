@@ -1,8 +1,8 @@
 <template>
-    <nav class="sticky top-0 block w-full lg:bg-[#281414] bg-transparent z-10">
+    <nav class="sticky top-0 block w-full lg:bg-[#281414] bg-transparent z-20">
         <div class="flex items-center justify-center">
             <!-- Mobile toggle -->
-            <div class="lg:hidden absolute top-5 right-5 z-10">
+            <div class="lg:hidden absolute top-5 right-5 z-20">
                 <button @click="drawer">
                     <svg
                         class="h-8 w-8 fill-current text-white"
@@ -28,7 +28,7 @@
                     <NuxtLink to="/guides">
                         Guides
                     </NuxtLink>
-
+                    <!--
                     <NuxtLink to="/calculator">
                         Calculator
                     </NuxtLink>
@@ -43,7 +43,7 @@
                                 Ban Appeal
                             </NuxtLink>
                         </div>
-                    </div>
+                    </div> -->
                 </ul>
             </div>
 
@@ -109,7 +109,7 @@
                         </NuxtLink>
                     </li>
 
-                    <li class="mb-4">
+                    <!-- <li class="mb-4">
                         <NuxtLink
                             to="/about-us"
                             class="mt-4 mb-2 inline-block"
@@ -128,7 +128,7 @@
                                 </NuxtLink>
                             </li>
                         </ul>
-                    </li>
+                    </li> -->
 
                     <li>
                         <NuxtLink
@@ -140,7 +140,7 @@
                         </NuxtLink>
                     </li>
 
-                    <li>
+                    <!-- <li>
                         <NuxtLink
                             to="/calculator"
                             class="my-4 inline-block"
@@ -148,9 +148,9 @@
                         >
                             Calculator
                         </NuxtLink>
-                    </li>
+                    </li> -->
 
-                    <li>
+                    <!-- <li>
                         <NuxtLink
                             to="/forms"
                             class="my-4 inline-block"
@@ -158,8 +158,7 @@
                         >
                             Forms
                         </NuxtLink>
-                    </li>
-                    <li />
+                    </li> -->
                 </ul>
 
                 <div class="follow">

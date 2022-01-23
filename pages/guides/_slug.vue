@@ -1,21 +1,105 @@
 <template>
-    <div class="guide flex flex-col justify-center items-center bg-[#323232]">
-        <p class="font-bold text-white text-4xl text-center pt-5">
-            {{ guide.title }}
-        </p>
-        <p class="text-white text-xl text-center pt-2">
-            {{ guide.author.join(', ') }}
-        </p>
-        <p class="text-gray-300 text-xl text-center">
-            Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
-        </p>
-        <nuxt-content :document="guide" />
-        <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
-            <div class="m-2 text-white">
-                <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
-                Edit this page on GitHub
+    <div
+        class="vignette w-full bg-cover bg-fixed bg-repeat-y lg:bg-no-repeat"
+        :style="{ backgroundImage: `url(${backgroundURL})` }"
+    >
+        <NavBar />
+        <img
+            :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
+            class="fixed top-[-20%] right-[-20%] hidden lg:block opacity-30"
+            width="60%"
+        >
+
+        <div class="guide flex flex-row justify-center font-quicksand text-lg relative z-10">
+            <aside class="flex-col flex-none w-[15%] hidden lg:flex">
+                <nav class="sticky top-16 pt-8 m-2">
+                    <ul>
+                        <li
+                            v-for="link of guide.toc.filter(x => x.depth === 2)"
+                            :key="link.id"
+                            @click="tableOfContentsHeadingClick(link)"
+                        >
+                            <a
+                                :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-black text-2xl'"
+                                role="button"
+                                class="mb-2 block float-right text-right w-full"
+                                :href="`#${link.id}`"
+                            >{{ link.text }}</a>
+                        </li>
+                    </ul>
+                </nav>
+            </aside>
+            <div class="guide-content">
+                <div class="header pl-3">
+                    <p class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
+                        {{ guide.character }}
+                    </p>
+                    <div>
+                        <img
+                            v-for="_i in Array.from(Array(guide.character_star).keys())"
+                            :key="_i"
+                            :src="require(`~/assets/icons/star.svg`)"
+                            width="50px"
+                            class="inline"
+                        >
+                    </div>
+                    <p class="text-white text-xl">
+                        {{ guide.author.join(', ') }}
+                    </p>
+                    <p class="text-gray-300 text-xl">
+                        Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+                    </p>
+                </div>
+
+                <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-50 flex flex-row justify-center">
+                    <aside class="flex-col flex-none w-[20%] hidden lg:flex">
+                        <nav class="sticky top-16 m-2 pt-10">
+                            <ul>
+                                <li
+                                    v-for="link of subheaderMapping[currentH2]"
+                                    :key="link.id"
+                                    @click="tableOfContentsSubHeadingClick(link)"
+                                >
+                                    <a
+                                        :class="link.id == currentH3 ? `text-${guide.element}` : 'text-white'"
+                                        role="button"
+                                        class="mb-5 block float-right text-right text-2xl w-full"
+                                        :href="`#${link.id}`"
+                                    >{{ link.text }}</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </aside>
+
+                    <div
+                        class="hidden lg:flex w-5 my-10 ml-2"
+                        :class="`bg-${guide.element}`"
+                    />
+
+                    <nuxt-content
+                        :document="guide"
+                        class="text-white p-5"
+                    />
+                </div>
+
+                <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
+                    <div class="m-2 text-white">
+                        <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
+                        Edit this page on GitHub
+                    </div>
+                </a>
             </div>
-        </a>
+        </div>
+        <Footer />
+        <GuidesBottomNavBar :guide="guide" :current-header="currentHeader" />
+        <!-- <div class="hidden">
+            <div class="text-pyro bg-pyro" />
+            <div class="text-hydro bg-hydro" />
+            <div class="text-anemo bg-anemo" />
+            <div class="text-electro bg-electro" />
+            <div class="text-cryo bg-cryo" />
+            <div class="text-geo bg-geo" />
+        </div> -->
     </div>
 </template>
 
@@ -24,6 +108,7 @@ import Vue from 'vue'
 
 export default Vue.extend({
     name: 'GuidePage',
+    layout: 'empty',
     validate ({ $content, params }) {
         return $content('guides').where({
             $or: [
@@ -35,21 +120,88 @@ export default Vue.extend({
         })
     },
     async asyncData ({ $content, params }) {
-        const guide = await $content('guides').where({
+        const guideFetch = await $content('guides').where({
             $or: [
                 { slug: params.slug },
                 { aliases: { $contains: params.slug } }
             ]
         }).fetch()
 
-        return { guide: Array.isArray(guide) ? guide[0] : guide }
+        const guide: any = Array.isArray(guideFetch) ? guideFetch[0] : guideFetch
+
+        const subheaderMapping: any = {}
+        const subheaderReverseMapping: any = {}
+        let currentLinkHeader
+        for (const link of guide.toc) {
+            if (link.depth === 2) {
+                currentLinkHeader = link.id
+                subheaderMapping[currentLinkHeader] = []
+            } else if (link.depth === 3) {
+                subheaderMapping[currentLinkHeader].push(link)
+                subheaderReverseMapping[link.id] = currentLinkHeader
+            }
+        }
+
+        return { guide, subheaderMapping, subheaderReverseMapping }
+    },
+    data () {
+        return {
+            currentHeader: '' as null | string,
+            currentH2: '' as null | string,
+            currentH3: '' as null | string,
+            observer: null as any,
+            observerOptions: {
+                root: this.$refs.nuxtContent,
+                threshold: 0
+            } as Object
+        }
+    },
+    computed: {
+        backgroundURL () {
+            return require(`~/assets${this.$data.guide.path}/background.jpg`)
+        }
+    },
+    mounted () {
+        this.observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                const id = entry.target.getAttribute('id')
+                const text = entry.target.textContent
+                if (entry.isIntersecting) {
+                    if (entry.target.tagName === 'H2') {
+                        this.currentH2 = id
+                        this.currentHeader = text
+                    } else if (entry.target.tagName === 'H3') {
+                        this.currentH3 = id
+                        this.currentH2 = (this as any).subheaderReverseMapping[id!]
+                    }
+                }
+            })
+        }, this.observerOptions)
+
+        document.querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]').forEach((section) => {
+            this.observer.observe(section)
+        })
+    },
+    beforeDestroy () {
+        this.observer.disconnect()
+    },
+    methods: {
+        tableOfContentsHeadingClick (link: any) {
+            this.currentH2 = link.id
+        },
+        tableOfContentsSubHeadingClick (link: any) {
+            this.currentH3 = link.id
+            this.currentH2 = (this as any).subheaderReverseMapping[link.id]
+        }
     }
 })
 </script>
 
 <style lang="postcss" scoped>
-::v-deep .nuxt-content {
-    @apply m-2 max-w-screen-lg text-white
+@media (min-width: 1024px) {
+    .vignette {
+        box-shadow: 0 0 5vw 2vw black inset;
+    }
 }
 
 ::v-deep .nuxt-content > *::before {
@@ -57,14 +209,18 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content h2 {
-    @apply font-bold text-3xl
+    @apply font-bold text-4xl
 }
 
 ::v-deep .nuxt-content h3 {
-    @apply font-bold text-2xl
+    @apply font-bold text-3xl
 }
 
 ::v-deep .nuxt-content h4 {
+    @apply font-bold text-2xl
+}
+
+::v-deep .nuxt-content h5 {
     @apply font-bold text-xl
 }
 
@@ -76,15 +232,15 @@ export default Vue.extend({
     @apply mx-auto
 }
 
-::v-deep .nuxt-content > ul {
+::v-deep .nuxt-content > ul, ol {
     @apply pb-5
 }
 
-::v-deep .nuxt-content ul {
+::v-deep .nuxt-content ul, ol {
     @apply pl-5
 }
 
-::v-deep .nuxt-content ul p {
+::v-deep .nuxt-content ul p, ol p {
     @apply mb-1
 }
 
@@ -100,11 +256,31 @@ export default Vue.extend({
     @apply list-[circle]
 }
 
+::v-deep .nuxt-content ol > li {
+    @apply list-decimal
+}
+
 ::v-deep .nuxt-content table {
-    @apply mx-auto border-collapse border-2
+    @apply mx-auto border-collapse border-2 mb-5
 }
 
 ::v-deep .nuxt-content table td {
-    @apply border-2 p-2
+    @apply border-2 lg:p-2 text-center
+}
+
+::v-deep .nuxt-content img {
+    @apply mt-3
+}
+
+::v-deep .nuxt-content img[alt=artifact] {
+    @apply w-[35%] my-0
+}
+
+::v-deep .nuxt-content img[alt=weapon] {
+    @apply w-[50%] my-0
+}
+
+::v-deep .nuxt-content img[alt=character_card] {
+    @apply w-[15%] inline text-center
 }
 </style>

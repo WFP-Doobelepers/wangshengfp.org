@@ -1,13 +1,13 @@
 <template>
     <div class="guide flex flex-col items-center m-2">
-        <p class="text-white text-4xl mt-5">
+        <p class="text-white text-4xl mt-5 mb-1">
             Guides
         </p>
         <input
             v-model="searchQuery"
             type="search"
             placeholder="Type your search here"
-            class="w-full max-w-[250px] m-5 rounded"
+            class="w-full max-w-[250px] m-3 rounded"
             @input="$fetch"
         >
         <div class="guides w-full max-w-screen-lg flex flex-wrap justify-center gap-5">
