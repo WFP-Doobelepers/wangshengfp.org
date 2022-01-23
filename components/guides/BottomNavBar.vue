@@ -8,7 +8,7 @@
             <div
                 v-for="header of guide.toc.filter(x => x.depth === 2)"
                 :key="header.id"
-                class="header text-white text-right p-3 pr-5 font-bold text-[6vw] font-quicksand float-right"
+                class="header text-white text-right p-3 pr-5 font-bold text-[6vw] font-quicksand float-right w-full"
                 ontouchstart=""
             >
                 <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
