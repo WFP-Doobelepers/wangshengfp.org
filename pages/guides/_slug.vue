@@ -12,7 +12,7 @@
 
         <div class="guide flex flex-row justify-center font-quicksand text-lg relative z-10">
             <aside class="flex-col flex-none w-[15%] hidden lg:flex">
-                <nav class="sticky top-16 pt-8 m-2">
+                <nav class="sticky top-[6rem] m-2">
                     <ul>
                         <li
                             v-for="link of guide.toc.filter(x => x.depth === 2)"
@@ -22,7 +22,7 @@
                             <a
                                 :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-black text-2xl'"
                                 role="button"
-                                class="mb-2 block float-right text-right w-full"
+                                class="mb-2 block float-right text-right font-bold w-full"
                                 :href="`#${link.id}`"
                             >{{ link.text }}</a>
                         </li>
