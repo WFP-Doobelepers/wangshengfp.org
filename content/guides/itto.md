@@ -8,8 +8,6 @@ last_updated_game_version: '2.4'
 author: ['Emiliabyss#1641']
 ---
 
-<!-- <img src="https://lh5.googleusercontent.com/da0ifDm6rvL6WcV1ZfqANXRAt9-_yhgbN_CUflmonOrRCXjloqScIbPqH9e0rAXKs92pjFsX4h3v6AzrbDSBF67sMHv_fwNfBfaPyDKze_y9_uNvDR0qfHMch4Pmxj6925ktSQE2" width="50%" /> -->
-
 ## Abstract
 
 - **Levelling:** Level to 90. Level all talents to 9+. Normal Attack >= Burst > Skill

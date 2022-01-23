@@ -2,13 +2,13 @@
     <div class="sticky bottom-0 w-full z-10 lg:hidden">
         <div
             class="w-full z-20 fixed overflow-auto ease-in-out transition-all duration-300 right-0 transform"
-            :class="isOpen ? '-translate-y-0' : 'translate-y-full'"
+            :class="isOpen ? 'translate-y-0' : 'translate-y-[125%]'"
             :style="{ 'bottom': `${getBottom()}px` }"
         >
             <div
                 v-for="header of guide.toc.filter(x => x.depth === 2)"
                 :key="header.id"
-                class="header text-white text-right p-3 pr-5 font-bold text-[6vw] font-quicksand float-right w-full"
+                class="header text-white text-right p-3 pr-5 font-bold text-xl font-quicksand float-right w-full"
                 ontouchstart=""
             >
                 <a :href="`#${header.id}`" @click="isOpen = false">{{ header.text }}</a>
@@ -39,7 +39,7 @@
 
         <div id="bottom-nav-bar" class="sticky bottom-0 w-full bg-[#281414] z-20">
             <div class="px-5 py-3">
-                <div class="font-quicksand text-[6vw] text-white w-max inline-block">
+                <div class="font-quicksand text-xl text-white w-max inline-block">
                     {{ currentHeader }}
                 </div>
                 <button class="float-right inline-block" @click="drawer">

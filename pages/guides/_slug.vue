@@ -1,8 +1,11 @@
 <template>
     <div
-        class="vignette w-full bg-cover bg-fixed"
-        :style="{ backgroundImage: `url(${backgroundURL})` }"
+        class="w-full bg-[#281414]"
     >
+        <img
+            class="fixed -z-10 h-screen w-screen object-cover lg:h-auto lg:w-auto"
+            :src="require(`~/assets${guide.path}/background.png`)"
+        >
         <NavBar />
         <img
             :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
@@ -154,11 +157,6 @@ export default Vue.extend({
                 root: this.$refs.nuxtContent,
                 threshold: 0
             } as Object
-        }
-    },
-    computed: {
-        backgroundURL () {
-            return require(`~/assets${this.$data.guide.path}/background.png`)
         }
     },
     mounted () {
