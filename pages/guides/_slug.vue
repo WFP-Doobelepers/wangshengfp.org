@@ -1,12 +1,12 @@
 <template>
     <div
-        class="vignette w-full bg-cover bg-fixed bg-repeat-y lg:bg-no-repeat"
+        class="vignette w-full bg-cover bg-fixed"
         :style="{ backgroundImage: `url(${backgroundURL})` }"
     >
         <NavBar />
         <img
             :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
-            class="fixed top-[-20%] right-[-20%] hidden lg:block opacity-30"
+            class="fixed top-[-20%] right-[-20%] hidden lg:block opacity-30 saturate-200"
             width="60%"
         >
 
@@ -20,9 +20,9 @@
                             @click="tableOfContentsHeadingClick(link)"
                         >
                             <a
-                                :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-black text-2xl'"
+                                :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-white text-2xl'"
                                 role="button"
-                                class="mb-2 block float-right text-right font-bold w-full"
+                                class="mb-2 block float-right text-right w-full"
                                 :href="`#${link.id}`"
                             >{{ link.text }}</a>
                         </li>
@@ -158,7 +158,7 @@ export default Vue.extend({
     },
     computed: {
         backgroundURL () {
-            return require(`~/assets${this.$data.guide.path}/background.jpg`)
+            return require(`~/assets${this.$data.guide.path}/background.png`)
         }
     },
     mounted () {
