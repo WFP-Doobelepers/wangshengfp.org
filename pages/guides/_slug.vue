@@ -1,6 +1,6 @@
 <template>
     <div
-        class="w-full bg-cover bg-fixed vignette bg-none"
+        class="vignette w-full bg-cover bg-fixed bg-repeat-y lg:bg-no-repeat"
         :style="{ backgroundImage: `url(${backgroundURL})` }"
     >
         <NavBar />
@@ -22,7 +22,7 @@
                             <a
                                 :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-black text-2xl'"
                                 role="button"
-                                class="mb-2 block float-right text-right"
+                                class="mb-2 block float-right text-right w-full"
                                 :href="`#${link.id}`"
                             >{{ link.text }}</a>
                         </li>
@@ -61,9 +61,9 @@
                                     @click="tableOfContentsSubHeadingClick(link)"
                                 >
                                     <a
-                                        :class="link.id == currentH3 ? `text-${guide.element}` : 'text-black'"
+                                        :class="link.id == currentH3 ? `text-${guide.element}` : 'text-white'"
                                         role="button"
-                                        class="mb-2 block float-right text-right text-2xl"
+                                        class="mb-5 block float-right text-right text-2xl w-full"
                                         :href="`#${link.id}`"
                                     >{{ link.text }}</a>
                                 </li>
@@ -130,6 +130,7 @@ export default Vue.extend({
         const guide: any = Array.isArray(guideFetch) ? guideFetch[0] : guideFetch
 
         const subheaderMapping: any = {}
+        const subheaderReverseMapping: any = {}
         let currentLinkHeader
         for (const link of guide.toc) {
             if (link.depth === 2) {
@@ -137,10 +138,11 @@ export default Vue.extend({
                 subheaderMapping[currentLinkHeader] = []
             } else if (link.depth === 3) {
                 subheaderMapping[currentLinkHeader].push(link)
+                subheaderReverseMapping[link.id] = currentLinkHeader
             }
         }
 
-        return { guide, subheaderMapping }
+        return { guide, subheaderMapping, subheaderReverseMapping }
     },
     data () {
         return {
@@ -170,12 +172,12 @@ export default Vue.extend({
                         this.currentHeader = text
                     } else if (entry.target.tagName === 'H3') {
                         this.currentH3 = id
+                        this.currentH2 = (this as any).subheaderReverseMapping[id!]
                     }
                 }
             })
         }, this.observerOptions)
 
-        // Track all sections that have an `id` applied
         document.querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]').forEach((section) => {
             this.observer.observe(section)
         })
@@ -189,6 +191,7 @@ export default Vue.extend({
         },
         tableOfContentsSubHeadingClick (link: any) {
             this.currentH3 = link.id
+            this.currentH2 = (this as any).subheaderReverseMapping[link.id]
         }
     }
 })
@@ -206,14 +209,18 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content h2 {
-    @apply font-bold text-3xl
+    @apply font-bold text-4xl
 }
 
 ::v-deep .nuxt-content h3 {
-    @apply font-bold text-2xl
+    @apply font-bold text-3xl
 }
 
 ::v-deep .nuxt-content h4 {
+    @apply font-bold text-2xl
+}
+
+::v-deep .nuxt-content h5 {
     @apply font-bold text-xl
 }
 
@@ -225,15 +232,15 @@ export default Vue.extend({
     @apply mx-auto
 }
 
-::v-deep .nuxt-content > ul {
+::v-deep .nuxt-content > ul, ol {
     @apply pb-5
 }
 
-::v-deep .nuxt-content ul {
+::v-deep .nuxt-content ul, ol {
     @apply pl-5
 }
 
-::v-deep .nuxt-content ul p {
+::v-deep .nuxt-content ul p, ol p {
     @apply mb-1
 }
 
@@ -249,11 +256,31 @@ export default Vue.extend({
     @apply list-[circle]
 }
 
+::v-deep .nuxt-content ol > li {
+    @apply list-decimal
+}
+
 ::v-deep .nuxt-content table {
-    @apply mx-auto border-collapse border-2
+    @apply mx-auto border-collapse border-2 mb-5
 }
 
 ::v-deep .nuxt-content table td {
-    @apply border-2 lg:p-2
+    @apply border-2 lg:p-2 text-center
+}
+
+::v-deep .nuxt-content img {
+    @apply mt-3
+}
+
+::v-deep .nuxt-content img[alt=artifact] {
+    @apply w-[35%] my-0
+}
+
+::v-deep .nuxt-content img[alt=weapon] {
+    @apply w-[50%] my-0
+}
+
+::v-deep .nuxt-content img[alt=character_card] {
+    @apply w-[15%] inline text-center
 }
 </style>
