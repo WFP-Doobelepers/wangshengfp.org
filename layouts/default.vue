@@ -1,7 +1,11 @@
 <template>
-    <div class="w-full bg-cover bg-fixed bg-wuwang min-h-screen flex flex-col flex-nowrap">
+    <div class="w-full min-h-screen flex flex-col flex-nowrap">
         <NavBar />
-        <Nuxt class="flex-auto" />
+        <img
+            class="fixed -z-10 h-screen w-screen object-cover"
+            src="~/assets/backgrounds/wuwang.png"
+        >
+        <Nuxt class="flex-auto z-10" />
         <Footer />
     </div>
 </template>
