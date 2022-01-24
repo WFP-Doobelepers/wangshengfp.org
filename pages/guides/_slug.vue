@@ -2,10 +2,13 @@
     <div
         class="w-full bg-[#281414]"
     >
-        <img
-            class="fixed -z-10 h-screen w-screen object-cover lg:h-auto lg:w-auto"
-            :src="require(`~/assets${guide.path}/background.png`)"
-        >
+        <div class="vignette-radial h-screen w-screen fixed -z-10">
+            <img
+                class="object-cover h-screen lg:h-auto w-screen"
+                :src="require(`~/assets${guide.path}/background.png`)"
+            >
+        </div>
+
         <NavBar />
         <img
             :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
@@ -196,10 +199,11 @@ export default Vue.extend({
 </script>
 
 <style lang="postcss" scoped>
-@media (min-width: 1024px) {
-    .vignette {
-        box-shadow: 0 0 5vw 2vw black inset;
-    }
+.vignette-radial:after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: radial-gradient(circle, transparent 50%, black 150%);
 }
 
 ::v-deep .nuxt-content > *::before {
