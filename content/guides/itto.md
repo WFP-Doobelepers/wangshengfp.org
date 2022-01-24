@@ -17,7 +17,7 @@ author: ['Emiliabyss#1641']
 - **Recommended Combos at C0:** 
     - Q, N1, E, N3, SCA4, D, N4, SCA5, E || (Beginner-Friendly)
     - Q, N1, E, N3, SCA5, D, N4, SCA5, E || (Same combo, but Ushi gets hit early)
-    - Q, N1, E, N3, SCA4, D, N4, SCA5, E, SCAF || (Advanced, but consistent)
+    - Q, N2/E, N4, SCA4, D, N4, SCA5, E, SCAF || (Advanced, but consistent)
 
 - **Artifact Set:** 4pc Husk of Opulent Dreams (Everything else is at least -10% DPS)
     - DEF% / Geo% / Crit%
@@ -359,9 +359,7 @@ This combo can only be used if **_two stacks are pre-built_**, leftover from a p
 
 Both combos are similar to the recommended combos above, only substituting N1, E, N3 for \[N2/E, N4] or \[N2/E, N3].
 
-There are two reasons we don’t recommend these combos. First, it is fairly easy to misplay, risking DPS loss in exchange for ~1% damage difference from what’s recommended _(so far)._
-
-At the current state of research, the benefits do not outweigh the costs, and as such, the average player will not benefit much from this technical skill. Of course, more research is needed to determine if the Dasshu can provide a measurable increase in DPS (~5%+) from simpler combos.
+"Once this technique is mastered, these rotations become the new strongest consistent combos."
 
 #### C0 The Current Strongest Combo
 
