@@ -37,9 +37,9 @@
             </aside>
             <div class="guide-content">
                 <div class="header pl-3">
-                    <p class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
+                    <h1 class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
                         {{ guide.character }}
-                    </p>
+                    </h1>
                     <div>
                         <img
                             v-for="_i in Array.from(Array(guide.character_star).keys())"
@@ -160,6 +160,44 @@ export default Vue.extend({
                 root: this.$refs.nuxtContent,
                 threshold: 0
             } as Object
+        }
+    },
+    head () {
+        const vm: any = this
+        return {
+            title: vm.guide.title,
+            meta: [
+                {
+                    hid: 'description',
+                    name: 'description',
+                    content: `A guide for ${vm.guide.character} written by ${vm.guide.author.join(', ')}`
+                },
+                {
+                    hid: 'og:type',
+                    name: 'og:type',
+                    content: 'article'
+                },
+                {
+                    hid: 'og:title',
+                    name: 'og:title',
+                    content: vm.guide.title
+                },
+                {
+                    hid: 'og:description',
+                    name: 'og:description',
+                    content: `A guide for ${vm.guide.character} written by ${vm.guide.author.join(', ')}`
+                },
+                {
+                    hid: 'og:image',
+                    property: 'og:image',
+                    content: require(`~/assets${vm.guide.path}/character_card.jpg`)
+                },
+                {
+                    hid: 'og:url',
+                    property: 'og:url',
+                    content: `https://beta.wangshengfp.com/guides/${vm.guide.slug}`
+                }
+            ]
         }
     },
     mounted () {
