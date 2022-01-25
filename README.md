@@ -16,6 +16,9 @@
 		<a href="https://www.youtube.com/channel/UCDOOTQsQ8V68mqOQ06JI0GQ/">
 			<img src="https://img.shields.io/youtube/channel/subscribers/UCDOOTQsQ8V68mqOQ06JI0GQ?labelColor=ff0000&color=2c2f33&&style=flat" alt="Youtube">
 		</a>
+		<a href="https://app.netlify.com/sites/wangshengfp/deploys/">
+			<img src="https://img.shields.io/netlify/7bf04afb-df80-461a-8bbe-b72d9a3f0602?labelColor=00AD9F&color=2c2f33&&style=flat" alt="Netlify">
+		</a>
 	</p>
 	</p>
 </div>
