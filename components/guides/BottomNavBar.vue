@@ -95,7 +95,9 @@ export default Vue.extend({
             this.isOpen = !this.isOpen
         },
         getBottom () {
-            return document.getElementById('bottom-nav-bar')?.clientHeight
+            if (process.client) {
+                return document.getElementById('bottom-nav-bar')?.clientHeight
+            }
         }
     }
 })
