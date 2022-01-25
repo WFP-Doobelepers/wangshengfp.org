@@ -16,86 +16,89 @@
             width="60%"
         >
 
-        <div class="guide flex flex-row justify-center font-quicksand text-lg relative z-10">
-            <aside class="flex-col flex-none w-[15%] hidden lg:flex">
-                <nav class="sticky top-[6rem] m-2">
-                    <ul>
-                        <li
-                            v-for="link of guide.toc.filter(x => x.depth === 2)"
-                            :key="link.id"
-                            @click="tableOfContentsHeadingClick(link)"
-                        >
-                            <a
-                                :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-white text-2xl'"
-                                role="button"
-                                class="mb-2 block float-right text-right w-full"
-                                :href="`#${link.id}`"
-                            >{{ link.text }}</a>
-                        </li>
-                    </ul>
-                </nav>
-            </aside>
-            <div class="guide-content">
-                <div class="header pl-3">
-                    <h1 class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
-                        {{ guide.character }}
-                    </h1>
-                    <div>
-                        <img
-                            v-for="_i in Array.from(Array(guide.character_star).keys())"
-                            :key="_i"
-                            :src="require(`~/assets/icons/star.svg`)"
-                            width="50px"
-                            class="inline"
-                        >
-                    </div>
-                    <p class="text-white text-xl">
-                        {{ guide.author.join(', ') }}
-                    </p>
-                    <p class="text-gray-300 text-xl">
-                        Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
-                    </p>
+        <div class="guide relative z-10">
+            <div class="header pl-4 lg:pl-0 max-w-screen-lg mx-auto">
+                <h1 class="font-righteous text-white text-5xl lg:text-8xl tracking-wider pt-5">
+                    {{ guide.character }}
+                </h1>
+                <div>
+                    <img
+                        v-for="_i in Array.from(Array(guide.character_star).keys())"
+                        :key="_i"
+                        :src="require(`~/assets/icons/star.svg`)"
+                        width="50px"
+                        class="inline"
+                    >
                 </div>
+                <p class="text-white text-xl">
+                    {{ guide.author.join(', ') }}
+                </p>
+                <p class="text-gray-300 text-xl">
+                    Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+                </p>
+            </div>
 
-                <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-50 flex flex-row justify-center">
-                    <aside class="flex-col flex-none w-[20%] hidden lg:flex">
-                        <nav class="sticky top-16 m-2 pt-10">
-                            <ul>
-                                <li
-                                    v-for="link of subheaderMapping[currentH2]"
-                                    :key="link.id"
-                                    @click="tableOfContentsSubHeadingClick(link)"
-                                >
-                                    <a
-                                        :class="link.id == currentH3 ? `text-${guide.element}` : 'text-white'"
-                                        role="button"
-                                        class="mb-5 block float-right text-right text-2xl w-full"
-                                        :href="`#${link.id}`"
-                                    >{{ link.text }}</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </aside>
+            <div class="guide flex flex-row justify-center font-quicksand text-lg">
+                <aside class="flex-col flex-none w-[15%] hidden lg:flex">
+                    <nav class="sticky top-[6rem] m-2">
+                        <ul>
+                            <li
+                                v-for="link of guide.toc.filter(x => x.depth === 2)"
+                                :key="link.id"
+                                @click="tableOfContentsHeadingClick(link)"
+                            >
+                                <a
+                                    :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-white text-2xl'"
+                                    role="button"
+                                    class="mb-2 block float-right text-right w-full"
+                                    :href="`#${link.id}`"
+                                >{{ link.text }}</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+                <div class="guide-content">
+                    <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-50 flex flex-row justify-center">
+                        <aside class="flex-col flex-none w-[20%] hidden lg:flex">
+                            <nav class="sticky top-16 m-2 pt-10">
+                                <ul>
+                                    <li
+                                        v-for="link of subheaderMapping[currentH2]"
+                                        :key="link.id"
+                                        @click="tableOfContentsSubHeadingClick(link)"
+                                    >
+                                        <a
+                                            :class="link.id == currentH3 ? `text-${guide.element}` : 'text-white'"
+                                            role="button"
+                                            class="mb-5 block float-right text-right text-2xl w-full"
+                                            :href="`#${link.id}`"
+                                        >{{ link.text }}</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </aside>
 
-                    <div
-                        class="hidden lg:flex w-5 my-10 ml-2"
-                        :class="`bg-${guide.element}`"
-                    />
+                        <div
+                            class="hidden lg:flex w-5 my-10 ml-2"
+                            :class="`bg-${guide.element}`"
+                        />
 
-                    <nuxt-content
-                        :document="guide"
-                        class="text-white p-5"
-                    />
-                </div>
-
-                <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
-                    <div class="m-2 text-white">
-                        <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
-                        Edit this page on GitHub
+                        <nuxt-content
+                            :document="guide"
+                            class="text-white p-5"
+                        />
                     </div>
-                </a>
+
+                    <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
+                        <div class="m-2 text-white">
+                            <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
+                            Edit this page on GitHub
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
+
         <Footer />
         <GuidesBottomNavBar :guide="guide" :current-header="currentHeader" />
         <!-- <div class="hidden">
