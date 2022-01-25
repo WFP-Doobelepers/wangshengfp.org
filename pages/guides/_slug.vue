@@ -4,17 +4,17 @@
     >
         <div class="vignette-radial h-screen w-screen fixed -z-10">
             <img
+                :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
+                class="fixed top-[-20%] right-[-20%] hidden lg:block mix-blend-soft-light"
+                width="60%"
+            >
+            <img
                 class="object-cover min-w-full min-h-full"
                 :src="require(`~/assets${guide.path}/background.png`)"
             >
         </div>
 
         <NavBar />
-        <img
-            :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
-            class="fixed top-[-20%] right-[-20%] hidden lg:block opacity-30 saturate-200"
-            width="60%"
-        >
 
         <div class="guide relative z-10">
             <div class="header pl-4 lg:pl-0 max-w-screen-lg mx-auto">
