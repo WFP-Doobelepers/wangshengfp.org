@@ -4,7 +4,7 @@
     >
         <div class="vignette-radial h-screen w-screen fixed -z-10">
             <img
-                class="object-cover h-screen lg:h-auto w-screen"
+                class="object-cover min-w-full min-h-full"
                 :src="require(`~/assets${guide.path}/background.png`)"
             >
         </div>
