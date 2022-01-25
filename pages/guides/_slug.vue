@@ -5,7 +5,7 @@
         <div class="vignette-radial h-screen w-screen fixed -z-10">
             <img
                 :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
-                class="fixed top-[-40%] right-[-20%] h-[125%] hidden lg:block mix-blend-soft-light"
+                class="fixed top-[-40vh] right-[-30vh] h-[125vh] hidden lg:block mix-blend-soft-light"
             >
             <img
                 class="object-cover min-w-full min-h-full"
