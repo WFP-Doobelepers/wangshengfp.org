@@ -2,7 +2,7 @@
     <div class="w-full min-h-screen flex flex-col flex-nowrap">
         <NavBar />
         <img
-            class="fixed -z-10 h-screen lg:h-auto w-screen object-cover"
+            class="fixed -z-10 h-screen w-screen object-cover"
             src="~/assets/backgrounds/wuwang.png"
         >
         <Nuxt class="flex-auto z-10" />
