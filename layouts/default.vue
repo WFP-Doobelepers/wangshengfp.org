@@ -3,7 +3,7 @@
         <NavBar />
         <img
             class="fixed -z-10 min-h-screen min-w-screen object-cover"
-            src="~/assets/backgrounds/wuwang.png"
+            src="~/assets/backgrounds/wuwang.jpg"
         >
         <Nuxt class="flex-auto z-10" />
         <Footer />

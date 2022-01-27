@@ -9,7 +9,7 @@
             >
             <img
                 class="object-cover min-w-full min-h-full"
-                :src="require(`~/assets${guide.path}/background.png`)"
+                :src="require(`~/assets${guide.path}/background.jpg`)"
             >
         </div>
 
@@ -240,10 +240,8 @@ export default Vue.extend({
 
 <style lang="postcss" scoped>
 .vignette-radial:after {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
-    background: radial-gradient(circle, transparent 50%, black 150%);
+    @apply content-[''] absolute inset-0;
+    background: radial-gradient(circle, transparent 30%, black 100%);
 }
 
 ::v-deep .nuxt-content > *::before {
