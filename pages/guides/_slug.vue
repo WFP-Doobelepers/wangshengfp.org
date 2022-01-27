@@ -57,7 +57,7 @@
                     </nav>
                 </aside>
                 <div class="guide-content">
-                    <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-50 flex flex-row justify-center">
+                    <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-70 flex flex-row justify-center">
                         <aside class="flex-col flex-none w-[20%] hidden lg:flex">
                             <nav class="sticky top-16 m-2 pt-10">
                                 <ul>
