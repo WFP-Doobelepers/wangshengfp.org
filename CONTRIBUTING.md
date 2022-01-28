@@ -40,6 +40,7 @@ $ npm run lint
 - **`content`**: contains all the Markdown, JSON and CSV files used on the website. A MongoDB-like API is exposed on `localhost:3000/_content/`.
 - **`dist`**: contains the dynamically generated files when `npm run generate` is used. *Ignored by Git*.
 - **`layouts`**: contains all the layouts used by the site. The default layout, `default.vue`, is used if not specified.
+- **`models`**: contains the models and classes used by the website.
 - **`page`**: contains all the views and routes used on the website. Nuxt automatically creates a page for every `.vue` files inside the directory. The routing configuration is also automatically generated.
 - **`plugins`**: contains all plugins used on the website.
 - **`static`**: contains all static files used on the website such as `favicon.ico` and `robots.txt`. All files in the directory are served at root.
