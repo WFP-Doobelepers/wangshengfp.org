@@ -28,6 +28,22 @@
                     <NuxtLink to="/guides">
                         Guides
                     </NuxtLink>
+
+                    <ul class="dropdown">
+                        <NuxtLink to="/events">
+                            Events
+                            <img src="~/assets/icons/chevron-down.svg" style="height: 20px" class="inline">
+                        </NuxtLink>
+                        <ul class="dropdown-content">
+                            <NuxtLink to="/events/50k">
+                                50K Event
+                            </NuxtLink>
+                            <NuxtLink to="/events/100k">
+                                100K Event
+                            </NuxtLink>
+                        </ul>
+                    </ul>
+                    
                     <!--
                     <NuxtLink to="/calculator">
                         Calculator
