@@ -106,7 +106,7 @@ export default {
   font-weight: bold;
   font-size: 28px;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 50px;
   padding-bottom: 20px;
 }
 

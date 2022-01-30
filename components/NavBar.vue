@@ -155,6 +155,16 @@
                             Guides
                         </NuxtLink>
                     </li>
+                    
+                    <li>
+                        <NuxtLink
+                            to="/events"
+                            class="my-4 inline-block"
+                            @click.native="isOpen = false"
+                        >
+                            Events
+                        </NuxtLink>
+                    </li>
 
                     <!-- <li>
                         <NuxtLink
@@ -250,6 +260,10 @@ export default Vue.extend({
 
 .dropdown {
     @apply float-left overflow-hidden
+}
+
+.dropdown > .nuxt-link-active {
+    @apply bg-[#452222]
 }
 
 .navbar a:hover, .navbar > ul > .nuxt-link-exact-active {
