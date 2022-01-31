@@ -28,6 +28,7 @@
             <p class="body2">
                 Optional description
             </p>
+
             <section class="w-full flex flex-wrap place-content-evenly gap-10 pb-10">
                 <article class="tbox bg-[#ffe9e9]">
                     <img class="thumbnail" src="~/assets/events/50k/Dawn.webp" alt="Dawn Winery">
@@ -77,14 +78,16 @@
     </layout-events>
 </template>
 
-<script>
+<script lang="ts">
+
 export default {
     // page component definitions
-    name: '50K',
+    name: 'FifEvent',
     layout: 'events',
     data () {
         return {
-            title: '50K Event'
+            title: '50K Event',
+            hover: false
         }
     }
 }
@@ -111,11 +114,12 @@ export default {
 }
 
 .h3 {
-  color: #2e2e2e;
+  color: #202020;
   text-align: center;
   font-weight: bold;
   font-size: large;
-  padding-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 15px;
 }
 
 .body {
@@ -130,7 +134,7 @@ export default {
 }
 
 .body3 {
-    color: #2e2e2e;
+    color: #202020;
     text-align: center;
 }
 
@@ -145,12 +149,16 @@ export default {
   width: 20%;
   min-width: 200px;
   height: fit-content;
-  padding: 10px;
   justify-items: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
 }
 
 .thumbnail {
   background-position: center;
   background-size: cover;
 }
+
 </style>

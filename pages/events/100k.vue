@@ -85,10 +85,11 @@
     </layout-events>
 </template>
 
-<script>
+<script lang="ts">
+
 export default {
     // page component definitions
-    name: '100K',
+    name: 'HunEvent',
     layout: 'events',
     data () {
         return {
@@ -119,7 +120,7 @@ export default {
 }
 
 .h3 {
-  color: #2e2e2e;
+  color: #202020;
   text-align: center;
   font-weight: bold;
   font-size: large;
@@ -138,7 +139,7 @@ export default {
 }
 
 .body3 {
-    color: #2e2e2e;
+    color: #202020;
     text-align: center;
 }
 

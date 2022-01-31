@@ -33,7 +33,7 @@
     </layout-events>
 </template>
 
-<script>
+<script lang="ts">
 export default {
     // page component definitions
     name: 'EventsPg',
