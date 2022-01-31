@@ -3,7 +3,8 @@
         <NavBar />
         <img
             class="fixed -z-10 min-h-screen min-w-screen object-cover"
-            src="~/assets/backgrounds/events.webp">
+            src="~/assets/backgrounds/events.webp"
+        >
 
         <Nuxt class="flex-auto z-10" />
         <Footer />
