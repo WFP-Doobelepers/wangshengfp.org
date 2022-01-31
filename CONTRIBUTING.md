@@ -7,8 +7,11 @@
 * [npm](https://docs.npmjs.com/try-the-latest-stable-version-of-npm) 6.1+
 
 ### Tools
-* [Visual Studio Code](https://code.visualstudio.com/) with [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) extension installed
-* Alternatively, [WebStorm](https://www.jetbrains.com/webstorm/) can also be used
+* [Visual Studio Code](https://code.visualstudio.com/) with the following plugins:
+    * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+* Alternatively, [WebStorm](https://www.jetbrains.com/webstorm/) can also be used.
 
 ### Setup
 After cloning the repository, run:
