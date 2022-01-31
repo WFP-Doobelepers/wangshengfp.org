@@ -43,7 +43,7 @@
                             </NuxtLink>
                         </ul>
                     </ul>
-                    
+
                     <!--
                     <NuxtLink to="/calculator">
                         Calculator
@@ -153,6 +153,16 @@
                             @click.native="isOpen = false"
                         >
                             Guides
+                        </NuxtLink>
+                    </li>
+
+                    <li>
+                        <NuxtLink
+                            to="/events"
+                            class="my-4 inline-block"
+                            @click.native="isOpen = false"
+                        >
+                            Events
                         </NuxtLink>
                     </li>
 
