@@ -3,7 +3,7 @@
 ## Build
 
 ### Requirements
-* [Node.js](http://nodejs.org) 14+ (Latest verion of LTS is recommended)
+* [Node.js](http://nodejs.org) 14+ (Latest verion of LTS is recommended, webpack does not work with Node.js 17+)
 * [npm](https://docs.npmjs.com/try-the-latest-stable-version-of-npm) 6.1+
 
 ### Tools
