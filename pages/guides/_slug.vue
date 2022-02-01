@@ -49,7 +49,7 @@
                                 <a
                                     :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-white text-2xl'"
                                     role="button"
-                                    class="mb-4 block float-right text-right w-full break-words"
+                                    class="mb-4 block float-right text-right w-full"
                                     :href="`#${link.id}`"
                                 >{{ link.text }}</a>
                             </li>
@@ -257,11 +257,11 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content h4 {
-    @apply font-bold text-2xl
+    @apply font-bold text-2xl my-2
 }
 
 ::v-deep .nuxt-content h5 {
-    @apply font-bold text-xl
+    @apply font-bold text-xl my-2
 }
 
 ::v-deep .nuxt-content > p {
