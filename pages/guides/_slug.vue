@@ -78,7 +78,7 @@
                         </aside>
 
                         <div
-                            class="hidden lg:flex w-5 my-10 ml-2 xl:mx-8"
+                            class="hidden lg:flex w-5 my-10 ml-2 xl:mr-8"
                             :class="`bg-${guide.element}`"
                         />
 
