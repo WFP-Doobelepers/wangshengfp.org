@@ -8,6 +8,9 @@ last_updated_game_version: '2.4'
 author: ['Sitri#9504', 'TWICE#9958']
 ---
 
+![](https://lh6.googleusercontent.com/pSBkNlKGxGMgbmrrhONqxw5UQJ86YzPJOW00wlqITz4N3X_wxmtiPZIal1nijTaUPq82h3BcUxSYRcEMgPKiFXXMauSX3ZIzICazhIb5bLOI-Yk7NRryUe0vjesMeQZeVE1n_J0d)
+Art by: [♠Sea](https://www.pixiv.net/en/users/7263576)
+
 #### Preface
 
 Welcome to the comprehensive and long overdue Eula guide! This guide took four months, a lot of work from a lot of people, as well as more procrastination than I should have ever done, but it is finally here. 
@@ -89,3 +92,69 @@ Down here I will list her pros and cons so you can make your own conscious decis
 - Niche in terms of optimal content. Some enemies hard counter her and make her obsolete.
 
 - Hard to focus while playing with her thighs.
+
+![](https://lh3.googleusercontent.com/PNTpkHw9QyrHJKJzd811LKGA3RJ90UMA2YsRF2aB-DClf0LNAvztkD6eWf0W78-8Dd9lXIE_A_pdbfEuR1uOFULMoIgS5JT63VmqThZrJHoWoLIts8Cqu8NhTn9haBZ1ZH1utfK_)
+Art by: [Csyday](https://www.pixiv.net/en/users/3420822)
+
+## Character Overview
+
+Eula’s entire kit, with its many interactive components, serves one ultimate goal: make her Elemental Burst as strong as possible. From her faster-than-Claymore-standard Normal Attacks and her personal Physical and Cryo resistance shred in her Elemental Skill to her passives, her kit all serves to assist you to get the most consistency and highest damage out of your Elemental Burst. Learning how to play around with her kit to achieve this goal, is the first step to your success with Eula. 
+
+I will go over each component of her kit, as well as tips and tricks on how to use them effectively.
+
+### Talents
+
+#### Normal Attacks: Favonius Bladework - Edel
+
+![](https://lh6.googleusercontent.com/i64x4blJkbO1yM2rLSTphzckh25_1lowBIr_eroX8gV8EBfGUs0ksn3G-mB-Hp1iXOOWBLU659TcSge--5bR153_T2vAJLmudZAZyTf1qOjawMPNN4dywMEN0Kd0a5ezhzD4eU0l)
+
+Eula's Normal Attack is quite straightforward in what it can do. It is a maximum 5-input chain auto-attack sequence, with a shorter than average execution frame compared to other Claymores, when they do not have an ATK SPD buff. Eula has high multipliers on each input, even among her weapon type, which is compensated in raw power for their slow attacks. These two factors allow Eula to dish out very consistent, above-average physical damage just from auto-attacking   
+
+However, everything is not as simple as it is on paper. Although overall she does attack faster than an average Claymore, her 5th input in the normal attack sequence (which we will call N5), takes a devastatingly long time to execute, which makes it unappealing to finish her entire attack chain. Because of this, we will tend to interrupt Eula's attack sequence with dashes, jumps, or ability casts to get maximum value out of our Normal Attacks.  
+
+Down here is more technical information regarding Eula Normal Attacks, her different combos, and their differences in damage.
+
+##### Eula's Normal Attack frame data 
+
+- Recorded in 60 FPS  
+
+| Attack Type | Number of hits/input | Execution Frame |
+|-------------|----------------------|-----------------|
+| N1          | 1                    | 29              |
+| N2          | 1                    | 58              |
+| N3          | 2                    | 125             |
+| N4          | 1                    | 161             |
+| N5          | 2                    | 249             |
+
+##### Eula's Normal Attack combos, and effective damage differences
+
+- Motion value/s = (Sum of multipliers)/(Sum of Frames\*60)
+- Normal Attack multipliers are set at Talent lv 9\.
+- N\# = Attack where input is interrupted and reset at.
+- D = Dash input cancel. J = Jump input cancel.
+  
+| Combo Type | Number of hits/sequence | Frames | Time (s) | Motion value/s | Differences |
+|------------|-------------------------|--------|----------|----------------|-------------|
+| N1D        | 1                       | 53     | 0.88     | 186.63%        | 76%         |
+| N1J        | 1                       | 64     | 1.07     | 154.56%        | 63%         |
+| N2D        | 2                       | 82     | 1.37     | 246.39%        | 101%        |
+| N2J        | 2                       | 93     | 1.55     | 217.25%        | 89%         |
+| N3D        | 4                       | 149    | 2.48     | 219.64%        | 90%         |
+| N3J        | 4                       | 160    | 2.67     | 204.54%        | 84%         |
+| N4D        | 5                       | 185    | 3.08     | 244.02%        | 100%        |
+| N4J        | 5                       | 196    | 3.27     | 230.32%        | 94%         |
+| N5D        | 7                       | 273    | 4.55     | 223.37%        | 92%         |
+| N5J        | 7                       | 284    | 4.73     | 214.72%        | 88%         |
+
+There are only two combos you need to do and should master, on Eula: N4D and N2D. These two combos far out-damage any other Normal Attack chain. While N2D gives a marginal damage increase, it is far more stamina-consuming, harder to execute, and more punishing. Because of this, N4D should always be the combo you default to. However, this does not mean N2D is useless. There are cases where its very short time requirement comes into use. One such case we will dive into later.
+
+**Tips and tricks:** Attack sequences can be interrupted and reset through abilities, not just through movement inputs. It is recommended to use Skills and Bursts in place of dashes and jumps when you have the chance, to maximize DPS.
+
+##### N4D
+![](https://lh5.googleusercontent.com/tbednGGBaENTghJ6OxuIp1YYVVd2CjgzoTD77fWHydlKl4dnpvd3fgClDTjzXKfzqaRrvrZs7YEm5D2GUIkDs-rVPwg2EokWCfRoREI-vwZ-puTzKND2OYUOxZCF0VxDvRuP5LLz)
+
+##### N2D
+![](https://lh5.googleusercontent.com/6ax6BcI4CZ8KdyljPgcKApdQrzbqui6MBvuxEk3Ycl2LfoOmQNEViwfFWi6cC1NJwJzmGWqerF_cfu_MQFzTv4cT1qeeVdJ1-k6E-HMAZFhc4F4U0a0-Gq-aEhlqaNgqABaP5lP0)
+
+##### N4 Tap E instead of N4D
+![](https://lh3.googleusercontent.com/vDntMWISgBMJjNbCN85YKZDZOnlqTJMXp0ccQHSFLunpOzMNUIKDYjoY1LAGg4arVhdN_Okx8LUuH_YH6uSsf4N1ZqYWLfrf2UiywEno6afVjAXfCcyY2mhVox1Mwo_op7CiV0Ne)
