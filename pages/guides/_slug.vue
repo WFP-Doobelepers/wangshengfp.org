@@ -1,6 +1,6 @@
 <template>
     <div
-        class="w-full bg-[#281414]"
+        class="w-full bg-[#281414] font-quicksand"
     >
         <div class="vignette-radial h-screen w-screen fixed -z-10">
             <img
@@ -37,7 +37,7 @@
                 </p>
             </div>
 
-            <div class="guide flex flex-row justify-center font-quicksand text-lg">
+            <div class="guide flex flex-row justify-center text-lg">
                 <aside class="header flex-col flex-none w-[clamp(15rem,15%,20rem)] hidden lg:flex xl:pr-5">
                     <nav class="sticky top-[6rem] m-2">
                         <ul>
