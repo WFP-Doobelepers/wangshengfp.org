@@ -268,10 +268,6 @@ export default Vue.extend({
     @apply mb-5
 }
 
-::v-deep .nuxt-content img {
-    @apply mx-auto
-}
-
 ::v-deep .nuxt-content > ul, ol {
     @apply pb-5
 }
@@ -309,6 +305,10 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content img {
+    @apply mx-auto
+}
+
+::v-deep .nuxt-content p > img {
     @apply mt-3
 }
 
