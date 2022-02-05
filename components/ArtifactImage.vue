@@ -7,7 +7,7 @@
                 :src="require(`~/assets/artifacts/${artifact.set}/${getArtifactImageName(artifact.set, artifact.type)}`)"
                 :class="index == 0 ? 'relaitve' : 'absolute'"
                 class="inset-0 w-full"
-                :style="getArtifactStyle(index, artifacts.length)"
+                :style="getArtifactStyle(index, artifacts)"
             >
             <div
                 v-for="(artifact, index) in artifacts"
@@ -15,7 +15,7 @@
                 :key="index"
                 class="absolute bg-white w-1 h-[45%] bottom-2/4 left-2/4 rounded-t-full"
                 :style="{
-                    'transform': `translate(-50%, 0) rotate(${getRotationAngle(index, artifacts.length)}deg)`,
+                    'transform': `translate(-50%, 0) rotate(${getRotationAngle(index, artifacts)}deg)`,
                     'transform-origin': 'bottom'
                 }"
             />
@@ -41,12 +41,20 @@ export default Vue.extend({
     },
     methods: {
         getArtifactImageName,
-        getArtifactStyle (i: number, N: number): Object {
-            const startingAngle = i / N * 360
-            const endingAngle = (i + 1) / N * 360
+        getArtifactStyle (i: number, artifacts: any[]): Object {
+            const N = artifacts.map((x: any) => x.spacing ?? 1).reduce((a, b) => a + b, 0)
+            const iAdjusted = i + artifacts.slice(0, i).map((x: any) => (x.spacing ?? 1) - 1).reduce((a, b) => a + b, 0)
+            const startingAngle = iAdjusted / N * 360
+            const endingAngle = (iAdjusted + (artifacts[i].spacing ?? 1)) / N * 360
             const offsetAngle = N % 2 === 0 ? 45 : 0
             const radianAngle = parseAngleToRadians((startingAngle + endingAngle) / 2 + offsetAngle)
-            const maskOffsetSize = 10 // px
+            let maskOffsetSize = 10 // px
+
+            // Correction for angle shifting
+            if (artifacts[i].spacing) {
+                maskOffsetSize *= Math.abs(Math.cos(Math.abs(radianAngle - parseAngleToRadians(((i + 0.5) / N * 360 + offsetAngle)))))
+            }
+
             const maskOffsetX = maskOffsetSize * Math.sin(radianAngle)
             const maskOffsetY = -maskOffsetSize * Math.cos(radianAngle)
 
@@ -55,7 +63,9 @@ export default Vue.extend({
                 'mask-position': `${maskOffsetX}px ${maskOffsetY}px`
             }
         },
-        getRotationAngle (i: number, N: number): number {
+        getRotationAngle (i: number, artifacts: any[]): number {
+            const N = artifacts.map((x: any) => x.spacing ?? 1).reduce((a, b) => a + b, 0)
+            i += artifacts.slice(0, i).map((x: any) => (x.spacing ?? 1) - 1).reduce((a, b) => a + b, 0)
             const angle = i / N * 360 + (N % 2 === 0 ? 45 : 0)
 
             return angle <= 360 ? angle : angle - 360
