@@ -37,6 +37,11 @@ export default Vue.extend({
         artifacts: {
             type: Array,
             required: true
+        },
+        offset: {
+            type: Number,
+            required: false,
+            default: 0
         }
     },
     methods: {
@@ -46,27 +51,26 @@ export default Vue.extend({
             const iAdjusted = i + artifacts.slice(0, i).map((x: any) => (x.spacing ?? 1) - 1).reduce((a, b) => a + b, 0)
             const startingAngle = iAdjusted / N * 360
             const endingAngle = (iAdjusted + (artifacts[i].spacing ?? 1)) / N * 360
-            const offsetAngle = N % 2 === 0 ? 45 : 0
-            const radianAngle = parseAngleToRadians((startingAngle + endingAngle) / 2 + offsetAngle)
+            const radianAngle = parseAngleToRadians((startingAngle + endingAngle) / 2 + this.offset)
             let maskOffsetSize = 10 // px
 
             // Correction for angle shifting
             if (artifacts[i].spacing) {
-                maskOffsetSize *= Math.abs(Math.cos(Math.abs(radianAngle - parseAngleToRadians(((i + 0.5) / N * 360 + offsetAngle)))))
+                maskOffsetSize *= Math.abs(Math.cos(Math.abs(radianAngle - parseAngleToRadians(((i + 0.5) / N * 360 + this.offset)))))
             }
 
             const maskOffsetX = maskOffsetSize * Math.sin(radianAngle)
             const maskOffsetY = -maskOffsetSize * Math.cos(radianAngle)
 
             return {
-                'mask-image': `conic-gradient(from ${offsetAngle}deg, transparent 0deg, transparent ${startingAngle}deg, black ${startingAngle}deg, black ${endingAngle}deg, transparent ${startingAngle}deg)`,
+                'mask-image': `conic-gradient(from ${this.offset}deg, transparent 0deg, transparent ${startingAngle}deg, black ${startingAngle}deg, black ${endingAngle}deg, transparent ${startingAngle}deg)`,
                 'mask-position': `${maskOffsetX}px ${maskOffsetY}px`
             }
         },
         getRotationAngle (i: number, artifacts: any[]): number {
             const N = artifacts.map((x: any) => x.spacing ?? 1).reduce((a, b) => a + b, 0)
             i += artifacts.slice(0, i).map((x: any) => (x.spacing ?? 1) - 1).reduce((a, b) => a + b, 0)
-            const angle = i / N * 360 + (N % 2 === 0 ? 45 : 0)
+            const angle = i / N * 360 + this.offset
 
             return angle <= 360 ? angle : angle - 360
         }
