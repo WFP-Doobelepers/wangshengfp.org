@@ -4,7 +4,7 @@
             <div id="container" class="flex justify-center w-full">
                 <img src="~/assets/wfp_logo.svg" class="w-[30%] lg:w-4/5 h-auto">
             </div>
-            <p class="text-center leading-none font-wfp text-3xl lg:text-[80px] whitespace-normal">
+            <p class="text-center leading-none font-righteous text-3xl lg:text-[80px] whitespace-normal">
                 WANGSHENG FUNERAL PARLOR
             </p>
 
@@ -20,7 +20,7 @@
             </p>
         </div>
         <div class="bg-[#452222] w-full">
-            <p class="text-center leading-none font-wfp text-3xl whitespace-normal pt-4 pb-4">
+            <p class="text-center leading-none font-righteous text-3xl whitespace-normal pt-4 pb-4">
                 OTHER SOCIAL MEDIA
             </p>
             <div class="max-w-[990px] mr-auto ml-auto">
