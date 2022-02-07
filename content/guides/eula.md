@@ -96,7 +96,7 @@ Down here I will list her pros and cons so you can make your own conscious decis
 ![](https://lh3.googleusercontent.com/PNTpkHw9QyrHJKJzd811LKGA3RJ90UMA2YsRF2aB-DClf0LNAvztkD6eWf0W78-8Dd9lXIE_A_pdbfEuR1uOFULMoIgS5JT63VmqThZrJHoWoLIts8Cqu8NhTn9haBZ1ZH1utfK_)
 Art by: [Csyday](https://www.pixiv.net/en/users/3420822)
 
-## Article I: Character Overview
+## Character Overview
 
 Eula’s entire kit, with its many interactive components, serves one ultimate goal: make her Elemental Burst as strong as possible. From her faster-than-Claymore-standard Normal Attacks and her personal Physical and Cryo resistance shred in her Elemental Skill to her passives, her kit all serves to assist you to get the most consistency and highest damage out of your Elemental Burst. Learning how to play around with her kit to achieve this goal, is the first step to your success with Eula. 
 
@@ -248,7 +248,7 @@ In simple terms, Glacial Illumination is a charged-up time bomb. After you cast 
 
 In a standard rotation from Eula, half of your total damage composition should, and would if played correctly, come from Elemental Burst. Its massive multipliers and damage number once you learned how to get the maximum stacks every Burst cast is one of the most addictive factors in playing Eula. There are only very few Bursts in the game that can reach Eula’s level of damage, and most of them need outside assistance/require reactions. The only character in the game who currently beats Eula’s Burst without help is C2 Beidou, who is broken in her own right.
 
-### How to get maximum stacks
+#### How to get maximum stacks
 
 In her Elemental Burst’s description, Eula is said to be able to gain stacks through three sources: her Normal Attacks, Elemental Skill, and Elemental Burst. However, this is an inaccurate and quite ambiguous description of what is undoubtedly Eula’s most vital ability. Let’s rectify that.
 
@@ -274,10 +274,10 @@ _(Ex: N5 already include stacks gained  by N1->4)_
 | N4   | 5       | Hold E 2 stacks | 4      |
 | N5   | 7       | Q               | 0      |
 
-### On the issue of shield breaking
+#### On the issue of shield breaking
 Glacial Illumination has an elemental gauge value on its initial cast of 2B GU Cryo. Its detonation deals Physical damage, therefore it has no Elemental Gauge. Although the damage from detonation is usually large enough to break down a large portion of smaller shields on Abyss Mages, it is not a recommended method to shield breaking, as it is way far less efficient than using an actual element that is appropriate for the job.
 
-### On the issue of energy
+#### On the issue of energy
 
 With an 80 energy cost Elemental Burst, and no outstanding self generation, Eula needs one, or even two batteries to consistently Burst off-cooldown. Not only that, learning how to funnel energy into Eula by casting the battery unit’s Elemental Skill and then swap into Eula so she can catch the particles on field for maximum energy efficiency is important in casting Burst every rotation without relying on high Energy Recharge stats.
 
@@ -309,11 +309,11 @@ _Assuming proper funneling and 3 white particles from enemies/rotation, R1 weapo
 | Raiden + Fav Diona           | 130-140%     |
 | Raiden + Rosaria + Sac Diona | 100%         |
 
-### On the issue of snapshot
+#### On the issue of snapshot
 
 Glacial Illumination does not snapshot. This means her detonation damage will be calculated in real time, using stats at the time it detonates. This means Eula has very low synergy with units that have buff times below 10s, such as Sara, as her highest damage source cannot be buffed by their kit. Units such as Bennett, Xinyan C4, which run on a 12s buff timer, are workable with Eula, but the timing may be quite tight depending on your rotations.
 
-### On the issue of missing Bursts
+#### On the issue of missing Bursts
 
 Eula’s biggest strength is also her biggest weakness. She puts all her eggs into the Burst basket, and if she misses, it devastates her damage, not the enemy health bar. 
 
@@ -323,19 +323,19 @@ Because of this, be mindful of when and where you are casting your Burst. Make s
 
 ![](https://lh4.googleusercontent.com/xURxnmrU9iv2fyVoU-y-BvS2oKNkhUHKzAqeEYyKmZ5xmDugHpIDfXNWhQ7DKiiVT4GtF9d9x_b-FIXUIAu29Kjor73yoxdGs49DAUsX7kYvcxSpDqnzxHOep5TUPZTAmn5DZJ8i)
 
-### Ascension 1: Roiling Rime
+#### Ascension 1: Roiling Rime
 
 *If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination.*
 
 This ascension passive heavily incentivizes you to only use Hold E only when you have 2 Grimheart stacks. The damage loss of omitting this passive is quite considerable, so always be aware of your Grimheart stacks before casting Hold E.
 
-### Ascension 2: Wellspring of Warlust
+#### Ascension 2: Wellspring of Warlust
 
 ![](https://lh6.googleusercontent.com/cFlJsukmgt_vJhc9TkUNWe2nGcvgS57CpWkxwuQ9aOlQy_g_PuzM7VsVV0SN1qPY3cD7hV8sQZo5RVMtSs8SwOcCx2Wk5Ju2_WZspaDa3eBw42dK-XIfvwOwdkHNMJzAxs2IZtvQ)
 
 A very useful and simple passive that just works. This ascension passive allows you to perform the fast combo of E Q Hold E, or E Q N_x_ Hold E, and still get maximum damage out of your Hold E, even when you start at 0 Grimheart stacks.
 
-### Talent leveling priority
+#### Talent leveling priority
 
 Q >= NA >> E
 
@@ -420,7 +420,7 @@ Max possible stacks gained: 15 stacks
 
 A combo reserved for those who are lucky enough, or spend enough to at least a Refinement 3 Song of Broken Pines. At this point, you gain enough of an ATK SPD buff that this combo becomes possible, and you get the highest maximum stacks without utilizing C6. Do note you have to stack 3 Sigils of Whispers before doing this combo, so set it up with N2D - N1, from 0 stacks.
 
-### On the issue of Attack Speed
+#### On the issue of Attack Speed
 With how strict Eula’s Burst duration is to gain stacks, one may be tempted to use weapons/buffs that give you ATK SPD buffs to gain more stacks, or just to make combos easier to execute. Except for the Whale DPS rotation listed above, there are no currently known other methods with ATK SPD to bypass the maximum stacks listed above.
 
 On a positive note, if you are just looking for a way to combo easier with much more leeway, ATK SPD will still help you there, and you will have more margin of error.
@@ -522,7 +522,7 @@ If you get here, you are an absolute whale, and you are rewarded appropriately. 
 
 Not only does this constellation open up your damage ceiling, it also means you can play Eula at a much more lenient level to hit the baseline damage. You can swap earlier for the same or higher amount of stacks than at sub-C6, or play for the highest oneshot possible. This constellation is absolutely insane.
 
-## Article II: Gearing
+## Gearing
 
 ![](https://lh4.googleusercontent.com/oMtYgr41xC4ExEmqG-IbQ6onIgCQCFj7DIqPdYZkwfVBEixW1jZjr4XyYCeUJwRIfiDdJwoPIfcGvvQni_hiA8wE6umAXRRDcDPmML7R6WDq9_uQ-js33LYrAHeiT6voRJO9pEIa)
 Art by: [xUDe](https://www.pixiv.net/en/users/18177156)
@@ -720,7 +720,7 @@ The Royal weapon line up has always been a strange one, and not in a good way. W
 * Sacrificial Greatsword
 * Favonius Greatsword
 
-## Article III: Team Composition and Synergy
+## Team Composition and Synergy
 
 ![](https://lh6.googleusercontent.com/7zRX55QCgUjALZwjp1dun8YOH8qG8TRH7a13vokET-WlcG-dieGB9ShGJTN8Ptcp3GjxrQNP2c_Xg3z_6zortqVPH4OD0nyfJCGGHT0I3mB-U5yqgIAJlp3OqDkMG4naXX8kO7ge)
 Art by: [Vardan](https://www.pixiv.net/en/users/4346254)
@@ -908,11 +908,11 @@ Rotation (Zhongli variation): Zhongli Hold E > Rosaria E > Eula E > Shenhe Q E >
 
 Showcase by TWICE: [Eula Mono Cryo Demo](https://youtu.be/FTFO6sDFa8Q)
 
-## Article IV: Matchups (WIP)
+## Matchups (WIP)
 
 The plan here for the near future is to compile all of Eula’s tips and tricks for each enemy matchups: which enemy she counters, which counters her, and what to do against each to maximize your performance with Eula. This is going to be a long-term project that I will update as time goes on. For now, it is not something with substance, so you can ignore this.
 
-## Eula Resources
+#### Eula Resources
 
 [Eula Mastersheet](https://docs.google.com/spreadsheets/d/1Tt2UIBzBgAaOTNxNXBTPQClX4ngGW2DFDy2IIXhvLc4/edit?usp=sharing) by ZΛNTO#4984, Sitri#9504, Artesians#0002, Agent_Eon#8245
 
@@ -922,15 +922,15 @@ The plan here for the near future is to compile all of Eula’s tips and tricks 
 
 [Eula Team DPS Comparisons](https://docs.google.com/spreadsheets/d/1SUcDmc09jUBJGvvGlTUFgtO5Oa0FcuB-qLV13U0Vs1g/) by TWICE#9958
 
-## Change Logs
+#### Change Logs
 
-**9/12/2021:  **Eula guide first edition publicly published.
+**9/12/2021:** Eula guide first edition publicly published.
 
-**11/15/2021: **Updated weapon listings with Akuoumaru, team comps with Eula Raiden Triple Cryo, new Lisa writeup, general cleanup.
+**11/15/2021:** Updated weapon listings with Akuoumaru, team comps with Eula Raiden Triple Cryo, new Lisa writeup, general cleanup.
 
 **1/29/22:** Guide is now maintained and updated by TWICE#9958. Updated weapon listings with KQMC and Redhorn Stonethresher, new Shenhe writeup, general formatting and wording cleanup.
 
-## Closing thoughts
+#### Closing Thoughts
 
 ![](https://lh5.googleusercontent.com/rFoe7DaPd5ZHm3pMyW_690uJTVOt3Eysu-JrhGycSI0ULxBl3sl7hzLF3dKrA1eX3xpEPnHI2JvJi-EC8cTTm3dguR9go9jxW_-SIVnfxLzyPBy-1dtS_QNwN6KXEl0XmxRvy-DR)
 Art by: [Onuko](https://twitter.com/neko8suko/status/1398949751639351297)
