@@ -84,7 +84,7 @@
 
                         <nuxt-content
                             :document="guide"
-                            class="text-white p-5 -mt-10"
+                            class="text-white p-5 -mt-6"
                         />
                     </div>
 
@@ -294,6 +294,10 @@ export default Vue.extend({
 
 ::v-deep .nuxt-content ol > li {
     @apply list-decimal
+}
+
+::v-deep .nuxt-content .table-wrapper {
+    @apply mx-auto max-w-[85vw] overflow-x-auto
 }
 
 ::v-deep .nuxt-content table {
