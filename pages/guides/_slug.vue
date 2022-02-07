@@ -296,6 +296,10 @@ export default Vue.extend({
     @apply list-decimal
 }
 
+::v-deep .nuxt-content .table-wrapper {
+    @apply mx-auto max-w-[85vw] overflow-x-auto
+}
+
 ::v-deep .nuxt-content table {
     @apply mx-auto border-collapse border-2 mb-5
 }
