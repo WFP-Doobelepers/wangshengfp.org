@@ -531,12 +531,416 @@ Art by: [xUDe](https://www.pixiv.net/en/users/18177156)
 
 #### Best in slot
 
-![artifact](https://lh6.googleusercontent.com/Cw-oSMQwFNQyByZCEO6oilJbUG7JO8zmjOj0kvrnY2JJgE-43mS55KrYbvMFOekFCP8GqbmMQi331A3rIv0TNhhj4wp3mJ-pdVr2Uw_cwRj-YTtuxq8NVY77N3GoND1Ytm31W9I9)
+<artifact-image
+    :artifacts="[
+        { set: 'Pale Flame', type: 'flower'}
+    ]">
+</artifact-image>
 
 **4pc Pale Flame:**
 
 Eula’s undisputed BiS (“best in slot”) artifact set. This set is made for her, and ever since her release it has kept its standing as the best set for Eula. 25 Physical DMG% at base, with 25% more and 18% ATK on a condition that Eula can trigger consistently in her Burst rotation with E Q - Hold E is huge. The passive also lasts way long into detonation, and if you want to stay on Eula for more after that. Always prioritize farming and using this set, unless your substats on it are very bad compared to other options. Again, C2 is **not** needed for this to be Eula’s BiS set.
 
 #### Alternatives
-![artifact](https://lh6.googleusercontent.com/Cw-oSMQwFNQyByZCEO6oilJbUG7JO8zmjOj0kvrnY2JJgE-43mS55KrYbvMFOekFCP8GqbmMQi331A3rIv0TNhhj4wp3mJ-pdVr2Uw_cwRj-YTtuxq8NVY77N3GoND1Ytm31W9I9)
-![artifact](https://lh5.googleusercontent.com/FMd2FG7u3z9Avc91zhrbbF-4ORd8xkEik2THJz02w_YUQCqRUlwt89ScI3rdK4L4W4RD9JF8xR8rKOzOe-GPPlvofoXHbITZmWMIocDa8CHgiaX0SzesPaDhFk7ZoX6IcYAM2gl2)
+
+<artifact-image
+    :artifacts="[
+        { set: 'Pale Flame', type: 'flower'},
+        { set: 'Bloodstained Chivalry', type: 'flower'}
+    ]"
+    :offset="45" >
+</artifact-image>
+
+**2pc Pale Flame + 2 pc Bloodstained Chivalry:**
+
+Your 2nd best option if you do not have a good 4pc Pale Flame set, or are in the process of farming it. It is basically full set Pale Flame, without the 18% ATK buff, which is not too significant of a loss once factoring in external ATK% buffs such as Noblesse, Tenacity of the Millelith, etc. Depending on your weapon, if it has a lot of ATK% on it, this set is a lot closer to 4pc Pale Flame than one might think. Do not hesitate to use this set if your substats on it are a clear winner over the full Pale Flame set.
+
+<artifact-image
+    :artifacts="[
+        { set: 'Pale Flame', type: 'flower'},
+        { set: 'Bloodstained Chivalry', type: 'flower'},
+        { set: 'Gladiator\'s Finale', type: 'flower'},
+        { set: 'Emblem of Severed Fate', type: 'flower'}
+    ]"
+    :offset="45" >
+</artifact-image>
+
+**2pc Pale Flame/Bloodstained + 2pc Gladiator/Emblem of Severed Fate:**
+
+Here we are getting into the mix and match territory. These options do not have high synergy with Eula, but they are very competitive stat sticks and can be compensated with good substats. The formula is:
+
+Physical DMG% + Whatever substats you need, which with Eula is ATK% or ER%. 
+
+If you need more ER to hit the ER threshold of ulting off cooldown, go with Emblem of Severed Fate. If you already have enough ER%, go with Gladiator for a more offensive option.
+
+<artifact-image
+    :artifacts="[
+        { set: 'Emblem of Severed Fate', type: 'flower'}
+    ]">
+</artifact-image>
+
+**4pc Emblem of Severed Fate:**
+
+ESF is a deceptively bad and quite misleading choice to run on Eula. While it is true a very large portion of Eula’s damage comes from her Burst, her Normal Attacks, which deal Physical Damage, are not negligible, and ESF only buffs your Elemental Burst.
+
+You need 200% ER (or 180% ER at base) to reach the same Physical DMG% buffs from 4pc Pale Flame or 2pc Pale Flame 2pc Bloodstained, and the DMG% buff is only applicable to your Burst. 200% ER is always overkill over what Eula needed, and that potential substat rolls should go into ATK% and Crit, not ER%. Only run if you have no other options.
+
+### Mainstats and Substats
+
+**Sands:** ATK% > ER%
+
+Eula is a Physical DMG carry, so her stat requirements are quite simple. ATK% should always be your go to. Eula usually needs around 140-150% ER on the high end and 120-130% ER on the lower end to Burst off cooldown. ER% sands gives you 52% ER at lv 20, and if you get lucky (or unlucky in this case) with some substats you can easily reach upwards of 170 ER%.
+
+With proper team building and substat farming, you should never need that much ER% to meet your energy requirements, and it dumpster her personal DMG as you lose so much ATK%. Only run ER% if you have no other options to Burst off cooldown. An ER% sands can also be useful at C6, where Eula can function as a quick-swap Burst support (i.e. on Raiden teams).
+
+**Circlet:** Crit Rate%/Crit DMG%
+
+As always, Crit is king for non-reaction carries. Choose whatever Crit mainstay that helps you balance a 1:2 crit ratio, and take substat into consideration as well.
+
+**Goblet:** Physical DMG%
+
+Not much to say here, she deals Physical DMG, so get the mainstat that benefits her. You should have enough ATK% from other sources that ATK% Goblet should never be an option to consider.
+
+**Substats:**
+
+Substats priority is as follow:
+
+1. ER% (until you can comfortably burst off cooldown) 
+2. Crit Rate%/Crit DMG% 
+3. ATK% 
+
+#### On the issue of crit fishing
+
+Eula’s unique kit also opens up a unique playstyle: Skewing your Crit ratio heavily into Crit Damage instead of keeping a 1:2 CR:CD ratio and reset floors until you get a massive damage Critical Hit with your Burst to oneshot floors. While this is certainly a viable tactic, this only works in floors with single waves, low enemy count. It is not recommended to be used as a general playstyle, and for general use and just for sustainability through multiple contents, stick with a 1:2 Crit ratio.
+
+### Weapons
+
+For those who do not want to read through this section, here is a TL;DR table.
+
+**Eula’s weapon rankings**\
+*Simulated with Lv 90 Eula, T9 Talents, 4 Pale Flame.*\
+*Substats optimized following [KQM TC Standards](https://docs.google.com/document/d/1_UpwP0VziHehZVwdsD74wYuWD9pdSAknNVzs30U4vFE/edit?usp=sharing)*\
+*Lv 100 enemy with base 10% universal resistances, affected by Superconduct*\
+*Rotation: E Q N4 Hold E N4 (explosion) - 13 Lightfall stacks*\
+*No external buffs, no auras/resonance, dynamic weapon passives*\
+*Full sheet available at [https://bit.ly/3FLNdJf](https://bit.ly/3FLNdJf)*
+
+![](https://lh4.googleusercontent.com/rHGxwPq8oW0TB3XuGGSk2UHzsdye5QXXqj0jLHA609rkkt97Yb-6AB6Kikxrlz2LtLPZxbhCCpf5QM15O2b4JEqZJusPQ6jV7v58OfpMJ7hqENMll3UrvgjIcSgVpUM5d42eGxgQ)
+
+#### Song of Broken Pines
+
+![](https://lh3.googleusercontent.com/N-GtXEtmM-aNJuyZzAs-X4tAZFw5MTnZyCmeI44Uc6fM8v5tK7m-JPVuRIWdA7OprfM0hNeQaJmkMm4dbtqeLnuir6oDjX7ybcY5OmXrWXuFBemCau7ITHLfkjLcV6ReTAkV5Vjb)
+
+It is no surprise that Eula’s signature weapon would be BiS for her. Highest base ATK and Physical DMG% substat with more ATK% steroids in its passive all benefit Eula greatly. Not to mention, the ATK SPD buff means your combos are a lot easier to perform. 10/10 weapon for Eula. Only weakness is that outside of Eula, Razor, and Xinyan, no other Claymore wielders really want it. Look at your overall roster before deciding to pull for this.
+
+#### Wolf’s Gravestone
+
+![](https://lh6.googleusercontent.com/amWmTTOUQ00YwCar71sM10yb1Z51Zbdlq33jfjvV8q3m5oBMsT5O1Qa1gWXlAvFazfAmg8NYNoFKuPPRJEc6m1iFO7wdggHnG91d60JAIRF8T2gA7yrYzt78zsKUvha5H6htEzig)
+
+The best generalist Claymore in the game. It has the largest ATK% buff in the game on a single weapon, and it is teamwide. With this weapon, most outside ATK% buff is unneeded or has their opportunity cost reduced greatly. If its passive procs, it can easily out damage Song of Broken Pines. However, the 30% HP threshold condition is quite hard to proc before Eula’s Burst detonates, so although it is still incredibly strong, it sits at 2nd place.
+
+#### The Unforged
+
+![](https://lh5.googleusercontent.com/OYLYFRdwj53hpSKhsFCjrFkWbgQYTXy7ALn0zWSt72dlS75prBsoZ-7OIsoQqGHDLvW_lJ3a7BSKgYywJqIhpX7tGEsM9mEMquyRfHbAsZxbSuteFSXik5yEPzdctYIdLwiE6pw-)
+
+Wolf’s Gravestone version 2, albeit weaker. This weapon also gives massive ATK buffs, and although it is a lot more consistent than Wolf’s Gravestone, you are forced to use a shield with Eula to get maximum power out of this claymore. If you do not have a Zhongli or Diona, this weapon is not as impressive as it seems. Even without shields it is still a 5* weapon with very good ATK% buffs, so it is still up there on the list.
+
+#### Skyward Pride
+
+![](https://lh6.googleusercontent.com/2yNwn7WM06wAovoXbB1hEYSUvnu22d73vuSSc0MsCW99cIEKXJgwYeB91BjiAOEjtVzSuszBuLB3XXNatN6LHMF0019ANT62P3f49r3hjOJDhFiyehuiWpJivL6w5WgXPZhXU4tF)
+
+Skyward Pride’s power and rankings are hard to pin down, as its power is heavily dependent on how much ER% you need. Eula actually makes very good use of its passive, as Skyward Pride’s airblades deal Physical Damage, and Eula’s kit can maximize its potential. If you need the ER%, it is at least a top 3 weapon. However, if you don’t need this weapon to hit the ER% threshold, or if it brings you too far over that ER% requirement, it can even be beaten by the best 4* options for Eula.
+
+#### Serpent Spine
+
+![](https://lh3.googleusercontent.com/ktfD6HagLujRWznKrg4Qq1ZllGOkWGXBTQDtG1Tpf4PEOdcFTxOqjmkzJxVsnY6TabuMDFm8YVACJN0vnTmJqYtnlI9VTvvcNDr0bsQTxxGqsCARhV5nZ8R0J3rBklNP1bslBIli)
+
+An absolute monster of a weapon, it is a surprise how it is even a 4*. With high Crit Rate substats, a universal DMG% buff, this weapon makes investing in Eula easier than even some 5* options above. Its only weakness is that it is also heavily contested among other claymores, so unless you have multiple copies, you have to make a decision of who get to use it. Best 4* option for Eula, uncontested.
+
+#### Redhorn Stonethresher
+
+![](https://lh3.googleusercontent.com/QKZOcGND4tK8OcQLeEakKFPlIf2uIM851WPesK41Q4vGwPfApL1T3P0hdCPJiHtF9F5hJvj-fuwwkesb73gnseAKapCVscn-ZEpOrmbQHqoDnzfqxWjStqJbAAifDj-ZSjfz-4PG)
+
+An incredibly strong stat-stick, boasting an 88.2% CRIT DMG% substat at max level. Despite this, Redhorn suffers from having poor base ATK and passive (even with Grimheart stacks). It is not worth it to change your rotation to get a slight boost to Eula’s Normal Attacks. This weapon also suffers from crit balance, as it will be difficult to achieve a 1:2 crit ratio with this weapon. One of the most powerful weapons for Eula when used with Bennett, as he helps solve the issue of low base ATK.
+
+#### Luxurious Sea-Lord
+
+![](https://lh5.googleusercontent.com/1polCERfmYMVh_qTDISpj1JZJztdxlwW7FznFU6KRMZt2JYbFiWcllGgHF9rWiRESCr-OEe0kLHzzYDSZ9qnTYbcxERFf60OGwSjWe5tJDc_js2TB55RCyxGPDqyBe73Ai3y6QID)
+
+For how silly this thing looks, it is the current best F2P option for Eula. It is an event weapon, so you can R5 it with little cost, and at R5 it gives a 24% DMG buff for your Burst, while also having a very good ATK% substat. The on-hit damage you can proc once every rotation consistently is extra icing on the top. Heavily recommended for all F2Ps, if you can get over your Eula whacking people with a giant sardine.
+
+#### Akuoumaru
+
+![](https://lh6.googleusercontent.com/AfVnSjhp8BBZp6l8QHoBCKkSfpTgfM-WA-yhPdwN2qcIQNAiygADoH_wFhA-jO3F-9ndvjIffovjHGxonftNrrFk0KRusi-W16SPrlfr_hKnkNXZI8UXa8dhB7_pI2sSU2opT9ks)
+
+Akuoumaru is an unstable weapon that has the potential to be the 2nd best 4* weapon for Eula after Serpent Spine, but also can be worse than Sea-Lord, depending on how much Energy cost you are running in your team. It is recommended to use Akuoumaru only if you are running Eula with Raiden to make the most use of its passive and if you have high refinements on it, or if you do not have a Sea-Lord or Serpent Spine to spare for Eula. Still a very good weapon, do not hesitate to use if the conditions aforementioned apply to you. You can check the comprehensive weapon sheet at the top for specific thresholds and refinements where it matches up with her better options.
+
+#### Lithic Blade
+
+![](https://lh4.googleusercontent.com/yop8ePLHIIw_gPjOMOuz25dpRqchw-Bwwlhbe0LmtCoyMwCij9JmF5hp2qNlamzNyk0Dwygpo0k2a4x9xjPJAVixHLTZnObEyjpmONYA4V9hzDU1n14VpFoLNZmJJB_t4DEiWbwE)
+
+Another weapon that has a conditional ranking. Two of Eula’s best batteries are Rosaria and Diona, and they are from Mondstadt, while if you do not have a Raiden Fischl is your best off field Electro applicator for Superconduct. This means this weapon is usually stuck at 1-2 stacks, or in some cases even 0, pushing it behind Snow-tomned and Archaic. However, in a Eula Raiden Beidou composition where you can reach 2 stacks, this weapon beats all of the options under it. Quite situational, use with care.
+
+#### Snow-tombed Starsilver
+
+![](https://lh6.googleusercontent.com/2aODv5M-1_8XELTdWlqaFhOeIRVr9PGptk9qXosxZ-VqkHUivlUPHIBUcupQXlimXbqnc-yjmLOZMhgCZ9Ox31AOY1FFsUvIPvaMHx4M7I65HVwbKViIFd-i7Dc9MQ3E8blh8pKD)
+
+Used to be Eula’s best F2P option until Sea-Lord arrived. It has fallen out of favor, but it is still a very competitive weapon on Eula, not to mention there are few who would contest this weapon from her. It’s passive can be dodged and missed, which is its one point of inconsistency, other than that, it is a useful and nice statstick that just works.
+
+#### Prototype Archaic
+
+![](https://lh3.googleusercontent.com/JyA2qTNpn0wGCa2LJqt0Hgv1o7QzBA8n07A7bufVoaKKgIJD66GuVTOhTVcQmaMBu-WCvS0INSyWpBI1z4DZM2DriJG3cwO36nSwMdBAXJ3zzGcbgCNondZExDZ8YoG6FODxb5ES)
+
+Very similar to Snow-tombed in power, but it trades Snow-tombed higher damage ceiling for higher consistency. Use it if you don’t have anything better, you don’t need to feel bad about using it.
+
+#### Blackcliff Slasher
+
+![](https://lh6.googleusercontent.com/Yn0Rj0gFw7C_vbVLxUQRVORxTUd2DqzNfKzyusjjYghLPvnzVjQBAcBdE-sNKsui-juIjveNKgE1GJOfLHs1R8HsyngDIapj-qL1kGkabDIyxibcwcnO9_Kt4YGMMTZTal-_93zT)
+
+This weapon shares many parallels with the Lithic Blade. Incredibly powerful when everything lines up in its favor, but a fairly underwhelming floor. At 3 stacks it’s comparable to Serpent Spine in damage, but the situations where you reach that power are very rare and niche. At 0-1 stacks, it is still a good weapon, but not worth enough to trade 25 Starglitters for.
+
+#### Skyrider Greatsword R5
+
+![](https://lh5.googleusercontent.com/_PQFNGWeMQX2Rs5W_14WU70LV3xLm_PxLl1lYkhytlVLdC1JySOP31iPr78ae45dKCxmuwJ5gFp5bOF_vn3GRe8Ejn0gw84gbTpZS2awqN8v49At1yDFqBClSdnCR-sg36ZLegk7)
+
+A surprise among the roster, but definitely a welcome one. At R5, it is at the same power of an R1 Swow-tombed, which for a 3* weapon is incredibly impressive. If you are at this point where you have no other options, beggars can’t be choosers, and this is absolutely not a bad reason to beg for.
+
+#### Royal Greatsword
+
+![](https://lh5.googleusercontent.com/u3nCP40LkoDp_nNL_AmzEHjPaSypatXlVf8mlLDqpX4mKtqocGtVW1USEHcY-Zb4eyh5NV06_9rnFQ3F4THnP8FmS-n6P9HfCFTkuQ45W0aBQCmmSizCJ3FYa5QWmFTcz333lMqY)
+
+The Royal weapon line up has always been a strange one, and not in a good way. While they have very high base ATK for a 4* weapon, along with ATK% substat,, its passive is one of contradiction. The passive gets stronger the lower Crit Rate you have, but never becomes strong enough it can fully replace actually investing into Crit. Because of this, its passive becomes worse and worse the more investment you have on Eula, making it unappealing. Still, it works as a useful stat stick, despite its passive.
+
+**Author’s note**: The options listed below are never worth running as several of the above options can be easily obtained for even free-to-play players (i.e. Snow-Tombed Starsilver, Skyrider Greatsword). These include the following:
+
+* Whiteblind
+* Katsuragikiri Nagamasa
+* Rainslasher
+* The Bell
+* Sacrificial Greatsword
+* Favonius Greatsword
+
+## Article III: Team Composition and Synergy
+
+![](https://lh6.googleusercontent.com/7zRX55QCgUjALZwjp1dun8YOH8qG8TRH7a13vokET-WlcG-dieGB9ShGJTN8Ptcp3GjxrQNP2c_Xg3z_6zortqVPH4OD0nyfJCGGHT0I3mB-U5yqgIAJlp3OqDkMG4naXX8kO7ge)
+Art by: [Vardan](https://www.pixiv.net/en/users/4346254)
+
+As many other hypercarries, Eula compositions are not very flexible, and usually follow a strict “formula” of units that are core to her performance, with 1-2 other units that are replaceable depending on content and your own preferences and playstyles, as well as availability. 
+
+As stated before, although Eula is a Cryo character, you should not play her as a Reverse Melt unit unless you are willing to accept that you are not going to perform to even half of Eula’s potential. All of her standard, and best comps, maximize her ability to do as much consistent and sustainable Physical damage as possible. 
+
+All of Eula team comps generally fulfill these 3 conditions, and the rest is up to you:
+
+
+
+1. An off-field Electro applicator that can keep consistent Superconduct uptime for Eula throughout her rotation. 
+2. 1-2 units that can battery Eula so she can Burst comfortably off cooldown without relying too heavily on her own ER%.
+3. Offensive and defensive buffs that can keep uptime throughout Eula’s burst until her detonation.
+
+From these conditions, we sort Eula’s compositions into different categories, based on her core unit: an off-field Electro applicator.
+
+### Eula - Fischl Core
+
+![](https://lh4.googleusercontent.com/jeocs4lw1k06r3_3LcvTdQT4Qzt2jMU00il5uaOCbkIfSiIMGiPdTfSDLchyBpYYQULGcXyBjBaisc0Rau3_hwKPRi1SkKo7fKNJizbcVvj6dlsbUyW4xKiRJpO23ibblo5W6EII)
+
+The original bread and butter Eula team comp. Most Eula teams that are easy and consistent to perform and play with decent quality of life rotations will follow this template. Fischl applies consistent, long-existing Superconduct, and other units keep Eula damage high and consistent, or provide her with defense. Except for Eula, all other units are usually 4*, even the optional ones making it very F2P friendly. 
+
+Here are some popular variations of this template and how to play them. Do note these are suggestions, you can build different comps with this template once you understand more about how each unit performs in a Eula team setting.
+
+### Eula Fischl: Triple Cryo
+
+![](https://lh5.googleusercontent.com/Xcow5mekhYEKDI6bQnioYxdiBYaTUFRym67d2zOMgtACZHpN2Etg9NhsZfSwIeBcKnFLYU4uHpJygKvFVMEP7GoS5iH3S_Ot0MPQxr1pt8xn0cuwaveJhMbJ0d_IaO5QJed4hCRn)
+
+A popular variation that allows consistent energy regeneration for Eula. The damage ceiling of this team is not the highest, but it is consistent, and the barrier of entry is quite low. Recommended if you just started playing Eula.
+
+Rotation: Fischl E > Rosaria E > Diona Hold E (x2) > Eula E > Rosaria Q > Eula DPS rotation > Rosaria E > Eula normals (repeat at 22 seconds with Fischl Q)
+
+### Eula Fischl: Beidou Driver
+
+![](https://lh6.googleusercontent.com/Mqz5-JhGK8zpfBJ5dumMeazlBAwzDsucnztTL1UxOogHOnDHDydFfKuy5AyMKBs8g45j9SEY1DgURN_6GfQxG2YRJnAzwm5ahPRjBa8EUnrZWqqatM3MKUmjQB7dOdTYqmyZmlnA)
+
+The most mechanically intensive variation. Here you trade a bit of Eula’s damage to enable Beidou’s massive off-field damage. A very energy hungry variation, your Eula will need upwards of 170 ER% to burst off-cooldown efficiently. It is recommended to end fights in around 1-2 Burst rotations, otherwise you might run into energy issues. Hard to pilot well, prepare to put in practice time. The rewards are very worth it, as this comp scales very well with your Beidou’s investment.
+
+Rotation: Fischl E > Diona Hold E Q > Eula E N2 > Beidou E Q > Eula Beidou Driver Rotation + N4  (Repeat)
+
+### Eula - Raiden Core
+
+![](https://lh6.googleusercontent.com/wlIU2byK406wZXKLFcgCX2BmqJOvgH1yN7T0gp9wS7_VhhiwBCSKK9nLjYvA69cH4-QIapfdYAEiMGNXly3p41-sZiNy8ibwlvqnKE4te766G44fhislTuXQ-9gi790IY4avQaD4)
+
+A more expensive version of Fischl variations, Raiden’s Elemental Skill is basically a better Fischl for Eula. It applies consistent Electro for Superconduct, and trades personal off-field damage for more damage on Bursts and Raiden’s on-field damage, which usually out-damages Fischl at the same investment. Raiden significantly reduces the whole team ER% requirement with her top-tier team-wide energy regeneration, making team building and investing a lot easier (note: Eula will still **need** a cryo battery, even with Raiden). You trade all these benefits for a higher mechanical skill requirement, as both Eula and Raiden have quite complicated combos that need to be performed well to play efficiently.
+
+Eula Raiden compositions always have rotation times over 22 seconds, and most can often approach 25+ seconds. Even though the damage per rotation is much higher than Eula Fischl’s, the DPS, although still higher, is not exceedingly high enough that it invalidates any non-Raiden Eula user. Coupled on that all Eula Raiden variations have much more complex and active rotations, and a lot of the damage gain actually comes from fine tuning your ER requirement and using those spare substats in more offensive stats. Practically, unless you are very dedicated, you will not see that much gain with Raiden compared to Fischl until much much later. 
+
+TL;DR: Eula Raiden is good, and can be better than Eula Fischl, but it is mostly a stylistic choice rather than a power choice. Use Raiden if you like her and want to pair her with Eula, you won’t miss out too much if you don’t do it either.
+
+***Author’s notes**: Eula Raiden are both fragile units, even with their interruption resistances. With both of them requiring a lot of uninterrupted field time, they are exposed to a lot of potential dangers. It is highly recommended your Flex or Cryo slot is a shielder, such as Zhongli or Diona, to make piloting this team easier.
+
+### Eula Raiden: Zhongli Rosaria
+
+![](https://lh6.googleusercontent.com/I16QbcWQvqWiRHj9Fw-4i39ar45Qo7Y2o_rQwEjpRm_ADQfVgLtfJJfjGOn1f9CRUnhdLd6MYZl5j10Xr9z9g16f39p5XIBF876uv7huDpsby-hUyTeFVL08i7AU45im6c-4or_X)
+
+A standard team where you fill generalist units that can support both Eula and Raiden in dealing DPS. The rotation of this comp is quite snappy, fast, and easy to get used to. You can replace Rosaria for Diona if you are uncomfortable playing without a healer. Don’t use Zhongli Q outside of emergencies, it is always DPS loss. 
+
+Rotation: Raiden E > Zhongli E > Rosaria E Q > Eula DPS Rotation > Raiden 3N3C N1C (Repeat)
+
+### Eula Raiden: Beidou Driver
+
+![](https://lh5.googleusercontent.com/phJ5kkv42QEELhITQJLwCF6AdMKDcvxt_uk1WvqiOJ6YoDVPeQShi60FztVFh1zruwE0qWPcMvM2Y6N9mcP6pxe_GYKs2buWLdJ3YmhsebDolaGFmwXU6zQouWyWLRgI0CKZilq_)
+
+Same as Eula Fischl, this comp trades a lot of Eula’s personal damage to enable Beidou, and with Raiden’s Elemental Burst buffs, Beidou can dish out some serious damage here. Also same as Eula Fischl variation, this comp is now even harder to pilot well, although if you can play it perfectly, it is one of the highest damage Eula comp in 2-3 enemies scenarios, which is most often times when you want to use Eula anyways.  As always, practice is key!
+
+Rotation: Raiden E > Beidou E Q > Diona Hold E Q > Eula N1
+
+### Eula Raiden: Triple Cryo
+
+![](https://lh3.googleusercontent.com/239os-X9feN1P4bohlEjBOUTSaDcifZA6F1f1TGklQ4fxB9ccs5FIozenxt5O7lpPTvQU5bWtXXC40g35tKZ1c0rOckV_y2Ol9JmjpUN2vEgV3olcUUbFtPpIAAlhSPc_QeAZ0nE)
+
+Any triple Cryo/double battery Eula comps are very easy to play and easy to build ER requirements around, and that applies here for Eula Raiden. In fact, this is the only Eula comp variation where you can run 0% ER on Eula and still be able to Burst off cooldown, providing that you have a Sacrificial Bow on Diona. Not only that, rotations in this comp are smooth, with a lot of leeway for error without extending time too much. Heavily recommended for more casual players who want to play Eula Raiden together, but find Eula Raiden to be technically difficult.
+
+Rotation: Raiden E > Rosaria E > Diona Hold E (x2) > Eula E > Rosaria Q > Eula DPS Rotation > Rosaria E > Eula N2 > Raiden Q 3N3C N1
+
+### Eula Raiden: Lisa TTDS
+
+![](https://lh4.googleusercontent.com/naQdcMNG5AgSfueEji5eqcp9BxFKFLviIa1q26jQNtDxbD9Z4Q8nvndqp2AK6Hmv4tgJRDb66BPe3f9Do5JMGZN18EuUxMQ5QAzCEe04gjz6mFRT43C_N9Ia5sJE7CiLwMMDo3kb)
+
+My (new) personal favorite in terms of snappiness in gameplay. Lisa does not have a very positive reputation as a unit, and even less so as a filler in team compositions. However, she is deceptively very good support for Eula in Eula Raiden comps. Lisa’s largest issue of a powerful but unsustainable Elemental burst is completely solved by Raiden who is an unmatched battery in the current state of the game. Throw Thrilling Tales of Dragon Slayers and Emblem of Severed Fate on your Lisa, get around 150% ER, and you get a massive ATK% steroid and DEF shred unit who can also dish out some respectable damage. 
+
+Rotation: Raiden E > Diona Hold E (x2) > Eula E > Lisa Q > Eula DPS Rotation > Raiden Q 3N3C N1C  (Repeat)
+
+Showcase by Sitri: [Eula Raiden Lisa TTDS](https://youtu.be/ZzfOo9R75aM)
+
+### Cryo Battery Position Candidates
+
+#### Diona
+
+![](https://lh5.googleusercontent.com/ljrh4rnR0_f6dPMLVPonGhiGmIH_djpM84HJjMNtU3N8bkWORZZmklz2WLJc1LAByzI8vGz2tlAiHZLt_QJcky4SocCR6NEMolvWNLojA91bxRDzxByYkEZ0kX9qGyzK04OYsz6y)
+
+There is no unit Eula loves to have more than Diona. She gives Eula everything she needs, in one neat, cheap, 4* package. High bursts of energy generation in a short time with Hold E, proactive defense with shields, and reactive defense with her Elemental Burst healing. Diona with Sacrificial Bow and a double Hold E cast is the best energy generation method for Eula. Always use Diona if you can. Pair her with R3+ Sacrificial Bow, or a Favonius Warbow, and you are good to go.
+
+#### Shenhe
+![](https://lh5.googleusercontent.com/L8x-7EXgPxStZE1o_-GeYAcrSPhozDIatQlinVtLCVrd_tcCZ0uC2oiu3Agan7wLYVQosHMAeoR4mWqSZgotxJN-okO0oU-sPHvMTXduLz-OI88aPXHumrPBEKe5_BqUA5GQVjQ6)
+
+Shenhe is the more expensive version of Rosaria: she shreds Physical resistance when enemies are in her burst, provides the same amount of energy as Rosaria with her press E, applies cryo about as frequently, and buffs the whole team’s Skill and Burst damage via her Ascension 4 passive. At C1 she’s a comparable battery to Diona, and at C2 she’s Eula’s best offensive cryo support. She slots into existing teams quite nicely as a Rosaria replacement if you have her, but don’t feel forced to pull if you already have a high constellation Rosaria.
+
+#### Rosaria
+
+![](https://lh3.googleusercontent.com/YJHeKzQXcuHp_EO3F8Ge5VMozwK8oPezISzjtCctE7glEp6x5BZ8yUX3HwTTYhCAZkedY8robVbs-rS7LHWcctl0crP2m_8eK835muoo4oqncYV3ANxyhElxxuFsx82OlaLvcZfX)
+
+Rosaria is the more offensive option to Diona’s defensive, and in that regard, she is a very strong offensive battery for Eula, especially at C2. With consistent high energy regeneration, Crit Rate buffs, very noticeable damage with her own Elemental Burst, do not hesitate to use Rosaria if you need to use Diona elsewhere. She will serve you well in most situations.
+
+#### Kaeya
+
+![](https://lh6.googleusercontent.com/zGYYPMsZV_RdlXNHei9H5r0hXbg766zXe8637YoA75NE5W1nHejYRXkhJcKH7sD6hnaGxgAXRrdk259qr3EEbhdUz5d0bFCPb9jWyFYswtOVtrfrX9eLbaPY0cLngw7Wx1OvChWU)
+
+Kaeya is a very slightly inferior option to Rosaria in a Eula comp, especially if Rosaria is at C2. While he can generate energy over a long duration of time better than Rosaria, the higher particle generated per cast by Rosaria makes her more appealing to Eula, who wants to get online as soon as possible. Still, a very good option, and he is free.
+
+### Flex Position Candidates
+
+#### Bennett
+
+![](https://lh3.googleusercontent.com/hUFR7YpT1Z9-69w56RXJ5dwYpgVIpkjsvR4nEmBQPCfA4wrJ3IfRMbPM6U2urEVHElZ0VfeWlMByB_Oho4z-J6zpea851UHPITx_aVwlg8I92jVgiqlyzg0pHC0XZLB37g59QdL-)
+
+One of the strengths of Eula is that she does not need Bennett to perform. Her strict rotation times and combo patterns means she is quite restrictive with when and where she can use Bennett. In the worst cases, she can even make Bennett look mediocre. However, Bennett is still Bennett, and he is still broken. If you don’t need Bennett on your other team), you can use him here, but I will reiterate that again, you DO NOT need Bennett with Eula.
+
+#### Zhongli
+
+![](https://lh3.googleusercontent.com/HwlJJ8DYvcCHh5Ba08gJhtoICAWh8IC-koXgVBC_DPQNo4m9lB9mXSC7J6BnyExroGdds1Pb0OcVMr-5hUzyGLkQKjAuuCvLromRjDyW1UMdiSaxuJp99R0Ehj0j7ZMb4vwGtjrU)
+
+There is hardly anyone more universal than the Geo Archon in this game. It doesn't matter who you are, he will fit just fine in any comp. His Elemental Skill’s 20% universal shred is not as apparently effective in a Eula comp with the abundance of Resistance Shred she has, but his shields provide unmatched comfort. Never a bad choice to use him if you have a spare slot.
+
+#### Albedo
+
+![](https://lh3.googleusercontent.com/M_9j7AHmHChtpXJDcag7JgsgiOE9_pbSWYLXtL54AvOJ6UhjNSFwFq2htpWBW8jROMAdMaflvudelevK_KCMscgB62kixFiJ4b4qNvvjpOm57wWjUz2xvH3wyahCXcyi61bObxGP)
+
+Like Zhongli, Albedo is an inert, unintrusive unit that just works, no matter where you throw him in. He does not provide much for Eula outside of extra damage, but if you have no better option, he is always a choice to consider, or just to put your mind at rest.
+
+#### Lisa
+
+![](https://lh4.googleusercontent.com/BkJoNKLdQdPvOl5sNfGZgGISLTGWLboTrfnQWyFE7ghYxbpj5jFjv5P-PFWQGxHAMycBHgIHmaiymnihF0Igb_y46tx_Ihlfr4GxPc5Ue0LSXtUFdnRgKVjTl6V4oNtjbR3Exf21)
+
+Outside of the Raiden Lisa variation, where Lisa’s strength as a Thrilling Tales of Dragon Slayer and DEF Shred carrier shines the most, she is a strong, but very limited  support generally. I recommend running her only if you satisfy one of these two conditions: you are looking for a cheap speedrun/one-shot composition, or you plan to run Lisa with Raiden in a Eula comp. Outside of these, Lisa is not that great. If you can fulfill her energy requirements in those two conditions above however, she is frighteningly useful.
+
+#### Sara
+
+![](https://lh4.googleusercontent.com/8Fps_a8tw-t61sadFoUvJpFx6R1ewKJeMpFsLWnrQzc7x8ZjwQPzz6YhDpJCLAA-eGqM_6cPU6SIgmZIQVdT7ufnKH0RRod8XRivnL06YJYO-d7hSJqwIReGBJKOM4it2Lu2Yi8H)
+
+Sara, in a lot of ways, is another Bennett. But since no one can be as broken as Bennett, she has a lot more caveats to be used than him. Sara buff duration is only 6s, so you cannot get your detonation to be buffed. However, 500-600 bonus ATK even just on half your rotation is still certainly not ignorable. I would only recommend running Sara if you have her at least C2, as it reduces your necessary aiming field time by a lot, and I recommend running her with Raiden, especially if your Sara is C6, for maximum synergy.
+
+#### Xinyan
+
+![](https://lh6.googleusercontent.com/XyUFTTMG2WqRaOI_bwZfrBHjRDQ0S8kcchieKbNwFacf3cGBTiiQqYzGdlBnCztYcWzIONGlPoloTjOoKNAMJW4d7zLGWlEZziy9K0Ql1J25eab4rkk5dxhbj_z1WBnN44Ic7x7n)
+
+Ok, no laughing. Xinyan got flagged as the worst unit in the game, but she has some value in a Eula composition, especially at C4. She gives a lot of things that Eula would want from a support. Physical DMG% buffs, a decently large shield for a 4* unit, and with C4 she provides a good amount of Physical Shred. Give her a chance. Maybe.
+
+### Exceptional variations
+
+#### Geobros
+
+![](https://lh6.googleusercontent.com/nZ6YQCQMYkcnzr_RszKhHoLzP85lCuZrMPBn9RpnOllu1WexOHuUpKD-3PkIjPksSXYASJ9nkKYnRtKffl3vPakuLQzqjqJ44jySo8yMxmvoNJFO1YLklkw4dhmDyaO1cuTMpEgQ)
+
+This composition forsakes Superconduct for the bruteforce combo of Zhongli-Albedo, aka GeoBros. With Zhongli’s 20% universal Resistance Shred and Geo Resonance 15% DMG buff, along with more than enough shields, this composition trades a high damage ceiling for a much more comfortable experience.
+
+Rotation: Zhongli Hold E > Albedo E Q > Cryo E Q > Eula DPS Rotation > Cryo E > Eula N2 E > Repeat
+
+#### F2P oneshot
+
+![](https://lh3.googleusercontent.com/4LJvNL_lDlNreYFzoabXU7eiHNKEhkpkULpO5roBiBPNNYrItW_dK_BGnFmYq9oiRnZRAzI2_Yu7uhhHaRKRG3hlvOI7R0JzzUP-YrdJ0-RRRgW7ch4EDlOdTWOLN74SYHIgIJ4i)
+
+Quite a meme comp, but it has been shown to work, so I will include it anyways. Do you ever want to feel like a whale, one-shotting a whole floor in one rotation? This is your chance. Stack all sorts of unsustainable buffs and debuffs, and deal as much damage in one go as possible. Y0u can replace Xinyan C4 with Zhongli. I take no responsibility for the sanity lost in resetting floors to get a good run. 
+
+Rotation:
+
+Eula E > Bennett Q > Lisa Q > Eula DPS Rotation (swap after last hit) > Xinyan E 
+
+*There is a delay before Eula’s burst goes off, if you have good enough ping, you can swap into Xinyan, cast her E and get the DEF Shred off before Lightfall Sword detonates.
+
+Zhongli variation: Eula E > Zhongli Hold E > Bennett Q > Lisa Q > Eula DPS Rotation
+
+Showcase by Artesians: [https://youtu.be/z4avNUneqU0](https://youtu.be/z4avNUneqU0)
+
+#### Mono Cryo
+
+![](https://lh4.googleusercontent.com/7K6f23ntTmBoxIrD00yFMy-RZQE_5vEnN2FS2pI_e4H3o-76uhwPdO8LmWdSI32OjPsR8AGphtgafH0NCqXY4ZgXSCo2UAuAW63Ed-NtQYQjJ391ozb93tnPTLEFxF_KZu71G2I7)
+
+A unique composition that trades away a Superconduct source for the Physical resistance shred provided by Shenhe’s Burst and Rosaria’s C6. This team can guarantee 100% uptime on cryo resonance, helping alleviate Eula’s issues with crit, take incredible advantage of Shenhe’s Icy Quills, and frees up powerful characters such as Raiden for your second team. This comp generally wants multiple Favonius users to fuel Eula’s and Shenhe’s expensive bursts, but can get away with one with higher overall team ER%. 
+
+Rotation (Zhongli variation): Zhongli Hold E > Rosaria E > Eula E > Shenhe Q E > Rosaria Q > Eula DPS Rotation > Shenhe E N1 > Eula N2 > Rosaria E > Eula N4
+
+Showcase by TWICE: [Eula Mono Cryo Demo](https://youtu.be/FTFO6sDFa8Q)
+
+## Article IV: Matchups (WIP)
+
+The plan here for the near future is to compile all of Eula’s tips and tricks for each enemy matchups: which enemy she counters, which counters her, and what to do against each to maximize your performance with Eula. This is going to be a long-term project that I will update as time goes on. For now, it is not something with substance, so you can ignore this.
+
+## Eula Resources
+
+[Eula Mastersheet](https://docs.google.com/spreadsheets/d/1Tt2UIBzBgAaOTNxNXBTPQClX4ngGW2DFDy2IIXhvLc4/edit?usp=sharing) by ZΛNTO#4984, Sitri#9504, Artesians#0002, Agent_Eon#8245
+
+[Eula Database ](https://library.keqingmains.com/characters/cryo/eula)by KeqingMains
+
+[Eula Mains Discord](discord.gg/eula)
+
+[Eula Team DPS Comparisons](https://docs.google.com/spreadsheets/d/1SUcDmc09jUBJGvvGlTUFgtO5Oa0FcuB-qLV13U0Vs1g/) by TWICE#9958
+
+## Change Logs
+
+**9/12/2021:  **Eula guide first edition publicly published.
+
+**11/15/2021: **Updated weapon listings with Akuoumaru, team comps with Eula Raiden Triple Cryo, new Lisa writeup, general cleanup.
+
+**1/29/22:** Guide is now maintained and updated by TWICE#9958. Updated weapon listings with KQMC and Redhorn Stonethresher, new Shenhe writeup, general formatting and wording cleanup.
+
+## Closing thoughts
+
+![](https://lh5.googleusercontent.com/rFoe7DaPd5ZHm3pMyW_690uJTVOt3Eysu-JrhGycSI0ULxBl3sl7hzLF3dKrA1eX3xpEPnHI2JvJi-EC8cTTm3dguR9go9jxW_-SIVnfxLzyPBy-1dtS_QNwN6KXEl0XmxRvy-DR)
+Art by: [Onuko](https://twitter.com/neko8suko/status/1398949751639351297)
+
+This project was probably the largest undertaking I have taken solo. While I have written guides with many others before, either in sections, or just consultation, it has not come close to an experience writing this guide was. It was long overdue, and again, my sincerest apology for the delay and my own procrastination. 
+
+Eula has been out for a long time now, and although a lot of people have, and still are playing her, and probably know a lot about Eula, I hope anyone who read this guide would learn something new, and find some use from it. I also hope that if she gets a rerun, this would spark interest in more people to try her out and give her a chance. Eula is not a unit that is easy to like, and for good reason. She is not Ganyu, Xiao, Hu Tao, Bennett, Xiangling, who just works, she demands a lot of time and effort, but she is fun, and I hope people would have fun with her as well. 
+
+Again, many thanks to those who had helped me in theorycrafting Eula, and have entertained many useful discussions that allow me to have enough ability to write this guide. It would not have been possible without them.
+
+That’s it from me for now. Peace. 
+
+-Sitri
