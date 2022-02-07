@@ -84,7 +84,7 @@
 
                         <nuxt-content
                             :document="guide"
-                            class="text-white p-5 -mt-10"
+                            class="text-white p-5 -mt-6"
                         />
                     </div>
 
