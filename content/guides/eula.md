@@ -8,8 +8,7 @@ last_updated_game_version: '2.4'
 author: ['Sitri#9504', 'TWICE#9958']
 ---
 
-![](https://lh6.googleusercontent.com/pSBkNlKGxGMgbmrrhONqxw5UQJ86YzPJOW00wlqITz4N3X_wxmtiPZIal1nijTaUPq82h3BcUxSYRcEMgPKiFXXMauSX3ZIzICazhIb5bLOI-Yk7NRryUe0vjesMeQZeVE1n_J0d)
-Art by: [♠Sea](https://www.pixiv.net/en/users/7263576)
+![](https://cdn.discordapp.com/attachments/934657600002326569/940358701754245120/final4.png)
 
 #### Preface
 
@@ -22,6 +21,9 @@ Before we dive in, I want to give special thanks to Artesians#0002 and Zanto#498
 There are many more who I am to thank for making this guide as comprehensive as it is currently, but I have no space nor time to name everyone. It is not a one-person job. So again, thank you. You guys know who you are.
 
 Time is short and precious, and we should get to the interesting parts instead of listening to my ranting.
+
+![](https://lh6.googleusercontent.com/pSBkNlKGxGMgbmrrhONqxw5UQJ86YzPJOW00wlqITz4N3X_wxmtiPZIal1nijTaUPq82h3BcUxSYRcEMgPKiFXXMauSX3ZIzICazhIb5bLOI-Yk7NRryUe0vjesMeQZeVE1n_J0d)
+Art by: [♠Sea](https://www.pixiv.net/en/users/7263576)
 
 ## Abstract
 
