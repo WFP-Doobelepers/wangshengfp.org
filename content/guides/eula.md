@@ -108,6 +108,17 @@ I will go over each component of her kit, as well as tips and tricks on how to u
 
 ![](https://lh6.googleusercontent.com/i64x4blJkbO1yM2rLSTphzckh25_1lowBIr_eroX8gV8EBfGUs0ksn3G-mB-Hp1iXOOWBLU659TcSge--5bR153_T2vAJLmudZAZyTf1qOjawMPNN4dywMEN0Kd0a5ezhzD4eU0l)
 
+##### Normal Attack
+Perform up to 5 consecutive strikes.
+
+##### Charged Attack
+Drains Stamina over time to perform continuous slashes.
+At the end of the sequence, perform a more powerful slash.
+
+##### Charged Attack
+Drains Stamina over time to perform continuous slashes.
+At the end of the sequence, perform a more powerful slash.
+
 Eula's Normal Attack is quite straightforward in what it can do. It is a maximum 5-input chain auto-attack sequence, with a shorter than average execution frame compared to other Claymores, when they do not have an ATK SPD buff. Eula has high multipliers on each input, even among her weapon type, which is compensated in raw power for their slow attacks. These two factors allow Eula to dish out very consistent, above-average physical damage just from auto-attacking   
 
 However, everything is not as simple as it is on paper. Although overall she does attack faster than an average Claymore, her 5th input in the normal attack sequence (which we will call N5), takes a devastatingly long time to execute, which makes it unappealing to finish her entire attack chain. Because of this, we will tend to interrupt Eula's attack sequence with dashes, jumps, or ability casts to get maximum value out of our Normal Attacks.  
@@ -158,3 +169,72 @@ There are only two combos you need to do and should master, on Eula: N4D and N2D
 
 ##### N4 Tap E instead of N4D
 ![](https://lh3.googleusercontent.com/vDntMWISgBMJjNbCN85YKZDZOnlqTJMXp0ccQHSFLunpOzMNUIKDYjoY1LAGg4arVhdN_Okx8LUuH_YH6uSsf4N1ZqYWLfrf2UiywEno6afVjAXfCcyY2mhVox1Mwo_op7CiV0Ne)
+
+#### Q&A
+Q: Why don't you talk about Eula Charged Attack and Plunge Attack? I know Claymore characters can do Dragonstrike, with some seeing damage increase, what about Eula?  
+
+A: We are going a bit ahead of ourselves with the way the guide is planned out, but in short, Eula's Elemental Burst gains more damage based on the number of Normal Attacks, Elemental Skill and Burst hit in a duration. Because of this, we should only do Normal Attacks to maximize their damage. Also, Dragonstrike is a very mechanically demanding combo that is very hard to pull off consistently, failing to Dragonstrike is a DPS loss, so it is better not to risk it.
+
+#### Elemental Skill: Icetide Vortex
+
+##### Tap
+Slashes swiftly, dealing Cryo DMG.\
+When it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.
+
+##### Grimheart
+Increases Eula's resistance to interruption and DEF.
+
+##### Hold
+Wielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\
+If Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\
+Each consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.
+
+Eula's Elemental Skill is a simple slash that deals Cryo damage. Your Tap E gives you Grimheart stacks, that you can expend on your Hold E to gain more damage, and at 2 Grimheart stacks, you gain access to a Physical and Cryo resistance reduction on enemies, which helps you, again, deal more damage.  
+
+Eula's Elemental Skill is the basis of why she is such a top-tier Physical damage carry and competitive hyper-carry in general. One of the weaknesses of a Physical carry is they inherently lack modified or extra damage through reactions, and they have to compensate with higher base values on attacks. However, certain enemies hard counter these very one-dimensional high values with high Physical resistances (Whooperflowers, shielded Fatui Harbingers, the Ruin-class). Having an in-built Physical and Cryo resistance shred means Eula is reliable and self-sufficient with a high damage baseline, even in situations where she cannot gain access to Superconduct.  
+
+Here is an illustrative calculation of the damage gain by having a Eula-level shred when dealing Physical damage:
+
+##### Damage gained after Superconduct and Icetide Vortex
+|                          | Base    | Resistance+ | Superconduct | Icetide Vortex Lv 9 | SC + Icetide Vortex |
+|--------------------------|---------|-------------|--------------|---------------------|---------------------|
+| Ruin Guard               | 100.00% | 30.00%      | 70.00%       | 54%                 | 94.00%              |
+| Whooperflower            | 100.00% | 65.00%      | 102.50%      | 89.00%              | 114.50%             |
+| Humanoid enemies         | 100.00% | 90.00%      | 115.00%      | 107.00%             | 127.00%             |
+| Shielded Fatui Harbinger | 100.00% | 24.00%      | 60.00%       | 44.00%              | 84.00%              |
+
+##### Icetide Vortex’s in-depth attributes
+- Frames are recorded in 60 FPS
+
+| Type | Attributes       | Data       |
+|------|------------------|------------|
+| Tap  | Cooldown         | 4 seconds  |
+|      | Particle/cast    | 1-2 (1:1)  |
+|      | Particle/min     | 22.5       |
+|      | Execution frames | 63         |
+|      | Elemental Gauge  | 1A GU      |
+| Hold | Cooldown         | 10 seconds |
+|      | Particle/cast    | 2-3 (1:1)  |
+|      | Particle/min     | 15         |
+|      | Execution frames | 86         |
+|      | Elemental Gauge  | 1A GU      |
+
+##### When should I use Tap E? When should I use Hold E?
+Eula's maximum particle generation with only Tap E is quite standard for a non-battery carry character. On a 40/60 cost Elemental Burst unit, this would be quite sufficient, but with an 80 cost Elemental Burst, Eula is hard-pressed into using another Cryo unit to supply her with enough energy to cast Burst off cooldown without stacking absurdly high ER.   
+
+For general use case, you only want to use Hold E when you have 2 Grimheart stacks to maximize damage, and usually use it as an opener to your burst window, where you plan to stay on Eula to deal as much damage as possible on resistance-reduced enemies. Use Tap E when you have the chance, stack up on Grimheart stacks, and as an auto-attack cancel tool, as discussed before.
+
+##### About Grimheart:
+Grimheart is fairly straightforward. It gives you DEF%/stack and Interruption Resistances, no matter the stack. It is a strategic decision on whether to keep the stacks for extra defense or expend it with Hold E for more offense.
+
+#### Elemental Burst: Glacial Illumination
+![](https://lh3.googleusercontent.com/4VvQLv0obqh0gmCnQrNpcZXJVerTt-Q7wjPSOYw4owmWmENsOcMp2pl6uUS9BGfxeLIUK60Fp88vWAlt9cFhs2hc7bvMdyjgnHoJomNUu38ooCH2Sd9hmkbabmaYHih9ZcF-2hRt)
+Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.
+
+While present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.
+
+Once its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.
+
+This DMG scales on the number of energy stacks the Lightfall Sword has accumulated.
+
+If Eula leaves the field, the Lightfall Sword will explode immediately.
