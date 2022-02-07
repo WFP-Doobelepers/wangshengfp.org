@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full min-h-screen flex flex-col flex-nowrap">
+    <div class="w-full min-h-screen flex flex-col flex-nowrap font-quicksand">
         <NavBar />
         <img
             class="fixed -z-10 min-h-screen min-w-screen object-cover"

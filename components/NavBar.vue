@@ -20,7 +20,7 @@
 
             <!-- Navbar -->
             <div class="navbar hidden lg:block z-10">
-                <ul class="flex text-sm font-sans text-white">
+                <ul class="flex text-sm font-quicksand text-white">
                     <NuxtLink to="/">
                         Home
                     </NuxtLink>
@@ -98,7 +98,7 @@
                     @click="isOpen = false"
                 />
 
-                <ul class="divide-y font-sans">
+                <ul class="divide-y font-quicksand">
                     <li>
                         <NuxtLink
                             to="/"
@@ -162,7 +162,7 @@
                 </ul>
 
                 <div class="follow">
-                    <!-- <p class="italic font-sans text-sm">Follow us on:</p> -->
+                    <!-- <p class="italic font-quicksand text-sm">Follow us on:</p> -->
                     <div class="social flex space-x-5 mt-4">
                         <a href="https://www.twitch.tv/wangshengfp/">
                             <img src="~/assets/icons/twitch.svg" style="height: 20px">

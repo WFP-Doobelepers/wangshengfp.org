@@ -1,6 +1,6 @@
 <template>
     <div
-        class="w-full bg-[#281414]"
+        class="w-full bg-[#281414] font-quicksand"
     >
         <div class="vignette-radial h-screen w-screen fixed -z-10">
             <img
@@ -37,8 +37,8 @@
                 </p>
             </div>
 
-            <div class="guide flex flex-row justify-center font-quicksand text-lg">
-                <aside class="flex-col flex-none w-[15%] hidden lg:flex">
+            <div class="guide flex flex-row justify-center text-lg">
+                <aside class="header flex-col flex-none w-[clamp(15rem,15%,20rem)] hidden lg:flex xl:pr-5">
                     <nav class="sticky top-[6rem] m-2">
                         <ul>
                             <li
@@ -49,7 +49,7 @@
                                 <a
                                     :class="link.id == currentH2 ? `text-${guide.element} text-4xl` : 'text-white text-2xl'"
                                     role="button"
-                                    class="mb-2 block float-right text-right w-full"
+                                    class="mb-4 block float-right text-right w-full"
                                     :href="`#${link.id}`"
                                 >{{ link.text }}</a>
                             </li>
@@ -78,13 +78,13 @@
                         </aside>
 
                         <div
-                            class="hidden lg:flex w-5 my-10 ml-2"
+                            class="hidden lg:flex w-5 my-10 ml-2 xl:mr-8"
                             :class="`bg-${guide.element}`"
                         />
 
                         <nuxt-content
                             :document="guide"
-                            class="text-white p-5"
+                            class="text-white p-5 -mt-10"
                         />
                     </div>
 
@@ -249,27 +249,23 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content h2 {
-    @apply font-bold text-4xl
+    @apply font-bold text-4xl mt-12 mb-3
 }
 
 ::v-deep .nuxt-content h3 {
-    @apply font-bold text-3xl
+    @apply font-bold text-3xl mt-12 mb-3
 }
 
 ::v-deep .nuxt-content h4 {
-    @apply font-bold text-2xl
+    @apply font-bold text-2xl my-2
 }
 
 ::v-deep .nuxt-content h5 {
-    @apply font-bold text-xl
+    @apply font-bold text-xl my-2
 }
 
 ::v-deep .nuxt-content > p {
     @apply mb-5
-}
-
-::v-deep .nuxt-content img {
-    @apply mx-auto
 }
 
 ::v-deep .nuxt-content > ul, ol {
@@ -309,6 +305,10 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content img {
+    @apply mx-auto
+}
+
+::v-deep .nuxt-content p > img {
     @apply mt-3
 }
 
