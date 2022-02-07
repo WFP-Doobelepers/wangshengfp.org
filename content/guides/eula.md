@@ -109,15 +109,15 @@ I will go over each component of her kit, as well as tips and tricks on how to u
 ![](https://lh6.googleusercontent.com/i64x4blJkbO1yM2rLSTphzckh25_1lowBIr_eroX8gV8EBfGUs0ksn3G-mB-Hp1iXOOWBLU659TcSge--5bR153_T2vAJLmudZAZyTf1qOjawMPNN4dywMEN0Kd0a5ezhzD4eU0l)
 
 ##### Normal Attack
-Perform up to 5 consecutive strikes.
+*Perform up to 5 consecutive strikes.*
 
 ##### Charged Attack
-Drains Stamina over time to perform continuous slashes.
-At the end of the sequence, perform a more powerful slash.
+*Drains Stamina over time to perform continuous slashes.*
+*At the end of the sequence, perform a more powerful slash.*
 
 ##### Charged Attack
-Drains Stamina over time to perform continuous slashes.
-At the end of the sequence, perform a more powerful slash.
+*Drains Stamina over time to perform continuous slashes.*
+*At the end of the sequence, perform a more powerful slash.*
 
 Eula's Normal Attack is quite straightforward in what it can do. It is a maximum 5-input chain auto-attack sequence, with a shorter than average execution frame compared to other Claymores, when they do not have an ATK SPD buff. Eula has high multipliers on each input, even among her weapon type, which is compensated in raw power for their slow attacks. These two factors allow Eula to dish out very consistent, above-average physical damage just from auto-attacking   
 
@@ -177,17 +177,19 @@ A: We are going a bit ahead of ourselves with the way the guide is planned out, 
 
 #### Elemental Skill: Icetide Vortex
 
+![](https://lh3.googleusercontent.com/plI5SmGOct_YGy1t6gBKcIozgAjDtaUDcgqe2GhTi0CPq5R86tVfxipsOsCi1blrMmGhu8eB6TR369dPvzcMvN4ESv2kHivr-rMUVrN51wcWR3bUBiUxouQXbhBIEjNRh06razlt)
+
 ##### Tap
-Slashes swiftly, dealing Cryo DMG.\
-When it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.
+*Slashes swiftly, dealing Cryo DMG.*\
+*When it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.*
 
 ##### Grimheart
-Increases Eula's resistance to interruption and DEF.
+*Increases Eula's resistance to interruption and DEF.*
 
 ##### Hold
-Wielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\
-If Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\
-Each consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.
+*Wielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.*\
+*If Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.*\
+*Each consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.*
 
 Eula's Elemental Skill is a simple slash that deals Cryo damage. Your Tap E gives you Grimheart stacks, that you can expend on your Hold E to gain more damage, and at 2 Grimheart stacks, you gain access to a Physical and Cryo resistance reduction on enemies, which helps you, again, deal more damage.  
 
@@ -204,7 +206,8 @@ Here is an illustrative calculation of the damage gain by having a Eula-level sh
 | Shielded Fatui Harbinger | 100.00% | 24.00%      | 60.00%       | 44.00%              | 84.00%              |
 
 ##### Icetide Vortex’s in-depth attributes
-- Frames are recorded in 60 FPS
+
+_Frames are recorded in 60 FPS_
 
 | Type | Attributes       | Data       |
 |------|------------------|------------|
@@ -229,12 +232,200 @@ Grimheart is fairly straightforward. It gives you DEF%/stack and Interruption Re
 
 #### Elemental Burst: Glacial Illumination
 ![](https://lh3.googleusercontent.com/4VvQLv0obqh0gmCnQrNpcZXJVerTt-Q7wjPSOYw4owmWmENsOcMp2pl6uUS9BGfxeLIUK60Fp88vWAlt9cFhs2hc7bvMdyjgnHoJomNUu38ooCH2Sd9hmkbabmaYHih9ZcF-2hRt)
-Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.
+*Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.*
 
-While present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.
+*While present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.*
 
-Once its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.
+*Once its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.*
 
-This DMG scales on the number of energy stacks the Lightfall Sword has accumulated.
+*This DMG scales on the number of energy stacks the Lightfall Sword has accumulated.*
 
-If Eula leaves the field, the Lightfall Sword will explode immediately.
+*If Eula leaves the field, the Lightfall Sword will explode immediately.*
+
+Eula’s most important ability, and one you must understand the mechanics of thoroughly to play her efficiently. 
+
+In simple terms, Glacial Illumination is a charged-up time bomb. After you cast it, you have seven seconds to gather Lightfall Sword stacks through using your Normal Attacks, Elemental Skill, and Elemental Burst. After the 7s duration is over, the Burst will detonate, dealing AoE Physical damage based on how many stacks you have gained.
+
+In a standard rotation from Eula, half of your total damage composition should, and would if played correctly, come from Elemental Burst. Its massive multipliers and damage number once you learned how to get the maximum stacks every Burst cast is one of the most addictive factors in playing Eula. There are only very few Bursts in the game that can reach Eula’s level of damage, and most of them need outside assistance/require reactions. The only character in the game who currently beats Eula’s Burst without help is C2 Beidou, who is broken in her own right.
+
+### How to get maximum stacks
+
+In her Elemental Burst’s description, Eula is said to be able to gain stacks through three sources: her Normal Attacks, Elemental Skill, and Elemental Burst. However, this is an inaccurate and quite ambiguous description of what is undoubtedly Eula’s most vital ability. Let’s rectify that.
+
+The first thing one needs to know is that **<span style="text-decoration:underline;">Eula gains stack on damage, not inputs</span>**. This means that if a Normal Attack deals 2 instances of damage per input (e.g. N3), she gains 2 stacks on that input, even though it may be considered one attack.
+
+Second, although her skill description said she can gain stacks from her Elemental Burst, the initial damage and the detonation damage of Glacial Illumination **<span style="text-decoration:underline;">does not grant stack</span>**. However, her Ascension 1 passive, which creates a Shattered Lightfall Sword that deals damage based on the Elemental Burst’s 0 stacks Lightfall Sword damage, **<span style="text-decoration:underline;">does grant stack</span>**.
+
+Third, you have to **<span style="text-decoration:underline;">deal damage</span>** with the aforementioned abilities to gain stacks. Hitting elemental shields, Hlichurl stone or wood shields, hitting enemies in invulnerable frames, even if they register as hits, **<span style="text-decoration:underline;">will not grant you stacks</span>**. Note that this is also ping-dependent.
+
+Here is a table of stacks gained by each part of Eula’s kit for easier visualization:
+
+##### Lightfall Sword stacks gained per input
+
+_N# stacks gained are counted in the attack sequence_
+
+_(Ex: N5 already include stacks gained  by N1->4)_
+
+| Type | Stacks  | Type            | Stacks |
+|------|---------|-----------------|--------|
+| N1   | 1       | Tap E           | 1      |
+| N2   | 2       | Hold E 0 stack  | 1      |
+| N3   | 4       | Hold E 1 stack  | 2      |
+| N4   | 5       | Hold E 2 stacks | 4      |
+| N5   | 7       | Q               | 0      |
+
+### On the issue of shield breaking
+Glacial Illumination has an elemental gauge value on its initial cast of 2B GU Cryo. Its detonation deals Physical damage, therefore it has no Elemental Gauge. Although the damage from detonation is usually large enough to break down a large portion of smaller shields on Abyss Mages, it is not a recommended method to shield breaking, as it is way far less efficient than using an actual element that is appropriate for the job.
+
+### On the issue of energy
+
+With an 80 energy cost Elemental Burst, and no outstanding self generation, Eula needs one, or even two batteries to consistently Burst off-cooldown. Not only that, learning how to funnel energy into Eula by casting the battery unit’s Elemental Skill and then swap into Eula so she can catch the particles on field for maximum energy efficiency is important in casting Burst every rotation without relying on high Energy Recharge stats.
+
+Here is an example of energy funneling:
+
+![](https://lh4.googleusercontent.com/tZ8mYQI_YUk2V2f9JnpQSoksAgwwhj0IucHth2-1a2EUGmV2cFmyj7PZU31HwAKbRPxmNYOKfzmSigRdzsKfHqGlOOV-JWzMJ40UnjqOv7oOuP9wfhTIgd_Dd7byyubMz8Dsi3uF)
+
+Don’t hesitate to swap after your Burst detonates to battery instead of DPSing. Getting your energy back to cast Burst next rotation is more important than a bit more DPS with your Normal Attacks.
+
+On characters with very high burst cost (such as Eula), one of the ways one can efficiently battery them is by casting an Elemental Skill into Elemental Burst in quick succession, and while Elemental Burst animation plays out, the character would catch the traveling particle while in animation lock, thus saving time. 
+
+However, Eula is a special case. Her energy drains after her Burst animation finishes, around 1.5s, which is longer than any particle travel time, thus you cannot funnel energy into her with this tech. Be mindful of this when you are doing rotations on Eula, to not waste your particles into the void.
+
+For better visualization, check out this clip by Artesians: [Eula energy why](https://www.youtube.com/watch?v=_ySIYodQ0Jw)
+
+#### Recommended ER thresholds
+
+**Recommended ER for popular battery choices in Eula compositions**
+
+_Assuming proper funneling and 3 white particles from enemies/rotation, R1 weapons_
+
+| Battery units                | ER threshold |
+|------------------------------|--------------|
+| Rosaria + Sac Diona          | 130-140%     |
+| Rosaria + Fav Diona          | 140-150%     |
+| Sac Diona                    | 160%         |
+| Raiden + Fav Rosaria         | 130-140%     |
+| Raiden + Sac Diona           | 110-120%     |
+| Raiden + Fav Diona           | 130-140%     |
+| Raiden + Rosaria + Sac Diona | 100%         |
+
+### On the issue of snapshot
+
+Glacial Illumination does not snapshot. This means her detonation damage will be calculated in real time, using stats at the time it detonates. This means Eula has very low synergy with units that have buff times below 10s, such as Sara, as her highest damage source cannot be buffed by their kit. Units such as Bennett, Xinyan C4, which run on a 12s buff timer, are workable with Eula, but the timing may be quite tight depending on your rotations.
+
+### On the issue of missing Bursts
+
+Eula’s biggest strength is also her biggest weakness. She puts all her eggs into the Burst basket, and if she misses, it devastates her damage, not the enemy health bar. 
+
+Because of this, be mindful of when and where you are casting your Burst. Make sure you have adequate time to ramp up your stacks and make sure that once you do you hit something with the detonation. It is not a bad idea to delay your combos or cut it short to reposition yourself, or to delay casting it in the first place, to guarantee you get the maximum value of using the 80 energy. **Learn enemies’ movesets!** Game knowledge is your best friend here.
+
+### Passives
+
+![](https://lh4.googleusercontent.com/xURxnmrU9iv2fyVoU-y-BvS2oKNkhUHKzAqeEYyKmZ5xmDugHpIDfXNWhQ7DKiiVT4GtF9d9x_b-FIXUIAu29Kjor73yoxdGs49DAUsX7kYvcxSpDqnzxHOep5TUPZTAmn5DZJ8i)
+
+### Ascension 1: Roiling Rime
+
+*If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination.*
+
+This ascension passive heavily incentivizes you to only use Hold E only when you have 2 Grimheart stacks. The damage loss of omitting this passive is quite considerable, so always be aware of your Grimheart stacks before casting Hold E.
+
+### Ascension 2: Wellspring of Warlust
+
+![](https://lh6.googleusercontent.com/cFlJsukmgt_vJhc9TkUNWe2nGcvgS57CpWkxwuQ9aOlQy_g_PuzM7VsVV0SN1qPY3cD7hV8sQZo5RVMtSs8SwOcCx2Wk5Ju2_WZspaDa3eBw42dK-XIfvwOwdkHNMJzAxs2IZtvQ)
+
+A very useful and simple passive that just works. This ascension passive allows you to perform the fast combo of E Q Hold E, or E Q N_x_ Hold E, and still get maximum damage out of your Hold E, even when you start at 0 Grimheart stacks.
+
+### Talent leveling priority
+
+Q >= NA >> E
+
+![](https://lh6.googleusercontent.com/U8MJF5VnOpL7hrm_P6tQIVhLm0hC20mz8lGAaFFBFivuTr8w7JMy5dRM7rDbZ2sEM6PSpZemTTcB6je7e2RUZf0I4rtVOW9lppIMQW_9FfxfEWLyfkcZCme4jiiNaGVs-KqbxVrw)
+
+Eula’s Burst is the strongest ability in her kit, and it should be prioritized, followed by her Normal Attacks. Although in a perfect scenario, levelling your Elemental Burst should give you the most damage all the time, Normal Attacks provide consistent damage in the case you miss that detonation (we have all been, and will continue to be there). 
+
+Prioritize Burst, the Normal Attacks. Get both of them to Talent level 9, but Crown Elemental Burst first.  
+
+Elemental Skill is a mediocre ability in damage. It has great utility, but its power per talent level gain is very mediocre, especially if  Superconduct already brings enemies down to sub 0% Physical Resistance, at which point all Resistance shred value is halved. Level this last, you can even keep it at Talent Lv 6 if you want to be extra frugal.
+
+### Optimal Combos
+
+Now that we have finished with our crash course over Eula’s kit, let’s put that knowledge to use and optimize your Eula gameplay. Her combos are quite complicated, and hard to perform consistently when you are being hammered down by enemies in Abyss, so it might take some time before you become really comfortable with it. As always, practice is key!
+
+#### Standard DPS rotation (Balanced)
+
+Difficulty level: B
+
+Max possible stacks gain: 14
+
+**E > Q > N4 > Hold E > N4 > Detonation**
+
+Eula’s most generic, versatile, and consistent combo can do. This is a hassle-free, beginner-friendly, easy to pick up combo that every Eula player should know, and master. If there is only one combo here you need to learn, it is this one. 
+
+This combo should give you consistently the 2nd highest damage on Eula of all combos while holding on to Grimheart stacks through half of the rotation means you gain adequate defense to play out the fight without needing to worry too much about being one shot. One of Eula’s largest issues is she severely lacks defensive options after she casts Glacial Illumination, as she should be focusing on gaining as many stacks as possible, this combo helps alleviate a lot of that.
+
+Showcase video: [Click me](https://imgur.com/PSKiXJM)
+
+#### Maximum DPS rotation (Offensive)
+
+Difficulty level: S++
+
+Max possible stacks gain: 14
+
+**E > Q > Hold E > N4D > N4 > Detonation**
+
+Do you see yourself as a mechanical god? Are you confident that you are a Eula master? This is the combo for you. The risks are high, and the returns are there.
+
+Unlike the first combo, here you trade all your defensive Grimheart stacks for the full duration Physical/Cryo resistance shred, to output as much damage as possible. You are incredibly fragile, with no room for error. If executed perfectly, with no ATK SPD buffs, your remaining time should be around 0.05s, or 3 frames. I do not recommend doing this combo unless you absolutely want a challenge, but it is here for that reason regardless.
+
+This combo is mathematically possible on paper, and as of now I have only one footage of someone doing it successfully. Many thanks to Isharah#6534 for the godlike showcase of the combo, with actual time to spare and show that the combo can still be optimized even further. Actual Faker.
+
+Showcase video: [Click me](https://streamable.com/75ikr0)
+
+#### Regeneration-focused DPS rotation (Defensive & Utility)
+
+Difficulty level: A
+
+Max possible stacks gain: 13
+
+**E > Q > Press E > N4D > N2 > Hold E > N1 > Detonation**
+
+A niche combo that should only be used situationally. This combo nets you one more Tap E, which can be used to fund other members on your team, or if your Eula needs it in the next rotation. Also, this rotation will make your Eula the tankiest compared to other rotations, as you hold Grimheart stacks until the very end of your Burst duration.
+
+As a carry, although defenses are appreciated, doing a combo that sacrifices a lot of damage for some defense is not something one should do. The situations where this combo springs up are rare, but it is useful to know regardless.
+
+Showcase video: [Click me](https://imgur.com/0CyvnBm)
+
+#### Beidou Driver DPS Rotation (Specialized)
+
+Difficulty level: S
+
+Max possible stacks gain: 13
+
+**E > N1 > Q > N1 E > N4D > N2 > Hold E > Detonation**
+
+A specialized combo designed to pair Eula with Beidou. This combo should allow you to get the maximum possible Stormbreaker discharge procs with Eula while sacrificing a fair amount of her damage. It is the most overloaded of all combos in terms of information and will take some time to get used to if you do want to play her well with Beidou. Outside of that specific pairing, you can ignore this in general play.
+
+Showcase video: [Click me](https://imgur.com/oPkwgIe)
+
+#### R3 Pines DPS Rotation (Whale)
+
+Difficulty level: A
+
+Wallet damage: S+
+
+Max possible stacks gained: 15 stacks
+
+**N2D > N1 (3 Sigils Pines) > E > Q > N3 > Hold E > N5 > Detonation**
+
+A combo reserved for those who are lucky enough, or spend enough to at least a Refinement 3 Song of Broken Pines. At this point, you gain enough of an ATK SPD buff that this combo becomes possible, and you get the highest maximum stacks without utilizing C6. Do note you have to stack 3 Sigils of Whispers before doing this combo, so set it up with N2D - N1, from 0 stacks.
+
+### On the issue of Attack Speed
+With how strict Eula’s Burst duration is to gain stacks, one may be tempted to use weapons/buffs that give you ATK SPD buffs to gain more stacks, or just to make combos easier to execute. Except for the Whale DPS rotation listed above, there are no currently known other methods with ATK SPD to bypass the maximum stacks listed above.
+
+On a positive note, if you are just looking for a way to combo easier with much more leeway, ATK SPD will still help you there, and you will have more margin of error.
+
+Showcase video by MichaelB: [Click me](https://streamable.com/9raaff)
+
+**Tips and tricks**: Eula’s Elemental Burst’s stack accumulation has an ICD of 0.1s. As a claymore wielder, usually this very marginal ICD does not impede her stack gains. However, after you cast hold E, Ascension 1 (Roiling Rime) procs after a delay, not right after, and around when you are performing N1. 
+
+Because of this, there is a case of hit overlay, preventing you from getting 1 stack. Due to this, it is advised to delay your combo after casting Hold E by a tiny bit (~0.1 seconds) instead of inputting Normal Attacks right away to maximize your Burst’s damage. Inputting and waiting for a walk is a close approximation of this.
