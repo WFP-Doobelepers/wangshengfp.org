@@ -148,7 +148,18 @@ Down here is more technical information regarding Eula Normal Attacks, her diffe
 - N\# = Attack where input is interrupted and reset at.
 - D = Dash input cancel. J = Jump input cancel.
   
-<div class="table-wrapper"><table data-v-5e0d446b=""><thead data-v-5e0d446b=""><tr data-v-5e0d446b=""><th data-v-5e0d446b="">Combo Type</th><th data-v-5e0d446b="">Number of hits/sequence</th><th data-v-5e0d446b="">Frames</th><th data-v-5e0d446b="">Time (s)</th><th data-v-5e0d446b="">Motion value/s</th><th data-v-5e0d446b="">Differences</th></tr></thead><tbody data-v-5e0d446b=""><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N1D</td><td data-v-5e0d446b="">1</td><td data-v-5e0d446b="">53</td><td data-v-5e0d446b="">0.88</td><td data-v-5e0d446b="">186.63%</td><td data-v-5e0d446b="">76%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N1J</td><td data-v-5e0d446b="">1</td><td data-v-5e0d446b="">64</td><td data-v-5e0d446b="">1.07</td><td data-v-5e0d446b="">154.56%</td><td data-v-5e0d446b="">63%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N2D</td><td data-v-5e0d446b="">2</td><td data-v-5e0d446b="">82</td><td data-v-5e0d446b="">1.37</td><td data-v-5e0d446b="">246.39%</td><td data-v-5e0d446b="">101%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N2J</td><td data-v-5e0d446b="">2</td><td data-v-5e0d446b="">93</td><td data-v-5e0d446b="">1.55</td><td data-v-5e0d446b="">217.25%</td><td data-v-5e0d446b="">89%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N3D</td><td data-v-5e0d446b="">4</td><td data-v-5e0d446b="">149</td><td data-v-5e0d446b="">2.48</td><td data-v-5e0d446b="">219.64%</td><td data-v-5e0d446b="">90%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N3J</td><td data-v-5e0d446b="">4</td><td data-v-5e0d446b="">160</td><td data-v-5e0d446b="">2.67</td><td data-v-5e0d446b="">204.54%</td><td data-v-5e0d446b="">84%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N4D</td><td data-v-5e0d446b="">5</td><td data-v-5e0d446b="">185</td><td data-v-5e0d446b="">3.08</td><td data-v-5e0d446b="">244.02%</td><td data-v-5e0d446b="">100%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N4J</td><td data-v-5e0d446b="">5</td><td data-v-5e0d446b="">196</td><td data-v-5e0d446b="">3.27</td><td data-v-5e0d446b="">230.32%</td><td data-v-5e0d446b="">94%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N5D</td><td data-v-5e0d446b="">7</td><td data-v-5e0d446b="">273</td><td data-v-5e0d446b="">4.55</td><td data-v-5e0d446b="">223.37%</td><td data-v-5e0d446b="">92%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">N5J</td><td data-v-5e0d446b="">7</td><td data-v-5e0d446b="">284</td><td data-v-5e0d446b="">4.73</td><td data-v-5e0d446b="">214.72%</td><td data-v-5e0d446b="">88%</td></tr></tbody></table></div>
+| Combo Type | Number of hits/sequence | Frames | Time (s) | Motion value/s | Differences |
+|------------|-------------------------|--------|----------|----------------|-------------|
+| N1D        | 1                       | 53     | 0.88     | 186.63%        | 76%         |
+| N1J        | 1                       | 64     | 1.07     | 154.56%        | 63%         |
+| N2D        | 2                       | 82     | 1.37     | 246.39%        | 101%        |
+| N2J        | 2                       | 93     | 1.55     | 217.25%        | 89%         |
+| N3D        | 4                       | 149    | 2.48     | 219.64%        | 90%         |
+| N3J        | 4                       | 160    | 2.67     | 204.54%        | 84%         |
+| N4D        | 5                       | 185    | 3.08     | 244.02%        | 100%        |
+| N4J        | 5                       | 196    | 3.27     | 230.32%        | 94%         |
+| N5D        | 7                       | 273    | 4.55     | 223.37%        | 92%         |
+| N5J        | 7                       | 284    | 4.73     | 214.72%        | 88%         |
 
 There are only two combos you need to do and should master, on Eula: N4D and N2D. These two combos far out-damage any other Normal Attack chain. While N2D gives a marginal damage increase, it is far more stamina-consuming, harder to execute, and more punishing. Because of this, N4D should always be the combo you default to. However, this does not mean N2D is useless. There are cases where its very short time requirement comes into use. One such case we will dive into later.
 
@@ -192,7 +203,12 @@ Here is an illustrative calculation of the damage gain by having a Eula-level sh
 
 ##### Damage gained after Superconduct and Icetide Vortex
 
-<div class="table-wrapper"><table data-v-5e0d446b=""><thead data-v-5e0d446b=""><tr data-v-5e0d446b=""><th data-v-5e0d446b=""></th><th data-v-5e0d446b="">Base</th><th data-v-5e0d446b="">Resistance+</th><th data-v-5e0d446b="">Superconduct</th><th data-v-5e0d446b="">Icetide Vortex Lv 9</th><th data-v-5e0d446b="">SC + Icetide Vortex</th></tr></thead><tbody data-v-5e0d446b=""><tr data-v-5e0d446b=""><td data-v-5e0d446b="">Ruin Guard</td><td data-v-5e0d446b="">100.00%</td><td data-v-5e0d446b="">30.00%</td><td data-v-5e0d446b="">70.00%</td><td data-v-5e0d446b="">54%</td><td data-v-5e0d446b="">94.00%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">Whooperflower</td><td data-v-5e0d446b="">100.00%</td><td data-v-5e0d446b="">65.00%</td><td data-v-5e0d446b="">102.50%</td><td data-v-5e0d446b="">89.00%</td><td data-v-5e0d446b="">114.50%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">Humanoid enemies</td><td data-v-5e0d446b="">100.00%</td><td data-v-5e0d446b="">90.00%</td><td data-v-5e0d446b="">115.00%</td><td data-v-5e0d446b="">107.00%</td><td data-v-5e0d446b="">127.00%</td></tr><tr data-v-5e0d446b=""><td data-v-5e0d446b="">Shielded Fatui Harbinger</td><td data-v-5e0d446b="">100.00%</td><td data-v-5e0d446b="">24.00%</td><td data-v-5e0d446b="">60.00%</td><td data-v-5e0d446b="">44.00%</td><td data-v-5e0d446b="">84.00%</td></tr></tbody></table></div>
+|                          | Base    | Resistance+ | Superconduct | Icetide Vortex Lv 9 | SC + Icetide Vortex |
+|--------------------------|---------|-------------|--------------|---------------------|---------------------|
+| Ruin Guard               | 100.00% | 30.00%      | 70.00%       | 54%                 | 94.00%              |
+| Whooperflower            | 100.00% | 65.00%      | 102.50%      | 89.00%              | 114.50%             |
+| Humanoid enemies         | 100.00% | 90.00%      | 115.00%      | 107.00%             | 127.00%             |
+| Shielded Fatui Harbinger | 100.00% | 24.00%      | 60.00%       | 44.00%              | 84.00%              |
 
 ##### Icetide Vortex’s in-depth attributes
 

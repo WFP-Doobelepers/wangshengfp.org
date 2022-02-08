@@ -63,7 +63,8 @@ export default {
         liveEdit: false,
         markdown: {
             remarkPlugins: [
-                ['remark-autolink-headings', { behavior: 'wrap' }]
+                ['remark-autolink-headings', { behavior: 'wrap' }],
+                '~/plugins/parse_table.js'
             ]
         }
     },
