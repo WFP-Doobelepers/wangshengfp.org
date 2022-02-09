@@ -2,14 +2,13 @@
     <div
         class="w-full bg-[#281414] font-quicksand"
     >
-        <div class="vignette-radial h-screen w-screen fixed -z-10">
+        <div
+            class="vignette-radial h-screen w-screen fixed -z-10 bg-top bg-cover"
+            :style="{ backgroundImage: `url(${require(`~/assets${guide.path}/background.jpg`)})` }"
+        >
             <img
                 :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
                 class="fixed top-[-40vh] right-[-30vh] h-[125vh] hidden lg:block mix-blend-soft-light"
-            >
-            <img
-                class="object-cover min-w-full min-h-full"
-                :src="require(`~/assets${guide.path}/background.jpg`)"
             >
         </div>
 

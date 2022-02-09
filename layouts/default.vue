@@ -1,10 +1,11 @@
 <template>
     <div class="w-full min-h-screen flex flex-col flex-nowrap font-quicksand">
+        <div
+            class="h-screen w-screen fixed -z-10 bg-top bg-cover"
+            :style="{ backgroundImage: `url(${require('~/assets/backgrounds/wuwang.jpg')})` }"
+        />
+
         <NavBar />
-        <img
-            class="fixed -z-10 min-h-screen min-w-screen object-cover"
-            src="~/assets/backgrounds/wuwang.jpg"
-        >
         <Nuxt class="flex-auto z-10" />
         <Footer />
     </div>
