@@ -10,7 +10,7 @@ author: ['Sitri#9504', 'TWICE#9958']
 
 ## Infographic
 
-![](https://cdn.discordapp.com/attachments/934657600002326569/940358701754245120/final4.png)
+![](../../infographics/eula.png)
 
 #### Preface
 
