@@ -3,7 +3,7 @@
         class="w-full bg-[#281414] font-quicksand"
     >
         <div
-            class="vignette-radial h-screen w-screen fixed -z-10 bg-top bg-cover"
+            class="vignette-radial h-screen w-screen fixed bg-top bg-cover"
             :style="{ backgroundImage: `url(${require(`~/assets${guide.path}/background.jpg`)})` }"
         >
             <img
