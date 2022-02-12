@@ -9,7 +9,7 @@
         <h1 class="font-righteous m-5 text-center text-white text-2xl lg:text-5xl tracking-wider pt-5">
             {{ article.title }}
         </h1>
-        <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-70 flex flex-row justify-center">
+        <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-75 flex flex-row justify-center">
             <nuxt-content :document="article" class="p-5 text-white mt-[-0.75rem]" />
         </div>
     </div>
