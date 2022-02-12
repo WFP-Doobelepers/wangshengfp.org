@@ -10,7 +10,7 @@
             {{ article.title }}
         </h1>
         <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-70 flex flex-row justify-center">
-            <nuxt-content :document="article" class="p-5 text-white mt-[-2rem]" />
+            <nuxt-content :document="article" class="p-5 text-white mt-[-0.75rem]" />
         </div>
     </div>
 </template>
@@ -63,16 +63,25 @@ export default Vue.extend({
 </script>
 
 <style lang="postcss" scoped>
+.vignette-radial:after {
+    @apply content-[''] absolute inset-0;
+    background: radial-gradient(circle, transparent 30%, black 100%);
+}
+
 ::v-deep .nuxt-content h4 > a, ::v-deep .nuxt-content h5 > a {
     @apply pointer-events-none cursor-default
 }
 
 ::v-deep .nuxt-content h4 {
-    @apply text-2xl pb-3 pt-8
+    @apply text-2xl pb-3 pt-3
+}
+
+::v-deep .nuxt-content h5 {
+    @apply underline
 }
 
 ::v-deep .nuxt-content p {
-    @apply pb-3
+    @apply pb-8
 }
 
 ::v-deep .nuxt-content hr {

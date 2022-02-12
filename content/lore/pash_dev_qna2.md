@@ -92,6 +92,8 @@ A12: First of all, I wish I could be less busy (laughs). Just kidding… My pers
 
 **Design and Layout** provided by Wokes from the WFP Media Team
 
-**Translation** by Esperance of the WFP Leak Team, with Editing & Proofreading provided by JakeFromStatefarm and the WFP Lore Team
+**Translation** by Esperance of the WFP Leak Team
+
+**Editing and Proofreading** by JakeFromStatefarm and the WFP Lore Team
 
 **Artwork** from Mihoyo Co., LTD
