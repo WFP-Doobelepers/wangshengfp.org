@@ -535,13 +535,13 @@ Shenhe is a powerful Cryo support/sub-DPS unit that can work in virtually any so
 
 ## Resources
 
-[https://library.keqingmains.com/characters/cryo/shenhe](https://library.keqingmains.com/characters/cryo/shenhe)
+[Shenhe Data - KQM Library](https://library.keqingmains.com/characters/cryo/shenhe)
 
 [Shenhe Mastersheet - Google Sheets](https://docs.google.com/spreadsheets/d/1iVnT2RPD76f2GZT6GQ5LV1MtGwvOwObhbi0svAdYS2M/edit#gid=1076481734)
 
-<span style="text-decoration:underline;">Constellation Mastersheet: [https://docs.google.com/spreadsheets/d/1IVZZlRpTVGbmlsWyvY-NHXf4WLVh_8u7REA6fe1sXhI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1IVZZlRpTVGbmlsWyvY-NHXf4WLVh_8u7REA6fe1sXhI/edit?usp=sharing)</span>
+[Constellation Mastersheet](https://docs.google.com/spreadsheets/d/1IVZZlRpTVGbmlsWyvY-NHXf4WLVh_8u7REA6fe1sXhI/edit?usp=sharing)
 
-<span style="text-decoration:underline;">Eula Team Mastersheet by TWICE#9958: [https://docs.google.com/spreadsheets/d/1SUcDmc09jUBJGvvGlTUFgtO5Oa0FcuB-qLV13U0Vs1g/edit#gid=649161105](https://docs.google.com/spreadsheets/d/1SUcDmc09jUBJGvvGlTUFgtO5Oa0FcuB-qLV13U0Vs1g/edit#gid=649161105)</span>
+[Eula Team Mastersheet by TWICE#9958](https://docs.google.com/spreadsheets/d/1SUcDmc09jUBJGvvGlTUFgtO5Oa0FcuB-qLV13U0Vs1g/edit#gid=649161105)
 
 [Energy Recharge Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/edit#gid=2066542181)
 
