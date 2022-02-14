@@ -82,6 +82,10 @@ export default {
     // Fallback to 404.html
     generate: {
         fallback: true,
-        routes: []
+        routes: [
+            // Temporary
+            '/lore/pash_dev_qna1',
+            '/lore/pash_dev_qna2'
+        ]
     }
 }
