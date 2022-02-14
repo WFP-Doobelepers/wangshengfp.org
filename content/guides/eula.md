@@ -27,7 +27,7 @@ Time is short and precious, and we should get to the interesting parts instead o
 ![](https://lh6.googleusercontent.com/pSBkNlKGxGMgbmrrhONqxw5UQJ86YzPJOW00wlqITz4N3X_wxmtiPZIal1nijTaUPq82h3BcUxSYRcEMgPKiFXXMauSX3ZIzICazhIb5bLOI-Yk7NRryUe0vjesMeQZeVE1n_J0d)
 Art by: [♠Sea](https://www.pixiv.net/en/users/7263576)
 
-## Abstract
+## Introduction
 
 Eula was quite a contentious and debate-sparking character during the time of her release, and although a long time has passed since then, she is still quite an obscure and niche character that not many fully grasp.
 

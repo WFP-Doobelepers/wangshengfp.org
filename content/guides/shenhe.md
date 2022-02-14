@@ -19,6 +19,8 @@ Shenhe is a  5 star Cryo polearm unit  with a unique kit that bridges the tradit
 
 Here, you will find everything you need to get started building and playing Shenhe.
 
+## Introduction
+
 #### Why should you play/pull Shenhe? An analysis
 
 Shenhe is a unit with an intricate kit that makes her potential difficult to understand. Since her release, she has found a place in many diverse compositions. She is particularly useful in teams that mainly deal Cryo damage, however her potential isn’t limited solely to Cryo-centric teams.
@@ -31,9 +33,7 @@ Shenhe is officially designated as a Cryo-buffing support, though her kit contai
 
 Disclaimer: Please remember that only you can decide if a character is worth spending your time, money, and resources on. All we can do is give the most precise information possible to help with your decision. Spend responsibly.
 
-Pros:
-
-
+###### Pros
 
 * Relatively cheap to build due to the nature of the main stats used, as well as not requiring important Crit Ratios. Mainly needs high investment in elemental burst and skill talent levels and a level 90 weapon.
 * Can offer up to 30% total DMG % bonus for a Cryo elemental burst (roughly on par with what a 750 EM Kazuha would offer), while also having built in Cryo RES shred
@@ -45,9 +45,7 @@ Pros:
 * Opens up non-traditional Cryo teams, such as Mono Cryo, which have a niche against bosses that cannot be frozen.
 * Viable in physical comps (ie. Eula/Keqing) and other non-Cryo comps that can make use of her A4 buff and off-field Cryo application (Melt Tao).
 
-Cons:
-
-
+###### Cons
 
 * Somewhat high Energy needs due to high burst cost, making Shenhe have high ER% requirements in most of her teams.
 * A significant part of her damage contribution appears through her teammates that can trigger her Icy Quills, rather than her own elemental skill and burst damage. Her personal multipliers are relatively low.
@@ -415,13 +413,13 @@ Recommended Variants:
 
 4 pc Noblesse or 4 pc Blizzard Strayer with Favonius Lance is recommended for Shenhe here.
 
-Pros:
+#### Pros
 
 * Shenhe quills can be front-loaded onto Cryo unit’s elemental bursts for massive additional damage (Particularly strong with Ayaka or Ganyu)
 * Very high performance with 4 star/cheap weapons, scales even better with 5 star weapons (ie. Mistsplitter on Ayaka)
 * High flexibility with the units used allows this type of team to have many viable combinations including less common quick swap variants with accessible 4 star teammates
 
-Cons:
+#### Cons
 
 * For Ayaka variants, if Shenhe is the only Cryo battery, Ayaka will need slightly more ER% than in her other teams (around 140-150 ER% if Shenhe doesn’t use Fav Lance, though this can be reduced by Amenoma refinements/Fav Lance on Shenhe, or Venti/other cryo supports over Kazuha). Even just using Fav Lance on Shenhe can lower Ayaka’s ER% requirements to around 130-135% with proper funnelling. Teams using other Cryo units will be less affected
 * Loses some value against boss enemies that cannot be frozen, though Ayaka’s ult can still get the team through that type of content servicably
@@ -432,8 +430,6 @@ Cons:
 ![](https://lh5.googleusercontent.com/n8IioagwHMelBpQHaqKhR4rtxr48t5FGgvbwaJDv41Z-KU3ym8HnzMlXWsWXNS-PdgUu-4-LG4iv3wcDcg3xmLbagvbFy6DcHExXmk5Wx-G5tVsA2zYSINaHjvUuoxfdQI14z3Dh)
 
 Shenhe opens up this new team archetype thanks to her high synergy with stacking Cryo units on your team, which is usually not an option. This is made uniquely possible due to the extensive benefits Shenhe provides to specifically Cryo units - thus making stacking them potentially worthwhile, while providing ease of play due to the abundance of Cryo particles and easy VV setups.  As such, for players that are interested in running primarily Cryo units, Shenhe is a great pick. These types of teams can be more effective against enemies that cannot be frozen compared to traditional freeze teams. There are several variations of Mono Cryo that each have their own pros and cons such as:
-
-
 
 * Ayaka Ganyu Shenhe Venti 
     * Highest damage variation of Mono Cryo
@@ -464,7 +460,7 @@ Lastly, a variant with Melt Ganyu doing charge shots as the carry is possible, b
 
 2 Glad/2 Shime is a good alternative if Bennett is your 4 pc Noblesse user.
 
-Pros:
+#### Pros
 
 * Cheap and accessible team with 4 star units, including 2 that are completely free
 * Scales very well with constellations
@@ -472,7 +468,7 @@ Pros:
 * Main Cryo unit slot is flexible
 * Rotation is highly flexible, allowing Shenhe to freely make use of two tap E’s. This also means Shenhe can be on field for more time, allowing her to make better use of Bennett’s buff
 
-Cons: 
+#### Cons
 
 * Using Bennett and Xiangling to enable reverse melt has a somewhat high opportunity cost for your other team in spiral abyss, though reverse melt teams can still be very strong
 * All units will need very high investment
@@ -497,14 +493,14 @@ Some of the recommended flex units are:
 
 Unless you are using a second cryo battery (i.e. Rosaria or Diona), a Favonius Lance is necessary to battery Eula even with Raiden. 
 
-Pros:
+#### Pros
 
 * Strong performance with higher ceiling potential from getting more constellations such as C2 providing higher physical shred uptime
 * Grants some mobility with her dash
 * Works well with C6 Rosaria for triggering quills, can offer combined high phys resistance shred with or without Superconduct (opening up the potential for Eula teams without an Electro support)
 * Eula, as well as some of her common teammates (ex. Raiden or Fischl) benefit greatly from Shenhe’s A4 talent buff for elemental burst and skill damage
 
-Cons:
+#### Cons
 
 * While she is one of the stronger options for Eula, Shenhe has stronger teams she could be in instead such as Ayaka freeze
 * Eula benefits from the resistance shred and elemental burst damage % bonus, but her ability to proc high damage quills will be less than other units that can deal cryo damage
@@ -515,13 +511,13 @@ Cons:
 
 Shenhe has some potential in teams that are carried by non-Cryo units that can appreciate her A4 buffs and use her off-field Cryo application for elemental reactions. Hu Tao works well in a Vape/Melt team that primarily vaporises, but can sometimes freeze enemies to get some forward melted charge attacks off against them. In this team, Shenhe uses her hold E to give Hu Tao normal and Charged and Normal Attack DMG bonus while allowing the cryo flex unit to proc quills and applying cryo to set up a freeze for Hu Tao’s Charged attacks. The Cryo flex unit can either be Kaeya for mobile cryo application, Rosaria for crit share, Diona if you need a shield, or Ganyu (which is most useful if you have Elegy for the End to buff ATK% and EM for the team).
 
-Pros:
+#### Pros
 
 * High freeze uptime lets Hu Tao get away without a shield/heal unit without as much risk. This can make her jump cancels at C0 more comfortable
 * Strong single target damage
 * Possibility to run instructor set to buff EM for Hu Tao as Shenhe’s quill damage scaling will not matter as much here compared to other Shenhe teams
 
-Cons:
+#### Cons
 
 * Loses some effectiveness against enemies that can’t be frozen
 * Buffing Hu Tao’s charge attacks with Shenhe’s hold E A4 buff means you can’t buff the elemental burst damage for Xingqiu or the Cryo flex unit or Hu Tao’s elemental burst
@@ -529,11 +525,11 @@ Cons:
 * Has anti-synergy with Hu Tao’s most accessible weapon, Dragon’s Bane
 * Shenhe will shine more in teams where the Cryo units deal most of the damage
 
-## Closing Thoughts
+#### Closing Thoughts
 
 Shenhe is a powerful Cryo support/sub-DPS unit that can work in virtually any sort of Cryo-centric team, as well as a few teams that aren’t focused on dealing Cryo damage but appreciate her buffs or off-field Cryo application. Shenhe also brought mono Cryo teams out of obscurity and into the limelight as a strong and valuable team. For those that have well invested Cryo DPS units, Shenhe is a very strong pickup that is essentially “future proof” in that she will pair well with any possible Cryo unit that can utilise her buffs and trigger her Icy Quills.
 
-## Resources
+#### Resources
 
 [Shenhe Data - KQM Library](https://library.keqingmains.com/characters/cryo/shenhe)
 
@@ -546,11 +542,11 @@ Shenhe is a powerful Cryo support/sub-DPS unit that can work in virtually any so
 [Energy Recharge Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/edit#gid=2066542181)
 
 
-## Change logs:
+#### Change logs:
 
 Febuary 14th, 2022 - Initial Release
 
-## Acknowledgements
+#### Acknowledgements
 
 Haru Atsushi#9050 - Graphic Design Help
 

@@ -263,6 +263,10 @@ export default Vue.extend({
     @apply font-bold text-xl my-2
 }
 
+::v-deep .nuxt-content h6 {
+    @apply font-bold
+}
+
 ::v-deep .nuxt-content p > a {
     @apply underline text-blue-500
 }
