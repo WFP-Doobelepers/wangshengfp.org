@@ -58,7 +58,7 @@
                 <div class="guide-content">
                     <div class="m-2 max-w-screen-lg backdrop-blur-lg bg-black bg-opacity-70 flex flex-row justify-center">
                         <aside class="flex-col flex-none w-[20%] hidden lg:flex">
-                            <nav class="sticky top-16 m-2 pt-10">
+                            <nav class="sticky top-16 p-2 pt-10 max-h-[90vh] overflow-y-auto">
                                 <ul>
                                     <li
                                         v-for="link of subheaderMapping[currentH2]"

@@ -877,7 +877,7 @@ Sara, in a lot of ways, is another Bennett. But since no one can be as broken as
 
 Ok, no laughing. Xinyan got flagged as the worst unit in the game, but she has some value in a Eula composition, especially at C4. She gives a lot of things that Eula would want from a support. Physical DMG% buffs, a decently large shield for a 4* unit, and with C4 she provides a good amount of Physical Shred. Give her a chance. Maybe.
 
-### Exceptional variations
+### Exceptional Variations
 
 #### Geobros
 
