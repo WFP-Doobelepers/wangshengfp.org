@@ -345,7 +345,7 @@ An [ER% calculator](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110
 | Favonius Lance ![](https://lh6.googleusercontent.com/kRVjn1J_oUXaQP3l90TyMQ-Mno7K_BNH0OOsGDezDGABllS3epCnLXaOcn-_3k7UBWpqKiU0Nnsus_C-IF8AczsZTbswJ5m3b9XLZuP8iyfYDFpUAB5Itl5t73-rdrej8U0wCuJZ)                | One of, if not her best weapon. Significantly decreases team ER requisites, which allow your team to increase their damage if they can reinvest some ER substats into damage substats. Best choice if you want more team-wide Energy generation from Shenhe (particularly with Ayaka or Eula).                                           | 100.00%               |
 | Kitain Cross Spear R3 ![](https://lh6.googleusercontent.com/kRVjn1J_oUXaQP3l90TyMQ-Mno7K_BNH0OOsGDezDGABllS3epCnLXaOcn-_3k7UBWpqKiU0Nnsus_C-IF8AczsZTbswJ5m3b9XLZuP8iyfYDFpUAB5Itl5t73-rdrej8U0wCuJZ)         | Provides a decent base ATK and a useful passive that helps mitigate her energy issues. Rotations might change when using it. *Have to Q E instead, 158% ER.                                                                                                                                                                              | 99.57%                |
 
-## Team Synergies and Sample Teams
+## Team Composition
 
 ![](https://lh3.googleusercontent.com/n2OrPCQrsZHG-yko7-LdIYX6DmRKRYeTxZs75sBriwW2vp7t61WoLvH7_8tTr_SrXRjw_iESa-7IRw1TKpUHRY2purYwb310Lh5j7a_v233HkMyOn3iGP2xyJKyxUagAvy9H3heE)
 Art by: [panosarts_](https://twitter.com/panosarts_/status/1476615173007982596)

@@ -725,7 +725,7 @@ The Royal weapon line up has always been a strange one, and not in a good way. W
 * Sacrificial Greatsword
 * Favonius Greatsword
 
-## Team Composition and Synergy
+## Team Composition
 
 ![](https://lh6.googleusercontent.com/7zRX55QCgUjALZwjp1dun8YOH8qG8TRH7a13vokET-WlcG-dieGB9ShGJTN8Ptcp3GjxrQNP2c_Xg3z_6zortqVPH4OD0nyfJCGGHT0I3mB-U5yqgIAJlp3OqDkMG4naXX8kO7ge)
 Art by: [Vardan](https://www.pixiv.net/en/users/4346254)
