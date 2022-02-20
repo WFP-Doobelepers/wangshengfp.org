@@ -54,7 +54,7 @@ export default Vue.extend({
                 {
                     hid: 'og:url',
                     property: 'og:url',
-                    content: `https://beta.wangshengfp.com/lore/${vm.article.slug}`
+                    content: `https://wangshengfp.com/lore/${vm.article.slug}`
                 }
             ]
         }

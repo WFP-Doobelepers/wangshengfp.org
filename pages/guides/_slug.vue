@@ -196,7 +196,7 @@ export default Vue.extend({
                 {
                     hid: 'og:url',
                     property: 'og:url',
-                    content: `https://beta.wangshengfp.com/guides/${vm.guide.slug}`
+                    content: `https://wangshengfp.com/guides/${vm.guide.slug}`
                 }
             ]
         }
