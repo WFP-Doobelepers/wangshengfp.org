@@ -28,6 +28,10 @@
                     <NuxtLink to="/guides">
                         Guides
                     </NuxtLink>
+
+                    <NuxtLink to="/lore">
+                        Lore
+                    </NuxtLink>
                     <!--
                     <NuxtLink to="/calculator">
                         Calculator
