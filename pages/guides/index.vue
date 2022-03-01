@@ -11,8 +11,8 @@
                     :image="require(`~/assets${guide.path}/featured.png`)"
                 >
                     <template #content>
-                        <div class="flex flex-col justify-end w-full h-full pl-[5%] pb-10">
-                            <p class="text-white font-bold font-righteous drop-shadow-2xl text-xl lg:text-6xl">
+                        <div class="flex flex-col justify-end w-[75%] h-full pl-[5%] pb-10">
+                            <p class="featured-guide-title text-white font-righteous text-lg lg:text-6xl">
                                 {{ guide.title }}
                             </p>
                             <p class="text-white lg:text-2xl">
@@ -92,3 +92,9 @@ export default Vue.extend({
     }
 })
 </script>
+
+<style lang="postcss">
+p.featured-guide-title {
+    text-shadow: 0 0 10px black
+}
+</style>
