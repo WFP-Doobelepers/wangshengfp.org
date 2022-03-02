@@ -87,5 +87,9 @@ export default {
             '/lore/pash_dev_qna1',
             '/lore/pash_dev_qna2'
         ]
-    }
+    },
+
+    serverMiddleware: [
+        { path: '/api', handler: '~/api/rest.js' }
+    ]
 }
