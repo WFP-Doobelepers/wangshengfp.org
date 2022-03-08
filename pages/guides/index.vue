@@ -38,8 +38,8 @@
             class="w-full max-w-[250px] m-3 rounded"
             @input="$fetch"
         > -->
-        <div class="guides flex flex-wrap justify-center lg:justify-between">
-            <div v-for="guide in guides" :key="guide.slug" class="guide min-w-[150px] w-[45%] lg:w-[30%] pb-3">
+        <div class="guides flex flex-wrap justify-center gap-3">
+            <div v-for="guide in guides" :key="guide.slug" class="guide min-w-[200px] w-[45%] lg:w-[30%] pb-3">
                 <NuxtLink :to="guide.path">
                     <div class="block bg-[#281414] rounded-lg">
                         <img :src="require(`~/assets${guide.path}/character_card.jpg`)" class="w-full rounded-t-lg">
