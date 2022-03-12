@@ -163,3 +163,31 @@ Jump-cancelling Miko's Charged Attack is essential if you go down this road with
 
 Again, it is not recommended to level this talent, and it is not recommended to use her Normal Attacks in taser compositions. Qiqi is more valuable as a driver than Miko.
 
+![](https://lh4.googleusercontent.com/_O5sPw9DZWcKgdRvHUvoFDg41nceJyXcVYXOSHascxOzYzSkAMxWyfiRt0dz6tKq6aJcSBHlwCb6M7JjNACq_5EIkR0qOVXMwWsLV8--Ul2jGQwWv7LeMea7MnXxrj12GIlw30J4)
+
+#### Elemental Skill:Yakan Evocation: Sesshou Sakura
+
+Talent Priority: \#1
+
+Summon a non-sentient fox spirit (her words, not mine) to do your bidding. Miko's skill has three uses/charges, and when these turrets are close together, they each deal more damage. Placing three turrets close together in a triangle formationwill maximize your damage. Summoning them in a straight line will only make two turrets "level 2" and one turret "level 3" (the one connected to the two surrounding turrets) A thin, purple veil will connect these totems as a visual cue.
+
+Miko's skill has no "hold" variation. Only a "tap" version.
+
+In-depth attributes
+
+Frames are recorded in 60 FPS
+
+| Attributes       | Data                |   | Turret Lvl    | Multiplier @ T9 |
+|------------------|---------------------|---|---------------|-----------------|
+| Cooldown         | 4 seconds           |   | 1             | 103.14%         |
+| Particle/cast    | 1/3s = 5 total      |   | 2             | 128.93%         |
+| Particle/min     | 20                  |   | 3             | 161.16%         |
+| Execution frames | ~35 (x3 = 105)      |   | 4             | 201.45%         |
+| Elemental Gauge  | 1U A Electro on hit |   | 18 Lvl 3 hits | 2,900.88%       |
+
+This skill deals an impressive amount of damage, while also having 100% uptime. This is where the frequent comparisons to Fischl come from. Miko’s turrets are stronger than Fischl’s, but take more time to set and generate much less energy.
+
+In most builds, Miko’s skills deal more damage per rotation than her burst by about 60/40. In a 22-second rotation, one can safely estimate 18 hits from turrets, though more is possible in some cases.
+
+
+Miko’s low energy production combined with her high energy cost are what require Miko to have an electro battery and sufficient ER investment (~150+%)
