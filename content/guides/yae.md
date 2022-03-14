@@ -12,7 +12,7 @@ author: ['Emiliabyss#1641']
 
 *“People believe whatever they want to believe. Some things you do not see, simply because you do not wish to look.”*
 
-#### The Extremely Short Version:
+## Abstract
 
 ##### Levelling
 Level to 80 or 90\. Level Skill and Burst to 9+. Skill = Burst \> Normal Attack
@@ -51,6 +51,8 @@ C1 +18% | C2 +10% | C3 +10% | C4 +12% | C5 +7% | C6 +22%
 * Fischl / Miko (MainDPS) /  Flex / Flex
 * Flex: Kazuha, Bennet, Kokomi, Mona, Xingqiu, Sara, Sucrose, Jean, Sayu
     * Anemo-user with 4pc Viridescent Venerer **strongly recommended**
+
+## Introduction
 
 #### Why Should You Play Miko? An Analysis
 
@@ -104,9 +106,9 @@ The biggest drawback of Miko’s presence on your team is her 22-second Burst co
 
 It depends on what you mean by "taser."  
   
-If by "taser," you mean "Beidou-driver," then this claim is false. Beidou-driver comps consist of Fischl as a battery, Beidou as a potent off-field DPS, and XingQiu as an off-field DPS/Support, all of which synergize with a MainDPS's fast auto-attacks. Miko's normal attack strings are below average in both damage and speed.  
+If by "taser", you mean "Beidou-driver", then this claim is false. Beidou-driver comps consist of Fischl as a battery, Beidou as a potent off-field DPS, and XingQiu as an off-field DPS/Support, all of which synergize with a MainDPS's fast auto-attacks. Miko's normal attack strings are below average in both damage and speed.  
   
-If by "taser," you mean "any team utilizing the electro-charged reaction," then this claim is false. Miko cannot take Fischl's role due to high energy requirements and inability to battery. I can't, in good faith, recommend a team that requires a constellation or near substat perfect artifacts on Miko to function.  
+If by "taser", you mean "any team utilizing the electro-charged reaction", then this claim is false. Miko cannot take Fischl's role due to high energy requirements and inability to battery. I can't, in good faith, recommend a team that requires a constellation or near substat perfect artifacts on Miko to function.  
   
 One plausible taser team involves Miko replacing Beidou. The advantage of this is that Miko specializes in single-target scenarios while being batteried by Fischl, while Beidou specializes in multi-target. In a taser team, your Kazuha, Bennett, and Sara (C6) can go to a Raiden Hyper team.
 
@@ -129,7 +131,7 @@ Miko's playstyle is heavily based on:
 3. Unleashing Miko's nuclear-powered Elemental Burst, consuming the turrets, but resetting their cooldowns.
 4. Resetting Miko's turrets, and leaving the rest of your team (and her non-sentient fox turrets) to do her bidding.
 
-Miko is what happens when you upgrade Fischl's stats and trade her utility as a battery for raw burst damage rivaling Eula's, including constellation comparisons. One could just as easily suggest Miko is "Electro Eula," trading normal attacks for powerful turrets and frequent electro application. The comparison to Fischl is based on skill function, while the comparison to Eula is based on raw Burst damage.
+Miko is what happens when you upgrade Fischl's stats and trade her utility as a battery for raw burst damage rivaling Eula's, including constellation comparisons. One could just as easily suggest Miko is "Electro Eula", trading normal attacks for powerful turrets and frequent electro application. The comparison to Fischl is based on skill function, while the comparison to Eula is based on raw Burst damage.
 
 At the end of the day, Miko exists to deal damage from the background, make an appearance to drop a few lightning strikes, and retreat back into the shadows. Her frail HP and DEF stats dictate she be played this way, unless you decide to bring a strong shield with you.  
   
