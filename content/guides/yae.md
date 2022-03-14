@@ -688,9 +688,9 @@ There isn't really a lot to it. Geo doesn't have many requirements nor super Ama
 
 #### Yae Miko Resources
 
-[Yae Miko Mastersheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1B2O3IUVw4Y06PzribDpB-4pCr-sXfkmDYfxUCN2qQB0/edit?usp%3DsharingABPh7xDEunnVN6l4ANasrrJMsbc/edit?usp%3Dsharing&sa=D&source=editors&ust=1647252977949864&usg=AOvVaw1STgWyTGAnWQ5ZhvNYZ7Em) by the WFP Yae TC team (see below)
+[Yae Miko Mastersheet](https://docs.google.com/spreadsheets/d/1B2O3IUVw4Y06PzribDpB-4pCr-sXfkmDYfxUCN2qQB0/edit#gid=644165475) by the WFP Yae TC team (see below)
 
-[Yae Database](https://www.google.com/url?q=https://library.keqingmains.com/characters/electro/yae-miko&sa=D&source=editors&ust=1647252977950642&usg=AOvVaw2PtzGNccx4XEwgSk_mkXPw) by KeqingMains
+[Yae Database](https://library.keqingmains.com/characters/electro/yae-miko) by KeqingMains
 
 Emiliabyss\#1641 - author, calcs, team lead  
 Raikh / Valien\#8564 - team calcs, consulting, math wizard  
