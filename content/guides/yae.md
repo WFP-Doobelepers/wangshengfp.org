@@ -54,7 +54,7 @@ C1 +18% | C2 +10% | C3 +10% | C4 +12% | C5 +7% | C6 +22%
 
 ## Introduction
 
-#### Why Should You Play Miko? An Analysis
+### Why Should You Play Miko?
 
 ![](https://lh6.googleusercontent.com/R8ZZ2LByqlJm4A8e3IDn2rWCvZCKmc-3jt-VoGHBzgb1WAxMx6X9nWM1zRZ6cfu6jqXv4ZUKR2_fCEjtcpGi4h6488V5qc0nQyCawDpNSpOfc4_n1eEvOtRXrc3A9ZTQyeoLreUs)
 
@@ -72,7 +72,7 @@ When using Miko on your team, she’ll mainly be dealing damage off-field with h
 Teams utilizing Miko will primarily be at least one electro battery, a Viridescent Venerer-holder/healer, and a buffer/healer.
 The biggest drawback of Miko’s presence on your team is her 22-second Burst cooldown. Longer Burst cooldown means longer rotations, and longer rotations usually means less team DPS. If you plan to use Miko on your team, you should focus on really making every bit of damage in Miko’s kit count to warrant her inclusion.
 
-#### Pros and Cons
+### Pros and Cons
 
 ![](https://lh5.googleusercontent.com/wfxujlBk9Et8K2pM5oCdCqBJ83KfkKhyDpX9heB-IVMVDqKxec9KPTCchj4Mnl8dqxUS9u0TEzt27xSLNfrAw5IHDDFVMBYQ3jIFoUAZStUMhG3AHtCb6GmJZmH_01lsOqQnu9P7)
 
@@ -100,7 +100,7 @@ The biggest drawback of Miko’s presence on your team is her 22-second Burst co
 * Miko's best teammates, Raiden and Fischl, are either five stars or dependent on late constellations to maximize Miko's potential.
 * Won't show you her fox form, and will probably mislead you to your doom for fun.
 
-#### Misconceptions
+### Misconceptions
 
 "Miko is good in taser teams"
 
