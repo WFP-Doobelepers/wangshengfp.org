@@ -259,7 +259,7 @@ It should be noted, however, that EM transfer skills of other characters like Su
 
 ![](https://lh4.googleusercontent.com/_iJjr28hxTnqIiVATdD4HGCmUgQLOX3UQnIrLPHCbjTl1M0NX-ror_orKP9Ywoi4L4n3xfsPrH_7hWctO1DVXtScQ2lwS4TlbYOiebQr3FgGY_xFkojLPQQ1Lo83AI4ioQX_RkLr)
 
-#### Utility Passive - Woodchuck Chucked
+#### Utility Passive - Meditations of a Yako
 
 *Has a 25% chance to receive one (other) bonus regional Character Talent Material at random when crafting. The rarity is that of the base material.*
 
