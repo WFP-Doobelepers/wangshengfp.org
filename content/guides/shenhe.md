@@ -12,7 +12,7 @@ author: ['XenoVX#6150']
 Art by: [Yueko](https://www.yueko.com/)
 
 **Lead Writer: XenoVX#6150**\
-**Co-Writers: Zamo#6399, KBphan#0001, ApolloIV#8177, Sitri#9504**
+**Co-Writers: Zamo#6399, KB#1111, ApolloIV#8177, Sitri#9504**
 #### Preface
 
 Shenhe is a  5 star Cryo polearm unit  with a unique kit that bridges the traditional roles of support and sub-DPS.  She has proven to be an especially powerful unit in diverse Cryo compositions.
