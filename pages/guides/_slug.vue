@@ -9,6 +9,7 @@
             <img
                 :src="require(`~/assets/icons/elements/${guide.element}.svg`)"
                 class="fixed top-[-40vh] right-[-30vh] h-[125vh] hidden lg:block mix-blend-soft-light"
+                data-not-lazy
             >
         </div>
 
