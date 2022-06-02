@@ -87,7 +87,7 @@
                         />
                     </div>
 
-                    <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.com/edit/main/content${guide.path}${guide.extension}`" target="_blank">
+                    <a :href="`https://github.com/WFP-Doobelepers/WangshengFP.org/edit/main/content${guide.path}${guide.extension}`" target="_blank">
                         <div class="m-2 text-white">
                             <img src="~/assets/icons/pencil-box-outline.svg" style="height: 20px" class="inline">
                             Edit this page on GitHub
@@ -196,7 +196,7 @@ export default Vue.extend({
                 {
                     hid: 'og:url',
                     property: 'og:url',
-                    content: `https://wangshengfp.com/guides/${vm.guide.slug}`
+                    content: `https://wangshengfp.org/guides/${vm.guide.slug}`
                 }
             ]
         }
