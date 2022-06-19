@@ -1,5 +1,5 @@
 <template>
-    <div class="artifact-image block w-1/3 mx-auto">
+    <div class="artifact-image block w-1/3 min-w-[100px] mx-auto">
         <div class="inline-block relative">
             <img
                 v-for="(artifact, index) in artifacts"
