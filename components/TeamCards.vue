@@ -4,7 +4,7 @@
             v-for="character of characters"
             :key="character"
             :src="require(`~/assets/character_cards/${character}.png`)"
-            class="w-[25%]"
+            class="min-w-0 w-[25%]"
         >
     </div>
 </template>
