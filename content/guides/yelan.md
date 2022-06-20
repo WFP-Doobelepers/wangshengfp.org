@@ -12,7 +12,6 @@ author: ['Emiliabyss#1641', 'KB#1111']
 
 *“What do you think your odds of beating me are, when I have seven dice and you, only one?”*
 
-
 ## Abstract
 
 ##### Levelling
@@ -55,7 +54,7 @@ Excellent battery + Anemo + On-Field DPS
 
 ### Why Should You Play Yelan?
 
-![](https://lh6.googleusercontent.com/rSJHC2sQwlEKiW0qmIFZp-Y39I5o8qJ1hqDmdyYucyb6OTQ7bFzBTmB-aLybgc9804gryRbJWUm3NLslkOBHf7bfL6zMUyu7ZHDBLcO2F2s5KilA7RJt3qIDK6GrHwHEx3vyI-ElYm8)
+![chibi](https://lh6.googleusercontent.com/rSJHC2sQwlEKiW0qmIFZp-Y39I5o8qJ1hqDmdyYucyb6OTQ7bFzBTmB-aLybgc9804gryRbJWUm3NLslkOBHf7bfL6zMUyu7ZHDBLcO2F2s5KilA7RJt3qIDK6GrHwHEx3vyI-ElYm8)
 
 People who enjoy using powerful Elemental Bursts for consistent off-field damage will also enjoy the raw damage numbers Yelan provides to the team. Xingqiu players will likely feel somewhat at home with Yelan, due to their similar playstyles in supporting an auto-attacking on-field DPS. Yelan is gifted with a vast array of team compositions, and together with Xingqiu, she forms a pair as powerful on its own as Xiangling and Bennett. 
 
@@ -71,7 +70,7 @@ The biggest drawback of Yelan’s presence on your team is her obscene Energy Re
 
 ### Benefits
 
-![](https://lh5.googleusercontent.com/yFTeYF1jvyWMr8w4ckjuRwbeN8O9uVR-lrpysrVRC5uDBIxCaHh8ndyT5-uG98mbzjbCD5mJBwQfHi8DhoNP88M5IMZNCHY1vEPwLnV1IJRzYkW2v8q4PtbVmBWtsY6XDUR4OqZ50Kk)
+![chibi](https://lh5.googleusercontent.com/yFTeYF1jvyWMr8w4ckjuRwbeN8O9uVR-lrpysrVRC5uDBIxCaHh8ndyT5-uG98mbzjbCD5mJBwQfHi8DhoNP88M5IMZNCHY1vEPwLnV1IJRzYkW2v8q4PtbVmBWtsY6XDUR4OqZ50Kk)
 
 - Capable of dealing strong, consistent Hydro damage, with an extremely powerful Burst in every rotation. Basically, she has high multipliers.
 
@@ -92,7 +91,7 @@ The biggest drawback of Yelan’s presence on your team is her obscene Energy Re
 
 ### Drawbacks
 
-![](https://lh6.googleusercontent.com/wcEihuQA5IFIFbYphSJlFAqY7u33QNiOSe3XiN4Fm3yzVYqfSwM3xYp6WqZfFh-G_MtLJdzRb6qrfH6Ro1N3WPgJP6knLcHqTOyv1OUtlsyGAy1os5MpweYP0D6lW5dxqMiNq8bWiwo)
+![chibi](https://lh6.googleusercontent.com/wcEihuQA5IFIFbYphSJlFAqY7u33QNiOSe3XiN4Fm3yzVYqfSwM3xYp6WqZfFh-G_MtLJdzRb6qrfH6Ro1N3WPgJP6knLcHqTOyv1OUtlsyGAy1os5MpweYP0D6lW5dxqMiNq8bWiwo)
 
 - While Yelan is a flexible unit on her own, astronomical energy requirements force her to be paired with specific teammates (Raiden and/or Xingqiu, with Viridescent support) in order to show off her _true_ power.
 
@@ -188,7 +187,7 @@ The best way to reduce energy requirements is by using Yelan with teammates, suc
 
 It is _strongly recommend_ including _at least one_ of the following characters in your Yelan teams to serve as a battery: Xingqiu, Raiden, Kokomi, Fischl, or Ayato.
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh4.googleusercontent.com/SL62N7RHcy9lV0ooYn9QOfVxFvJWgW3H15fhRLR06P1ZzkFJxZTIaOQqAkjzexC8DKeDNmeiypkAOalf9Ijl22eNqh02axb09T12wbz3tJnqvhHvBDzmigRTqyculawika92FnUGTHg)![character_card](https://lh3.googleusercontent.com/Yh0DUDxvd8kfIDCSgvjdQKsYjDcvHQPE5DF9kHUernIeqKcLI-quMVIaaHc2AC6gcq5arIaiZxxT5F6n07eLtBlra08uEON1ygmOJSpzcZTLNv8SR1ddgJBKMM0CZRsyERsxqwevIyk)![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh3.googleusercontent.com/BsuT2KCQhJeNnKmkxeWW5BYgzomehf3ig5y7mb7mb01fTJxgsHFycBm_k1o0yelIrfLVKVjl0771CHE7ycmJDDK6Bm2zKQK6-evF3YhwZNtkeivTApAzEYO3choP8SmiBXbpWaT3RX0)
+<team-cards :characters="['xingqiu', 'shougun', 'kokomi', 'fischl', 'ayato']"></team-cards>
 
 ### Active Talents
 **_Priority: Burst > Skill > Normal Attacks_**
@@ -506,102 +505,102 @@ Finally, many teams prefer the implementation of a healer on their teams, or at 
 
 All of the recommended healers satisfy at least one other role. Kokomi and Xingqiu fulfill _three_ different roles. Zhongli and Jean are both good at wielding Favonius weapons to help satisfy energy needs.
 
-![](https://lh5.googleusercontent.com/E9GuGiNgBz3uqxlcR962idEodrhFdoDJnf_s4MvCDsqURXTTPgAF61mQCRMNZ3aJavJN4Au0mAASMH80DDTYm0gO8NAjAd7FyPD11NDpUEcPwYtVhONaBLfag6E2QV30bAR2n120Zog)
+![chibi](https://lh5.googleusercontent.com/E9GuGiNgBz3uqxlcR962idEodrhFdoDJnf_s4MvCDsqURXTTPgAF61mQCRMNZ3aJavJN4Au0mAASMH80DDTYm0gO8NAjAd7FyPD11NDpUEcPwYtVhONaBLfag6E2QV30bAR2n120Zog)
 
 ### Choosing Yelan’s Champion
 
-![](https://lh3.googleusercontent.com/BPqMD-hRONSgMIoPWiBz-oDVwaY8C5u9QBw31r0DVMfSIt1CWLafKW3M9bXjfMhm7GQAlVHkW2qk2KBQr4fpi9RHlWK4KtZfjtLD-LNyOMY2_ExoSLdQz2W93h-io055zJDnrtOWU6I)
+![chibi](https://lh3.googleusercontent.com/BPqMD-hRONSgMIoPWiBz-oDVwaY8C5u9QBw31r0DVMfSIt1CWLafKW3M9bXjfMhm7GQAlVHkW2qk2KBQr4fpi9RHlWK4KtZfjtLD-LNyOMY2_ExoSLdQz2W93h-io055zJDnrtOWU6I)
 **Raiden** is both an excellent team battery _and_ an excellent on-field DPS, allowing her to fulfill two roles simultaneously in Yelan teams. While in her Burst form, the Raiden Shogun generates flat energy for her party based on her number of attacks and her Energy Recharge stat. She also increases the Burst damage of her teammates based on their energy cost. Yelan’s 70-cost Burst certainly benefits.
 
 **Recommended Teammates for Raiden + Yelan**
 
-![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh5.googleusercontent.com/EML0V3fP24oGj_rtHgs5V6Hi1a7LnfmhScTR1e5wTGQtrkzy4ba7oc97DZAHb3O856a0SlYdq64gYPceGZZqkHIhtoMSNwqPbZ3cxxfZSCrf-I4SNv3pfrJkAUV99YVBBOXDuuc4TW8)![character_card](https://lh5.googleusercontent.com/vuvIrEy2Ri0mkUjsFHD_oQI53XqsDBdp0dOKATRBhuGiPsA5e-GCK_U6aLMMBdsrtJTA2IoQtmp3GtW16hd75RqYZyQgqa93am9apFur_xoXxJeSb5oHe32v7KYylcAH4Xvrs44BC_k)
+<team-cards :characters="['kazuha', 'xingqiu', 'zhongli', 'venti']"></team-cards>
 
 By adding Xingqiu, Yelan’s energy requirements are as low as they can be. Zhongli can make the team stable and consistent with his shield or a Viridescent Venerer-user like Kazuha can push the team to be more offensive.Other options include characters that can take advantage of Raiden’s energy generation to cast powerful Elemental Bursts. Fischl is a solid standalone off-field DPS in her own right while also contributing to energy needs. It’s important to note that Yelan can also keep up Hydro application in [Sunfire teams featuring Jean and Bennett.](https://library.keqingmains.com/evidence/characters/anemo/jean#anemo-aura)
 
-![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh4.googleusercontent.com/lZVnnwnw5swgqQajiaFONkiiBntcU9v2V-lnm5kidM9gbkxaYQ_vEw5QDZk-j8pJqw8T-QDB57KuIZTW5AF8idvVdchZuU84M6yyHYyKkMMrViK-ux8b9MV8tRFifZ1dhkdhmA6ULVc)![character_card](https://lh6.googleusercontent.com/WzSKmJun9bxvKjKuqpXaUdUhBIp_j-sAlpLXfU4hqZNvc1-VUcPujuEkEEgkcDTRbUwpDYDZF_1zLrrUt6khtuz5y09GcENHqSTvQwNLssn7A_QIuJMgVrRhcQUUaVIO3tuoouWtB6s)![character_card](https://lh6.googleusercontent.com/ScZbVkxKTykMXle_F5SL7s2mnIgNGi6NLTc3rM2-QWA5uC7heexS6470Zt7zSEQaUcvA9bxH24xBRwQTcrD2Ug7VvGu4uQKloaSrFUI76azxlCv-7AI6on2kYLkb7LbgCyK9XUw8HrU)
+<team-cards :characters="['fischl', 'jean', 'xiangling', 'bennett']"></team-cards>
 
-![](https://lh6.googleusercontent.com/1jzDc2I_A7VyhgeMiv5rL697El6lZfFf83rx6SoRSsF-QnIQH3R0FZA04_5H2ITAZdAql2RA6h4QUZFXYD3zBx2PX7uM570tOu8-o9cjwQ-hOBt48c76B9ItF36c1v4rRLU_vqfr_0E)
+![chibi](https://lh6.googleusercontent.com/1jzDc2I_A7VyhgeMiv5rL697El6lZfFf83rx6SoRSsF-QnIQH3R0FZA04_5H2ITAZdAql2RA6h4QUZFXYD3zBx2PX7uM570tOu8-o9cjwQ-hOBt48c76B9ItF36c1v4rRLU_vqfr_0E)
 **Hu Tao** is the premier Pyro DPS when looking for high single-target damage. Xingqiu is her favorite teammate and Yelan’s raw firepower sends this team’s damage even higher. Hu Tao gains (at least) one new team from Yelan, including Xingqiu and Xiangling. Note that because Hu Tao can Vaporize with her Normal Attacks, Charged Attacks and Blood Blossoms, this can quickly deplete Hydro auras. Due to Yelan’s internal cooldown, however, Yelan can reset the Hydro aura on an enemy.
 
 **Recommended Teammates for Hu Tao + Yelan + Xingqiu**
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh5.googleusercontent.com/EML0V3fP24oGj_rtHgs5V6Hi1a7LnfmhScTR1e5wTGQtrkzy4ba7oc97DZAHb3O856a0SlYdq64gYPceGZZqkHIhtoMSNwqPbZ3cxxfZSCrf-I4SNv3pfrJkAUV99YVBBOXDuuc4TW8)![character_card](https://lh6.googleusercontent.com/WzSKmJun9bxvKjKuqpXaUdUhBIp_j-sAlpLXfU4hqZNvc1-VUcPujuEkEEgkcDTRbUwpDYDZF_1zLrrUt6khtuz5y09GcENHqSTvQwNLssn7A_QIuJMgVrRhcQUUaVIO3tuoouWtB6s)
+<team-cards :characters="['xingqiu', 'kazuha', 'zhongli', 'xiangling']"></team-cards>
 
 **Xingqiu is _highly advised_** for Hu Tao teams. The **Kazuha** and **Zhongli** are reasonable first-choices for shielding or shredding. Kazuha’s Burst can infuse with Hydro for more application. **Xiangling** and Xingqiu together enable a critical mass of Vaporize reactions.
 
 **Sucrose** shares a portion of her Elemental Mastery with the team and uses Viridescent Venerer to maximize Vaporize reactions. Being a catalyst-wielder opens up support options in Prototype Amber and Thrilling Tales. **Fischl** can apply Electro, which then allows Hu Tao to use both Vaporize and Overload reactions (“Overvape”) simultaneously. Additionally, Electro-Charged reactions weaken a Hydro aura, but remove a Pyro aura, allowing the team to stabilize Hydro application on enemies.
 
-![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh6.googleusercontent.com/DN4Mo0O5S-SROR-5T8loZtkILdFK9AoK9fprkQYGBQB7Cl46zu41tQTmOnXMVcbcsz0xv4Kz0kenk5-GHiFAVit5BiXq_X5STc_a8MlDZ5vATGw11RY-08lccQ-9KAYXrE0XSFMPjR4)![character_card](https://lh4.googleusercontent.com/SqsP1N87bSAXkugceo8GN-jIb2uUO4gVGn-o7rCoeOPUyU3wawloDeFlA-SMCHAgFc584jUOF7cTUW0Bu3bUdnKNWFKJYlzytzvGBpibAkPsf4_gaICEc9-cdbRK25rTJ_TQIhNN6Gc)
+<team-cards :characters="['fischl', 'sucrose', 'thoma']"></team-cards>
 
-![](https://lh4.googleusercontent.com/WEhd2xSU9X84WBGld456e7xGLfvr2lUxzEMs-2B3QaeX_CM3gs-x_ebg-dMOWnhHaZCuEET1qUiejYxFkJK3ZkuaeenGO4qhsGE21WiAT6Zs18K68TogNll6y9brBUsB_wIJc-jelOA)
+![chibi](https://lh4.googleusercontent.com/WEhd2xSU9X84WBGld456e7xGLfvr2lUxzEMs-2B3QaeX_CM3gs-x_ebg-dMOWnhHaZCuEET1qUiejYxFkJK3ZkuaeenGO4qhsGE21WiAT6Zs18K68TogNll6y9brBUsB_wIJc-jelOA)
 **Sucrose** is a one-woman mixing pot for Elemental reactions. If there is a team that creates a ton of reactions at once, odds are Sucrose is on the team. With Viridescent Venerer, she reduces enemy Hydro resistance for Yelan, while sharing a portion of her Elemental Mastery stat with teammates to buff reaction damage, usually Electro-Charged. 
 
 **Recommended Teammates for Sucrose + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)
+<team-cards :characters="['fischl']"></team-cards>
 
 Start with Fischl. You can’t make any meaningful reactions with Sucrose and Yelan alone. When Sucrose is the on-field attacker, stick with Electro-Charged. Fischl generates energy and does respectable, consistent Electro damage.
 
-![character_card](https://lh5.googleusercontent.com/OGP955-bywBQ1vyrE__cbDEDC10qJPyTw3TtOz0v5tx-4zwoCzj1q3qyxZgh_RLV9oipEC4zyF27tN2Sye3fFUHS0Bdac_NLlQ3X9iuy-mguu2_iYo-xQb7RpKfMTJ9v1A1wu0-uuYs)![character_card](https://lh5.googleusercontent.com/i6N3yEqiqR0a2oZZ5wmf_hdE6LYs4vT9EIq9zWXNxI_xLtqvNjuC6u3P_sD8fqTwj6QQ31llSUOL7Z15Ds7uRCyy5lyId-AcejFgttaxWEYNNhC5sZGqOExPOWySTFbqNZDgjnch1os)![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh3.googleusercontent.com/Yh0DUDxvd8kfIDCSgvjdQKsYjDcvHQPE5DF9kHUernIeqKcLI-quMVIaaHc2AC6gcq5arIaiZxxT5F6n07eLtBlra08uEON1ygmOJSpzcZTLNv8SR1ddgJBKMM0CZRsyERsxqwevIyk)
+<team-cards :characters="['yaemiko', 'beidou', 'xingqiu', 'kokomi']"></team-cards>
 
 If you need healing, take Kokomi. If you want to maximize Yelan’s damage on the team, bring Xingqiu. Otherwise, build more Energy Recharge on Yelan and pick an Electro Burst DPS. Yae Miko is most effective in large single-target scenarios like bosses. Beidou is the default choice when you predict Sucrose will be grouping mobs together.
 
-![](https://lh5.googleusercontent.com/_0G_iEFxoW68sIHqfvd3a9i5h9AAmG1kMM4VP1D8CCRKqS75a_J4XTtyNE4clv55zPx6BlygNMaJ0DqnsTod_QujifXPvGqy9QK8XvdNEKVw2pDSj0A5c2sQlsK_FvrdfdkDalCULg0)
+![chibi](https://lh5.googleusercontent.com/_0G_iEFxoW68sIHqfvd3a9i5h9AAmG1kMM4VP1D8CCRKqS75a_J4XTtyNE4clv55zPx6BlygNMaJ0DqnsTod_QujifXPvGqy9QK8XvdNEKVw2pDSj0A5c2sQlsK_FvrdfdkDalCULg0)
 **Yoimiya** is an excellent single-target driver for Yelan, Xingqiu, and other characters with coordinated attacks. Her arrows help guide the ranged coordinated attacks to their target (and also feels extremely satisfying to play). Yoimiya applies Pyro at a slower rate, so as long as you can secure the third and fifth hits in Yoimiya’s Normal Attack chain, Yoimiya will happily benefit from Yelan’s buffs, damage, and Hydro application.
 
 **Recommended Teammates for Yoimiya + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh5.googleusercontent.com/EML0V3fP24oGj_rtHgs5V6Hi1a7LnfmhScTR1e5wTGQtrkzy4ba7oc97DZAHb3O856a0SlYdq64gYPceGZZqkHIhtoMSNwqPbZ3cxxfZSCrf-I4SNv3pfrJkAUV99YVBBOXDuuc4TW8)![character_card](https://lh5.googleusercontent.com/vuvIrEy2Ri0mkUjsFHD_oQI53XqsDBdp0dOKATRBhuGiPsA5e-GCK_U6aLMMBdsrtJTA2IoQtmp3GtW16hd75RqYZyQgqa93am9apFur_xoXxJeSb5oHe32v7KYylcAH4Xvrs44BC_k)
+<team-cards :characters="['xingqiu', 'kazuha', 'zhongli', 'venti']"></team-cards>
 
 While Yelan functions as the sole Hydro unit, **Xingqiu** is still recommended if not only for their raw power when paired together. Yoimiya, like Hu Tao, might prefer a defensive option, especially **Zhongli**. **Kazuha** is the default option for crowd control, **Bennett** buffs Yoimiya, generates Pyro energy and heals. His buff is wasted on Yelan, sadly. **Thoma** provides Pyro Resonance and can act as a budget Zhongli alternative. **Yunjin** grants significant buffs to Yoimiya’s Normal Attacks, and **Fischl** generates energy while acting as a _third_ character with off-field damages if you like going all-out with multicolored laser beams.
 
-![character_card](https://lh6.googleusercontent.com/ScZbVkxKTykMXle_F5SL7s2mnIgNGi6NLTc3rM2-QWA5uC7heexS6470Zt7zSEQaUcvA9bxH24xBRwQTcrD2Ug7VvGu4uQKloaSrFUI76azxlCv-7AI6on2kYLkb7LbgCyK9XUw8HrU)![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh6.googleusercontent.com/He1xyyM4nxtX58zMr5UqA7T_8DAztDgXHxXLNAVXdicw30uRFZVop3XV4WMLlI35ORHG-hivMRUnmjNbMdLDBwt4giMHLI3Q7VAR-INCjgO_rIE3B30n5_GOOlYEB46Up_sxo0igUP8)![character_card](https://lh4.googleusercontent.com/SqsP1N87bSAXkugceo8GN-jIb2uUO4gVGn-o7rCoeOPUyU3wawloDeFlA-SMCHAgFc584jUOF7cTUW0Bu3bUdnKNWFKJYlzytzvGBpibAkPsf4_gaICEc9-cdbRK25rTJ_TQIhNN6Gc)
+<team-cards :characters="['bennett', 'fischl', 'yunjin', 'thoma']"></team-cards>
 
-![](https://lh4.googleusercontent.com/ahfTWwvAXaQnXKDRgosbnUwGQqSURBYlmXhCBXKfN2EDsXDLSk5f-sn_KemsopQ-2dg-Slq-cxgsvuPgVwHC4Fu_MxwzonRz-iMzrCkQGygShVSTBItuzTNq6zVq3Jzjd_sQ_ytU5Y0)
+![chibi](https://lh4.googleusercontent.com/ahfTWwvAXaQnXKDRgosbnUwGQqSURBYlmXhCBXKfN2EDsXDLSk5f-sn_KemsopQ-2dg-Slq-cxgsvuPgVwHC4Fu_MxwzonRz-iMzrCkQGygShVSTBItuzTNq6zVq3Jzjd_sQ_ytU5Y0)
 **Kokomi**  can equip the 4pc Ocean-Hued Clam artifact set to maximize both her healing and on-field damage potential. Kokomi also functions as a battery, generating a consistent flow of Hydro particles through her Skill. Because her Burst refreshes the duration of her Jellyfish, she can consistently make use of 4Clam. Because Kokomi can satisfy all three team roles simultaneously, she is a solid on-field choice.
 
 **Recommended Teammates for Kokomi + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh5.googleusercontent.com/vuvIrEy2Ri0mkUjsFHD_oQI53XqsDBdp0dOKATRBhuGiPsA5e-GCK_U6aLMMBdsrtJTA2IoQtmp3GtW16hd75RqYZyQgqa93am9apFur_xoXxJeSb5oHe32v7KYylcAH4Xvrs44BC_k)
+<team-cards :characters="['xingqiu', 'kazuha', 'fischl', 'venti']"></team-cards>
 
 Xingqiu provides energy to both Yelan and Kokomi, and if Kokomi is driving the team, it’s best to allow her to focus on her damage by reducing energy requirements.Anemo characters provide one of the few available buffs for both Yelan and Kokomi. Kazuha is the generic best choice for raw damage. Venti allows unparalleled crowd control and slight energy refund, while Sucrose can provide Elemental Mastery support and, if needed, equip Favonius Codex for energy generation, or even Hakushin Ring for buffing.
 
-![character_card](https://lh5.googleusercontent.com/OGP955-bywBQ1vyrE__cbDEDC10qJPyTw3TtOz0v5tx-4zwoCzj1q3qyxZgh_RLV9oipEC4zyF27tN2Sye3fFUHS0Bdac_NLlQ3X9iuy-mguu2_iYo-xQb7RpKfMTJ9v1A1wu0-uuYs)![character_card](https://lh6.googleusercontent.com/DN4Mo0O5S-SROR-5T8loZtkILdFK9AoK9fprkQYGBQB7Cl46zu41tQTmOnXMVcbcsz0xv4Kz0kenk5-GHiFAVit5BiXq_X5STc_a8MlDZ5vATGw11RY-08lccQ-9KAYXrE0XSFMPjR4)![character_card](https://lh5.googleusercontent.com/i6N3yEqiqR0a2oZZ5wmf_hdE6LYs4vT9EIq9zWXNxI_xLtqvNjuC6u3P_sD8fqTwj6QQ31llSUOL7Z15Ds7uRCyy5lyId-AcejFgttaxWEYNNhC5sZGqOExPOWySTFbqNZDgjnch1os)
+<team-cards :characters="['yaemiko', 'sucrose', 'beidou']"></team-cards>
 
 Fischl is an all-around solid Electro character on her own who adds energy and consistently facilitates Electro-Charged reactions. Her energy production allows room for another energy-hungry DPS like Yae Miko for large bosses or Beidou for small hordes.
 
-![](https://lh6.googleusercontent.com/tTvzY-03rocyxhDKdmXVa3ShSFrB2ditYMQKS-NLU0x8-TI_3wqKz63_SL0bBuxdRdR9AKLMAYCmWkjkB7SXl62E43H_akJzX08iAHrA21G_GE-bmR9EppWlrwVQIie2UL0I4wRyeBE)
+![chibi](https://lh6.googleusercontent.com/tTvzY-03rocyxhDKdmXVa3ShSFrB2ditYMQKS-NLU0x8-TI_3wqKz63_SL0bBuxdRdR9AKLMAYCmWkjkB7SXl62E43H_akJzX08iAHrA21G_GE-bmR9EppWlrwVQIie2UL0I4wRyeBE)
 **Diluc** has fallen out of favor since he was first released and hailed as the go-to DPS. With Yelan on the team, her added personal DPS can be a serious asset, whether or not she’s paired with a battery. Diluc’s greatest asset is his exceptionally forgiving gameplay. To maximize Diluc’s reactions, alternate between his Normal Attack and his Skill. This gives Yelan time to apply Hydro.
 
 **Recommended Teammates for Diluc + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh4.googleusercontent.com/lZVnnwnw5swgqQajiaFONkiiBntcU9v2V-lnm5kidM9gbkxaYQ_vEw5QDZk-j8pJqw8T-QDB57KuIZTW5AF8idvVdchZuU84M6yyHYyKkMMrViK-ux8b9MV8tRFifZ1dhkdhmA6ULVc)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh5.googleusercontent.com/EML0V3fP24oGj_rtHgs5V6Hi1a7LnfmhScTR1e5wTGQtrkzy4ba7oc97DZAHb3O856a0SlYdq64gYPceGZZqkHIhtoMSNwqPbZ3cxxfZSCrf-I4SNv3pfrJkAUV99YVBBOXDuuc4TW8)
+<team-cards :characters="['xingqiu', 'jean', 'kazuha', 'zhongli']"></team-cards>
 
 **Xingqiu** can be replaced by Yelan without much trouble, but he remains a solid first choice. Jean reduces elemental resistance while providing much-appreciated healing. Kazuha offers excellent team buffs. Zhongli enables comfortable play with his shield.
 
-![character_card](https://lh6.googleusercontent.com/ScZbVkxKTykMXle_F5SL7s2mnIgNGi6NLTc3rM2-QWA5uC7heexS6470Zt7zSEQaUcvA9bxH24xBRwQTcrD2Ug7VvGu4uQKloaSrFUI76azxlCv-7AI6on2kYLkb7LbgCyK9XUw8HrU)![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh6.googleusercontent.com/DN4Mo0O5S-SROR-5T8loZtkILdFK9AoK9fprkQYGBQB7Cl46zu41tQTmOnXMVcbcsz0xv4Kz0kenk5-GHiFAVit5BiXq_X5STc_a8MlDZ5vATGw11RY-08lccQ-9KAYXrE0XSFMPjR4)
+<team-cards :characters="['bennett', 'fischl', 'sucrose']"></team-cards>
 
 Bennett buffs Diluc, generates Pyro energy, and heals, though his buff is wasted on Yelan. Fischl or Beidou (depending on Energy Recharge levels) can introduce Electro reactions for the team.
 
-![](https://lh4.googleusercontent.com/qcjuaBQoMm_CMt8OlI-hD7Ag2gkB_fszO2daHCS9E5DvXVGcupy9c_Zt0lFTcSCFNZGwZz7fgNmMCCAxL1IIuRDpgpoUGpIgo56nkFqWVIgxWfOHDSMQpdMp9nfDcCgcyNyQt2wa71A)
+![chibi](https://lh4.googleusercontent.com/qcjuaBQoMm_CMt8OlI-hD7Ag2gkB_fszO2daHCS9E5DvXVGcupy9c_Zt0lFTcSCFNZGwZz7fgNmMCCAxL1IIuRDpgpoUGpIgo56nkFqWVIgxWfOHDSMQpdMp9nfDcCgcyNyQt2wa71A)
 **Ayato** doubles as an on-field DPS and a source of Hydro particles with his Skill. As a bonus, his partial HP scaling appreciates Yelan’s teamwide Max HP buff at C4.In a 24-second rotation where Ayato and Yelan each use their Skills twice a round, this is one of the teams with the lowest energy needs. In single skill-use, shorter rotations, energy needs are much higher and one can benefit from an extra battery.
 
 **Recommended Teammates for Ayato + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/-WnXdBLgOyyZCfuLUfxi65P1kysONOGru6RH8hfkZnYwwzB7gg9na4IQ_907MGasb43QGfDzQ0ih1tKCwsYAZOjQRi7AcQYGE9f7bEoifCAhub-neEeZWsChWcmCm094E-oXZMAXHww)![character_card](https://lh4.googleusercontent.com/lZVnnwnw5swgqQajiaFONkiiBntcU9v2V-lnm5kidM9gbkxaYQ_vEw5QDZk-j8pJqw8T-QDB57KuIZTW5AF8idvVdchZuU84M6yyHYyKkMMrViK-ux8b9MV8tRFifZ1dhkdhmA6ULVc)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh5.googleusercontent.com/vuvIrEy2Ri0mkUjsFHD_oQI53XqsDBdp0dOKATRBhuGiPsA5e-GCK_U6aLMMBdsrtJTA2IoQtmp3GtW16hd75RqYZyQgqa93am9apFur_xoXxJeSb5oHe32v7KYylcAH4Xvrs44BC_k)![character_card](https://lh5.googleusercontent.com/EML0V3fP24oGj_rtHgs5V6Hi1a7LnfmhScTR1e5wTGQtrkzy4ba7oc97DZAHb3O856a0SlYdq64gYPceGZZqkHIhtoMSNwqPbZ3cxxfZSCrf-I4SNv3pfrJkAUV99YVBBOXDuuc4TW8)
+<team-cards :characters="['fischl', 'jean', 'kazuha', 'venti', 'zhongli']"></team-cards>
 
 Taser teams involving Ayato involve at least one Hydro, Electro, and Anemo character. **Fischl** is a huge boon for both Electro application and managing Ayato _and_ Yelan’s energy requirements. Double Hydro allows even lower ER requirements across the board. Each Anemo unit listed brings something unique to the table while shredding Elemental resistance. **Jean** provides healing, filling the last team slot nicely.  **Kazuha** is the generic best choice for raw damage, **Venti** has unparalleled crowd control, and **Sucrose** can wield Thrilling Tales of Dragon Slayers or Prototype Amber.If you cannot or will not use any of the previously mentioned choices, **Xingqiu** offers energy, interruption resistance, damage reduction, and shreds enemy Hydro resistance. **Kokomi** is a healer that can use Tenacity of the Millelith and Thrilling Tales to buff and heal. **Yae Miko** and **Beidou**, when energy requirements are met, are potent off-field DPS’s.
 
-![character_card](https://lh5.googleusercontent.com/OGP955-bywBQ1vyrE__cbDEDC10qJPyTw3TtOz0v5tx-4zwoCzj1q3qyxZgh_RLV9oipEC4zyF27tN2Sye3fFUHS0Bdac_NLlQ3X9iuy-mguu2_iYo-xQb7RpKfMTJ9v1A1wu0-uuYs)![character_card](https://lh5.googleusercontent.com/i6N3yEqiqR0a2oZZ5wmf_hdE6LYs4vT9EIq9zWXNxI_xLtqvNjuC6u3P_sD8fqTwj6QQ31llSUOL7Z15Ds7uRCyy5lyId-AcejFgttaxWEYNNhC5sZGqOExPOWySTFbqNZDgjnch1os)![character_card](https://lh3.googleusercontent.com/Yh0DUDxvd8kfIDCSgvjdQKsYjDcvHQPE5DF9kHUernIeqKcLI-quMVIaaHc2AC6gcq5arIaiZxxT5F6n07eLtBlra08uEON1ygmOJSpzcZTLNv8SR1ddgJBKMM0CZRsyERsxqwevIyk)![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh6.googleusercontent.com/DN4Mo0O5S-SROR-5T8loZtkILdFK9AoK9fprkQYGBQB7Cl46zu41tQTmOnXMVcbcsz0xv4Kz0kenk5-GHiFAVit5BiXq_X5STc_a8MlDZ5vATGw11RY-08lccQ-9KAYXrE0XSFMPjR4)
+<team-cards :characters="['yaemiko', 'beidou', 'kokomi', 'xingqiu', 'sucrose']"></team-cards>
 
-![](https://lh6.googleusercontent.com/XVFYbr92g-R5j4ilvCAMx9pFmlZsqhWUNAEB0uUQoLG2mQTtCQyUe2rK7jCzawByZ8jlnsYaE4MMXVRpgR1YmQ2y_EFnJMk83G7WAEySLQKVjpo_oLKwbxsDJO9_0zb9GLq2jce5BVg)
+![chibi](https://lh6.googleusercontent.com/XVFYbr92g-R5j4ilvCAMx9pFmlZsqhWUNAEB0uUQoLG2mQTtCQyUe2rK7jCzawByZ8jlnsYaE4MMXVRpgR1YmQ2y_EFnJMk83G7WAEySLQKVjpo_oLKwbxsDJO9_0zb9GLq2jce5BVg)
 
 **Bennett** was saved for the end of the guide, because everyone is sick of hearing how good Bennett is in every guide, but yes, he really is **_that good,_** even when his buff doesn’t affect Yelan at all. Here, you use Bennett as the on-field DPS, rather than purely a backline support. Grab your 4pc Crimson Witch pieces!
 
 **Recommended Teammates for Bennett + Yelan**
 
-![character_card](https://lh6.googleusercontent.com/kclBkvXo4QWhuVN_zslwhHRLXwsfcVErWCiUjJW3DM4rpJ4i1qaGg0tTn5yp7QdHxTVNmZFdKiQHga2v0oeNHIKhJjuNutpOBT-rzCk1h11tRih_3nrJvZjBYnEruhCJF_aZcOeMVN4)![character_card](https://lh6.googleusercontent.com/WzSKmJun9bxvKjKuqpXaUdUhBIp_j-sAlpLXfU4hqZNvc1-VUcPujuEkEEgkcDTRbUwpDYDZF_1zLrrUt6khtuz5y09GcENHqSTvQwNLssn7A_QIuJMgVrRhcQUUaVIO3tuoouWtB6s)![character_card](https://lh4.googleusercontent.com/AEyYDtPffhPyq9YOm3gPhaueGbmV0-XCRQTwbambjpidTit-xEaryf_abGKj64NMtAIuDWRd9mC1e85ac5rKyPuYILxAE2H91-p2pfUqs_n9VUAYRj5VwRleW7HPZt_sDjpda3wkOEA)![character_card](https://lh6.googleusercontent.com/VxUmWM9_cWF4rg7cR1BpL1pxNm4PNdUhzsSuSC72DmOltNW8ELfo1LhEkIyuNxVMOjnReUi_Llx7IQDdb_9VcHmtbr3YNPNtbPhSQtcwkmtndWK4BlMbsPIqfRejZEIdNC8cazdTClc)
+<team-cards :characters="['xingqiu', 'xiangling', 'kazuha', 'chongyun']"></team-cards>
 
 **Xingqiu** can be replaced by Yelan without much trouble, but Xingqiu and Yelan remain as powerful together in Hydro as Bennett and Xiangling are in Pyro.
 
@@ -615,53 +614,53 @@ You **_could_** use other characters, but why bother when the best teammates are
 
 ### Other Teammate Details
 
-![](https://lh4.googleusercontent.com/JaIzCzHpoTQL46ZVOKQ5wWKWeXPvapYQWPAQkp6jJtQ-AmlbqH7yharUZpCV1rFf_KvIiJ0U6SFHJAPoW4__fdp3JgfLdw-j2cSBB6qsYhG6RSL8_Utxxvwb_KHOrYjc-g3lof4qXLA)
+![chibi](https://lh4.googleusercontent.com/JaIzCzHpoTQL46ZVOKQ5wWKWeXPvapYQWPAQkp6jJtQ-AmlbqH7yharUZpCV1rFf_KvIiJ0U6SFHJAPoW4__fdp3JgfLdw-j2cSBB6qsYhG6RSL8_Utxxvwb_KHOrYjc-g3lof4qXLA)
 **Xingqiu** may seem like a redundant choice, but Xingqiu is the most effective battery for her, especially when wielding an R3+ Sacrificial Sword.
 
 C2 reduces Hydro resistance, a rare buff for Yelan, and covers most of her weaknesses in utility. A flexible unit for all sorts of reaction-based teams.
 
 Yelan and Xingqiu, together, deal such tremendous amounts of damage that they can carry basically any on-field unit if you bring an Anemo support.
 
-![](https://lh3.googleusercontent.com/-fbWRgDbBPBCOlKEvSUnXHiwvN5KFEfuPnSgVnHyME2_845LFhIJaT-JeweFvDkE77D-3k2f45nzx0w4TwirUmXts-VwP5WEXVKPOcheIZ_nfBjKVb73Fnkh-CsOEhUGBMNUMFj-Rgc)
+![chibi](https://lh3.googleusercontent.com/-fbWRgDbBPBCOlKEvSUnXHiwvN5KFEfuPnSgVnHyME2_845LFhIJaT-JeweFvDkE77D-3k2f45nzx0w4TwirUmXts-VwP5WEXVKPOcheIZ_nfBjKVb73Fnkh-CsOEhUGBMNUMFj-Rgc)
 **Kazuha** Is the premier Anemo character for buffs, debuffs, and crowd control. The Elemental DMG bonus on his fourth ascension passive and the ability to keep Elements cycling all contribute greatly to any Elemental DPS’s damage.
 
 With his signature weapon, Freedom Sworn, these buffs stack up. His main drawbacks are his field time and how every team wants him. Kazuha can also [swirl multiple elements in a team.](https://library.keqingmains.com/evidence/combat-mechanics/elemental-effects/transformative-reactions#how-to-get-double-swirls) Be sure to use the “Hold” version of this Skill to do this, as it applies 2U of Anemo instead of 1U. This is what helps apply the ‘double-swirl’.
 
-![](https://lh6.googleusercontent.com/9f5TMtEbmjHg2rKBuoOzMjAHVVilApbew_r6KRiHJ8Xp-Tr4cK4VItcbPe8GA_fABNzalguMAHK6FMTFKCZMIQEjW4cPDyYSmQz4-6SAMlY7TwI0KscuP8JT5bYnHnqjzFTS1l_oHxc)
+![chibi](https://lh6.googleusercontent.com/9f5TMtEbmjHg2rKBuoOzMjAHVVilApbew_r6KRiHJ8Xp-Tr4cK4VItcbPe8GA_fABNzalguMAHK6FMTFKCZMIQEjW4cPDyYSmQz4-6SAMlY7TwI0KscuP8JT5bYnHnqjzFTS1l_oHxc)
 **Xiangling** is a 4-star unit who outdamages many 5-star units, often carrying the team from the backline. She is often seen paired with Raiden, Xingqiu, and Bennett, and so will be a natural choice when using Yelan with Raiden.
 
 Her Pyro application is slightly faster than Yoimiya and Diluc, so Yelan might occasionally fail to provide enough Hydro if used without Xingqiu. Without Bennett in the party, Xiangling will struggle to meet energy needs.
 
-![](https://lh4.googleusercontent.com/o1DxdmcMdxAccN2crD3uFynBxKdAATcrw5dcBjZGDhcA5x32Cn6vn5NXLNgdognfFqs1MulrMXhf61pNmKZfGw5NK3lyzSvHACeCaaEeEv_aD9nB_ddsZ2npt9iQwLIyJUxkrlMhYWg)
+![chibi](https://lh4.googleusercontent.com/o1DxdmcMdxAccN2crD3uFynBxKdAATcrw5dcBjZGDhcA5x32Cn6vn5NXLNgdognfFqs1MulrMXhf61pNmKZfGw5NK3lyzSvHACeCaaEeEv_aD9nB_ddsZ2npt9iQwLIyJUxkrlMhYWg)
 **Fischl**  is the next logical choice of a battery in Electro whenever Raiden is unavailable. By using her Skill to summon Oz, her raven turret, and casting her Burst to reset Oz, she deals constant, respectable Electro damage and generates a steady flow of energy.
 
 Fischl has synergy with many of Yelan’s ideal teammates, making her a stable and flexible choice.
 
-![](https://lh5.googleusercontent.com/uxSmHZ1Z_oGzGzuq8PPt4ix_DCw2vjMUKPzv54Sb-lDs0CVhblpIH9WTPyvzVavhSiDGE8My-ick6AH0NIa5DnDGQvPRO8XqIEfLD51fLL9w6-q3VmgJEaCAf5d4XowqRR7Eais_CvM)
+![chibi](https://lh5.googleusercontent.com/uxSmHZ1Z_oGzGzuq8PPt4ix_DCw2vjMUKPzv54Sb-lDs0CVhblpIH9WTPyvzVavhSiDGE8My-ick6AH0NIa5DnDGQvPRO8XqIEfLD51fLL9w6-q3VmgJEaCAf5d4XowqRR7Eais_CvM)
 **Venti** is the best choice for a Viridescent Venerer-holder when your team needs unmatched crowd control.
 
 Some on-field DPS’s prefer everyone to be stuck in one place, and Venti’s Burst can certainly do that while debuffing, allowing Yelan’s Burst waves to hit enemies in the vortex. Raiden, Yoimiya, and Ayato especially benefit from this boon.
 
 Venti also has an energy refund feature that helps energy needs further.
 
-![](https://lh4.googleusercontent.com/OQSlmk5cAm02l_0tKSl6tXvm3WUqr09Sd6I_jHVC749FIjPXRioa9tiL5KCme3a_-f7NXpYS9KN2Mz8T1zKIRPQeoD4c9zrTlcUQoVvSSuEeFpsueauEudm8osk7_JSXm55XtcQvpf8)
+![chibi](https://lh4.googleusercontent.com/OQSlmk5cAm02l_0tKSl6tXvm3WUqr09Sd6I_jHVC749FIjPXRioa9tiL5KCme3a_-f7NXpYS9KN2Mz8T1zKIRPQeoD4c9zrTlcUQoVvSSuEeFpsueauEudm8osk7_JSXm55XtcQvpf8)
 **Zhongli** is the great stabilizer of Genshin Impact, offering a near-indestructible shield and resistance shred. Both of these benefit Yelan and her DPS partner’s damage.
 
 Zhongli will often be used on Hu Tao teams which prefer comfort over the Viridescent debuff from Anemo units.
 
 The 4pc Archaic Petra artifact set also grant 35% damage bonus to his teammates when not opting into 4pc. Tenacity of the Millelith, though 4AP is difficult to use effectively. Due to Yelan having so few available buffs to take advantage of, Archaic Petra is more valuable.
 
-![](https://lh3.googleusercontent.com/Fi4_HXGhg_ecqLD-v9UZq17IIae40K7d5Xboscq8VwFtDqWUnWx-tgC6bbKIM9OkSYKJ2z7miV9jqsDmFA8G2swV0SxOZYz3_BwbfNUKa_z3X3yaQj9mKaXWhGZxfGW0kIU6T4GUlUM)
+![chibi](https://lh3.googleusercontent.com/Fi4_HXGhg_ecqLD-v9UZq17IIae40K7d5Xboscq8VwFtDqWUnWx-tgC6bbKIM9OkSYKJ2z7miV9jqsDmFA8G2swV0SxOZYz3_BwbfNUKa_z3X3yaQj9mKaXWhGZxfGW0kIU6T4GUlUM)
 **Beidou** is most at home when paired with Fischl, an Anemo character, and a hydro applicator. Yelan happens to fit right into this team. She should be used mainly when you expect two or more targets regularly in combat.
 
 Both Beidou and Yelan have Bursts that capitalize on Normal Attacks. This allows them to synergize, as they create Electro-Charged together, and Beidou’s arc lightning bounces between enemies even when Yelan is dealing single-target damage.
 
-![](https://lh5.googleusercontent.com/ZpxEUgSMmepBXw4u9pjgBSFVlLCMW1SSdOZk85qOP-hD7176Mhi7hSXh73MuKUXli4IX-BdzXOeWB-5xP_vUrp8wcNRNoKKgeXQ188QTVBx5LwTcJfEw-WWg4mTCXyl0ymyhcYuoNrE)
+![chibi](https://lh5.googleusercontent.com/ZpxEUgSMmepBXw4u9pjgBSFVlLCMW1SSdOZk85qOP-hD7176Mhi7hSXh73MuKUXli4IX-BdzXOeWB-5xP_vUrp8wcNRNoKKgeXQ188QTVBx5LwTcJfEw-WWg4mTCXyl0ymyhcYuoNrE)
 **Jean** fulfills two roles on Yelan teams: she offers the Viridescent Venerer debuff, shredding elemental resistances, and she heals.
 
 An additional, undervalued aspect of Jean’s kit is her short Skill cooldown. She’s also commonly seen with a Favonius Sword. Any character that can use their skill twice in a rotation and wield a Favonius weapon will compensate for one battery not doing its job well enough.
 
-![](https://lh6.googleusercontent.com/5cBD64rkG053K4ch22_g8Tn7mYqegipWmXGH2gaj6n217gtDqffcHUOlIRduarSLCPq1JHRREyo2eZFnxd2h0PJOcgcSusJx1FTExJpDKTt27AKRZjP3eX9IxU4irYDd7BHGclPp5uw)
+![chibi](https://lh6.googleusercontent.com/5cBD64rkG053K4ch22_g8Tn7mYqegipWmXGH2gaj6n217gtDqffcHUOlIRduarSLCPq1JHRREyo2eZFnxd2h0PJOcgcSusJx1FTExJpDKTt27AKRZjP3eX9IxU4irYDd7BHGclPp5uw)
 **Yae Miko** deals heavy damage via her Skill and Burst, and usually wants a battery like Fischl or the Raiden Shogun and an Anemo character. Yelan benefits from both.
 
 It should be noted that Miko has a 22-second cooldown on her Burst, so she is best implemented when your rotation is _already_ going to be 22 seconds, perhaps if Yelan is using her Skill off-cooldown twice per rotation.

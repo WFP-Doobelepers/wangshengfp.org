@@ -335,4 +335,8 @@ export default Vue.extend({
 ::v-deep .nuxt-content img[alt=character_card] {
     @apply w-[15%] inline text-center
 }
+
+::v-deep .nuxt-content img[alt=chibi] {
+    @apply w-[50%]
+}
 </style>
