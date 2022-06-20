@@ -316,12 +316,12 @@ export default Vue.extend({
     @apply border-2 lg:p-2 text-center
 }
 
-::v-deep .nuxt-content img {
+::v-deep .nuxt-content table img {
     @apply mx-auto
 }
 
 ::v-deep .nuxt-content p > img {
-    @apply mt-3
+    @apply mt-3 mx-auto
 }
 
 ::v-deep .nuxt-content img[alt=artifact] {
