@@ -316,12 +316,12 @@ export default Vue.extend({
     @apply border-2 lg:p-2 text-center
 }
 
-::v-deep .nuxt-content img {
+::v-deep .nuxt-content table img {
     @apply mx-auto
 }
 
 ::v-deep .nuxt-content p > img {
-    @apply mt-3
+    @apply mt-3 mx-auto
 }
 
 ::v-deep .nuxt-content img[alt=artifact] {
@@ -334,5 +334,9 @@ export default Vue.extend({
 
 ::v-deep .nuxt-content img[alt=character_card] {
     @apply w-[15%] inline text-center
+}
+
+::v-deep .nuxt-content img[alt=chibi] {
+    @apply w-[50%]
 }
 </style>
