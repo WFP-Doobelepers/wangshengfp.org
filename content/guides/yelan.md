@@ -529,7 +529,7 @@ By adding Xingqiu, Yelan’s energy requirements are as low as they can be. Zhon
 
 **Xingqiu is _highly advised_** for Hu Tao teams. The **Kazuha** and **Zhongli** are reasonable first-choices for shielding or shredding. Kazuha’s Burst can infuse with Hydro for more application. **Xiangling** and Xingqiu together enable a critical mass of Vaporize reactions.
 
-**Sucrose** shares a portion of her Elemental Mastery with the team and uses Viridescent Venerer to maximize Vaporize reactions. Being a catalyst-wielder opens up support options in Prototype Amber and Thrilling Tales. **Fischl** can apply Electro, which then allows Hu Tao to use both Vaporize and Overload reactions (“Overvape”) simultaneously. Additionally, Electro-Charged reactions weaken a Hydro aura, but remove a Pyro aura, allowing the team to stabilize Hydro application on enemies.
+**Sucrose** shares a portion of her Elemental Mastery with the team and uses Viridescent Venerer to maximize Vaporize reactions. Being a catalyst-wielder opens up support options in Prototype Amber and Thrilling Tales. **Fischl** can apply Electro, which then allows Hu Tao to use both Vaporize and Overload reactions (“Overvape”) simultaneously. Additionally, Electro-Charged reactions weaken a Hydro aura, but Overload reactions remove a Pyro aura, allowing the team to stabilize Hydro application on enemies.
 
 <team-cards :characters="['fischl', 'sucrose', 'thoma']"></team-cards>
 
