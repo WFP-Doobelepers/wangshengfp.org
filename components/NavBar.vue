@@ -182,7 +182,7 @@
                         <a href="https://ko-fi.com/wfp">
                             <img src="~/assets/icons/kofi.svg" style="height: 20px">
                         </a>
-                        <a href="https://www.reddit.com/r/HuTaomains">
+                        <a href="https://www.reddit.com/r/HuTao_Mains">
                             <img src="~/assets/icons/reddit.png" style="height: 20px">
                         </a>
                     </div>
