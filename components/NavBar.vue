@@ -163,7 +163,7 @@
 
                 <div class="follow">
                     <!-- <p class="italic font-quicksand text-sm">Follow us on:</p> -->
-                    <div class="social flex space-x-5 mt-4">
+                    <div class="social flex flex-row justify-between mt-4">
                         <a href="https://www.twitch.tv/wangshengfp/">
                             <img src="~/assets/icons/twitch.svg" style="height: 20px">
                         </a>
@@ -181,6 +181,9 @@
                         </a>
                         <a href="https://ko-fi.com/wfp">
                             <img src="~/assets/icons/kofi.svg" style="height: 20px">
+                        </a>
+                        <a href="https://www.reddit.com/r/HuTaomains">
+                            <img src="~/assets/icons/reddit.png" style="height: 20px">
                         </a>
                     </div>
                 </div>

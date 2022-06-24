@@ -1,5 +1,5 @@
 <template>
-    <a :href="link" :class="`group max-w-[330px] max-h[330px] flex-grow after:block after:content-[''] after:pb-[100%] relative`" :title="title">
+    <a :href="link" :class="`group flex-grow after:block after:content-[''] after:pb-[100%] relative`" :title="title">
         <div class="flex absolute flex-col w-full h-full items-center pt-[7%] opacity-0 group-hover:opacity-100 transition-all ease-in-out duration-[0.4s]">
             <div class="w-[50%] rounded-[50%] border-white border-[6px] border-solid">
                 <img :src="require(`~/assets/${emote}`)" class="rounded-[50%]">
