@@ -76,7 +76,7 @@
                     link="https://www.reddit.com/r/HuTao_Mains"
                     icon="icons/reddit.png"
                     emote="icons/emote/emoteflame6.png"
-                    name="r/HuTaomains"
+                    name="r/HuTao_Mains"
                     title="Click to visit r/HuTao_Mains!"
                     class="bg-[#0079D3] col-start-2"
                 />
