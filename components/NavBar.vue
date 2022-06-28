@@ -28,6 +28,11 @@
                     <NuxtLink to="/guides">
                         Guides
                     </NuxtLink>
+
+                    <NuxtLink to="/artists">
+                        Artists
+                    </NuxtLink>
+
                     <!--
                     <NuxtLink to="/calculator">
                         Calculator
@@ -137,6 +142,16 @@
                             @click.native="isOpen = false"
                         >
                             Guides
+                        </NuxtLink>
+                    </li>
+
+                    <li>
+                        <NuxtLink
+                            to="/artists"
+                            class="my-4 inline-block"
+                            @click.native="isOpen = false"
+                        >
+                            Artists
                         </NuxtLink>
                     </li>
 
