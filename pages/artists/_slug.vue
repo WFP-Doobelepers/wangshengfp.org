@@ -53,7 +53,7 @@ export default Vue.extend({
                 {
                     hid: 'description',
                     name: 'description',
-                    content: vm.artist.aboutme
+                    content: vm.artist.aboutme ?? ''
                 },
                 {
                     hid: 'og:type',
@@ -68,7 +68,7 @@ export default Vue.extend({
                 {
                     hid: 'og:description',
                     name: 'og:description',
-                    content: vm.artist.aboutme
+                    content: vm.artist.aboutme ?? ''
                 },
                 {
                     hid: 'og:image',
