@@ -39,7 +39,7 @@ Vue.use(VueViewer)
 export default Vue.extend({
     name: 'ArtistIndexPage',
     async asyncData ({ $content }) {
-        const artists = await $content('artists').fetch()
+        const artists = await $content('artists').sortBy('name').fetch()
 
         return { artists }
     }
