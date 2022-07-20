@@ -95,7 +95,7 @@ While her healing also scales with HP, her Elemental Skill damage scales with AT
 
 #### Support Build
 
-Elemental Skill > Elemental Burst > Normal Attack
+**Elemental Skill > Elemental Burst > Normal Attack**
 
 This is her primary build path. Her goal in this build is to be able to provide constant healing, buffs through her artifacts, and possibly particles through the use of Favonius Sword.
 
@@ -107,13 +107,13 @@ Casting Elemental Burst is optional, due to the build focusing mainly on her Ele
 
 #### Reaction DPS Build
 
-Elemental Skill > Elemental Burst > Normal Attack
+**Elemental Skill > Elemental Burst > Normal Attack**
 
 This build focuses more on her Elemental Mastery stat and Character Level. The reason for this is that her main damage sources for this build are Transformative Reactions. Leveling up her Elemental Burst is optional. One of its caveats is that it is not resin-efficient due to the rarity of Elemental Mastery as a main stat on artifact pieces. Nonetheless, it is still one of her best builds for contributing DPS.
 
 #### Physical DPS Build
 
-Normal Attack > Elemental Skill > Elemental Burst
+**Normal Attack > Elemental Skill > Elemental Burst**
 
 This build focuses more on her Normal and Charged Attacks, with her Elemental Skill and Burst providing survivability. It is generally the weakest build for Shinobu due to how much support she needs to ensure her damage is worth her field-time. With that same investment, you could probably run a three-person team and perform better, or use any other physical DPS. This one is only for the loyalists.
 
@@ -121,7 +121,7 @@ This build requires you to level up her Normal Attack talent to function. Her El
 
 #### Deviant DPS Build
 
-Normal Attack > Elemental Skill > Elemental Burst
+**Normal Attack > Elemental Skill > Elemental Burst**
 
 The deviant build is a weird build that utilizes an elemental infusion on Kuki Shinobu’s Normal Attacks in order to take advantage of amplifying reactions and other elemental buffs like the support Viridescent Venerer provides. With C6 Bennett, Shinobu can Reverse-Vaporize or Forward-Melt, and with Chongyun, Shinobu can Reverse-Melt.
 
