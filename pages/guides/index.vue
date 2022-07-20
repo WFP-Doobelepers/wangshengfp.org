@@ -72,7 +72,7 @@ export default Vue.extend({
         return {
             guides: [],
             searchQuery: '',
-            featured_characters: ['yelan', 'yae']
+            featured_characters: ['shinobu', 'yelan']
         }
     },
     async fetch () {
