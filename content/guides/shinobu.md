@@ -125,7 +125,7 @@ This build requires you to level up her Normal Attack talent to function. Her El
 
 The deviant build is a weird build that utilizes an elemental infusion on Kuki Shinobu’s Normal Attacks in order to take advantage of amplifying reactions and other elemental buffs like the support Viridescent Venerer provides. With C6 Bennett, Shinobu can Reverse-Vaporize or Forward-Melt, and with Chongyun, Shinobu can Reverse-Melt.
 
-Just like the Physical build, this build requires you to level up her Normal Attack talent to functio, and requires a different Elemental DMG% Goblet and a 4pc Gladiator or Shimenawa set to give her Normal Attacks as many buffs as possible. 
+Just like the Physical build, this build requires you to level up her Normal Attack talent to function, and requires a different Elemental DMG% Goblet and a 4pc Gladiator or Shimenawa set to give her Normal Attacks as many buffs as possible. 
 
 Neither this build nor the Physical build are recommended for general use, and are only worth the investment for the sake of a laugh or someone who just _really_ wants to play outside the box.
 
@@ -613,7 +613,7 @@ Excels at 2 targets, she can deal a huge amount of damage in that scenario. Only
 
 Gives out Physical DMG% through her A4 and her C4 providing Physical Shred allows her to be functionable in a Superconduct team.
 
-![chibi](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)
+![chibi](https://i.imgur.com/pCL39j3.png)
 
 Only viable if he is C5 and below. Providing a huge Flat ATK increase with heals and can also replace Kuki Shinobu’s spot but can co-exist depending on if you want to maximize the Physical DPS damage.
 
@@ -721,7 +721,7 @@ Able to provide enough Electro to maintain Electro-Charged and proc consistent O
 
 ### Overload
 
-![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)![team_character](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
+![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://i.imgur.com/pCL39j3.png)![team_character](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
 
 Provides the most damage output due to Bennett’s Flat ATK buff and Kuki Shinobu procing the reaction consistently due to her kit’s gauges and ICD. Only downside of this team composition is that it knocks back enemies, giving the team errors of how to play the team composition. Will be played with a Reaction Build for Kuki Shinobu.
 
@@ -783,7 +783,7 @@ Dedicated Healer as Kuki Shinobu will focus more on dealing Physical DMG. Provid
 
 Her Elemental Burst provides Physical and Cryo RES shred that enables the Cryo unit and Kuki Shinobu to deal more damage as well as her kit overall focusing on every aspect of these two roles.
 
-![chibi](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)
+![chibi](https://i.imgur.com/pCL39j3.png)
 
 Only viable at C5 as he brings a huge Flat ATK buff as well as healing that makes him quite a unit to put into team compositions.
 
@@ -809,7 +809,7 @@ Has the thickest shield in the game and is able to provide both Physical and Ele
 
 Similar to Physical but infusing Kuki Shinobu’s Normal and Charged Attack with elements such as Pyro or Cryo. This team composition is only shown for people who wants to play it. Only issue that this team composition has is the ER Requirements of the supports.
 
-![chibi](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)
+![chibi](https://i.imgur.com/pCL39j3.png)
 
 Has to be C6 in order for this team composition to work. Allowing Kuki Shinobu’s Normal Attack to be Pyro Infused with her carrying a Pyro DMG% Goblet on top of the 15% Pyro DMG Bonus that C6 gives.
 
