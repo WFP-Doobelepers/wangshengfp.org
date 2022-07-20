@@ -357,7 +357,7 @@ Generally, Kuki Shinobu does not require any ER due to the fact that she does no
 
 ### Support Build
 
-Substat Priorities: HP% > HP > EM
+**Substat Priorities: HP% > HP > EM**
 
 Focuses on her healing and supporting capabilities. Depending on the user’s choice on healing per tick, investment can stop on that decision as buffing party members will be prioritized when that decision is made.
 
@@ -413,7 +413,7 @@ Weapons on this list depends on what team composition you will be putting Kuki S
 
 ### Reaction Build
 
-Substat Priorities: EM > ER% > HP% > ATK%
+**Substat Priorities: EM > ER% > HP% > ATK%**
 
 The Standard Build for a procing reactions. Expect the healing for this build to be decent with the proper investment and resin-wise will need high investments.
 
@@ -441,7 +441,7 @@ Same reason as her goblet in this specific build. Generally it will be a lot har
 | ![](https://lh3.googleusercontent.com/n2W5iUreFIGctqsMyawbUIzG01E2A2bqPw3NxqZZcGUFb0lGIZG9QRez9Zc-gSDjAo4FZkDxJlvLcMYvMt8nbL4lv156ZYOvbdYAl_oUTSu6m2eN--YRF2OZcrgCmIReLwSgisY5-Xw1AJszcA)4PC Lavawalker                                                                                                                                                                                                                      | **No**      | Giving out 35% DMG against Pyro aura on enemies helps mostly on the kit’s damage rather than the Overload DMG, which this build mainly will be used for. This set would only work on Kuki Shinobu with a Pyro teammate. Calculations assumed 100% on the Pyro aura.                                                                      | 103%       |
 | ![](https://lh3.googleusercontent.com/iPUPTQyCZZiRyWaT3Donn-JydItnDgAMBcw8yR8w8lizl9RJIKY6bTnZL0jBng3cvaMdiAMO-HiRPeskxPcLUlMb-LpBkUQPDlVUtfy2KFA18PYhaQMP3coIRIGAGtNUkZOa-QmZlJpkFea0Pg)4PC Thundersoother                                                                                                                                                                                                                  | **No**      | Farming Thundering Fury will result in you also getting a Thundersoother piece/s. This set only works on Electro-Charged reaction and since it's clunky to manage, the damage of this set is quite hard to determine. Not recommended to use since some other options are much better.                                                   | 69%        |
 
-### Weapons
+#### Weapons
 
 Most of the weapons in the build are F2P friendly. Some of them are locked out via patch events but there are still alternatives that bring much greater results. 
 
@@ -457,7 +457,7 @@ Most of the weapons in the build are F2P friendly. Some of them are locked out v
 
 ### Physical and Deviant Build
 
-Substat Priorities: CR% = CD% > ATK%
+**Substat Priorities: CR% = CD% > ATK%**
 
 Your standard ADC Build. Artifact set choices are quite close to each other in terms of DPS Percentage so it is recommended to use the [**Genshin Optimizer**](https://frzyc.github.io/genshin-optimizer/) to get the best artifacts to use when running this type of build.
 
@@ -513,7 +513,7 @@ For weapons, combos will highly matter to determine each weapon's individual DPS
 Art by: [RIVER](https://www.pixiv.net/en/users/25964693)
 
 ### Mono Electro
-![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![character_card](https://lh3.googleusercontent.com/c7sCDt7c3H3ndumupp3upAjpfyWEoyZ7QtrerowZfRM3o5RwbUZv45g72HH7M0MuvDoucSPJ_r_snFPKr1UdrVQekMeID9G3HVcMEme_8OD480GdaStwcaPoRwOwQgrPD2jh_ZTGyfvIzPNwnA)![character_card](https://lh3.googleusercontent.com/eb8sanhswn7YaI0HGlzs6eezyN_KZ8mU6DYhbm5-VUK3mXjUV1ubsNUlRE7AhXsYXMnqv2OaCZCixa4HLfA3K32nuBSjPmh3HQULWbwDL6sSnWkn_bJ5hdsr77_8r8v9jNW_VXl511mB9tFP6Q)![character_card](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
+![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://lh3.googleusercontent.com/c7sCDt7c3H3ndumupp3upAjpfyWEoyZ7QtrerowZfRM3o5RwbUZv45g72HH7M0MuvDoucSPJ_r_snFPKr1UdrVQekMeID9G3HVcMEme_8OD480GdaStwcaPoRwOwQgrPD2jh_ZTGyfvIzPNwnA)![team_character](https://lh3.googleusercontent.com/eb8sanhswn7YaI0HGlzs6eezyN_KZ8mU6DYhbm5-VUK3mXjUV1ubsNUlRE7AhXsYXMnqv2OaCZCixa4HLfA3K32nuBSjPmh3HQULWbwDL6sSnWkn_bJ5hdsr77_8r8v9jNW_VXl511mB9tFP6Q)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
 
 With Kuki Shinobu being added as an Electro Healer, Mono-Electro teams became much more fluid in its structure as she replaced Jean/Sayu specifically and was able to put Kazuha/C6 Sucrose to buff the Electro on-field DPS for this team composition.
 
@@ -559,7 +559,7 @@ Provides a good grouping and Energy for the entire party. Only caveat is that Ku
 
 ### Itto Mono Geo
 
-![character_card](https://lh4.googleusercontent.com/fWAXpTBBrrEjF1I3uJyK0_PxCXsXVxkLPLCKZ_Webu_iSg9PAmwdAfck-MHQKpj8NPcSdyN-OWm_J9Zv0a2ygUNTeQgbAOltNqb0KLJW5C0ij4lXa50EEelbiddv-7Vij6rvZWmmpWoWs2lz6g)![character_card](https://lh3.googleusercontent.com/78z6SSkS2IJpa0RAsHKj8hZllq2LnaPDd-rqrpOwjOOW95envuieowU0F4joAd09FW-KRL8oDvVJj2oJqvOIRN-BZpy2W-w7U9X1Ih0b_sT9RRNCcaQX_4OLZCiZFN9Lo3fYuPgQD0BzJ2yVbxc)![character_card](https://lh6.googleusercontent.com/MKQ6OPbHWOBOrh5kfE1rUrLxR8QBR7D9VXKJTkNRYusOU6lHybSFNG1ZscSH3_juoMEVaAvdEX6F9U7qHzdVpnZCA7WbWvv5Ierm-_JipWCZfq2eRw-oB_0xVIV_QkaMUmPnePZErlsQsrlR3A)![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
+![team_character](https://lh4.googleusercontent.com/fWAXpTBBrrEjF1I3uJyK0_PxCXsXVxkLPLCKZ_Webu_iSg9PAmwdAfck-MHQKpj8NPcSdyN-OWm_J9Zv0a2ygUNTeQgbAOltNqb0KLJW5C0ij4lXa50EEelbiddv-7Vij6rvZWmmpWoWs2lz6g)![team_character](https://lh3.googleusercontent.com/78z6SSkS2IJpa0RAsHKj8hZllq2LnaPDd-rqrpOwjOOW95envuieowU0F4joAd09FW-KRL8oDvVJj2oJqvOIRN-BZpy2W-w7U9X1Ih0b_sT9RRNCcaQX_4OLZCiZFN9Lo3fYuPgQD0BzJ2yVbxc)![team_character](https://lh6.googleusercontent.com/MKQ6OPbHWOBOrh5kfE1rUrLxR8QBR7D9VXKJTkNRYusOU6lHybSFNG1ZscSH3_juoMEVaAvdEX6F9U7qHzdVpnZCA7WbWvv5Ierm-_JipWCZfq2eRw-oB_0xVIV_QkaMUmPnePZErlsQsrlR3A)![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
 
 Kuki Shinobu being able to provide an Elemental aura to proc Crystallize for Geo Resonance and healing that follow Itto, she is a good candidate for the last spot in his team if Zhongli is not present or is in another team composition. Tenacity of the Millelith can make the Crystallize shield stronger
 
@@ -577,7 +577,7 @@ Able to act as a Burst Secondary DPS as well as giving out Geo DMG% buff through
 
 ### Superconduct
 
-![character_card](https://lh6.googleusercontent.com/XAMjg9FH-BI1swDn0WirEJQ0pbeK54ngwiZusTeQce-KgPYMZgUYeW9LD47PZtd1RvpIz7y3c9Vcfr6M4EUZF2QMSM4FIYYQIU8XMXqOo7NaZ2BoWk6QqPx-cnXf7h5OxO5eR9Af_Fe53G3yIA)![character_card](https://lh4.googleusercontent.com/kWyS4T68MPlCQ8qjiAzoXdJZcW6FKvTxbAYpOZkXKWX_k_elDgBjddlP0JQHreusudYms-B_c3UvOQipe-cDsFEnBHN7AnoNML4Nh2jK09EmWeid-FHwzVDPY38-jXjnIDZUXe7IlipR_Y8ARw)![character_card](https://lh6.googleusercontent.com/T1CCXxD9o-qslLZIed4nVXd9sTawPxycUG2v3q9W7-Wue2TXyZzllA6JSjZVujm7A2eCL7jilGQPxlck88GWPLyuE_oWNktfbEkYPrqXQudm-PW-wemyHDLgJUqQDSTAFGuDkLc4Fn0X2PSBLA)![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
+![team_character](https://lh6.googleusercontent.com/XAMjg9FH-BI1swDn0WirEJQ0pbeK54ngwiZusTeQce-KgPYMZgUYeW9LD47PZtd1RvpIz7y3c9Vcfr6M4EUZF2QMSM4FIYYQIU8XMXqOo7NaZ2BoWk6QqPx-cnXf7h5OxO5eR9Af_Fe53G3yIA)![team_character](https://lh4.googleusercontent.com/kWyS4T68MPlCQ8qjiAzoXdJZcW6FKvTxbAYpOZkXKWX_k_elDgBjddlP0JQHreusudYms-B_c3UvOQipe-cDsFEnBHN7AnoNML4Nh2jK09EmWeid-FHwzVDPY38-jXjnIDZUXe7IlipR_Y8ARw)![team_character](https://lh6.googleusercontent.com/T1CCXxD9o-qslLZIed4nVXd9sTawPxycUG2v3q9W7-Wue2TXyZzllA6JSjZVujm7A2eCL7jilGQPxlck88GWPLyuE_oWNktfbEkYPrqXQudm-PW-wemyHDLgJUqQDSTAFGuDkLc4Fn0X2PSBLA)![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
 
 Being an Electro unit with heals can replace some of the units that do not excel well in a Superconduct team composition, allowing said units to go to team composition they can maximize their damage while Kuki Shinobu or another Electro Flex replace them.
 
@@ -623,7 +623,7 @@ Good off-field DMG that allows the Physical on-field DPS to utilize along with h
 
 ### Electro-Charged
 
-![character_card](https://lh5.googleusercontent.com/TAleBvr9FuQ0EbtMp3MVrRePls2PO04gga4ge2T3LKtRScZoxPBrvEQSvYRIVATWs_vaBUfb1KkcuHdJTczGltFJSWWdq95062I2dNExaZYyVAXIvyZ93JFLybZwd_UcMavt70FP9MajqnSgiQ)![character_card](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![character_card](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
+![team_character](https://lh5.googleusercontent.com/TAleBvr9FuQ0EbtMp3MVrRePls2PO04gga4ge2T3LKtRScZoxPBrvEQSvYRIVATWs_vaBUfb1KkcuHdJTczGltFJSWWdq95062I2dNExaZYyVAXIvyZ93JFLybZwd_UcMavt70FP9MajqnSgiQ)![team_character](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
 
 Even if she provides a weaker Electro application, Kuki Shinobu can bring her heals and damage to Electro-Charged team compositions, primarily building with Elemental Mastery while not neglecting her healing capabilities. However, her ownership will be quite low if running her as a Solo Electro.
 
@@ -685,7 +685,7 @@ VV Holder while doing damage on-field. Will have to lock on the Jet Combo, which
 
 ### Overvape
 
-![character_card](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![character_card](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![character_card](https://lh6.googleusercontent.com/rdLLH9s4r3DKlyQ8dhbVlKE4h-equYvyn06HtsYWOhPHQjEENTZ2jdOOQT4y3ywjmjSsCd0YvcBV4u9pBq9TmttRMnSwCeipoNQbamdz0O5DtzZouaHhIazxWI1pvECNwZMvm-_yDiW7z4BuGg)![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
+![team_character](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![team_character](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![team_character](https://lh6.googleusercontent.com/rdLLH9s4r3DKlyQ8dhbVlKE4h-equYvyn06HtsYWOhPHQjEENTZ2jdOOQT4y3ywjmjSsCd0YvcBV4u9pBq9TmttRMnSwCeipoNQbamdz0O5DtzZouaHhIazxWI1pvECNwZMvm-_yDiW7z4BuGg)![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)
 
 This team composition allows Overload and Vaporize to be proc in Electro-Charged. However, it isn’t guaranteed due to Kuki Shinobu’s low application of Electro and she might need to cast her Elemental Burst in order to supply the Electro aura needed. Like Electro-Charged team composition, Kuki Shinobu can be built as damage with Elemental Mastery while also not neglecting her healing capabilities.
 
@@ -721,7 +721,7 @@ Able to provide enough Electro to maintain Electro-Charged and proc consistent O
 
 ### Overload
 
-![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![character_card](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)![character_card](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![character_card](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
+![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://lh4.googleusercontent.com/ZOykOpiNdnySMIGjyjAGqgNf5ampesTOqSGy4rJfU4zNvSfIosIB19IC7JmAyHSDKrcI0Ls2Chnwo6fKXpPaHtUfqBX8orGUNKkV9hNrjokCOLhb6hi78gs57OF1H7_ioy6xCXU4_zbcB17TYw)![team_character](https://lh6.googleusercontent.com/ICD2EBk4RrZgf6-rz2m-HxT0ZyGUSvzGLt2IVJFqZCE9AyjuwXTD5Fwy1edhXsgnibwuCNOT2ahBCx4a7v-RInR44aosJfw-_OMyyjbkP2LpySjKEU-OCfR8XnVnLjUCqJHd82ROdjIWcAtxdw)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
 
 Provides the most damage output due to Bennett’s Flat ATK buff and Kuki Shinobu procing the reaction consistently due to her kit’s gauges and ICD. Only downside of this team composition is that it knocks back enemies, giving the team errors of how to play the team composition. Will be played with a Reaction Build for Kuki Shinobu.
 
@@ -763,7 +763,7 @@ Only a battery and VV holder for this type of team composition. Kuki Shinobu’s
 
 ### Physical
 
-![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![character_card](https://lh4.googleusercontent.com/oKC6xty4REm3sWM-J9rJHJhiYQim_biSdaR_TQhmgzChX9bwwmZ7ioJ8VoQJ2eawK-QhTA9dwMkrI9cMDmJf5aWElJrMVnvEmz5WppecoptBZ1hQB3u7-7syj-T0DL1J4lROwSwDB-eDG_RQIw)![character_card](https://lh4.googleusercontent.com/kWyS4T68MPlCQ8qjiAzoXdJZcW6FKvTxbAYpOZkXKWX_k_elDgBjddlP0JQHreusudYms-B_c3UvOQipe-cDsFEnBHN7AnoNML4Nh2jK09EmWeid-FHwzVDPY38-jXjnIDZUXe7IlipR_Y8ARw)![character_card](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)
+![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://lh4.googleusercontent.com/oKC6xty4REm3sWM-J9rJHJhiYQim_biSdaR_TQhmgzChX9bwwmZ7ioJ8VoQJ2eawK-QhTA9dwMkrI9cMDmJf5aWElJrMVnvEmz5WppecoptBZ1hQB3u7-7syj-T0DL1J4lROwSwDB-eDG_RQIw)![team_character](https://lh4.googleusercontent.com/kWyS4T68MPlCQ8qjiAzoXdJZcW6FKvTxbAYpOZkXKWX_k_elDgBjddlP0JQHreusudYms-B_c3UvOQipe-cDsFEnBHN7AnoNML4Nh2jK09EmWeid-FHwzVDPY38-jXjnIDZUXe7IlipR_Y8ARw)![team_character](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)
 
 Focusing on the Physical Combos, this team composition allows Kuki Shinobu’s Normal Attack to shine. This team composition is for the people who like white numbers and is not recommended to play. Slight issue of this team composition is its ER Requirement for the supports.
 
@@ -805,7 +805,7 @@ Has the thickest shield in the game and is able to provide both Physical and Ele
 
 ### Deviant
 
-![character_card](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![character_card](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![character_card](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![character_card](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
+![team_character](https://lh3.googleusercontent.com/4j1VZ7TNY_74hPTDTchmpYvzIJ8aEs_9ULz8w2q_-T0OYU8Hkkx5jn4Or6ut3xhr8PUCCXtXz3CRx1R71SbMN7JSij0ZGpHgjFTg5gt7ksOnvXCoLO-bDPM8veRmqSQqX2V6-NRdm8S7wLdfEA)![team_character](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![team_character](https://lh4.googleusercontent.com/7TQv5cnbk2XIFspCeDVMTz1317sY6m-nRYARb_4qkan_sRcZQvVH0EVh8hXqXDrcGJvpkv2k6ixqMZUhsb8Be1mtcF5eTyaxAAPpWewoKPYf0ygvXLfWCXlRLytNS5nXBudMnty4OVo1fg-Pxg)![team_character](https://lh3.googleusercontent.com/QptdsKBEBeWX7BZ85_GrlCdGG8LKv3SvrdvY9KUoIuJvsAvwyGGA1h1Vdrq1K8WqbIsBFCbwaGDm0giV75gqP1YY6JULU9xZtKQWCMvjv65V96BtdUbGyHJfjbXw0iR_wpcJNP5XAqyUkw482w)
 
 Similar to Physical but infusing Kuki Shinobu’s Normal and Charged Attack with elements such as Pyro or Cryo. This team composition is only shown for people who wants to play it. Only issue that this team composition has is the ER Requirements of the supports.
 
@@ -836,54 +836,32 @@ Substitute for Kazuha when he is unavailable. Able to provide EM for Kuki Shinob
 #### Kuki Shinobu Resources
 
 Credits:
+- Emiliabyss (Guidance and Co-Author)
+- rockidayo from Kuki Shinobu Mains (Addition of info about certain criterias.)
+- KQM TCer’s and WFP TC Staff (Suggestions and Comments regarding this Guide.)
 
-Emiliabyss
-
-(Guidance and Co-Author)
-
-rockidayo from Kuki Shinobu Mains
-
-(Addition of info about certain criterias.)
-
-KQM TCer’s and WFP TC Staff
-
-(Suggestions and Comments regarding this Guide.)
-
-[Kuki Shinobu Mastersheet](https://docs.google.com/spreadsheets/d/1bPZkdT6x5On5Oa_j7_fw0fzggyjIL-SUgTqYjniBItw/edit#gid=1326316372) byAkane
-
-Emiliabyss 
-
-Tsubasa
-
-Jrm.spirit
-
-Sitri
-
-KB
-
-elijam
+[Kuki Shinobu Mastersheet](https://docs.google.com/spreadsheets/d/1bPZkdT6x5On5Oa_j7_fw0fzggyjIL-SUgTqYjniBItw/edit#gid=1326316372) by
+- Akane
+- Emiliabyss 
+- Tsubasa
+- Jrm.spirit
+- Sitri
+- KB
+- elijam
 
 [Kuki Shinobu TCL](https://library.keqingmains.com/characters/electro/shinobu#undefined) by:
-
-Keqing Mains
+- Keqing Mains
 
 Artworks by:
-
-@panosarts
-
-@莓子 
-
-@podel_1
-
-@RIVER
-
-@Sesield
-
-@闇色硝子
+- @panosarts
+- @莓子 
+- @podel_1
+- @RIVER
+- @Sesield
+- @闇色硝子
 
 Chibi Emotes by:
-
-Genshin Impact Official Emote
+- Genshin Impact Official Emote
 
 #### Closing Thoughts
 

@@ -337,6 +337,10 @@ export default Vue.extend({
 }
 
 ::v-deep .nuxt-content img[alt=chibi] {
-    @apply w-[50%]
+    @apply w-36
+}
+
+::v-deep .nuxt-content img[alt=team_character] {
+    @apply inline w-1/4
 }
 </style>
