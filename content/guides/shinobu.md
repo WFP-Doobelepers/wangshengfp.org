@@ -153,7 +153,7 @@ Performs 2 forward slashes in exchange for stamina.
 
 Kuki Shinobu’s Normal Attacks are useless to her in most circumstances. Only level this talent for meme builds and when you know what you’re doing. If you insist on using her Normal Attacks, N1C-spam is her best overall auto-attack string, followed close behind by N4D-spam. 
 
-When using Yunjin with Shinobu, in the rare circumstance you decide to, remember Yunjin buffs only Normal Attacks, _not Charged Attacks_, so use N4D in these cases. Likewise, some weapon
+When using Yunjin with Shinobu, in the rare circumstance you decide to, remember Yunjin buffs only Normal Attacks, _not Charged Attacks_, so use N4D in these cases. Likewise, some weapons as well will affect it.
 
 ![](https://lh4.googleusercontent.com/15-0uuYkdwesmsgafJ-nD2rpPpH2ohYecvInJ7-EaIXPHlTKiMJ-AktWlA_NPIYxE5MbaydkIVEATumGh_DdlvTjvE8qiRYdf2ZU-d4lyHebGwb6JkgowNN7-fAxaMyrn_K8hjznEeyQCLVVUg)
 
@@ -696,8 +696,6 @@ Standard 5\* Pyro DPS. No ICD on his Elemental Skill so he can Overvape all 3 of
 ![chibi](https://lh3.googleusercontent.com/I5gMwar7GpBo8DA16P_oHZ2G8o34_hlzq9guLlJ4hrENn_C0cORC87GwwyGPZhRVCKM5V3c5WaVgCWklNhMFSCAVa4f0jgH-rWAuM5QxZ2x4JVkZeaB-HiC8a2D3_olyamwFOceGu3NEdsyuw-k)
 
 Good 4\* Pyro DPS Option and able to provide a huge ton of Pyro Aura due to her A4 but for her to trigger Overvape, she needs to hug the enemies so Kuki Shinobu’s Elemental Skill would proc Electro-Charged. However, her C4 gives her survivability due to it giving her a shield that scales of her own Max HP. Her only caveat is that her ER Requirement will be high and a solution for this is to cast her Elemental Burst alternating each rotation.
-
-![chibi](https://lh6.googleusercontent.com/_BJWDfaEo1GkxrUX44t-JF2-MFqYkst9A4pb8cX7jkJIjleClvkwFAiIrjuvmTpk3fxmgfHp7KPlcjosZEbLfQd4Qmv4Hrt4nb98wQTOPdG-rA-ryNvgrRC5n9dH6Do6IFQpgaEF2qzoIsZn7w)  | With her fast Pyro application, there will be some cases where Pyro aura will be on top and the Hydro/Electro procs it unless running a Double Hydro which negates this case. Nevertheless, able to provide good damage and energy for the team when she does a CRIT hit.
 
 ![chibi](https://lh6.googleusercontent.com/_BJWDfaEo1GkxrUX44t-JF2-MFqYkst9A4pb8cX7jkJIjleClvkwFAiIrjuvmTpk3fxmgfHp7KPlcjosZEbLfQd4Qmv4Hrt4nb98wQTOPdG-rA-ryNvgrRC5n9dH6Do6IFQpgaEF2qzoIsZn7w)
 
