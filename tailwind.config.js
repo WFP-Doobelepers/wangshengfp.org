@@ -13,7 +13,8 @@ module.exports = {
                 anemo: '#80ffd8',
                 electro: '#ffadff',
                 cryo: '#9affff',
-                geo: '#ffd77f'
+                geo: '#ffd77f',
+                dendro: '#a5c83b'
             }
         }
     }
