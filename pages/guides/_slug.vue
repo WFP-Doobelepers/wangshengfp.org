@@ -107,6 +107,7 @@
             <div class="text-electro bg-electro" />
             <div class="text-cryo bg-cryo" />
             <div class="text-geo bg-geo" />
+            <div class="text-dendro bg-dendro" />
         </div> -->
     </div>
 </template>

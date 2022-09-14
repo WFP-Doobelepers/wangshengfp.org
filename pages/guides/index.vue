@@ -9,19 +9,22 @@
                     v-for="guide in guides.filter(guide => featured_characters.includes(guide.slug))"
                     :key="guide.slug"
                     :image="require(`~/assets${guide.path}/featured.png`)"
+                    :touchable="false"
                 >
                     <template #content>
-                        <div class="flex flex-col justify-end w-[75%] h-full pl-[5%] pb-10">
-                            <p class="featured-guide-title text-white font-righteous text-lg lg:text-6xl">
-                                {{ guide.title }}
-                            </p>
-                            <p class="text-white lg:text-2xl">
-                                {{ guide.author.join(', ') }}
-                            </p>
-                            <p class="text-white lg:text-2xl">
-                                Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
-                            </p>
-                        </div>
+                        <NuxtLink :to="guide.path">
+                            <div class="flex flex-col justify-end w-[75%] h-full pl-[5%] pb-10">
+                                <p class="featured-guide-title text-white font-righteous text-lg lg:text-6xl">
+                                    {{ guide.title }}
+                                </p>
+                                <p class="text-white lg:text-2xl">
+                                    {{ guide.author.join(', ') }}
+                                </p>
+                                <p class="text-white lg:text-2xl">
+                                    Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+                                </p>
+                            </div>
+                        </NuxtLink>
                     </template>
                 </vueper-slide>
             </vueper-slides>
@@ -72,7 +75,7 @@ export default Vue.extend({
         return {
             guides: [],
             searchQuery: '',
-            featured_characters: ['shinobu', 'yelan']
+            featured_characters: ['collei', 'shinobu', 'yelan']
         }
     },
     async fetch () {
