@@ -29,6 +29,10 @@
                         Guides
                     </NuxtLink>
 
+                    <NuxtLink to="/faq">
+                        Leaks FAQ
+                    </NuxtLink>
+
                     <NuxtLink to="/artists">
                         Artists
                     </NuxtLink>
@@ -142,6 +146,16 @@
                             @click.native="isOpen = false"
                         >
                             Guides
+                        </NuxtLink>
+                    </li>
+
+                    <li>
+                        <NuxtLink
+                            to="/faq"
+                            class="my-4 inline-block"
+                            @click.native="isOpen = false"
+                        >
+                            Leaks FAQ
                         </NuxtLink>
                     </li>
 
