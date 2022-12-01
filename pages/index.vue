@@ -7,18 +7,18 @@
             <p class="text-center leading-none font-righteous text-3xl lg:text-[80px] whitespace-normal">
                 WANGSHENG FUNERAL PARLOR
             </p>
-
-            <p align="center">
-                <iframe
-                    src="https://discord.com/widget?id=791074691841523742&theme=dark"
-                    width="95%"
-                    height="500"
-                    allowtransparency="true"
-                    frameborder="0"
-                    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
-                />
-            </p>
         </div>
+
+        <div class="flex w-full items-center justify-center max-w-5xl mb-5 mx-auto px-5">
+            <widgetbot
+                server="791074691841523742"
+                channel="791659059723501569"
+                width="100%"
+                height="800"
+            />
+            <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed" />
+        </div>
+
         <div class="bg-[#452222] w-full">
             <p class="text-center leading-none font-righteous text-3xl whitespace-normal pt-4 pb-4">
                 OTHER SOCIAL MEDIA
