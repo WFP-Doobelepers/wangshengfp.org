@@ -207,7 +207,7 @@ It should be noted that many units under this category rely on their burst to di
 
 **Fischl**: Has strong off-field single target damage while being relatively low maintenance. Wanderer is not a bad driver for her and can trigger multiple instances of her A4 and C6, further increasing damage. 
 
-**Beidou**: Specializes in AoE off-field damage. She offers interruption resistance via her burst as well as a small shield at C2, which Wanderer appreciates. However, she is greedy for energy and wants to be paired with Fsichl to battery her. 
+**Beidou**: Specializes in AoE off-field damage. She offers interruption resistance via her burst as well as a small shield at C2, which Wanderer appreciates. However, she is greedy for energy and wants to be paired with Fischl to battery her. 
 
 **Yae Miko**: Yae’s damage is split between her Elemental Skill and Elemental Burst. She does not need her burst to deal damage, but it is a significant portion of her DPS. Contratrily, her burst costs 90 energy, making it difficult to burst every rotation, and even if you can, it leads to rotation extension.  
 
