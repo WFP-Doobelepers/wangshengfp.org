@@ -54,6 +54,8 @@ Magic Guide
 ## Character Overview
 *authored by Leifa*
 
+![](/faq/nahida/nahida_073_icon.webp)
+
 Nahida is a 5* Dendro character who can be played as an on-field driver or off-field buffer. The majority of her damage comes from the mark applied by her Elemental Skill, which is further buffed from her A4 passive. Nahida’s Elemental Burst also gives different effects to her Skill depending on the amount of Pyro, Hydro or Electro members in her party, as well as granting an EM buff that reaches up to 250 EM to the on-field character through her A1 passive.
 
 Her Normal / Charged Attacks have a high frequency of application, making her a great on-field driver / enabler for many team compositions. Her Charged Attack can also be canceled very quickly, although at the cost of stamina.
