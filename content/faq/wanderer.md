@@ -16,7 +16,7 @@ author: ['Emiliabyss#1641', 'Raikh / Valien#8564', 'EduLis#2176', 'jrm.spirit#26
 - jrm.spirit#2671 - Framecounts
 - redd(ඞඞ#1984) - Contributor || Team Building Section
 
-For all Wanderer Calcs you can reference: [Wanderer Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390) by @Professor Boomer, @Raikh - Schrödinger's Anemo and @ElfduLis, and [Wanderer Frames](https://docs.google.com/spreadsheets/d/1uKtLDSzjtubtghgUKj0PaXn1RsYfWWjiEcJa_-5xsZU/edit#gid=1929430073) by @jrm.spirit
+For all Wanderer Calcs you can reference: [Wanderer Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390) by Emiliabyss, Raikh and Edulis, and [Wanderer Frames](https://docs.google.com/spreadsheets/d/1uKtLDSzjtubtghgUKj0PaXn1RsYfWWjiEcJa_-5xsZU/edit#gid=1929430073) by jrm.spirit
 
 *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 

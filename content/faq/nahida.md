@@ -21,7 +21,7 @@ author: ['Leifa', 'Apollo', 'Sir Von', 'redd']
 - *Emiliabyss#1641 - Consulting*
 - *Reens#9389 - Consulting*
 
-For all Nahida Calcs you can reference: [Nahida Artifact Sheet Compilation](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5) by @redd | ping when alhaitham, [Nahida Weapon Ranking](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557) by @Raikh - Schrödinger's Anemo,  and [Nahida Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit#gid=92398108) by @jrm.spirit
+For all Nahida Calcs you can reference: [Nahida Artifact Sheet Compilation](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5) by redd, [Nahida Weapon Ranking](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557) by Raikh,  and [Nahida Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit#gid=92398108) by jrm.spirit
 
 **DISCLAIMER** *Everything in this FAQ is Pre-TC, meaning any information is __**SUBJECT TO CHANGE (STC)**__ until release. To our knowledge there is only one version of Nahida and no proof has been given to show otherwise. Anything can change at any time before the official release but this is meant to help give our current understanding of the character. And with that, enjoy reading and happy birthday Nahida!*
 
