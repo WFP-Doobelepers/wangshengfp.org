@@ -4,7 +4,7 @@ character: 'Nahida'
 character_star: 5
 element: 'dendro'
 aliases: []
-author: ['Leifa', 'Athena', 'Gerryoat', 'Chaoryn']
+author: ['Leifa', 'Apollo', 'Sir Von', 'redd']
 ---
 
 <br>
