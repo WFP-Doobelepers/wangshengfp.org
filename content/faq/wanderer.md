@@ -12,6 +12,7 @@ author: ['Emiliabyss#1641', 'Raikh / Valien#8564', 'EduLis#2176', 'jrm.spirit#26
 #### Credits:
 - Emiliabyss#1641 - Team Lead, Author, Calcs || Overview, Talents, Combos, Weapons
 - Raikh / Valien#8564 - Consultant, Author, Calcs || Constellations
+- EduLis#2176 - Author, Calcs || Artifacts
 - jrm.spirit#2671 - Framecounts
 - redd(ඞඞ#1984) - Contributor || Team Building Section
 
