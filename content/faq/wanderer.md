@@ -1,5 +1,5 @@
 ---
-title: 'Wanderer Pre-TC and Leaks FAQ'
+title: 'Wanderer Pre-TC FAQ'
 character: 'Wanderer'
 character_star: 5
 element: 'anemo'

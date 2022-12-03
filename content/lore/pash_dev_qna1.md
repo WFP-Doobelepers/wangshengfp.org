@@ -65,6 +65,6 @@ Just a bit more: in the plot’s setting, you can’t just equip artifacts and i
 
 **Design and Layout** provided by Wokes from the WFP Media Team
 
-**Translation** by Esperance of the WFP Leak Team, with Editing & Proofreading provided by JakeFromStatefarm and the WFP Lore Team
+**Translation** by Esperance of the WFP, with Editing & Proofreading provided by JakeFromStatefarm and the WFP Lore Team
 
 **Artwork** from Mihoyo Co., LTD

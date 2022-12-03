@@ -1,5 +1,5 @@
 ---
-title: 'Nahida Pre-TC and Leaks FAQ'
+title: 'Nahida Pre-TC FAQ'
 character: 'Nahida'
 character_star: 5
 element: 'dendro'
