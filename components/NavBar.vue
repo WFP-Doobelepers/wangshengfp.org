@@ -30,7 +30,7 @@
                     </NuxtLink>
 
                     <NuxtLink to="/faq">
-                        FAQ
+                        Pre-TC FAQs
                     </NuxtLink>
 
                     <NuxtLink to="/artists">
@@ -155,7 +155,7 @@
                             class="my-4 inline-block"
                             @click.native="isOpen = false"
                         >
-                            FAQ
+                            Pre-TC FAQs
                         </NuxtLink>
                     </li>
 
