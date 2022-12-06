@@ -15,11 +15,13 @@ author: ['Emiliabyss', 'Athena', 'EduLis', 'Tabune']
 - *EduLis#2176  -  Calcs, FAQ Author || Weapons, Talents, Overview, Constellations*
 - *Tabbune#4201  -  FAQ Contributor || Teambuilding*
 
+For all Layla Calcs you can reference: [Layla Mastersheet](https://docs.google.com/spreadsheets/d/1YVVuaGUm22HEvRsogcR6lTQOIT0A5quafmH5PjODsds/edit?usp=sharing) by *Athena* and *EduLis*, and [Layla Frames Mastersheet](https://docs.google.com/spreadsheets/d/1SpwBPRc0kuUEFsLpgLu0fDzYkCoqN5yuXNCG1vp96_8/edit?usp=sharing) by *Jrm.Spirit*
 
 **DISCLAIMER** *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 
-
 ## Character Overview
+
+*(Section authored by EduLis)*
 
 ![](/faq/layla/layla.png)
 
@@ -29,9 +31,9 @@ HP, ER, and 30% CRIT Rate or more (to proc Favonius passive) are most valuable t
 
 Layla’s constellations provide extra shield strength, ER requirement reduction, damage boosting for on-field character and more personal damage. C1 enhances her Shield Strength and grants all your co-op teammates with a shield identical in utility to your own. C2 restores energy with skill hits and eliminates her ER requirement , enabling her to build more HP. C4 provides Normal and Charged attack DMG to the character on-field, usually around 2k per NA or CA hit. C6 increase her overall damage and reduce the required time to stack up her *Shooting Stars*
 
-*(section authored by EduLis)*
-
 ## __**Talents**__
+
+*(Section authored by EduLis)*
 
 ![](/faq/layla/talent.png)
 
@@ -55,17 +57,17 @@ Her passive talents are simple. Ascension 1 gives her stack-based extra shield s
 
 The over-world passive talent is quite nice as she gives 10% chance of doubling the product when crafting character talent materials.
 
-*(section authored by EduLis)*
-
 ## __**Energy Recharge Requirements**__
+
+*(Section authored by Athena)*
 
 One thing to keep in mind is her Burst uptime. Having 100% uptime means she can either use it once in a 23 seconds or lower rotation, or up to twice in some 25 seconds rotations. It is tough to keep up with Bursting off cooldown in non-Cryo teams, since not catching any Cryo particles generated and investing that energy to other characters is more advantageous. With her Constellation 2 active, her ER requirement drops significantly, and so  Bursting every 12 seconds becomes viable.
 
 ![](/faq/layla/ER.png)
 
-*(section authored by Athena)*
-
 ## __**Artifacts**__
+
+*(Section authored by Athena)*
 
 ***Main Stats***
 
@@ -93,9 +95,9 @@ You can consider **4-piece Instructor** when using her in a team utilizing ampli
 
 ![](/faq/layla/Artifacts.png)
 
-*(section authored by Athena)*
-
 ## __**Weapons**__
+
+*(Section authored by EduLis)*
 
 Her selection of weapons can be separated into two focuses: shield support or  off-field DPS. And the ranking would vary since for shield support she would like as much HP as possible, while for off-field DPS, Crit would matter a lot more. The DMG gain from extra ATK is negligible, therefore weapons with ATK substat is not recommended. 
 
@@ -107,9 +109,9 @@ For **Off-field DPS** builds, the standout performer here is **Harbinger of Dawn
 
 ![](/faq/layla/weapon.png)
 
-*(section authored by EduLis)*
-
 ## __**Teambuilding**__
+
+*(Section authored by Tabbune)*
 
 ### **General Shielder**
 
@@ -169,9 +171,9 @@ Layla is not recommended for some Fridge teams as Bloom damage will break her sh
 
 ![](/faq/layla/fridge.png)
 
-*(section authored by Tabbune)*
-
 ## __**Constellations**__
+
+*(Section authored by EduLis)*
 
 **DISCLAIMER:** For explicit numbers on DPS increases, please refer to our linked Mastersheet for up-to-date numbers.
 
@@ -204,6 +206,3 @@ Adds 3 more levels to her Burst. Some extra damage however the gain is negligibl
 ![](/faq/layla/c6.webp)
 
 *Shooting Stars* and *Starlight Slugs* deal 40% increased damage. And Night Stars are automatically generated every 1.2s instead of 1.5s. It is hard to pull off another wave of Shooting Stars without sacrificing driver/carry’s on- field time. Rating: 3/5
-
-*(section authored by EduLis)*
-

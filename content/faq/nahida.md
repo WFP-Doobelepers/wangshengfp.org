@@ -52,7 +52,7 @@ Sacrificial Fragments
 Magic Guide
 
 ## Character Overview
-*authored by Leifa*
+*(Authored by Leifa)*
 
 ![](/faq/nahida/nahida_073_icon.webp)
 
@@ -71,7 +71,8 @@ Nahida’s A1 passive grants up to 250 Elemental Mastery to the on-field charact
 Nahida’s A4 passive gives her Tri-Karma Purification bonus DMG% and Crit Rate based on the amount of EM she has that exceeds above 200 EM, maxing out at 80% DMG bonus and 24% Crit Rate. A very nice amount of stats to her main damage source, which emphasizes building EM on Nahida.
 
 ## __**Talent Priority**__
-*authored by Leifa*
+*(Authored by Leifa)*
+
 ![](/faq/nahida/talentpriority.png)
 
 **E (Skill) = Q (Burst) > NA (Normal ATK)** 
@@ -80,7 +81,7 @@ The majority of Nahida’s damage comes from her Elemental Skill, but her Elemen
 
 
 ## Combos and Rotations
-*authored by Leifa*
+*(Authored by Leifa)*
 
 Nahida’s combos will differ depending on if you’re playing her on or off-field.
 
@@ -92,7 +93,7 @@ E, Q is recommended over Q, E due to her E being cancellable slightly early and 
 
 
 ## Artifacts
-*authored by Leifa and redd*
+*(Authored by Leifa and redd)*
 
 ### __Mainstats__
 
@@ -139,7 +140,7 @@ For Bloom teams where Nahida gets a significant amount of Blooms: Run triple EM 
 [Artifact Calcs by redd](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
 
 ## Weapons
-*authored by Leifa*
+*(Authored by Leifa)*
 
 *Due to Nahida being played both on and off-field as well as having high or low reaction ownership depending on the team composition, weapon rankings can vary drastically. Because of this, recommended weapons will be options which performed well across all scenarios. Please see the full weapon calcs for specifics.*
 
@@ -195,7 +196,7 @@ For Bloom teams where Nahida gets a significant amount of Blooms: Run triple EM 
 [Weapon Calcs by Raikh](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557)
 
 ## Teambuilding
-*authored by Leifa, Apollo, and Von*
+*(Authored by Leifa, Apollo, and Von)*
 
 *Nahida is a very versatile character, able to be played in almost every Dendro composition, on and off-field, with an EM sharing passive boot. Her Elemental Skill has high uptime, and her Dendro application is not constrained by energy. Rotations will change depending on what teammates you use just like artifact stats and weapons.*
 
@@ -276,7 +277,7 @@ Flex options: Anemo / Zhongli / Any above teammate
 Outside of using Burning to enable a Cryo character to trigger Melt, there is also the option of running full Burning based teams as it allows the use of 4PC Lavawalker for 35% DMG to opponents affected by Pyro. One flaw with this team is that Nahida doesn't really provide much other than fueling Burning. Also, Burning ticks are unable to proc Tri-Karma Purification, meaning Nahida ultimately ends up being reliant on Swirls from an Anemo character to deal damage with her Skill.
 
 ## Constellations
-*authored by redd*
+*(Authored by redd)*
 
 *Due to Nahida being played both on and off-field as well as having high or low reaction ownership depending on the team composition, the value of each constellation can vary drastically. DPS increases assume a reactionless, off-field Nahida.*
 
