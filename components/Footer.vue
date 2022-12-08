@@ -4,6 +4,7 @@
             Enable hardware acceleration for the best site performance | Built using <a target="_blank" href="https://nuxtjs.org/"><img src="~/assets/icons/nuxtjs.svg" alt="NuxtJS" class="inline pb-1.5"></a> and <a target="_blank" href="https://tailwindcss.com/"><img src="~/assets/icons/tailwind.svg" alt="tailwindcss" class="inline pb-1"></a> <br>
             Wangsheng Funeral Parlor is in no way sponsored, endorsed or administered by or associated with miHoYo Co., Ltd.
         </p>
+        <a href="https://www.netlify.com"> <img class="mt-2 mx-auto" src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify"> </a>
     </div>
 </template>
 

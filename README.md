@@ -25,8 +25,9 @@
 
 ## Contributing
 Pull requests and feedbacks are welcome. Please open an issue first for any major changes.
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Contributing guide](./CONTRIBUTING.md)
 - [Discord server](https://discord.gg/hutao)
 
 ## License
-[MIT](./LICENSE)
+[Apache 2.0](./LICENSE)
