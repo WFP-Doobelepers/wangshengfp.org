@@ -17,10 +17,6 @@
                 </div>
 
                 <div class="flex flex-wrap flex-row w-full justify-center items-end py-3 gap-3">
-                    <a v-if="artist.carrd" class="flex flex-col justify-center items-center" :href="artist.carrd">
-                        <img src="~/assets/icons/form.svg" class="w-8">
-                        Carrd
-                    </a>
                     <div class="flex flex-wrap flex-col justify-center items-center">
                         <img src="~/assets/icons/discord.svg" class="w-8">
                         {{ artist.discord }}
