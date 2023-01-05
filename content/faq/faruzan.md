@@ -1,8 +1,8 @@
 ---
 title: 'Faruzan Pre-TC and Leaks FAQ'
 character: 'Faruzan'
-character_star: 5
-element: 'anemo'
+character_star: 4
+element: 'electro'
 aliases: []
 author: ['Akane', 'Athena', 'Gerryoat', 'Chaoryn']
 ---
@@ -80,7 +80,7 @@ Due to her enormously high ER requirement before C6, the weapon options are quit
 
 ![artifact](/faq/faruzan/wep4.png)
 **Other ER weapons**
-- They can be used if all the options above are not available. 
+- They can be used if all the options above are not availnpm install -g npmable. 
 
 **Offensive options**
 - Only use them if you have Faruzan at Constellation 6, where her ER requirements are much more acceptable. All of them are pretty similar in strength therefore any option will do. 
@@ -116,8 +116,6 @@ Artifacts will be dependent on what team composition you will run Faruzan with t
 
 ![artifact](/faq/faruzan/arti5.png)
 **4PC Tenacity of the Millelith** - Only viable when Faruzan is at C6 due to its extra Collapse being able to maintain the ATK% Buff throughout the entire Anemo DPS on-field time.
-
-
 
 
 
