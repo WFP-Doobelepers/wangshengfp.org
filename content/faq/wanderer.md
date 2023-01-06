@@ -1,5 +1,5 @@
 ---
-title: 'Wanderer Pre-TC and Leaks FAQ'
+title: 'Wanderer Pre-TC FAQ'
 character: 'Wanderer'
 character_star: 5
 element: 'anemo'
@@ -15,6 +15,8 @@ author: ['Emiliabyss#1641', 'Raikh / Valien#8564', 'EduLis#2176', 'jrm.spirit#26
 - EduLis#2176 - Author, Calcs || Artifacts
 - jrm.spirit#2671 - Framecounts
 - redd(ඞඞ#1984) - Contributor || Team Building Section
+
+For all Wanderer Calcs you can reference: [Wanderer Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390) by Emiliabyss, Raikh and Edulis, and [Wanderer Frames](https://docs.google.com/spreadsheets/d/1uKtLDSzjtubtghgUKj0PaXn1RsYfWWjiEcJa_-5xsZU/edit#gid=1929430073) by jrm.spirit
 
 *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 
@@ -205,7 +207,7 @@ It should be noted that many units under this category rely on their burst to di
 
 **Fischl**: Has strong off-field single target damage while being relatively low maintenance. Wanderer is not a bad driver for her and can trigger multiple instances of her A4 and C6, further increasing damage. 
 
-**Beidou**: Specializes in AoE off-field damage. She offers interruption resistance via her burst as well as a small shield at C2, which Wanderer appreciates. However, she is greedy for energy and wants to be paired with Fsichl to battery her. 
+**Beidou**: Specializes in AoE off-field damage. She offers interruption resistance via her burst as well as a small shield at C2, which Wanderer appreciates. However, she is greedy for energy and wants to be paired with Fischl to battery her. 
 
 **Yae Miko**: Yae’s damage is split between her Elemental Skill and Elemental Burst. She does not need her burst to deal damage, but it is a significant portion of her DPS. Contratrily, her burst costs 90 energy, making it difficult to burst every rotation, and even if you can, it leads to rotation extension.  
 

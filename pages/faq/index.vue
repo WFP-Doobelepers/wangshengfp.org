@@ -1,7 +1,7 @@
 <template>
     <div class="guide flex flex-col items-center p-2 mx-auto w-full max-w-screen-lg">
         <p class="text-white text-4xl w-full text-left mt-5 mb-1 font-righteous pb-2">
-            Leaks FAQ
+            Pre-TC FAQs
         </p>
         <div class="guides grid grid-cols-2 lg:grid-cols-3 justify-center gap-3">
             <div v-for="faq in faqs" :key="faq.slug" class="guide w-full pb-3">
