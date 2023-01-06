@@ -12,7 +12,7 @@
         <div class="flex w-full items-center justify-center max-w-5xl mb-5 mx-auto px-5">
             <widgetbot
                 server="791074691841523742"
-                channel="803035563929239592"
+                channel="791659059723501569"
                 width="100%"
                 height="800"
             />

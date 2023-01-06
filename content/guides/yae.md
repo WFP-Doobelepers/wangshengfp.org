@@ -706,7 +706,7 @@ Azure\#4575 - team calcs, consulting
 
 #### Closing Thoughts
 
-A lot has happened with my work here ever since posting my Itto guide to WFP. I'm very proud to have led the Yae theorycrafting process over the last few months, and I'm really looking forward to working on Yelan next, once her kit becomes available.
+A lot has happened with my work here ever since posting my Itto guide to WFP. I'm very proud to have led the Yae theorycrafting process over the last few months, and I'm really looking forward to working on Yelan next, once her kit becomes leaked.
 
 Special thanks to Raikh, JRM, and Azure for their help with team calcs, consulting, and management of the mastersheet, and to everyone who patiently waits for work like this to come out.
 

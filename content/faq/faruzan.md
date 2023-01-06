@@ -1,8 +1,8 @@
 ---
-title: 'Faruzan Pre-TC FAQ'
+title: 'Faruzan Pre-TC and Leaks FAQ'
 character: 'Faruzan'
 character_star: 4
-element: 'anemo'
+element: 'electro'
 aliases: []
 author: ['Akane', 'Athena', 'Gerryoat', 'Chaoryn']
 ---
