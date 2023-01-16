@@ -54,14 +54,14 @@ For HP scaling characters, it's usually recommended to level them to 90. If not,
 Yaoyao’s Elemental Skill creates one instance of *Yuegui: Throwing Mode*, a turret-like summon akin to Fischl’s Oz. By holding the Skill button, players can also manually adjust the position of the summon on initial cast, similar to Amber’s Baron Bunny. *Yuegui: Throwing Mode* will continuously throw out projectiles called *White Jade Radishes*. Upon contact with either an enemy or a character, they will explode and deal damage to the enemy while healing the on-field character within the same AoE, albeit a relatively small one. If a Radish does not contact an enemy or a character, it will remain on the field for 5 seconds. 
 
 “Yuegui: Throwing Mode” also has a set of logic for picking its target: 
-If the on-field character has below 70%: targets the on-field character
-If the on-field character has above 70% HP with enemies present: targets the enemy
-If the on-field character has above 70% HP without enemies present: targets the on-field character
+- If the on-field character has below 70%: targets the on-field character
+- If the on-field character has above 70% HP with enemies present: targets the enemy
+- If the on-field character has above 70% HP without enemies present: targets the on-field character
 
 Yaoyao’s Elemental Burst grants her the *Adeptal Legacy* state while **she is on-field**. This state’s effect consists of three parts:
-Yaoyao will throw out three instances of *Yuegui: Jumping Mode*, turrets with the exact same targeting logic as *Yuegui: Throwing Mode*, in very quick succession. 
-All of the *White Jade Radishes* fired during this state, from both *Yuegui: Throwing Mode* and *Yuegui: Jumping Mode*, will be converted to *Adeptal Legacy White Jade Radishes*. They deal extra damage and healing, and they are considered as Elemental Burst DMG. The healing also benefits her whole team instead of only the on-field character like her Skill. 
-Yaoyao gains 15% Movement SPD and 50% Dendro RES Bonus. 
+- Yaoyao will throw out three instances of *Yuegui: Jumping Mode*, turrets with the exact same targeting logic as *Yuegui: Throwing Mode*, in very quick succession. 
+- All of the *White Jade Radishes* fired during this state, from both *Yuegui: Throwing Mode* and *Yuegui: Jumping Mode*, will be converted to *Adeptal Legacy White Jade Radishes*. They deal extra damage and healing, and they are considered as Elemental Burst DMG. The healing also benefits her whole team instead of only the on-field character like her Skill. 
+- Yaoyao gains 15% Movement SPD and 50% Dendro RES Bonus. 
 If Yaoyao leaves the field, all Yuegui: Jumping Mode will immediately despawn. 
 
 Yaoyao’s 1st Ascension Passive is a nice addition to her Burst mechanic, as she is encouraged to move around while in her *Adeptal Legacy* state, evading a large portion of both damage from enemies or Bloom self-damage, at the same time boosting her healing even further. Her 4th Ascension Passive is another addition to her healing. It’s worth noting that this Passive will be hard to trigger when the Yueguis are targeting the enemy instead of Yaoyao herself due to the small Radish AoE.
@@ -275,16 +275,14 @@ Yaoyao’s unique disposition as a Dendro healer lets her play an important role
 Yaoyao’s Burst significance will shift as her teams’ healing needs change. There are a few factors that affect this:
 
 
-Team’s field-time distribution.
-Enemies’ team-wide DoT effects (e.g. Corrosion, Brand of the Abyssal Flame, etc.) or highly-damaging enemies like some bosses.
-Self-damaging effects from Dendro Cores (i.e. Nilou’s Bountiful Core, Hyperbloom, Burgeon).
+- Team’s field-time distribution.
+- Enemies’ team-wide DoT effects (e.g. Corrosion, Brand of the Abyssal Flame, etc.) or highly-damaging enemies like some bosses.
+- Self-damaging effects from Dendro Cores (i.e. Nilou’s Bountiful Core, Hyperbloom, Burgeon).
 
-__Dendro Support__
-
-
+### **__Dendro Support__**
 
 
-### **Quicken teams** 
+#### **Quicken teams** 
 Yaoyao-Electro-Electro/Dendro-Flex
 
 ![](/faq/yaoyao/AGGRA.png)
@@ -296,14 +294,17 @@ With that said, in Spread-centric teams, she has various utilities: Dendro Reson
 
 
 *Character Options*
-Dendro: Alhaitham, Collei, DMC, Nahida, Tighnari
-Electro: Beidou, Cyno, Fischl, Keqing, Lisa, Raiden, Sara, Yae
-Flex: (another Dendro/Electro unit) or Kazuha, Sucrose, Venti, Zhongli
+
+- **Dendro:** Alhaitham, Collei, DMC, Nahida, Tighnari
+
+- **Electro:** Beidou, Cyno, Fischl, Keqing, Lisa, Raiden, Sara, Yae
+
+- **Flex:** (another Dendro/Electro unit) or Kazuha, Sucrose, Venti, Zhongli
 
 
 
 
-### **Nilou Bloom teams** 
+#### **Nilou Bloom teams** 
 Yaoyao-Nilou-Hydro-Dendro
 
 ![](/faq/yaoyao/BLOOM.png)
@@ -314,13 +315,15 @@ With that said, since Yuegui’s priority switches to healing (as opposed to att
 
 
 *Character Options*
-Dendro: Alhaitham, Collei, DMC, Nahida
-Hydro: Ayato, Barbara, Candace, Kokomi, Tartaglia, Xingqiu, Yelan
+
+- **Dendro:** Alhaitham, Collei, DMC, Nahida
+
+- **Hydro:** Ayato, Barbara, Candace, Kokomi, Tartaglia, Xingqiu, Yelan
 
 
 
 
-### **Hyperbloom /Burgeon teams** 
+#### **Hyperbloom /Burgeon teams** 
 Yaoyao-Hydro-Electro/Pyro-Flex
 
 ![](/faq/yaoyao/HYPERBLOOM.png)
@@ -329,8 +332,10 @@ Although not as a crucial slot, Yaoyao serves as a perfectly viable healer for H
 
 
 *Character Options*
-Hydro: Ayato, Candace, Kokomi, Tartaglia, Xingqiu, Yelan
-Electro/Pyro: Dori (C6), Fischl, Kuki, Raiden, Yae, Amber, Thoma, Yanfei
-(Fischl will need an Anemo trigger)
-Flex: Alhaitham, Collei, DMC, Nahida, Sucrose, Heizou
+
+- **Hydro:** Ayato, Candace, Kokomi, Tartaglia, Xingqiu, Yelan
+
+- **Electro/Pyro:** Dori (C6), Fischl, Kuki, Raiden, Yae, Amber, Thoma, Yanfei(Fischl will need an Anemo trigger)
+
+- **Flex:** Alhaitham, Collei, DMC, Nahida, Sucrose, Heizou
 

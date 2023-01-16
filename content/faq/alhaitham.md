@@ -64,7 +64,7 @@ Alhaitham's Burst is a flexible Talent that can be used either as a utility tool
 It is generally more optimal to use his Burst with zero Mirrors to generate 3 Mirrors, as using his Burst as a nuke prematurely terminates his DPS uptime pre-C6. This can be useful for frontloading damage or quickly clearing a wave of mobs, but is otherwise generally a suboptimal use of his Burst.
 
 ## **Constellations**
-*Authored by nowy*
+*Authored by Snowy*
 
 ![](/faq/alhaitham/C1ahtm.webp)
 ### **C1 - Intuition** 
@@ -131,7 +131,7 @@ C5 provides a negligible damage increase in standard rotations where his Burst i
 
 *DPS increase from C0: 32%*
 
-*Rating : 1/5 *
+*Rating : 1/5*
 
 
 ![](/faq/alhaitham/C6ahtm.webp)
@@ -149,7 +149,7 @@ Like many characters, Alhaitham’s best Constellation is C6. It ensures that hi
 
 *DPS increase from C0: 66%*
 
-*Rating : 4/5 *
+*Rating : 4/5*
 
 ## **Combos**
 *Authored by mien*
@@ -306,6 +306,7 @@ Note that in Burgeon, Nilou Bloom and Hyperbloom teams where Alhaitham does not 
 Alhaitham | Electro | Electro/Dendro | Flex
 
 Example Team: Alhaitham/Nahida/Fischl/Kuki Shinobu
+
 Example Team 2: Alhaitham/Yae Miko/Fischl/Zhongli 
 
 ![](/faq/alhaitham/Quicken.png)
@@ -321,6 +322,7 @@ Flex Units: Zhongli, Kazuha, Sucrose, Albedo
 Alhaitham | Electro | Hydro | Flex
 
 Example Team: Alhaitham/Kuki Shinobu/Xingqiu/Nahida
+
 Example Team 2: Alhaitham/Raiden Shogun/Xingqiu/Yelan
 
 ![](/faq/alhaitham/Hyperbloom-Quickbloom.png)
@@ -353,6 +355,7 @@ Flex Units: Zhongli, Fischl, Kokomi, Kazuha, Sucrose, Diona, Kaeya, Rosaria, Yao
 Alhaitham | Nilou/Hydro | Hydro/Dendro | Hydro
 
 Example Team: Alhaitham/Nilou/Kokomi/Nahida
+
 Example Team 2: Alhaitham/Nilou/Kokomi/Xingqiu
 
 ![](/faq/alhaitham/Bloom.png)
