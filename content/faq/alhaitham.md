@@ -13,12 +13,14 @@ author: ['Lofty', 'mien', 'redd', 'Lati', 'snowy', 'juko']
 ## Credits:
 
 
-- LoftyGinger#0369 - Weapons
-- mien#8650 - Talents, Combos, Team Building
-- redd#1984 - Talents, ER Requirements, Artifacts, Team Building
-- Latiwings#3308 - Character Overview, Talents
-- snowy#4028 - Constellations
-- juko#9385 - Team Building
+- *LoftyGinger#0369 - Co-Lead, Author || Weapons*
+- *mien#8650 - Co-Lead, Consultant, Author, Calcs || Talents, Combos, Team Building*
+- *redd#1984 - Author, Calcs || Talents, ER Requirements, Artifacts, Team Building*
+- *Latiwings#3308 - Mastersheet, Author || Character Overview, Talents*
+- *snowy#4028 - Author || Constellations*
+- *juko#9385 - Author || Team Building*
+- *jrm.spirit#2671 - Framecounting*
+
 For all Alhaitham Calcs you can reference: [Alhaitham Mastersheet](https://docs.google.com/spreadsheets/u/0/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit) by  mien#8650 and redd(ඞඞ#1984) and [Frames Mastersheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit#gid=0) by jrm.spirit#2671
 
 Pre-TC is volatile and subject to change. Everything described in this FAQ is a good faith analysis based on the limited information we have. Team calcs are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.
