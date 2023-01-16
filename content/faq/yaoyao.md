@@ -54,7 +54,7 @@ For HP scaling characters, it's usually recommended to level them to 90. If not,
 Yaoyao’s Elemental Skill creates one instance of *Yuegui: Throwing Mode*, a turret-like summon akin to Fischl’s Oz. By holding the Skill button, players can also manually adjust the position of the summon on initial cast, similar to Amber’s Baron Bunny. *Yuegui: Throwing Mode* will continuously throw out projectiles called *White Jade Radishes*. Upon contact with either an enemy or a character, they will explode and deal damage to the enemy while healing the on-field character within the same AoE, albeit a relatively small one. If a Radish does not contact an enemy or a character, it will remain on the field for 5 seconds. 
 
 “Yuegui: Throwing Mode” also has a set of logic for picking its target: 
-- If the on-field character has below 70%: targets the on-field character
+- If the on-field character has below 70% HP: targets the on-field character
 - If the on-field character has above 70% HP with enemies present: targets the enemy
 - If the on-field character has above 70% HP without enemies present: targets the on-field character
 
@@ -149,21 +149,21 @@ The table assumes Yaoyao Bursting every rotation. If she is Bursting every other
 ### __Overview__ 
 
 *Sands of Eon:*
-For Healer: **HP%, ER(Only if Bursting every rotation)**
-For Off-field DPS: **EM**
+- For Healer: **HP%, ER(Only if Bursting every rotation)**
+- For Off-field DPS: **EM**
 
 *Goblet of Eonothem:* 
-For Healer: **HP%**
-For Off-field DPS: **Dendro DMG Bonus, EM**
+- For Healer: **HP%**
+- For Off-field DPS: **Dendro DMG Bonus, EM**
 
 *Circlet of Logos:* 
-For Healer: **Healing Bonus, HP%**
-For Off-field DPS: **CRIT Rate, CRIT DMG, EM**
+- For Healer: **Healing Bonus, HP%**
+- For Off-field DPS: **CRIT Rate, CRIT DMG, EM**
 
 *Substat Priority:* 
-For Healer (Non-Bloom): **ER (Only need to be considered if Bursting every rotation) > HP% > Flat HP**
-For Off-field DPS (Non-Bloom): **CRIT Rate/CRIT DMG > EM**
-For Bloom: **30% CRIT Rate (For Proccing Favonius Lance if it is equipped) > ER > HP% > EM**
+- For Healer (Non-Bloom): **ER (Only need to be considered if Bursting every rotation) > HP% > Flat HP**
+- For Off-field DPS (Non-Bloom): **CRIT Rate/CRIT DMG > EM**
+- For Bloom: **30% CRIT Rate (For Proccing Favonius Lance if it is equipped) > ER > HP% > EM**
 
 For Bloom, even though building as much EM as possible would increase her Bloom DMG, it is not significant enough in the overall team’s damage contribution to be considered over building her to heal. For detailed comparison between builds, please refer to **Yaoyao Mastersheet** in the **Artifacts - Burst Focused** section. 
 
