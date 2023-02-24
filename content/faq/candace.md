@@ -16,7 +16,7 @@ author: ['Emiliabyss', 'Athena', 'Atilla', 'Dylan']
 - Dylan – Writing: Character Overview, Team Building
 
 
-For all Faruzan Calcs you can reference: [Candace Mastersheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit#gid=1076481734) by Emiliabyss and Athena, and [Candace Frames Mastersheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit?usp=sharing) by Sir Von | Skill Deficiency Cult
+For all Candace Calcs you can reference: [Candace Mastersheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit#gid=1076481734) by Emiliabyss and Athena, and [Candace Frames Mastersheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit?usp=sharing) by Sir Von | Skill Deficiency Cult
 
 *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 
@@ -27,11 +27,11 @@ For all Faruzan Calcs you can reference: [Candace Mastersheet](https://docs.goog
 
 Candace is a Hydro polearm-user who is most comfortable being played as a support. She is the only character at the time of writing who offers a Hydro infusion to melee weapons. Aside from this, she is a character who scales entirely with HP, much like Nilou, unless you’re committing to auto-attacks (which is not recommended). 
 
-Using Candace’s burst off cooldown is essential, so you must have 220% Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you are using Favonius Lance. If you are using Favonius Lance with another Hydro character, Candace’s energy requirements are lowered to 180%.
+Using Candace’s burst off cooldown is essential, so you should have 220%+ Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you are using Favonius Lance. If you are using Favonius Lance with another Hydro character, Candace’s energy requirements are lowered to 180%.
 
-Candace cares about Energy Recharge, Crit Rate (at least 30%), HP, Crit Damage,  and sometimes ATK (if on-field DPS) or Elemental Mastery (if built for transformative reactions). As far as weapons go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of her talents scale off of HP (excluding auto-attacks).
+Candace cares about Energy Recharge, Crit Rate (at least 30%), HP, Crit Damage, and sometimes ATK (if on-field DPS) or Elemental Mastery (if built for reactions). As far as weapons go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of her talents scale off of HP (excluding auto-attacks).
 
-Candace’s constellations focus on improving her personal damage, increasing application, and extending Hydro infusion.Candace’s C1 extends the duration of her Hydro infusion, C2 will increase her max HP by 20% when her Elemental Skill hits an enemy. Her C6 gives her extra Hydro application and where most of her personal damage comes from, assuming she isn’t the one on field. 
+Candace’s constellations focus on improving her personal damage, increasing application, and extending Hydro infusion window. Candace’s C1 extends the duration of her Hydro infusion, C2 will increase her max HP by 20% when her Elemental Skill hits an enemy. Her C6 gives her extra Hydro application and where most of her personal damage comes from, assuming she isn’t the one on field. 
 
 
 ## Talents
@@ -39,7 +39,7 @@ Candace’s constellations focus on improving her personal damage, increasing ap
 
 ![](/faq/candace/talents.png)
 
-**Leveling priority: Burst > Skill > Normal Attack**
+**Leveling priority: Burst >= Skill > Normal Attack**
 
 ### Analysis:
 
@@ -47,9 +47,9 @@ Candace’s kit mainly involves around her Burst to enable her Hydro infusion, a
 
 Her Normal Attacks do not deal a great amount of damage, and it is also the only part of her kit to scale off ATK instead of HP, thus diverting her build (except for on-field Candace enthusiast, then level her Normal Attack first). 
 
-Candace’s skill has two options, tap and hold. Both scale with max HP. On tap, she rushes forward and deals Hydro damage, while holding her skill blocks the incoming damage with a shield that scales off her HP, has a longer cooldown but deals more damage. While holding can inflict more damage, it is not recommended since it takes a long time to cast , and the damage difference is not worth the time. After Ascension 1, when you get hit while shielding, her skill will finish instantly (similar to Yun Jin’s skill) but still has the same cooldown as when holding. With her fourth Constellation, her hold cooldown is reduced to be the same as her tap cooldown, which allows for more hold skill use if get the right timing. 
+Candace’s Skill has two options, tap and hold. Both scale with max HP. On tap, she rushes forward and deals Hydro damage, while holding her Skill blocks the incoming damage with a shield that scales off her HP, has a longer cooldown but deals more damage. While holding can inflict more damage, it is not recommended since it takes a long time to cast , and the damage difference is not worth the time. After Ascension 1, when you get hit while shielding, her Skill will finish instantly (similar to Yun Jin’s Skill) but still has the same cooldown as when holding. With her fourth Constellation, her hold cooldown is reduced to be the same as her tap cooldown, which allows for more hold Skill use if get the right timing. 
 
-Candace’s burst is her biggest selling point. Being the first character that provides Hydro infusion, she enables driver options for freeze, vaporize and bloom teams among others. Her Burst, combined with her Ascension 4 passive, will buff Elemental Normal Attacks hence also buff the on-field driver. When swapping between characters, it creates Wave Impact DMG instances that scales off HP, which is her main source of damage when playing as a support. 
+Candace’s Burst is her biggest selling point. Being the first character that provides Hydro infusion, she enables driver options for freeze, vaporize and bloom teams among others. Her Burst, combined with her Ascension 4 passive, will buff Elemental Normal Attacks hence also buff the on-field driver. When swapping between characters, it creates Wave Impact DMG instances that scales off HP, which is her main source of damage when playing as a support. 
 
 Finally, her overworld passive talent is great for exploring with the 20% climbing stamina reduction. 
 
@@ -57,7 +57,8 @@ Finally, her overworld passive talent is great for exploring with the 20% climbi
 ## ER Requirement
 *Authored by Athena*
 
-In general, Candace needs around 220% Energy Recharge (ER%) **with** Favonius Lance to burst every rotation as a solo Hydro unit due to her Skill’s particle generation being lackluster for her 60-cost Burst, as well as she will most likely be off-field after using her Burst, making funneling energy particles difficult. Each favonius weapon passive proc will reduce her Energy Recharge requirement by 15% to 20%. In situations where her teFm comp has another Hydro unit, her Energy Recharge requirement is significantly reduced to 180% **with** Favonius Lance. As always, an Energy Recharge Calculator is recommended to figure out how much ER% Candace needs in certain team comps. 
+Candace’s Burst is the core of her kit; therefore, Bursting off cooldown is very essential. Her Skill only generates 2 to 3 Hydro particles per Skill use, making her ER requirements very high for a 60 Energy Cost character. However, due to her lack of damage contribution compared to other characters in the team, funneling particles to her is not advisable. If possible, using 2 Skills per Burst is highly recommended to reduce her high ER requirements.
+
 
 ![](/faq/candace/ERReq.png)
 ## Weapons
@@ -97,7 +98,7 @@ ER% sand is always recommended to easily reach ER requirement. For situations wh
 
 **Goblet of Eonothem: Hydro DMG% or HP%**
 
-Hydro DMG% let Candace deal more damage while HP% one boost the driver’s
+Hydro DMG% let Candace deal more damage while HP% one boost the driver’s DMG.
 
 **Circlet of Logos: CRIT or HP%**
 
@@ -126,7 +127,7 @@ Substats priority: ER% (until meet requirement) > CR = CD > ATK% > HP% > EM
 
 ![](/faq/candace/arti1.png)
 
-For on-field Hydro DPS Candace, her artifacts choices are quite flexible. Usually you would aim for **4pc Heart of Depths** or **4pc Gladiator’s Finale**, but a combination of **2pc ATK%** (*Gladiator’s Finale*, *Shimenawa’s Reminiscence* ,...), **2pc Tenacity of the Milleliths**, **2pc Heart of Depths**, **2pc Emblem of Severed Fate** with better substats than the 4pc options above should also perform very similarly. 
+For on-field Hydro DPS Candace, her artifacts choices are quite flexible. Usually you would aim for **4pc Heart of Depths** or **4pc Gladiator’s Finale**, but a combination of **2pc ATK%** (*Gladiator’s Finale*, *Shimenawa’s Reminiscence*,...), **2pc Tenacity of the Milleliths**, **2pc Heart of Depths**, **2pc Emblem of Severed Fate** with better substats than the 4pc options above should also perform very similarly. 
 
 **Off-field**
 
@@ -136,11 +137,11 @@ Off-field Burst DPS
 
 For off-field Burst DPS, Candace has two main choices: 4pc Emblem of Severed Fate (EoSF) and 4pc Noblesse Oblige (NO). For 4pc EoSF, combining with an ER% weapon can increase her burst and C6 damage; while 4pc NO is generally used for buffing other teammates. The other 2pc options can be viable with good substats, but in most cases it is not recommended.
 
-Off-field support
+Off-field Support
 
 ![](/faq/candace/arti3.png)
 
-For off-field support, Candace has two main choices: **4pc Noblesse Oblige** (NO) and **4pc Instructor** to buff teammates after using burst. Using 4pc Emblem of Severed Fate or combining 2pc sets can achieve higher damage, however it lacks the utility provided by the two mentioned above. In certain 15-second rotation, **4pc Exile** can also be worth using to lessen other characters’ Energy Recharge, making it useful to invest the substats leaning more toward damage (Note that in **4pc Instructor** and **4pc Exile** case, a 5 stars ER Sands is **very** recommended for more Energy Recharge on Candace to meet her Energy Recharge requirement).
+For off-field support, Candace has two main choices: **4pc Noblesse Oblige** (NO) and **4pc Instructor** to buff teammates after using Burst. Using 4pc Emblem of Severed Fate or combining 2pc sets can achieve higher damage, however it lacks the utility provided by the two mentioned above. In certain 15-second rotation, **4pc Exile** can also be worth using to lessen other characters’ Energy Recharge, making it useful to invest the substats leaning more toward damage (Note that in **4pc Instructor** and **4pc Exile** case, a 5 stars ER Sands is **very** recommended for more Energy Recharge on Candace to meet her Energy Recharge requirement).
 
 You can also consider **4pc Deepwood Memories** on her if your teammates have better options for DPS and your team needs Dendro RES Shred. However, this is usually unlikely to happen, as most Dendro characters synergize with the set better than her.
 
@@ -148,10 +149,15 @@ You can also consider **4pc Deepwood Memories** on her if your teammates have be
 ## Team Building
 *Authored by Dylan*
 
-Some Recommended Teams:
+### General Normal Attacks DMG buffer
+
+Candace can be played as a Normal Attack buffer in a team where you have an on-field hypercarry that uses Normal Attacks as their primary source of damage without worrying about the Hydro Infusion. Elemental attacks from Catalyst and Bow characters cannot be overridden by Candace’s Elemental Burst, which is actually an upside here, while either Hydro characters or ones that have Conversions can fully utilize her without the Hydro Infusion in the way. 
+
 ### Mono Hydro
+
 Candace - Xingqiu - Yelan/Anemo - Flex
-One of the safer team compositions, since it allows characters with higher energy recharge requirements to build less ER. Xingqiu will likely be the character exploiting Candace’s Normal Attack infusion, since he will have a Hydro DMG bonus goblet. Yelan works nicely with this team, since she has good off-field damage and makes use of the new Hydro resonance. Sucrose and Kazuha work nicely as the Anemo flex, since they have crowd control and gives enemies Resistance Shred. Jean and Sayu also work well, if you think that Xingqiu’s healing is not enough.
+
+One of the safer team compositions, since it allows characters with higher energy recharge requirements to build less ER. Xingqiu will likely be the character exploiting Candace’s Normal Attack infusion, since he will have a Hydro DMG bonus goblet. Yelan works nicely with this team, since she has good off-field damage and makes use of the new Hydro resonance. Sucrose and Kazuha work nicely as the Anemo flex, since they have crowd control and gives enemies Resistance Shred. Jean and Sayu also work well, if you think that Xingqiu’s healing is not enough. Zhongli can also be a fine option with his shield and omni RES Shred.
 
 ![](/faq/candace/monohydro.png)
 
@@ -159,9 +165,9 @@ One of the safer team compositions, since it allows characters with higher energ
 
 Fridge 
 
-Candace/Dendro/Cryo/Anemo 
+Candace/Dendro/Cryo/Flex
 
-Fridge is a playstyle where Cryo and Dendro coexist on a target, so applying Hydro will cause both Frozen and Bloom. It’s also important to note that Frozen enemies preserve a Dendro aura longer, so more Blooms occur. These teams focus on creating as many Blooms as you can, since Blooms will automatically detonate when there are more than five on field. 
+Fridge is a playstyle where Cryo and Dendro coexist on a target, so applying Hydro will cause both Frozen and Bloom. It’s also important to note that Frozen enemies preserve a Dendro aura longer, so more Blooms occur. These teams focus on creating as many Blooms as you can for Burgeon, Hyperbloom or in this case, Blooms itself, since Blooms will automatically detonate when there are more than five on field. 
 
 Some recommended Cryo characters are Kaeya, Rosaria, and Diona (recommended for heals, though application isn’t the best). Both Rosaria and Kaeya would have better Cryo application, but having a healer is basically mandatory with Bloom. The Anemo flex can be Sucrose or Kazuha (Though you can use Jean or Sayu if you aren’t using Diona). Sucrose would buff the party with Elemental Mastery while providing crowd control. If you use Kazuha, you can use him as a driver since he will be the one with the most Elemental Mastery, and also providing better CC than Sucrose. Either Collei or DMC will work in the Dendro slot, as they can both apply Dendro off-field.
 
@@ -169,23 +175,25 @@ Some recommended Cryo characters are Kaeya, Rosaria, and Diona (recommended for 
 
 Nilou Bloom
 
-Candace/Nilou/DMC/Dendro or Hydro
+Candace/Nilou/DMC or Yaoyao/Dendro or Hydro
 
-Candace's Hydro Infusion give DMC more Bloom ownership, allowing him to build more EM for higher Bloom damage. Candace can also proc some Bloom with her Constellation 6, thus she can also use EM artifacts as long as she can still Burst off cooldown. Nilou would want as much HP as possible to increase Bloom damage, while the Flex slot should be a healer to keep the team healthy.
+Candace's Hydro Infusion give DMC or Yaoyao more Bloom ownership, allowing them to build more EM for higher Bloom damage. Candace can also proc some Bloom with her Constellation 6, thus she can also use EM artifacts as long as she can still Burst off cooldown. Nilou would want as much HP as possible to increase Bloom damage, while the Flex slot should be a healer to keep the team healthy.
 
 ![](/faq/candace/nilou.png)
 
-Hyperbloom
+Hyperbloom/Quickbloom
 
 Candace/Electro/Dendro/Flex
 
-Hyperbloom focuses on building Elemental Mastery on the Hyperbloom trigger, to maximize the amount of damage dealt by Hyperbloom. Some recommended Flex characters are Anemo character like Kazuha, Sucrose, Jean, and Sayu, or Zhongli with his shield is also great. If you run Sucrose instead of any of the other recommended Anemo characters, DMC would be the one driving. Electro-Charged can also proc in this team, while also making Blooms.
+Hyperbloom focuses on building Elemental Mastery on the Hyperbloom trigger, to maximize the amount of damage dealt by Hyperbloom. When having Electro and Hydro characters in your team, Electro-Charged proccing is also expected, providing a vehicle to get additional Blooms and / or Quicken Aura. This is called Quickbloom, by applying Dendro to an Electro-Charged aura can result in both a Bloom Reaction and Quicken Reaction, which can help proc more Spread, Aggravate or simply more Dendro Cores for Hyperbloom. Candace’s kit is uniquely able to maintain high Quicken uptime to help boost damage through Aggravate and Spreads due to her slow Hydro aApplication. Some recommended Flex characters are Anemo character like Kazuha, Sucrose, Jean, and Sayu; additional Electro character like Beidou or Yae; Zhongli with his shield and RES Shred is also great. 
+
 
 ### Vaporize
 
-Xiangling/Candace/Bennett/Xingqiu
+Candace/Pyro/Flex/Flex
 
-As a solo Hydro, Candace will not apply enough Hydro to where Xiangling can Vaporize every hit, so Xingqiu will be necessary in order to apply enough Hydro. Candace’s infusion also doesn’t last the entire Pyronado duration. Unfortunately you can’t use Viridescent Venerer with this team composition, but you get Hydro application and extra damage from Candace’s infusion instead.
+Candace’s Elemental Burst enables Pyro carries to Vaporize their Pyro abilities with their Hydro Normal Attacks. The 2 last slots are quite flexible: Anemo characters with 4pc Viridescent Venerer to enhance overall team damage by debuff the enemies; Hydro characters to provide more Hydro aura, Hydro Resonance and battery capability; supportive Pyro characters enable Pyro Resonance which gives all teammates ATK%, while also being able to battery the Pyro carries. Bear in mind that in most cases, 2 Pyro characters is usually more than enough; more Pyro characters can interfere with Hydro aura on the enemies, leading to lost Vaporizes on important abilities.
+
 
 ![](/faq/candace/vaporize.png)
 ### Freeze
@@ -212,21 +220,21 @@ Gives 20% more HP to Candace, which results in ~7% more personal damage and an e
 ![artifact](/faq/candace/c3.png)
 **C3 - Hunter's Supplication** 
 
-Adds an extra 3 levels to her burst. However, this only adds a little damage for a character whose damage by and large does not matter, Rating 1/5
+Adds an extra 3 levels to her burst. However, this only adds a little damage for a character whose damage by and large does not matter. Rating 1/5
 
 ![artifact](/faq/candace/c4.png)
 **C4 - Sentinel Oath**
 
-Reduces hold CD to match tap CD so you no longer have rotations ruined by accidental perfect counters. Largely QOL, but a large QOL Rating 3/5
+Reduces hold CD to match tap CD so you no longer have rotations ruined by accidental perfect counters. Largely QOL, but a large QOL. However, you can simply forgo this the A1 passive by tapping very quickly. Rating 3/5
 
 ![artifact](/faq/candace/c5.png)
 **C5 - Heterochromatic Gaze**
 
-Adds an extra 3 levels to her skill. However, this only adds a little damage for a character whose damage by and large does not matter, Rating 1/5
+Adds an extra 3 levels to her Skill. However, this only adds a little damage for a character whose damage by and large does not matter, Rating 1/5
 
 ![artifact](/faq/candace/c6.png)
 **C6 - The Overflow**
 
 C6 is an entire kit, almost doubling her damage while also bringing her up to 9-10 Hydro apps over 12s in addition to the normal infusion. This alone makes her damage actually notable, while also making her a very usable Hydro aura for characters that can work around her infusion, while also making her a good bloom proccer should we ever get the Dendro app to support it. Rating 5/5
 
-While it is hard to specifically quantify how much better c6 than c0 is for a unit whose primary usage is for Hydro application, an extra 3 seconds of infusion in addition to 4-5 extra waves generally will translate to 6-7 more apps in a 15 second period. This is a very large amount of additional application and brings her from a niche unit with incredible energy issues to an invaluable addition to teams that cannot reconcile themselves with Xingqiu's long cooldowns.
+While it is hard to specifically quantify how much better C6 than C0 is for a unit whose primary usage is for Hydro application, an extra 3 seconds of infusion in addition to 4-5 extra waves generally will translate to 6-7 more apps in a 15 second period. This is a very large amount of additional application and brings her from a niche unit with incredible energy issues to an invaluable addition to teams that cannot reconcile themselves with Xingqiu's long cooldowns.
