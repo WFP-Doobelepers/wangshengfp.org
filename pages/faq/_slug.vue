@@ -173,7 +173,7 @@ export default Vue.extend({
                 {
                     hid: 'description',
                     name: 'description',
-                    content: `Leaks FAQ for ${vm.faq.character} written by ${vm.faq.author.join(', ')}`
+                    content: `Pre-TC FAQ for ${vm.faq.character} written by ${vm.faq.author.join(', ')}`
                 },
                 {
                     hid: 'og:type',
@@ -188,7 +188,7 @@ export default Vue.extend({
                 {
                     hid: 'og:description',
                     name: 'og:description',
-                    content: `Leaks FAQ for ${vm.faq.character} written by ${vm.faq.author.join(', ')}`
+                    content: `Pre-TC FAQ for ${vm.faq.character} written by ${vm.faq.author.join(', ')}`
                 },
                 {
                     hid: 'og:image',
