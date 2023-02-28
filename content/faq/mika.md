@@ -20,7 +20,7 @@ author: ['KB', 'Luna', 'Kuro_kami']
 
 
 
-For all Dehya Calcs you can reference: [Mika Mastersheet](https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit?usp=sharing) by  KB, Luna 
+For all Mika Calcs you can reference: [Mika Mastersheet](https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit?usp=sharing) by  KB, Luna 
 
 *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 
@@ -36,7 +36,7 @@ Mika is a Polearm support unit that focuses on increasing his team’s Attack Sp
 
 >
 
-**Leveling priority (on-field)**: Burst >= Skill >> Normal Attack
+**Leveling priority (on-field)**: Skill >= Burst >> Normal Attack
 
 ![](/faq/mika/talent.png)
 
