@@ -13,7 +13,7 @@ author: ['Lofty', 'mien', 'redd', 'Lati', 'snowy', 'juko']
 ## Credits:
 
 
-- *LoftyGinger#0369 - Co-Lead, Author || Weapons*
+- *LoftyGinger#0369 - Lead, Author || Weapons*
 - *mien#8650 - Co-Lead, Consultant, Author, Calcs || Talents, Combos, Team Building*
 - *redd#1984 - Author, Calcs || Talents, ER Requirements, Artifacts, Team Building*
 - *Latiwings#3308 - Mastersheet, Author || Character Overview, Talents*
