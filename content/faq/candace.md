@@ -1,5 +1,5 @@
 ---
-title: 'Candace Pre-TC and Leaks FAQ'
+title: 'Candace Pre-TC FAQ'
 character: 'Candace'
 character_star: 4
 element: 'hydro'
