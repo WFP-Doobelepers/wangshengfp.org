@@ -20,10 +20,10 @@ author: ['Emiliabyss', 'Athena', 'NatC', 'Kuro_kami', 'Leifa']
 - *Kuro_kami91#6652 - Writing: Teambuilding*
 - *Sew#2409 - Calcs (Weapons)*
 - *snowy#4028 - Calcs (C6)*
-- *Sir Von | Skill Deficiency Cult#7672 - Framecounting*
+- *jrm.spirit#2671 - Framecounting*
 
 
-For all Dehya Calcs you can reference: [Dehya Mastersheet](https://docs.google.com/spreadsheets/d/18M33RAuZaLmD3a_MqA3LLPhE2WkO7EqlDIQW8jhFldw/edit?usp=sharing) by  Emiliabyss, NatC, Sew, Athena and Snowy, [Dehya C6 Calculations](https://colab.research.google.com/drive/1198q70t4pgpEfI2nP3wFSHw7uIyMbAXk?usp=sharing#scrollTo=3470f8ac) by Snowy and [Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit?usp=sharing) by Sir Von
+For all Dehya Calcs you can reference: [Dehya Mastersheet](https://docs.google.com/spreadsheets/d/18M33RAuZaLmD3a_MqA3LLPhE2WkO7EqlDIQW8jhFldw/edit?usp=sharing) by  Emiliabyss, NatC, Sew, Athena and Snowy, [Dehya C6 Calculations](https://colab.research.google.com/drive/1198q70t4pgpEfI2nP3wFSHw7uIyMbAXk?usp=sharing#scrollTo=3470f8ac) by Snowy and [Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit?usp=sharing) by jrm.spirit
 
 *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
 
@@ -406,3 +406,13 @@ In comparison to her other team options, Mono Pyro alleviates much of Dehya’s 
 **Hu Tao** - A strong on-field carry that can make use of Dehya as a Zhongli replacement. Keep in mind that similarly to Thoma, Dehya may steal some of Hu tao’s Vapes. However, unlike C4 Yanfei or Thoma, Dehya’s defensive utility isn't tied to her Burst, so she doesn’t suffer from Energy problems. This means Dehya can simply be used as a 4pc TOTM/4pc Instructor bot in order to supply Hutao with buffs and defensive utility.
 
 **Klee** - Functions as an on-field DPS in this team thanks to her rather flexible Elemental Skill. Compared to Xiangling, Klee has much more lenient Energy requirements, which is something Dehya would prefer. Using Klee also eases the need for Bennett funnels.
+
+## Day 1 Findings
+
+Now that Dehya has finally been released, we’ve received several reports from various different people about a few issues regarding her kit that we previously had no idea about. This section here is to address those issues, which may or may not be fixed in later versions of the game.
+
+**E targeting location** - Testing has revealed that Dehya’s Elemental Skill coordinated attack will primarily target the middle of the enemy’s hitbox. While this isn’t an issue when it comes to her elemental application or damage, there arises a problem when it comes to her Burgeon teams in particular. Because of how small Dehya’s coordinated attack hitbox is, there might be issues against bigger enemies, such as the Ruin Grader seen in this clip: 
+https://clips.twitch.tv/SpicyPopularBaguetteBuddhaBar-Irmp1119fpThfkjz
+
+**Q early cancel** - While you can naturally swap out of Dehya’s burst, it has been confirmed that jumping during her Blazing Lioness state will cause the burst state to prematurely end. While we’re not sure whether this is intentional or not, what we’re certain of is that this is a rather significant point to take note of since about 80% of on-field Dehya’s personal damage comes from her burst, and prematurely ending it is a huge hamstring to her. Additionally, if Dehya were to get frozen or trapped in a Hydro bubble during her Q state, you would be 
+
