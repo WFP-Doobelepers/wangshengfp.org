@@ -187,6 +187,7 @@ Candace/Electro/Dendro/Flex
 
 Hyperbloom focuses on building Elemental Mastery on the Hyperbloom trigger, to maximize the amount of damage dealt by Hyperbloom. When having Electro and Hydro characters in your team, Electro-Charged proccing is also expected, providing a vehicle to get additional Blooms and / or Quicken Aura. This is called Quickbloom, by applying Dendro to an Electro-Charged aura can result in both a Bloom Reaction and Quicken Reaction, which can help proc more Spread, Aggravate or simply more Dendro Cores for Hyperbloom. Candace’s kit is uniquely able to maintain high Quicken uptime to help boost damage through Aggravate and Spreads due to her slow Hydro aApplication. Some recommended Flex characters are Anemo character like Kazuha, Sucrose, Jean, and Sayu; additional Electro character like Beidou or Yae; Zhongli with his shield and RES Shred is also great. 
 
+![](/faq/candace/hyperbloom.png)
 
 ### Vaporize
 
@@ -210,7 +211,7 @@ Candace in freeze would allow Kaeya or Rosaria to drive to apply Hydro, while th
 ![artifact](/faq/candace/c1.png)
 **C1 - Returning Heiress of the Scarlet Sands** 
 
-Gives 3 more seconds of burst uptime and infusion. Doesn’t increase her damage, but increased uptime means more uptime on Hydro aura and her buff, allowing for greedier rotations, which is basically always a welcome addition. Rating 4/5s
+Gives 3 more seconds of burst uptime and infusion. Doesn’t increase her damage, but increased uptime means more uptime on Hydro aura and her buff, allowing for greedier rotations, which is basically always a welcome addition. Rating 4/5
 
 ![artifact](/faq/candace/c2.png)
 **C2 - Moon-Piercing Brilliance** 
