@@ -21,38 +21,13 @@
             <!-- Navbar -->
             <div class="navbar hidden lg:block z-10">
                 <ul class="flex text-sm font-quicksand text-white">
-                    <NuxtLink to="/">
-                        Home
+                    <NuxtLink
+                        v-for="page of pages"
+                        :key="page.name"
+                        :to="page.link"
+                    >
+                        {{ page.name }}
                     </NuxtLink>
-
-                    <NuxtLink to="/guides">
-                        Guides
-                    </NuxtLink>
-
-                    <NuxtLink to="/faq">
-                        Pre-TC FAQs
-                    </NuxtLink>
-
-                    <NuxtLink to="/artists">
-                        Artists
-                    </NuxtLink>
-
-                    <!--
-                    <NuxtLink to="/calculator">
-                        Calculator
-                    </NuxtLink>
-
-                    <div class="dropdown">
-                        <NuxtLink to="/forms">
-                            Forms
-                            <img src="~/assets/icons/chevron-down.svg" style="height: 20px" class="inline">
-                        </NuxtLink>
-                        <div class="dropdown-content">
-                            <NuxtLink to="/forms/ban-appeal">
-                                Ban Appeal
-                            </NuxtLink>
-                        </div>
-                    </div> -->
                 </ul>
             </div>
 
@@ -108,86 +83,18 @@
                 />
 
                 <ul class="divide-y font-quicksand">
-                    <li>
+                    <li
+                        v-for="page of pages"
+                        :key="page.name"
+                    >
                         <NuxtLink
-                            to="/"
+                            :to="page.link"
                             class="my-4 inline-block"
                             @click.native="isOpen = false"
                         >
-                            Home
+                            {{ page.name }}
                         </NuxtLink>
                     </li>
-
-                    <!-- <li class="mb-4">
-                        <NuxtLink
-                            to="/about-us"
-                            class="mt-4 mb-2 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            About Us
-                        </NuxtLink>
-                        <ul>
-                            <li>
-                                <NuxtLink
-                                    to="/about-us#social-media"
-                                    class="pl-3"
-                                    @click.native="isOpen = false"
-                                >
-                                    <img src="~/assets/icons/plus.svg" style="height: 15px" class="inline"> Social Media
-                                </NuxtLink>
-                            </li>
-                        </ul>
-                    </li> -->
-
-                    <li>
-                        <NuxtLink
-                            to="/guides"
-                            class="my-4 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            Guides
-                        </NuxtLink>
-                    </li>
-
-                    <li>
-                        <NuxtLink
-                            to="/faq"
-                            class="my-4 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            Pre-TC FAQs
-                        </NuxtLink>
-                    </li>
-
-                    <li>
-                        <NuxtLink
-                            to="/artists"
-                            class="my-4 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            Artists
-                        </NuxtLink>
-                    </li>
-
-                    <!-- <li>
-                        <NuxtLink
-                            to="/calculator"
-                            class="my-4 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            Calculator
-                        </NuxtLink>
-                    </li> -->
-
-                    <!-- <li>
-                        <NuxtLink
-                            to="/forms"
-                            class="my-4 inline-block"
-                            @click.native="isOpen = false"
-                        >
-                            Forms
-                        </NuxtLink>
-                    </li> -->
                 </ul>
 
                 <div class="follow">
@@ -227,7 +134,28 @@ import Vue from 'vue'
 export default Vue.extend({
     data () {
         return {
-            isOpen: false
+            isOpen: false,
+            pages: [
+                {
+                    name: 'Home',
+                    link: '/'
+                },
+                {
+                    name: 'Guides',
+                    link: '/guides'
+                },
+                {
+                    name: 'Infographics',
+                    link: '/infographics'
+                },
+                {
+                    name: 'Pre-TC FAQs',
+                    link: '/faq'
+                },
+                {
+                    name: 'Artists',
+                    link: '/artists'
+                }]
         }
     },
     watch: {
