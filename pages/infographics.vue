@@ -63,11 +63,11 @@ export default Vue.extend({
 }
 
 .vueperslides__bullet .default {
-    border: 1px solid white;
-    box-shadow: none;
+    border: 1px solid white!important;
+    box-shadow: none!important;
 }
 
 .vueperslides__bullet--active .default {
-    background-color: white;
+    background-color: white!important;
 }
 </style>
