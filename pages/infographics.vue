@@ -17,7 +17,6 @@
                     :touchable="false"
                     :bullets-outside="true"
                     fade
-                    lazy
                 >
                     <vueper-slide
                         v-for="image of infographic.infographics"
