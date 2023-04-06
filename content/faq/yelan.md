@@ -10,7 +10,7 @@ author: ['Emiliabyss', 'KB']
 <br>
 
 
-## Credits:
+#### Credits:
 
 
 - *Emiliabyss#1641 - Lead, Author*
@@ -60,62 +60,6 @@ Yelan's ascension talents are both much-appreciated boons. Her first ascension p
 Her latter as ascension talent allows her Burst to apply a cumulative DMG% buff to the active party member for the Burst's duration, starting at 1% and gaining 3.5% every second. As Yelan's burst lasts 15 seconds, by the end of her Burst, your active member will have a 50% damage bonus. This encourages players to strategically time the most powerful attacks near the end of a rotation in order to make the most of Yelan's buff.
 
 Finally, her overworld talent brings you more materials when she's sent on expedition, encouraging you to send Yelan and Shenhe on regular dates together throughout Liyue.
-
-
-## **Constellations**
-*Authored by Athena and NatC*
-
-![](/faq/yelan/c1.png)
-### **C1 - Enter the Plotters** 
-- *Lingering Lifeline gains 1 additional charge.*
-
-Adding an extra charge to Yelan’s skill is like giving her a free Sacrificial weapon passive. Yelan gains an enormous boost with managing her energy requirements, allowing you to put more stats into offense. This also eliminates the need to extend a rotation, as Yelan no longer needs to use her Skill every 10 seconds.
-
-
-*Rating: 3/5*
-
-
-![](/faq/yelan/c2.png)
-### **C2 - Taking All Comers** 
-- *When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.*
-
-With an extra synchronized attack on each other Burst proc, Yelan offers more Hydro application and another substantial increase in her damage Please note that this does not guarantee that she will be able to allow hutao/klee to vape 100% of the time by herself. Our current understanding of EGT is suggesting that it still is not enough but it is helpful for other teams.
-
-*Rating: 4/5*
-
-![](/faq/yelan/c3.png)
-### **C3 - Beware the Trickster's Dice** 
-- *Increases the Level of Depth-Clarion Dice by 3. Maximum upgrade level is 15.*
-
-Three talent levels added to Yelan’s Burst is uncontroversially a valuable benefit to her damage, as almost all of her damage comes from her Burst.
-
-*Rating : 3/5*
-
-![](/faq/yelan/c4.png)
-### **C4 - Bait-and-Switch** 
-- *Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.*
-
-C4 provides a rare buff in increasing the party’s Max HP. This is great on Yelan, and even better when paired with other HP scaling units like Hu Tao.
-
-*Rating: 2/5*
-
-
-![](/faq/yelan/c5.png)
-### **C5 - Dealer's Sleight** 
-- *Increases the Level of Lingering Lifeline by 3.Maximum upgrade level is 15.*
-
-Yelan’s skill is a negligible portion of her damage, so the three bonus talent levels aren’t very beneficial here.
-
-*Rating: 1/5*
-
-
-![](/faq/yelan/c6.png)
-### **C6 -  Winner Takes All** 
-- *After using Depth-Clarion Dice, Yelan will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG. The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.*
-
-Offers a playstyle where Yelan takes up more field time to do massive AoE damage. Can be useful to deal with flying type enemies or large mobs. The damage gain is hard to quantify as she will be displacing field time from your other DPS unit.
-
-*Rating 5/5*
 
 ## **Combos**
 *Authored by Emiliabyss*
@@ -202,49 +146,6 @@ Yelan's best artifact set if her energy requirements are above 130%.
 **2PC/2PC Combination Ranking:** 
 Any 2-piece combinations of these sets can be decent options for Yelan’s personal damage, provided they have relevant substats.
 
-
-
-## **Weapons**
-*Authored by Emiliabyss*
-
-In general, Yelan needs around 225% ER for 1 Skill used per Burst. With a second Hydro Unit in the team, it reduces down to around 200%. In quickswap team where Yelan can use up to 2 Skills per rotation, it further lowers Yelan's ER requirements by 40-60%
-
-Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward and accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her limited 5-star signature weapon.
-
-At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
-
-
-![](/faq/yelan/aqua.png)
-
-**Aqua Simulacra [HP% or ER% Sands]** -
-Yelan's signature weapon, +15-20% DMG increase from competition.
-
-![](/faq/yelan/sacbow.png)
-
-**Sacrificial Bow R3+ [HP% Sands]** -
-C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you previously use only use 1 Skill per rotation without Sacrificial Bow passive.
-
-![](/faq/yelan/favbow.png)
-
-**Favonius Warbow [HP% Sands]**-
-Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
-
-![](/faq/yelan/elegy.png)
-
-**Elegy for the End [HP% Sands]** - Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
-
-![](/faq/yelan/critbows.png)
-
-**CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% or ER% Sands]** - CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
-
-![](/faq/yelan/dmgbows.png)
-
-**Mourn’s Moon R5 / Stringless R5 / Fading Twilight R5 [HP% or ER% Sands]** - Both of the bows give lots of DMG%. You will generally want a HP% Goblet due to diminishing returns.
-
-![](/faq/yelan/3stars.png)
-
-**Recurve Bow R5 / Slingshot R5 [HP% or ER% Sands]** - 3* bows that are basically free for everyone.
-
 ## **Team Building**
 *A  uthored by KB/Emiliabyss; edited by Emiliabyss*
 
@@ -287,3 +188,99 @@ Although Yelan can apply a good amount of hydro for Freeze teams, she faces toug
 Typically, C1 Yelan is advised if you are planning on using her as the sole hydro unit on the team. This is because her energy requirements are so high that Favonius Warbow is often a better option than Aqua for DPS.. The damage that you would gain from having lower energy requirements with C1 is significant. Another important detail is having C1 allows her to actually use non-ER% bows without suffering heavy drawbacks. Keep in mind that in rotations where she is using her skill every 10 or so seconds, the value of C1 drops dramatically.
 
 The lower Yelan’s energy requirements are in a team the better Aqua Simulacra becomes. It should be noted that Aqua also performs very well on other DPS characters. With one notable example being that it is even or slightly stronger (2%) than amos bow for Ganyu.
+
+## **Weapons**
+*Authored by Emiliabyss*
+
+In general, Yelan needs around 225% ER for 1 Skill used per Burst. With a second Hydro Unit in the team, it reduces down to around 200%. In quickswap team where Yelan can use up to 2 Skills per rotation, it further lowers Yelan's ER requirements by 40-60%
+
+Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward and accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her limited 5-star signature weapon.
+
+At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
+
+
+![](/faq/yelan/aqua.png)
+
+**Aqua Simulacra [HP% or ER% Sands]** -
+Yelan's signature weapon, +15-20% DMG increase from competition.
+
+![](/faq/yelan/sacbow.png)
+
+**Sacrificial Bow R3+ [HP% Sands]** -
+C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you previously use only use 1 Skill per rotation without Sacrificial Bow passive.
+
+![](/faq/yelan/favbow.png)
+
+**Favonius Warbow [HP% Sands]**-
+Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
+
+![](/faq/yelan/elegy.png)
+
+**Elegy for the End [HP% Sands]** - Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
+
+![](/faq/yelan/critbows.png)
+
+**CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% or ER% Sands]** - CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
+
+![](/faq/yelan/dmgbows.png)
+
+**Mourn’s Moon R5 / Stringless R5 / Fading Twilight R5 [HP% or ER% Sands]** - Both of the bows give lots of DMG%. You will generally want a HP% Goblet due to diminishing returns.
+
+![](/faq/yelan/3stars.png)
+
+**Recurve Bow R5 / Slingshot R5 [HP% or ER% Sands]** - 3* bows that are basically free for everyone.
+
+## **Constellations**
+*Authored by Athena and NatC*
+
+![](/faq/yelan/c1.png)
+### **C1 - Enter the Plotters** 
+- *Lingering Lifeline gains 1 additional charge.*
+
+Adding an extra charge to Yelan’s skill is like giving her a free Sacrificial weapon passive. Yelan gains an enormous boost with managing her energy requirements, allowing you to put more stats into offense. This also eliminates the need to extend a rotation, as Yelan no longer needs to use her Skill every 10 seconds.
+
+
+*Rating: 3/5*
+
+
+![](/faq/yelan/c2.png)
+### **C2 - Taking All Comers** 
+- *When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.*
+
+With an extra synchronized attack on each other Burst proc, Yelan offers more Hydro application and another substantial increase in her damage Please note that this does not guarantee that she will be able to allow hutao/klee to vape 100% of the time by herself. Our current understanding of EGT is suggesting that it still is not enough but it is helpful for other teams.
+
+*Rating: 4/5*
+
+![](/faq/yelan/c3.png)
+### **C3 - Beware the Trickster's Dice** 
+- *Increases the Level of Depth-Clarion Dice by 3. Maximum upgrade level is 15.*
+
+Three talent levels added to Yelan’s Burst is uncontroversially a valuable benefit to her damage, as almost all of her damage comes from her Burst.
+
+*Rating : 3/5*
+
+![](/faq/yelan/c4.png)
+### **C4 - Bait-and-Switch** 
+- *Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.*
+
+C4 provides a rare buff in increasing the party’s Max HP. This is great on Yelan, and even better when paired with other HP scaling units like Hu Tao.
+
+*Rating: 2/5*
+
+
+![](/faq/yelan/c5.png)
+### **C5 - Dealer's Sleight** 
+- *Increases the Level of Lingering Lifeline by 3.Maximum upgrade level is 15.*
+
+Yelan’s skill is a negligible portion of her damage, so the three bonus talent levels aren’t very beneficial here.
+
+*Rating: 1/5*
+
+
+![](/faq/yelan/c6.png)
+### **C6 -  Winner Takes All** 
+- *After using Depth-Clarion Dice, Yelan will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG. The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.*
+
+Offers a playstyle where Yelan takes up more field time to do massive AoE damage. Can be useful to deal with flying type enemies or large mobs. The damage gain is hard to quantify as she will be displacing field time from your other DPS unit.
+
+*Rating 5/5*
