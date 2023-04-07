@@ -58,6 +58,72 @@ None of the elements provide a buff greater than 10% of each other, and controll
 
 Wanderer’s A4 allows *some* dashes to not consume this alternate flight stamina during the duration of his Skill; when this happens (based on RNG, increasing the odds with each failure like Royal weapons), a brief flurry of Anemo attacks will occur automatically, which can provide a valuable DPS boost. However, without testing, the fact dashes can still consume this alternate stamina and shorten the airborne state is often too large of a sacrifice to risk it, unless you *must* dash to avoid knockdown. **This, however, is subject to change with constellations and once actual testing can be done.**
 
+## Constellations
+*Authored by Raikh*
+
+![artifact](/faq/wanderer/c1.png)
+**C1 - Shoban: Ostentatious Plumage**
+Increases NA/CA ATK SPD by 10% and increases the total damage of A4 Procs from 140% ATK to 240% ATK.
+
+Allows Wanderer to fit 1-3 NAs more into a DPS Window. Increasing total DPS by 6-11%.
+Value can vary based on how much ATK SPD Wanderer already has.
+The increased A4 damage can further increase the value of this Constellation if Wanderer
+has to dodge frequently or can utilize A4 Dash Cancels for a DPS gain.
+
+*Individual Increase: 6-11%*
+*Total Increase from C0: 8.5%*
+
+![artifact](/faq/wanderer/c2.png)
+**C2 - Niban: Moonlit Isle Amidst White Waves**
+Grants Wanderer increased Q DMG% based on Kuugoryoku Points spent while in his Skill State, up to 200% after 50 points spent.
+
+Grants Wanderer a powerful nuke option but also forces him to use his Burst as a finisher at the end of his DPS window. Generally yields around 15% more total DPS, which isn’t impressive for a C2. The effective value of this Cons however can be higher due to the practical advantages of powerful nuking abilities.
+Only major stopping point for Wanderer Constellations prior to C6.
+
+*Individual Increase: 14-17%*
+*Total Increase from C0: 25%*
+
+![artifact](/faq/wanderer/c3.png)
+**C3 - Sanban: Moonflower Kusemai**
+Increases the Wanderer’s Elemental Burst Talent Level by 3.
+
+Further build upon the nuking power of his Burst after C2, but nothing to write home about in terms of value. Usually around 5% more DPS.
+
+*Individual Increase: 5%*
+*Total Increase from C0: 32%*
+
+![artifact](/faq/wanderer/c4.png)
+**C4: Yonban: Set Adrift Into Spring**
+Grants Wanderer an additional Elemental Absorption Buff he doesn't already have at random, when he is absorbing an Element with his Skill and increases the cap of Buffs to 3.
+Can provide 0%-15% more damage. The randomness makes these Buffs difficult to use consistently, as they may require you to adjust your Stats, are devalued in some Teams or require changes in your rotation.
+Hence a pessimistic evaluation at 0%.
+
+Generally: Cryo > Pyro > Electro/Hydro  
+
+*Individual Increase: 0% (up to 15% at the mercy of RNG)*
+*Total Increase from C0: 32%*
+
+![artifact](/faq/wanderer/c5.png)
+**C5 - Matsuban: Ancient Illuminator From Abroad**
+Increases the Wanderer’s Elemental Skill Talent Level by 3.
+
+The value of Skill Talent Levels on Wanderer is generally pretty awful, making this his arguably weakest Constellation at around 3% more total damage.
+
+*Individual Increase: 3%*
+*Total Increase from C0: 36%*
+
+![artifact](/faq/wanderer/c6.png)
+**C6 - Shugen: The Curtains’ Melancholic Sway**
+Causes the Wanderer to shoot a second Kuugo:Fushoudan (Skill State Normal Attack) whenever he uses a Normal Attack in his Skill State.
+This second attack deals 40% of the original Normal Attack and also counts as a Normal Attack.
+Additionally when Wanderer drops below 40 Kuugoryoku Points, his Normal Attacks will restore 4 such Points with a 0.2s CD, up to 5 times in total per Skill use.
+
+The additional Normal Attacks are the primary value of this Constellation, effectively increasing his Normal Attack dmg by a total 40% or about 25% more total damage. A notable synergy is being able to rapidly fire the added Bonus Damage Stacks granted by Yun Jin’s Elemental Burst.
+The additional Skill State duration is mostly QoL and isn’t used for the numerical evaluation of this Constellation.
+
+*Individual Increase: 25%*
+*Total Increase from C0: 70%*
+
 ## Combos
 *Authored by Emiliabyss*
 
@@ -304,68 +370,4 @@ Wanderer/Bennett/Xiangling/Xingqiu
 
 Dubbed as “National” by the community,  Bennett/Xiangling/Xingqiu is a powerful three man core with high internal synergy. They deal substantial DPS by themselves, so practically any fourth member can be slotted in. Wanderer can hold VV to debuff enemies while also taking advantage of Bennett’s ATK buff. Compared to the Sucrose variation, his personal damage will be higher, but he has significantly less utilities such as EM share and grouping. Wanderers regular field time demands also make funneling Xiangling more troublesome. Usable, but nothing special even among National variants.
 
-## Constellations
-*Authored by Raikh*
 
-![artifact](/faq/wanderer/c1.png)
-**C1 - Shoban: Ostentatious Plumage**
-Increases NA/CA ATK SPD by 10% and increases the total damage of A4 Procs from 140% ATK to 240% ATK.
-
-Allows Wanderer to fit 1-3 NAs more into a DPS Window. Increasing total DPS by 6-11%.
-Value can vary based on how much ATK SPD Wanderer already has.
-The increased A4 damage can further increase the value of this Constellation if Wanderer
-has to dodge frequently or can utilize A4 Dash Cancels for a DPS gain.
-
-*Individual Increase: 6-11%*
-*Total Increase from C0: 8.5%*
-
-![artifact](/faq/wanderer/c2.png)
-**C2 - Niban: Moonlit Isle Amidst White Waves**
-Grants Wanderer increased Q DMG% based on Kuugoryoku Points spent while in his Skill State, up to 200% after 50 points spent.
-
-Grants Wanderer a powerful nuke option but also forces him to use his Burst as a finisher at the end of his DPS window. Generally yields around 15% more total DPS, which isn’t impressive for a C2. The effective value of this Cons however can be higher due to the practical advantages of powerful nuking abilities.
-Only major stopping point for Wanderer Constellations prior to C6.
-
-*Individual Increase: 14-17%*
-*Total Increase from C0: 25%*
-
-![artifact](/faq/wanderer/c3.png)
-**C3 - Sanban: Moonflower Kusemai**
-Increases the Wanderer’s Elemental Burst Talent Level by 3.
-
-Further build upon the nuking power of his Burst after C2, but nothing to write home about in terms of value. Usually around 5% more DPS.
-
-*Individual Increase: 5%*
-*Total Increase from C0: 32%*
-
-![artifact](/faq/wanderer/c4.png)
-**C4: Yonban: Set Adrift Into Spring**
-Grants Wanderer an additional Elemental Absorption Buff he doesn't already have at random, when he is absorbing an Element with his Skill and increases the cap of Buffs to 3.
-Can provide 0%-15% more damage. The randomness makes these Buffs difficult to use consistently, as they may require you to adjust your Stats, are devalued in some Teams or require changes in your rotation.
-Hence a pessimistic evaluation at 0%.
-
-Generally: Cryo > Pyro > Electro/Hydro  
-
-*Individual Increase: 0% (up to 15% at the mercy of RNG)*
-*Total Increase from C0: 32%*
-
-![artifact](/faq/wanderer/c5.png)
-**C5 - Matsuban: Ancient Illuminator From Abroad**
-Increases the Wanderer’s Elemental Skill Talent Level by 3.
-
-The value of Skill Talent Levels on Wanderer is generally pretty awful, making this his arguably weakest Constellation at around 3% more total damage.
-
-*Individual Increase: 3%*
-*Total Increase from C0: 36%*
-
-![artifact](/faq/wanderer/c6.png)
-**C6 - Shugen: The Curtains’ Melancholic Sway**
-Causes the Wanderer to shoot a second Kuugo:Fushoudan (Skill State Normal Attack) whenever he uses a Normal Attack in his Skill State.
-This second attack deals 40% of the original Normal Attack and also counts as a Normal Attack.
-Additionally when Wanderer drops below 40 Kuugoryoku Points, his Normal Attacks will restore 4 such Points with a 0.2s CD, up to 5 times in total per Skill use.
-
-The additional Normal Attacks are the primary value of this Constellation, effectively increasing his Normal Attack dmg by a total 40% or about 25% more total damage. A notable synergy is being able to rapidly fire the added Bonus Damage Stacks granted by Yun Jin’s Elemental Burst.
-The additional Skill State duration is mostly QoL and isn’t used for the numerical evaluation of this Constellation.
-
-*Individual Increase: 25%*
-*Total Increase from C0: 70%*
