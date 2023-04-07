@@ -171,7 +171,7 @@ Yelan has enough raw firepower to replace Sara in Raiden Hypercarry comps. Raide
 ### **Taser Teams**
 Yelan/Electro/Anemo/Flex
 
-![](/faq/yelan/vape.png)
+![](/faq/yelan/taser.png)
 
 Since Yelan’s Burst procs with normal attacks, she is a strong candidate for EC teams (Sucrose/Fischl/Beidou/XQ). It must be noted that her taser teams can be more difficult compared to XQ because of the lack of healing/damage reduction.
 
