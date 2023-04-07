@@ -61,175 +61,6 @@ Her latter as ascension talent allows her Burst to apply a cumulative DMG% buff 
 
 Finally, her overworld talent brings you more materials when she's sent on expedition, encouraging you to send Yelan and Shenhe on regular dates together throughout Liyue.
 
-## **Combos**
-*Authored by Emiliabyss*
-
-Yelan’s on-field inputs are extremely straightforward. You’re basically dealing with one of three possible combos.
-
-- > E, Q (Skill, Burst)
-
-E and Q can be swapped to [Q, E] in any rotation, depending on needs.
-
-E during Q procs synchronized Burst attacks.
-
-- > B, E, Q (Breakthrough Barb Charged Shot, Skill, Burst)
-
-This is usually on first rotation only, but it’s debatable whether the damage given by Breakthrough is worth the time it takes to perform it.
-
-- > Q N1 E N1 . . . N1 E N1
-
-You use this combo in 23s rotations when using E every 10s. Auto’s are for Burst procs.
-
-The majority of the time, you’re simply using her Skill and Burst in some order and then swapping off for someone to take advantage of her late ascension buff.
-
-### Why 23s Rotations?
-Sometimes, Yelan will want to use her E twice per rotation in order to get away with building less Energy Recharge. The less Energy Recharge she has to build, the more she can invest into offensive stats. When Yelan is freely able to invest in offensive stats, such as with Xingqiu wielding a Sacrificial Sword, she deals more than double Sac-Sword-Xingqiu’s damage.
-
-23s is an estimate, but 22s is also a safe assumption. It takes about half of a second to use Yelan’s skill, and you’d have to recast E right after cooldown to keep the rotation down. Two E casts takes 21 seconds, but we also have to factor in human error. Knowing when her cooldown ends is essential to maximizing DPS in these rotations.
-
-There is, of course, a catch to opting into 23s rotations: since Yelan’s Burst lasts for 15 seconds and her Skill cooldown is 10 seconds. This means Yelan needs to return to the field while her Burst is active, which is why in some rotations, weaving N1’s into her moves can keep her Burst procs coming. 23s rotations are an option, not a requirement. As always, it depends on your team composition and gear.
-
-## **ER REQUIREMENT**
-*Authored by Emiliabyss; edited by KB*
-On average, you’ll need about 225% Energy Recharge, which makes it no surprise that the 4pc Emblem of Severed Fate is head-and-shoulders above the rest of the competition.The other options will shift places depending on how much Energy Recharge Yelan needs for that team. We strongly advise the use of an Energy Recharge calculator to plan. Below are some general benchmarks to expect.
-
-Solo Hydro w/ Favonius Warbow – ~225% ER
-
-Solo Hydro w/ Favonius Warbow + Raiden – 160% ER
-
-Yelan with XQ batterying and no Favonius Warbow – 130% ER
-
-In the mastersheet associated with this FAQ I (Emiliabyss) composed a ranking of the best batteries for Yelan. In order from best to worst, they are:
-
-1. Xingqiu (off-field DPS)
-2. Raiden Shogun (on-field DPS)
-3. Kokomi (on/off-field Healer)
-4. Fischl (off-field DPS)
-5. Ayato (on-field DPS)
-Honorable mentions: Traveler + Characters who can E twice and hold a favonius weapon
-
-While Xingqiu may feel redundant, he synergizes well with Yelan; they, together provide plenty of hydro for a Pyro DPS to exploit, Xingqiu’s constellations buff Yelan’s damage, and Xingqiu minimizes her energy requirements by a wide margin ahead of every other character in the game. Swirling Hydro can make their combination especially strong.
-
-The Raiden Shogun is a potent on-field carry who can take advantage of Yelan’s late ascension cumulative buff while applying consistent Electro-Charged. Her flat energy refund for her team is a huge boon to Yelan, and Raiden also buffs her teams’ Elemental Bursts.
-
-Kokomi is a great healer to pair Yelan with, though Yelan cannot benefit from the many buffs she offers, such as 4pc Tenacity of the Millelith and Thrilling Tales of Dragon Slayers. So long as you never switch from Kokomi into Yelan (as opposed to the other way around), you can avoid misplacing a crucial ATK buff on the wrong DPS. It’s recommended to refresh Kokomi’s Jellyfish with her Burst when possible, in order to maximize energy efficiency.
-
-Fischl is an all-around great battery for basically anyone to use, and has been since her release. Nothing surprising about her being on the list.
-
-Ayato, even when taking the particles from his skill for himself, manages to reduce Yelan’s energy requirements by a decent amount, making him the second viable on-field DPS for Yelan.
-
-Finally, characters that can E multiple times in a rotation while efficiently wielding a Favonius weapon will help smooth out rotations when you need just a little extra boost.
-
-## **ARTIFACTS**
-*Authored by Emiliabyss*
-
-
-*Sands of Eon:* HP% / ER%
-When using an ER% weapon like Favonius Warbow, an HP% Sands is advised. When using her signature weapon and other non-ER weapons, she’ll need an ER% Sands.
-
-*Goblet of Eonothem:* Hydro DMG% > HP
-Hydro% beats HP% by about 7% damage, though depending on your team’s buffs on Yelan, there are niche cases where an HP% Goblet is competitive or better.
-
-*Circlet of Logos:* CRIT Rate or CRIT DMG > HP%
-
-Crit Rate% or Crit Damage%, as usual. Alternatively, HP% is typically within 1-2% of a Crit circlet, unless you are running a double Hydro team with Yelan’s signature weapon; then Crit circlet wins by about 9%.
-
-For *substats*, prioritize meeting your ER% requirements first, then Crit%/HP%. Unlike typical characters, the gap between Crit stats and HP% for Yelan is quite small so prioritize substats quantity over the type of substats (Crit vs HP%). When in doubt, use the calculator in the master sheet.
-
-
-![](/faq/yelan/4eosf.png)
-**4PC Emblem of Severed Fate:** 
-
-Yelan's best artifact set if her energy requirements are above 130%.
-
-![](/faq/yelan/2mix.png)
-**2PC/2PC Combination Ranking:** 
-Any 2-piece combinations of these sets can be decent options for Yelan’s personal damage, provided they have relevant substats.
-
-## **Team Building**
-*A  uthored by KB/Emiliabyss; edited by Emiliabyss*
-
-
-### **Hutao Teams**
-Dehya/Cyro/Bennett/Flex
-
-Hutao/Yelan/Xingqiu/Zhongli or Kazuha
-
-
-![](/faq/yelan/hutao.png)
-
-Yelan’s hydro application is not as strong as Xingqiu for Hu Tao teams. This is because Yelan does not have orbital swords to assist in Hydro application when Hutao uses her CA on enemies. This would mean that in order to play Yelan with Hutao, you must also run Xingqiu to help maintain the hydro aura. This also allows them to do significantly more damage since Yelan and Xingqiu’s energy requirements are drastically reduced when used together. With our current understanding of how C2 functions, C2 should theoretically help reset the gauge to hydro sometimes, BUT it is not 100% consistent and Hu Tao can still overtake the hydro gauge depending on animation cancel speed, blood blossom ticks, and other various reactions that can deplete the hydro gauge.
-
-### **Raiden Teams**
-
-Yelan/Raiden/Anemo and-or Bennett/Flex
-
-![](/faq/yelan/raiden.png)
-
-Yelan has enough raw firepower to replace Sara in Raiden Hypercarry comps. Raiden serves as a potent battery for Yelan while also being a powerful on-field DPS. Raiden and Yelan also share a support in the form of a Viridescent Venerer holder like Kazuha. While Hypercarry Raiden uses Bennett and Yelan does not benefit from Bennett, this issue is negligible when considering the raw numbers for team damage, easily enough to clear Spiral Abyss.
-
-### **Taser Teams**
-Yelan/Electro/Anemo/Flex
-
-![](/faq/yelan/taser.png)
-
-Since Yelan’s Burst procs with normal attacks, she is a strong candidate for EC teams (Sucrose/Fischl/Beidou/XQ). It must be noted that her taser teams can be more difficult compared to XQ because of the lack of healing/damage reduction.
-
-### **Freeze Teams**
-Yelan/Cryo/Anemo/Flex
-
-![](/faq/yelan/freeze.png)
-
-Although Yelan can apply a good amount of hydro for Freeze teams, she faces tough competition for the hydro slot. Although Yelan is not the optimal pick for Freeze teams she is still quite good for Ayaka in particular if you do not have access to Mona or Kokomi. Keep in mind that Yelan’s Breakthrough Barb is an option for applying AoE Hydro to maintain Freeze against multiple opponents.
-
-## **Aqua Simulacra or C1?**
-*Authored by KB; edited by Emiliabyss*
-
-Typically, C1 Yelan is advised if you are planning on using her as the sole hydro unit on the team. This is because her energy requirements are so high that Favonius Warbow is often a better option than Aqua for DPS.. The damage that you would gain from having lower energy requirements with C1 is significant. Another important detail is having C1 allows her to actually use non-ER% bows without suffering heavy drawbacks. Keep in mind that in rotations where she is using her skill every 10 or so seconds, the value of C1 drops dramatically.
-
-The lower Yelan’s energy requirements are in a team the better Aqua Simulacra becomes. It should be noted that Aqua also performs very well on other DPS characters. With one notable example being that it is even or slightly stronger (2%) than amos bow for Ganyu.
-
-## **Weapons**
-*Authored by Emiliabyss*
-
-In general, Yelan needs around 225% ER for 1 Skill used per Burst. With a second Hydro Unit in the team, it reduces down to around 200%. In quickswap team where Yelan can use up to 2 Skills per rotation, it further lowers Yelan's ER requirements by 40-60%
-
-Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward and accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her limited 5-star signature weapon.
-
-At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
-
-
-![](/faq/yelan/aqua.png)
-
-**Aqua Simulacra [HP% or ER% Sands]** -
-Yelan's signature weapon, +15-20% DMG increase from competition.
-
-![](/faq/yelan/sacbow.png)
-
-**Sacrificial Bow R3+ [HP% Sands]** -
-C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you previously use only use 1 Skill per rotation without Sacrificial Bow passive.
-
-![](/faq/yelan/favbow.png)
-
-**Favonius Warbow [HP% Sands]**-
-Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
-
-![](/faq/yelan/elegy.png)
-
-**Elegy for the End [HP% Sands]** - Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
-
-![](/faq/yelan/critbows.png)
-
-**CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% or ER% Sands]** - CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
-
-![](/faq/yelan/dmgbows.png)
-
-**Mourn’s Moon R5 / Stringless R5 / Fading Twilight R5 [HP% or ER% Sands]** - Both of the bows give lots of DMG%. You will generally want a HP% Goblet due to diminishing returns.
-
-![](/faq/yelan/3stars.png)
-
-**Recurve Bow R5 / Slingshot R5 [HP% or ER% Sands]** - 3* bows that are basically free for everyone.
-
 ## **Constellations**
 *Authored by Athena and NatC*
 
@@ -284,3 +115,180 @@ Yelan’s skill is a negligible portion of her damage, so the three bonus talent
 Offers a playstyle where Yelan takes up more field time to do massive AoE damage. Can be useful to deal with flying type enemies or large mobs. The damage gain is hard to quantify as she will be displacing field time from your other DPS unit.
 
 *Rating 5/5*
+
+
+## **Combos**
+*Authored by Emiliabyss*
+
+Yelan’s on-field inputs are extremely straightforward. You’re basically dealing with one of three possible combos.
+
+- > E, Q (Skill, Burst)
+
+E and Q can be swapped to [Q, E] in any rotation, depending on needs.
+
+E during Q procs synchronized Burst attacks.
+
+- > B, E, Q (Breakthrough Barb Charged Shot, Skill, Burst)
+
+This is usually on first rotation only, but it’s debatable whether the damage given by Breakthrough is worth the time it takes to perform it.
+
+- > Q N1 E N1 . . . N1 E N1
+
+You use this combo in 23s rotations when using E every 10s. Auto’s are for Burst procs.
+
+The majority of the time, you’re simply using her Skill and Burst in some order and then swapping off for someone to take advantage of her late ascension buff.
+
+### Why 23s Rotations?
+Sometimes, Yelan will want to use her E twice per rotation in order to get away with building less Energy Recharge. The less Energy Recharge she has to build, the more she can invest into offensive stats. When Yelan is freely able to invest in offensive stats, such as with Xingqiu wielding a Sacrificial Sword, she deals more than double Sac-Sword-Xingqiu’s damage.
+
+23s is an estimate, but 22s is also a safe assumption. It takes about half of a second to use Yelan’s skill, and you’d have to recast E right after cooldown to keep the rotation down. Two E casts takes 21 seconds, but we also have to factor in human error. Knowing when her cooldown ends is essential to maximizing DPS in these rotations.
+
+There is, of course, a catch to opting into 23s rotations: since Yelan’s Burst lasts for 15 seconds and her Skill cooldown is 10 seconds. This means Yelan needs to return to the field while her Burst is active, which is why in some rotations, weaving N1’s into her moves can keep her Burst procs coming. 23s rotations are an option, not a requirement. As always, it depends on your team composition and gear.
+
+
+
+## **ER Requirements**
+*Authored by Emiliabyss; edited by KB*
+On average, you’ll need about 225% Energy Recharge, which makes it no surprise that the 4pc Emblem of Severed Fate is head-and-shoulders above the rest of the competition.The other options will shift places depending on how much Energy Recharge Yelan needs for that team. We strongly advise the use of an Energy Recharge calculator to plan. Below are some general benchmarks to expect.
+
+Solo Hydro w/ Favonius Warbow – ~225% ER
+
+Solo Hydro w/ Favonius Warbow + Raiden – 160% ER
+
+Yelan with XQ batterying and no Favonius Warbow – 130% ER
+
+In the mastersheet associated with this FAQ I (Emiliabyss) composed a ranking of the best batteries for Yelan. In order from best to worst, they are:
+
+1. Xingqiu (off-field DPS)
+2. Raiden Shogun (on-field DPS)
+3. Kokomi (on/off-field Healer)
+4. Fischl (off-field DPS)
+5. Ayato (on-field DPS)
+Honorable mentions: Traveler + Characters who can E twice and hold a favonius weapon
+
+While Xingqiu may feel redundant, he synergizes well with Yelan; they, together provide plenty of hydro for a Pyro DPS to exploit, Xingqiu’s constellations buff Yelan’s damage, and Xingqiu minimizes her energy requirements by a wide margin ahead of every other character in the game. Swirling Hydro can make their combination especially strong.
+
+The Raiden Shogun is a potent on-field carry who can take advantage of Yelan’s late ascension cumulative buff while applying consistent Electro-Charged. Her flat energy refund for her team is a huge boon to Yelan, and Raiden also buffs her teams’ Elemental Bursts.
+
+Kokomi is a great healer to pair Yelan with, though Yelan cannot benefit from the many buffs she offers, such as 4pc Tenacity of the Millelith and Thrilling Tales of Dragon Slayers. So long as you never switch from Kokomi into Yelan (as opposed to the other way around), you can avoid misplacing a crucial ATK buff on the wrong DPS. It’s recommended to refresh Kokomi’s Jellyfish with her Burst when possible, in order to maximize energy efficiency.
+
+Fischl is an all-around great battery for basically anyone to use, and has been since her release. Nothing surprising about her being on the list.
+
+Ayato, even when taking the particles from his skill for himself, manages to reduce Yelan’s energy requirements by a decent amount, making him the second viable on-field DPS for Yelan.
+
+Finally, characters that can E multiple times in a rotation while efficiently wielding a Favonius weapon will help smooth out rotations when you need just a little extra boost.
+
+
+
+## **Artifacts**
+*Authored by Emiliabyss*
+
+
+*Sands of Eon:* HP% / ER%
+When using an ER% weapon like Favonius Warbow, an HP% Sands is advised. When using her signature weapon and other non-ER weapons, she’ll need an ER% Sands.
+
+*Goblet of Eonothem:* Hydro DMG% > HP
+Hydro% beats HP% by about 7% damage, though depending on your team’s buffs on Yelan, there are niche cases where an HP% Goblet is competitive or better.
+
+*Circlet of Logos:* CRIT Rate or CRIT DMG > HP%
+
+Crit Rate% or Crit Damage%, as usual. Alternatively, HP% is typically within 1-2% of a Crit circlet, unless you are running a double Hydro team with Yelan’s signature weapon; then Crit circlet wins by about 9%.
+
+For *substats*, prioritize meeting your ER% requirements first, then Crit%/HP%. Unlike typical characters, the gap between Crit stats and HP% for Yelan is quite small so prioritize substats quantity over the type of substats (Crit vs HP%). When in doubt, use the calculator in the master sheet.
+
+
+![](/faq/yelan/4eosf.png)
+**4PC Emblem of Severed Fate:** 
+
+Yelan's best artifact set if her energy requirements are above 130%.
+
+![](/faq/yelan/2mix.png)
+**2PC/2PC Combination Ranking:** 
+Any 2-piece combinations of these sets can be decent options for Yelan’s personal damage, provided they have relevant substats.
+
+## **Weapons**
+*Authored by Emiliabyss*
+
+In general, Yelan needs around 225% ER for 1 Skill used per Burst. With a second Hydro Unit in the team, it reduces down to around 200%. In quickswap team where Yelan can use up to 2 Skills per rotation, it further lowers Yelan's ER requirements by 40-60%
+
+Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward and accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her limited 5-star signature weapon.
+
+At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
+
+
+![](/faq/yelan/aqua.png)
+
+**Aqua Simulacra [HP% or ER% Sands]** -
+Yelan's signature weapon, +15-20% DMG increase from competition.
+
+![](/faq/yelan/sacbow.png)
+
+**Sacrificial Bow R3+ [HP% Sands]** -
+C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you previously use only use 1 Skill per rotation without Sacrificial Bow passive.
+
+![](/faq/yelan/favbow.png)
+
+**Favonius Warbow [HP% Sands]**-
+Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
+
+![](/faq/yelan/elegy.png)
+
+**Elegy for the End [HP% Sands]** - Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
+
+![](/faq/yelan/critbows.png)
+
+**CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% or ER% Sands]** - CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
+
+![](/faq/yelan/dmgbows.png)
+
+**Mourn’s Moon R5 / Stringless R5 / Fading Twilight R5 [HP% or ER% Sands]** - Both of the bows give lots of DMG%. You will generally want a HP% Goblet due to diminishing returns.
+
+![](/faq/yelan/3stars.png)
+
+**Recurve Bow R5 / Slingshot R5 [HP% or ER% Sands]** - 3* bows that are basically free for everyone.
+
+
+## **Team Building**
+*A  uthored by KB/Emiliabyss; edited by Emiliabyss*
+
+
+### **Hutao Teams**
+Dehya/Cyro/Bennett/Flex
+
+Hutao/Yelan/Xingqiu/Zhongli or Kazuha
+
+
+![](/faq/yelan/hutao.png)
+
+Yelan’s hydro application is not as strong as Xingqiu for Hu Tao teams. This is because Yelan does not have orbital swords to assist in Hydro application when Hutao uses her CA on enemies. This would mean that in order to play Yelan with Hutao, you must also run Xingqiu to help maintain the hydro aura. This also allows them to do significantly more damage since Yelan and Xingqiu’s energy requirements are drastically reduced when used together. With our current understanding of how C2 functions, C2 should theoretically help reset the gauge to hydro sometimes, BUT it is not 100% consistent and Hu Tao can still overtake the hydro gauge depending on animation cancel speed, blood blossom ticks, and other various reactions that can deplete the hydro gauge.
+
+### **Raiden Teams**
+
+Yelan/Raiden/Anemo and-or Bennett/Flex
+
+![](/faq/yelan/raiden.png)
+
+Yelan has enough raw firepower to replace Sara in Raiden Hypercarry comps. Raiden serves as a potent battery for Yelan while also being a powerful on-field DPS. Raiden and Yelan also share a support in the form of a Viridescent Venerer holder like Kazuha. While Hypercarry Raiden uses Bennett and Yelan does not benefit from Bennett, this issue is negligible when considering the raw numbers for team damage, easily enough to clear Spiral Abyss.
+
+### **Taser Teams**
+Yelan/Electro/Anemo/Flex
+
+![](/faq/yelan/taser.png)
+
+Since Yelan’s Burst procs with normal attacks, she is a strong candidate for EC teams (Sucrose/Fischl/Beidou/XQ). It must be noted that her taser teams can be more difficult compared to XQ because of the lack of healing/damage reduction.
+
+### **Freeze Teams**
+Yelan/Cryo/Anemo/Flex
+
+![](/faq/yelan/freeze.png)
+
+Although Yelan can apply a good amount of hydro for Freeze teams, she faces tough competition for the hydro slot. Although Yelan is not the optimal pick for Freeze teams she is still quite good for Ayaka in particular if you do not have access to Mona or Kokomi. Keep in mind that Yelan’s Breakthrough Barb is an option for applying AoE Hydro to maintain Freeze against multiple opponents.
+
+## **Aqua Simulacra or C1?**
+*Authored by KB; edited by Emiliabyss*
+
+Typically, C1 Yelan is advised if you are planning on using her as the sole hydro unit on the team. This is because her energy requirements are so high that Favonius Warbow is often a better option than Aqua for DPS.. The damage that you would gain from having lower energy requirements with C1 is significant. Another important detail is having C1 allows her to actually use non-ER% bows without suffering heavy drawbacks. Keep in mind that in rotations where she is using her skill every 10 or so seconds, the value of C1 drops dramatically.
+
+The lower Yelan’s energy requirements are in a team the better Aqua Simulacra becomes. It should be noted that Aqua also performs very well on other DPS characters. With one notable example being that it is even or slightly stronger (2%) than amos bow for Ganyu.
+
+
