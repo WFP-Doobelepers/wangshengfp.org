@@ -12,17 +12,17 @@
     "lintfix": "npm run lint:js -- --fix"
   },
   "dependencies": {
-    "@nuxt/content": "^1.15.1",
+    "@nuxt/content": "^2.5.2",
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.19.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.3.3",
     "nuxt-lazy-load": "^1.2.9",
     "v-viewer": "^1.6.4",
     "vue": "^2.6.14",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
     "vueperslides": "^2.15.2",
-    "webpack": "^4.46.0"
+    "webpack": "^5.78.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",

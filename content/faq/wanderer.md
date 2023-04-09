@@ -151,6 +151,8 @@ Even further, Wanderer’s A4 has a visual indicator for when you can dash witho
 ## Artifacts
 *Authored by EduLis*
 
+### Stats
+
 ***Sands of Eon:*** ATK%
 
 ***Goblet of Eonothem:*** Anemo DMG Bonus
@@ -159,6 +161,7 @@ Even further, Wanderer’s A4 has a visual indicator for when you can dash witho
 
 *Substats:* CR%=CDMG% > ATK% > ATK
 
+### Artifact Sets
 ![artifact](/faq/wanderer/dpc.png)
 
 __*4PC Desert Pavilion Chronicle*__
@@ -254,11 +257,21 @@ Wanderer is an ATK and CRIT based Anemo DPS, and is therefore not reliant on rea
 ### Buffers
 More often than not, Wanderer will be dealing the majority of his team’s damage. It is never a bad idea to buff his personal damage, especially if your Wanderer is highly invested. 
 
-**Faruzan**: Faruzan is a new 4 star Anemo unit launching with Wanderer in 3.3, commonly dubbed as Wanderer’s dedicated support. Her kit revolves around buffing Anemo damage: she provides Anemo DMG% bonus, shreds Anemo resistance, CRIT DMG% at C6, and can group enemies. Anemo buffs and debuffs are extremely rare in the game, making Faruzan all the more valuable.  Needless to say, Faruzan is an integral part of Wanderer’s teams where his personal damage is the focal point. Additionally, if played with other off-field damage dealers, she can hold the 4 Viridescent Venerer (VV) set to debuff enemy and boost damage.  
+<img align = "right" src = "assets/avatar_icon/Faruzan.png">
 
+**Faruzan**: Faruzan is a new 4 star Anemo unit launching with Wanderer in 3.3, commonly dubbed as Wanderer’s dedicated support. Her kit revolves around buffing Anemo damage: she provides Anemo DMG% bonus, shreds Anemo resistance, CRIT DMG% at C6, and can group enemies. Anemo buffs and debuffs are extremely rare in the game, making Faruzan all the more valuable.  Needless to say, Faruzan is an integral part of Wanderer’s teams where his personal damage is the focal point. Additionally, if played with other off-field damage dealers, she can hold the 4 Viridescent Venerer (VV) set to debuff enemy and boost damage.  
+<br>
+<img align = "right" src = "assets/avatar_icon/Bennett.png">
 **Bennett**: Gives a massive ATK buff second to none, on top of 20% ATK from Noblesse Oblige, 30% through Wanderer’s A1, and another 25% if played with Pyro resonance. Also doubles as a defensive option by healing the team. Unquestionably a powerful support for not only Wanderer, but possibly his teammates if they benefit from his ATK buff.  
 
+<br>
+
+<img align = "right" src = "assets/avatar_icon/Yun Jin.png">
 **Yun Jin**: As Wanderer’s damage mostly comes from his Normal Attacks, Yun Jin is naturally one of the first picks that come to mind. Her burst grants a flat DMG buff to all Normal Attacks for up to 30 stacks. At C2 and C6 respectively, she additionally provides 15% DMG to Normal Attacks and 12% ATK Speed. Wanderer’s N3 is multi-hit and his kit lends itself towards ATK speed, meaning Yun Jin’s stacks will be consumed faster–in other words, Wanderer gets even more mileage off Yun Jin. Unfortunately, she is not as strong in AoE situations. 
+
+<br>
+
+<img align = "right" src = "assets/avatar_icon/Mona.png">
 
 **Mona**: With Thrilling Tales of Dragon Slayers and her Omen debuff, Mona grants a 48% ATK, around 50% DMG bonus, and Hydro absorption for Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will fall behind other buffers. 
 
@@ -267,40 +280,74 @@ Another way to increase team DPS aside from buffing Wanderer’s personal damage
 
 It should be noted that many units under this category rely on their burst to dish out damage and will likely have high ER needs. To offset this, players can run a second unit of the same element to reduce ER needs or trade offensive stats for more ER. In the former case, Wanderer cannot absorb a secondary element through his A1 and thus loses a buff. In the latter scenario, the off-field DPS will of course lose significant damage and their place in the team becomes harder to justify. Alternatively, if the team consists of Bennett, the loss in damage can be mitigated. 
 
+<img align = "right" src = "assets\avatar_icon\Yelan.png">
+
 **Yelan**: Has strong single target damage potential and can also buff Wanderer through her A4 passive which increases DMG% over time. On the downside, her ER requirements are quite high if played as solo hydro, significantly reducing her damage. Playing her with a secondary Hydro can alleviate this issue. 
+
+<img align = "right" src = "assets\avatar_icon\Xingqiu.png">
 
 **Xingqiu**: Like Yelan, he has strong single target damage but high ER needs. He provides defensive utilities such as minor healing and interruption resistance. 
 
+<img align = "right" src = "assets\avatar_icon\Xiangling.png">
+
 **Xiangling**: Even while Wanderer is in midair, Xiangling’s Pyronado can still hit enemies on the ground. She has strong AoE Pyro damage at the cost of high ER requirements. Recommended to play only with Bennett and potentially Favonius weapons. 
+
+<img align = "right" src = "assets\avatar_icon\Fischl.png">
 
 **Fischl**: Has strong off-field single target damage while being relatively low maintenance. Wanderer is not a bad driver for her and can trigger multiple instances of her A4 and C6, further increasing damage. 
 
+<img align = "right" src = "assets\avatar_icon\Beidou.png">
+
 **Beidou**: Specializes in AoE off-field damage. She offers interruption resistance via her burst as well as a small shield at C2, which Wanderer appreciates. However, she is greedy for energy and wants to be paired with Fischl to battery her. 
+
+<img align = "right" src = "assets\avatar_icon\Yae Miko.png">
 
 **Yae Miko**: Yae’s damage is split between her Elemental Skill and Elemental Burst. She does not need her burst to deal damage, but it is a significant portion of her DPS. Contratrily, her burst costs 90 energy, making it difficult to burst every rotation, and even if you can, it leads to rotation extension.  
 
+<img align = "right" src = "assets\avatar_icon\Ganyu.png">
+
 **Ganyu**: Her burst can deal a fair amount of damage. With Faruzan’s grouping, she can take advantage of her burst’s targeting mechanics to deal even higher damage in AoE situations.
+
+<img align = "right" src = "assets\avatar_icon\Rosaria.png">
 
 **Rosaria**: Has solid damage output, especially with constellations. Also provides a partywide CRIT Rate buff with her passive.  
 
+<img align = "right" src = "assets\avatar_icon\Kaeya.png">
+
 **Kaeya**: Kaeya’s burst follows Wanderer while he is midair, making it impossible to hit most enemies. Not recommended.
 
+<img align = "right" src = "assets\avatar_icon\Ayaka.png">
+
 **Ayaka**: Most of Ayaka’s damage comes from her burst which is entirely off-field, allowing Wanderer to take the field. Not only does she have high multipliers, but also high energy cost! It is not recommended to play solo Cryo with Ayaka, and even if paired with another Cryo unit, she will struggle with energy. It can also be challenging to play her without Freeze, even with Faruzan’s grouping.
- 
+
+ <img align = "right" src = "static\faq\wanderer\kazuventi.png">
+
 **Venti & Kazuha**: Many people play Venti and Kazuha as supports, and in doing so also forget that they have high talent multipliers. Because Wanderer wants to run Faruzan and Bennett, this means Venti or Kazuha will also benefit from their buffs, producing noticeable damage. In teams with Wanderer, they will function closer to a subdps than a support. 
 
 ### Defensive Options
 Wanderer prefers having a shielder support over a healer, if possible. This is because Wanderer has low interruption resistance even during his Windfavored state. He can get staggered midair, which is a DPS loss, but dodging without his A4 ready also depletes his secondary stamina bar and reduces his DPS uptime.  
 
+<img align = "right" src = "assets\avatar_icon\Layla.png">
+
 **Layla**: Has a strong shield and allows Wanderer to gain 20% CRIT Rate through his A1. She is also a reliable Tenacity of the Millelith holder, and can buff Wanderer’s Normal and Charged Attacks at C4.
+
+<img align = "right" src = "assets\avatar_icon\Diona.png">
 
 **Diona**: Similar to Layla, but has a weaker shield and cannot hold Tenacity of the Millelith. On the contrary, she can heal.   
 
+<img align = "right" src = "assets\avatar_icon\Zhongli.png">
+
 **Zhongli**: His shield is the strongest in the game while also providing a 20% universal resistance shred as well as 20% ATK from Tenacity of the Millelith. While not the best option, he is a good comfort pick with some buffs and debuffs in his kit. 
+
+<img align = "right" src = "assets\avatar_icon\Thoma.png">
 
 **Thoma**: Unlike the above shielders, Thoma relies on his burst to maintain uptime on his shield, which to some players may be a turnoff. Though his ER needs are demanding, his shield is reliable. He can provide a 30% ATK buff through Wanderer’s A1 passive and potentially complete Pyro resonance for 25% ATK. His C6 also confers 15% DMG to Normal and Charged attacks. 
 
+<img align = "right" src = "assets\avatar_icon\Jean.png">
+
 **Jean**: A decent healing option. With Faruzan’s buffs and lowered ER requirements, she can build into damage, although note she is not particularly impressive at C0. If Bennett is on the team, her damage can become significant via his ATK buff and her Sunfire tech. At C2, she provides a 15% ATK Speed buff, and shreds Anemo resistance by 40% at C4, boosting Wanderer’s damage by a significant margin. 
+
+<img align = "right" src = "assets\avatar_icon\Kokomi.png">
 
 **Kokomi**: Heals while holding Thrilling Tales of Dragon Slayers and Tenacity of the Millelith for a total of a 68% ATK buff, and also gives Hydro absorption for Wanderer’s A1. 
 
@@ -310,66 +357,102 @@ No. Most of Wanderer’s damage output comes from his Normal Attacks. While his 
 ### Teams
 
 **Hyper Wanderer** 
-Wanderer/Faruzan//Bennett/Flex
+
+Wanderer / Faruzan / Bennett /Flex
 
 To no one’s surprise, pairing Wanderer with his best buffers skyrockets his personal damage, becoming the default hypercarry core for him. This configuration is particularly effective because the buffs each unit offers is unique and undiluted. Faruzan provides DMG% bonus, Anemo shred, and a CRIT DMG buff at C6, while Bennett supplies Wanderer with a ridiculous ATK buff. 
 
 Many characters can fit within the fourth team slot. Yun Jin’s Burst, for example grants additional flat damage to all Normal Attacks, *and* it scales with Faruzan’s buffs and debuffs. At C6, she will also give 12% ATK speed, another stat Wanderer greatly appreciates. Overall a potent team that scales well the more invested Wanderer is.
 
+<img src = "static\faq\wanderer\hyper.png">
+
 **Double Hydro** 
-Wanderer/VV Faruzan/Yelan/Xingqiu
+
+Wanderer / VV Faruzan / Yelan / Xingqiu
 
 Pairs a strong Anemo duo with another Hydro duo. Yelan and Xingqiu are both off-field damage dealers who become even more powerful when slotted together, as they mitigate each other’s weaknesses. Provided they have an on-field DPS who can drive them, they can practically be put in any team. Wanderer enjoys Yelan’s ramping DMG% buff and Xingqiu’s defensive utilities on top of their high single target damage. Faruzan carries a VV set to lower Hydro resistance, and can use Favonius Warbow to reduce energy requirements. 
 
+<img src = "static\faq\wanderer\double_hydro.png">
+
 **Double Cryo**
-Wanderer/VV Faruzan/Cryo/Cryo
+
+Wanderer / VV Faruzan / Cryo / Cryo
+
 Cryo Units: Rosaria, Layla, Diona, Ayaka, Ganyu, Shenhe
  
 A double Cryo core grants Wanderer 20% CRIT Rate through his A1 passive as well as another 15% via Cryo resonance. He can run two offensive Cryo units such as Ganyu, Rosaria, and Ayaka, but can also run an offensive option plus a defensive option.  
 
+<img src = "static\faq\wanderer\double_cryo.png">
+
 **Triple Anemo**
-Wanderer/Faruzan/Anemo/Bennett or flex
+
+Wanderer / Faruzan / Anemo / Bennett or flex
+
 Anemo: Venti, Kazuha, Jean
 
 Wanderer is not the only character who can benefit from Faruzan’s and Bennett’s buffs. Adding a third Anemo unit who can take advantage of their buffs is certainly a viable option. Unfortunately, many Anemo supports don’t provide utilities relevant to Wanderer, so they only function as a subdps. For example, Venti’s grouping is redundant since Faruzan already has some, and Kazuha’s A4 DMG bonus is straight-up useless for Wanderer. 
 
+<img src = "static\faq\wanderer\triple_anemo.png">
+
 **Sunfire**
-Wanderer/Faruzan/Jean/Bennett
+
+Wanderer / Faruzan / Jean / Bennett
+
 A variant of triple Anemo that uses Jean as the third Anemo unit combined with Bennett to trigger her Sunfire tech and deal more off-field damage. Jean has lower ER requirements than she normally would, while also benefiting from Faruzan and Bennett’s buffing. Aside from that, this team does not particularly stand out until Jean gains constellations, most noticeably at C2 and C4.  
 
+<img src = "static\faq\wanderer\sunfire.png">
+
 **Double Geo** 
-Wanderer/Faruzan/Yun Jin/Zhongli
+
+Wanderer / Faruzan / Yun Jin / Zhongli
 
 This team composition leans towards comfort and consistency in exchange for lower damage potential. Wanderer loses two potential A1 buffs, although it is slightly offset with Geo resonance. Nonetheless, he will still have decent baseline damage due to Faruzan and Yun Jin supporting him along with minor buffs from Zhongli. 
 
+<img src = "static\faq\wanderer\double_geo.png">
+
 **Double Pyro**
-Wanderer/VV Faruzan/Bennett/Xiangling
+
+Wanderer / VV Faruzan / Bennett / Xiangling
+
 One way to gain extra value from Bennett is using him to buff multiple units. Xiangling deals significant off-field AoE damage, can snapshot buffs, benefits from Faruzan’s VV debuff, and completes Pyro resonance for an extra 25% ATK. On the contrary, she has monstrous ER needs even with Bennett to battery her. If you cannot manage the team’s energy economy, her damage will plummet. 
  
 Thoma can also be traded in for Xiangling. While his damage is not as impressive, he brings a shield for Wanderer. 
 
+<img src = "static\faq\wanderer\double_pyro.png">
+
 **Double Electro**
-Wanderer/VV Faruzan/Fischl/Electro
+
+Wanderer / VV Faruzan / Fischl / Electro
+
 Electro options: Yae, Beidou, Kuki
 
 Fischl, Yae, and Beidou are off-field Electro characters who are capable of dishing out serious damage. With Electro resonance, Fischl, and Wanderer’s A1 passive, the team is quite energy rich. Normally, Wanderer requires an unreasonable amount of ER to burst every rotation, but playing him on double Electro significantly reduces that threshold. It becomes feasible to burst every rotation with him, although you’ll still need to build a bit of ER on him. 
 
 Kuki can be played as a defensive option, but team output will significantly tank. 
 
-*What about Wanderer teams without Faruzan?*
+<img src = "static\faq\wanderer\double_electro.png">
+
+__*What about Wanderer teams without Faruzan?*__
+
 Not playing Wanderer with Faruzan will of course cause his DPS to drop. As mentioned, Anemo buffs/debuffs are rare, so there aren’t any suitable replacements for Faruzan. The nature of Wanderer’s teams will be warped, focusing on his *team’s* total output rather than just his personal damage. For example:
 Playing Wanderer as a Driver. This can happen for both ADC and EM Builds. ADC Builds are favorable for Single Target scenarios or if a Buffer like Bennett is still present on the Team. Whereas an EM build primarily pays off in AoE scenarios with increased Reaction counts as he cant trigger enough Reactions against single targets for EM to be worthwhile.
+
 A Driver Playstyle also allows him to operate in a more quick swap-y fashion by cutting his Skill short and use it more frequently in shorter bursts across a rotation to allow teammates to cast their abilities off cooldown or even use his grounded form to fill gaps.
+
 This isn’t his optimal use case but can be a serviceable transitional or budget option for those who can’t field a Team centered around him or simply don't want to do so.
+
 Pairing him with another strong team core (e.g Wanderer National)
 Alternatively, if you still want to build around Wanderer’s personal damage, you can form a three member core with Wanderer/Bennett/Yun Jin and add in an off-field DPS or utility support in the fourth slot. 
 
 **EM Driver Wanderer**
+
 A common trend among Anemo units is their synergy with EM and their ability to deal considerable amounts of damage with it. While Wanderer is capable of following in his predecessors’ footsteps, it is not optimal. His kit points to him being a selfish ATK-based DPS who deals most of the team’s damage without relying on reactions, the exact opposite of an EM driver.  He does get the benefit of being an Anemo catalyst and being able to hold VV, but this is not exclusive to him. Sucrose and Heizou fulfill both conditions and offer additional utility such as grouping and EM share. Nonetheless, he can still perform the role of an EM driver just fine. 
 
 **Wanderer National** 
-Wanderer/Bennett/Xiangling/Xingqiu 
+
+Wanderer / Bennett / Xiangling / Xingqiu 
 
 Dubbed as “National” by the community,  Bennett/Xiangling/Xingqiu is a powerful three man core with high internal synergy. They deal substantial DPS by themselves, so practically any fourth member can be slotted in. Wanderer can hold VV to debuff enemies while also taking advantage of Bennett’s ATK buff. Compared to the Sucrose variation, his personal damage will be higher, but he has significantly less utilities such as EM share and grouping. Wanderers regular field time demands also make funneling Xiangling more troublesome. Usable, but nothing special even among National variants.
 
+<img src = "static\faq\wanderer\wanda_national.png">
 
