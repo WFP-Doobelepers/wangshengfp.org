@@ -131,12 +131,14 @@ Wanderer’s combos are fairly difficult to precisely pin down. His kit is desig
 
 We calculated based on the following assumptions, but the number of attacks are conservative estimates. You may get more than what we’ve assumed.
 
-Tullaytullah’s Remembrance + 4pc Desert Pavilion - (Q), E, CA, N3x6
-(N2C Version) Most weapons on Desert Pavilion - (Q), E, C, N2C (x5) + N2
-(N2C Version) Most weapons with NO ATK SPD buffs - (Q), E, N2C (x5) + N1
-(N3 Version) Most weapons on Desert Pavilion - (Q), E, CA, N3x5 + N2
-(N3 Version) Most weapons with NO ATK SPD buffs - (Q), E, CA, N3x5 + N1
-Dodoco Tales CA Spam on Desert Pavilion - (Q), E, N1, CAx6, N1, CAx6 
+|                       Build                      	|            Combo           	|
+|:------------------------------------------------:	|:--------------------------:	|
+| Tullaytullah’s Remembrance + 4pc Desert Pavilion 	|      (Q), E, CA, N3x6      	|
+|   (N2C Version) Most weapons on Desert Pavilion  	|  (Q), E, C, N2C (x5) + N2  	|
+| (N2C Version) Most weapons with NO ATK SPD buffs 	|    (Q), E, N2C (x5) + N1   	|
+|   (N3 Version) Most weapons on Desert Pavilion   	|    (Q), E, CA, N3x5 + N2   	|
+|  (N3 Version) Most weapons with NO ATK SPD buffs 	|    (Q), E, CA, N3x5 + N1   	|
+|      Dodoco Tales CA Spam on Desert Pavilion     	| (Q), E, N1, CAx6, N1, CAx6 	|
 
 Based on these calculations, N2C can squeeze out more damage. However, this is mostly for players using low ATK SPD, non-Yunjin teams. Newer info that is being released leans towards this being more of a sidegrade, so calcs may not perfectly reflect this. That said, N2C is *not* always a strict upgrade.
 
@@ -149,11 +151,11 @@ Even further, Wanderer’s A4 has a visual indicator for when you can dash witho
 ## Artifacts
 *Authored by EduLis*
 
-*Sands of Eon:* ATK%
+***Sands of Eon:*** ATK%
 
-*Goblet of Eonothem:* Anemo DMG Bonus
+***Goblet of Eonothem:*** Anemo DMG Bonus
 
-*Circlet of Logos:* Crit Rate/Crit Damage
+***Circlet of Logos:*** Crit Rate/Crit Damage
 
 *Substats:* CR%=CDMG% > ATK% > ATK
 
