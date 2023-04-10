@@ -84,7 +84,6 @@ This Constellation gives Baizhu’s Elemental Skill an extra charge. This Conste
 
 
 *Total Team Healing Increase from C0: 0%*
-
 *Single-Target Healing Increase from C0: 0%*
 
 
@@ -99,17 +98,14 @@ This Constellation gives Baizhu’s Elemental Skill an extra charge. This Conste
 This Constellation adds negligible damage and a decent amount of healing. The most important part of this Constellation is that it adds an extra instance of Dendro application every 5s. This extra Dendro application can be very helpful for reaction teams that rely heavily on Baizhu for Dendro application. This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
 
 *DPS Increase from C1: 32.72%*
-
 *DPS Increase from C0: 45.73%*
 
 
 *Total Team Healing Increase from C1: 43%*
-
 *Single-Target Healing Increase from C1: 13.6%*
 
 
 *Total Team Healing Increase from C0: 43%*
-
 *Single-Target Healing Increase from C0: 13.6%*
 
 
@@ -123,17 +119,14 @@ This Constellation adds negligible damage and a decent amount of healing. The mo
 Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
 
 *DPS Increase from C2: 3.56%*
-
 *DPS Increase from C0: 50.92%*
 
 
 *Total Team Healing Increase from C2: 6.58%*
-
 *Single-Target Healing Increase from C2: 11.2%*
 
 
 *Total Team Healing Increase from C0: 52.7%*
-
 *Single-Target Healing Increase from C0: 26.2%*
 
 
@@ -146,17 +139,14 @@ Adds three levels to his Elemental Burst. A relatively straightforward Constella
 When Baizhu uses his Elemental Burst, he gives party members an additional 80 Elemental Mastery. While this may seem like a very good Constellation, since he will mostly be used in Dendro Reaction based teams, 80 Elemental Mastery is not as much as you might think. If your main focus is Elemental Mastery sharing for Baizhu, just equipping a 4PC Instructor set alone will give 120 Elemental Mastery for the whole team. While adding an extra 80 Elemental Mastery will still be a damage increase for the team, it’s not the biggest.
 
 *DPS Increase from C3: 32.81%*
-
 *DPS Increase from C0: 100.43%*
 
 
 *Total Team Healing Increase from C3: 0%*
-
 *Single-Target Healing Increase from C3: 0%*
 
 
 *Total Team Healing Increase from C0: 52.7%*
-
 *Single-Target Healing Increase from C0: 26.2%*
 
 
@@ -170,17 +160,14 @@ When Baizhu uses his Elemental Burst, he gives party members an additional 80 El
 Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
 
 *DPS Increase from C4: 1.06%*
-
 *DPS Increase from C0: 102.55%*
 
 
 *Total Team Healing Increase from C4: 11.8%*
-
 *Single-Target Healing Increase from C4: 7.2%*
 
 
 *Total Team Healing Increase from C0: 70.7%*
-
 *Single-Target Healing Increase from C0: 35.3%*
 
 
@@ -196,17 +183,14 @@ Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh�
 CAdds HP% DMG scaling to his Elemental Burst, which makes its damage more noticeable. When his Elemental Skill or his Constellation 2 hits an opponent, a new shield is created when he uses his Elemental Burst, increasing his Dendro application. This Constellation adds roughly around six more applications of Dendro into a 20s rotation, making it possible to run Baizhu as your solo Dendro character in certain teams where you normally would not be able to. A decent Constellation, but overall underwhelming compared to other limited 5-star C6s. 
 
 *DPS Increase from C5: 33.02%*
-
 *DPS Increase from C0: 169.44%*
 
 
 *Total Team Healing Increase from C5: 22.9%*
-
 *Single-Target Healing Increase from C5: 58.2%*
 
 
 *Total Team Healing Increase from C0: 109.8%*
-
 *Single-Target Healing Increase from C0: 114.1%*
 
 
@@ -236,6 +220,7 @@ Due to Baizhu contributing very little team damage, it's best to focus strictly 
 
 **Substats:** ER% (Until ER Reqs are met) > HP% (Until 50k) > EM (If Nilou Bloom)
 
+Baizhu doesn’t need many stats at all, as players are able to cap out his A4 Passive at KQM investment with little to no HP substats. This allows players to focus on his Energy Recharge, the main caveat of his kit. Once both of these stats reach their recommended level, there aren’t really any stats he benefits from, making him quite cheap to build. In Nilou Bloom teams specifically, extra EM substats wouldn’t hurt.
 
 ### Artifacts Set
 
@@ -255,7 +240,7 @@ Due to Baizhu’s large amount of healing, he can make consistent Clam bubbles w
 The increase to Elemental Burst DMG isn’t notable here due to Baizhu’s low personal damage. However, the team-wide ATK% buff can be useful in Quicken teams with more external EM buffs than ATK buffs.
 
 ![](/faq/baizhu/4instructor.png)
-**2PC Mix/Match (18% ATK/20% ER/15% Dendro DMG/80 EM):** 
+**4PC Instructor** 
 
  If Baizhu is being used mainly for his buffing passive, 4PC Instructor can provide a larger overall Effective EM buff, even if Baizhu’s passive isn’t being maxed out. This is due to his A4 requiring a lot of investment for the amount it actually provides. Although his healing and shielding will suffer due to 4-star artifact stats, his healing scaling is high enough that this shouldn’t be a big hit on survivability for most players.
 
@@ -281,6 +266,12 @@ If you’re struggling for artifacts, these are some 2pc sets that can work: HP%
 **Jadefall’s Splendor** 
 
 Baizhu’s Signature weapon, providing a large amount of HP% from its substat, as well as Flat Energy and Elemental DMG Bonus from the passive whenever he casts his Burst or creates shields. This synergises perfectly with his kit, getting him closer to maxing out his A4 Passive. Although he doesn’t make great use of the DMG Bonus, due to his already low personal damage, the flat energy lowers his ER Reqs immensely, providing up to 27 Flat Energy consistently. 
+
+![](/faq/baizhu/1kfd.png)
+
+**A Thousand Floating Dreams** 
+
+Despite being a more offensive catalyst, providing both Elemental Mastery and DMG%, it also provides 40 Elemental Mastery to the party, increasing Baizhu’s buffing potential. Due to not providing any Energy, players will most likely need to run an Energy Recharge% Sands to reliably Burst off cooldown. However, if players do have enough ER, this weapon becomes competitive with Jadefall in terms of team DPS, especially in teams that lack external EM buffs.
 
 ![](/faq/baizhu/pamber.png)
 
