@@ -12,14 +12,15 @@ author: ['NatC', 'Leifa', 'gerryoat']
 
 ## Credits:
 
-- *NatC#9175 - Lead, Author | Talents*
+- *NatC#9175 - Lead, Author, Calcs(Weapon, Constellation)| Talents*
 - *Leifa#1359 - Author | Overview, ER, Artifacts, Weapons, Teambuilding, Comparisons*
 - *gerryoat#6790 - Author | Constellations* 
 - *KB#1111 - Healing Constellation Calcs | Consulting*
+- *Tsubasa#0387 - Calcs (Artifacts)*
+- *snowy#4028 - Calcs (Bloom Team Calcs, Artifacts)* 
 - *Sir Von | Skill Deficiency Cult#7672 - Constellation Calcs*
-- *JakeFromStatefarm#5828 - Consulting*
-- *Reens#9389 - Consulting*
-
+- *sigurd#3854 - Calcs (Aggravate Team Calcs), Consulting*
+- *Athena#2444 - Consulting* 
 
 
 For all Baizhu Calcs you can reference: [Baizhu Mastersheet](https://docs.google.com/spreadsheets/d/1E01Rs3-qKIVeLfh2L0vp14b_nmgTa89G7gapZytI7zA/edit?usp=sharing) by NatC, sigurd, Tsubasa, Sir Von and snowy, [Kaveh Frames Mastersheet](https://docs.google.com/spreadsheets/d/1D9uFBSk1fICRzX2n0sAVxHrCS3k_Kl_hAZ3lTr4MuaM/edit?usp=sharing) by Sir Von
@@ -47,11 +48,11 @@ A large portion of Baizhu’s healing, shielding, and buffing scales with his Ma
 
 Baizhu’s Normal Attack multipliers are slightly lower than Nahida’s. That being said, although the latter can be run on-field in certain scenarios, Baizhu prefers stacking HP% and ER% over any other offensive stats. Hence, there is little to no reason to run him on-field if your team does not need the additional Dendro application, unless you specifically wish to build him to do so. However, be prepared for  Baizhu’s extremely small Normal Attack hitboxes, which will require you to essentially facehug your opponents in order to hit them.
 
-**Elemental Skill: Universal Diagnosis**
+**Elemental Skill: Universal Diagnosis [10s CD]**
 
 Baizhu’s Skill will create a **Gossamer Sprite** that will either travel in the direction Baizhu is facing (assuming there are no enemies) or attack an enemy, dealing Dendro DMG and hitting them up to three times in single-target or bouncing to different enemies in multi-target scenarios, prioritizing enemies that haven’t been previously hit by Gossamer Sprite. Upon either reaching the end of its travel path or hitting enemies three times, the Gossamer Sprite will return to the party, healing all nearby party members by a percentage of Baizhu’s Max HP. 
 
-**Elemental Burst: Holistic Revivification** 
+**Elemental Burst: Holistic Revivification[20s CD] [80 Energy]** 
 
  Baizhu’s Burst makes him enter the **Pulsing Clarity** state for 14 seconds, generating a **Seamless Shield** that absorbs Dendro DMG with 250% effectiveness and reforms every 2.5 seconds after its initial creation. Although Baizhu’s shielding prowess isn’t his forte (1.36% Max HP + 156 at T9 - about 836HP absorption w/ Baizhu having 50,000 Max HP), the constant refreshing and healing every 2.5 seconds means that your active character should be well-protected, even in teams that are more dangerous to play in nature (e.g. Nilou Bloom). Furthermore, thanks to the shields, your active character will also have noticeably increased resistance to interruption, even considering how small the shields are.
 
@@ -80,12 +81,13 @@ Baizhu’s Overworld Passive heals the active character slightly when collecting
 
 This Constellation gives Baizhu’s Elemental Skill an extra charge. This Constellation can help with achieving slightly more Dendro application and healing while also giving his rotations more flexibility and forgiveness. Being able to get in an extra Elemental Skill in a rotation also helps with his Energy issues. 
 
-*DPS Increase from C0: 9.80%*
+*Team Aggravate DPS Increase from C0: 1.23%*
 
+*Team Bloom DPS Increase from C0:0.41%*
 
-*Total Team Healing Increase from C0: 0%*
-*Single-Target Healing Increase from C0: 0%*
+*Total Team Healing Increase from C0:0%*
 
+*Single Target Increase from C0:0%*
 
 *Rating: 2/5*
 
@@ -97,16 +99,17 @@ This Constellation gives Baizhu’s Elemental Skill an extra charge. This Conste
 
 This Constellation adds negligible damage and a decent amount of healing. The most important part of this Constellation is that it adds an extra instance of Dendro application every 5s. This extra Dendro application can be very helpful for reaction teams that rely heavily on Baizhu for Dendro application. This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
 
-*DPS Increase from C1: 32.72%*
-*DPS Increase from C0: 45.73%*
+*Team Aggravate DPS Increase from C0: 2.73%* |
+*Team Aggravate DPS Increase from C1: 1.48%*
 
+*Team Bloom DPS Increase from C0: 3.80%* |
+*Team Bloom DPS Increase from C1: 3.37%*
 
+*Total Team Healing Increase from C0: 43%* |
 *Total Team Healing Increase from C1: 43%*
-*Single-Target Healing Increase from C1: 13.6%*
 
-
-*Total Team Healing Increase from C0: 43%*
-*Single-Target Healing Increase from C0: 13.6%*
+*Single Target Increase from C0: 13.6%* |
+*Single Target Increase from C1: 13.6%*
 
 
 *Rating: 3/5*
@@ -118,16 +121,17 @@ This Constellation adds negligible damage and a decent amount of healing. The mo
 
 Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
 
-*DPS Increase from C2: 3.56%*
-*DPS Increase from C0: 50.92%*
+*Team Aggravate DPS Increase from C0: 3.83%* |
+*Team Aggravate DPS Increase from C2: 0.10%*
 
+*Team Bloom DPS Increase from C0: 3.87%* |
+*Team Bloom DPS Increase from C2: 0.07%*
 
+*Total Team Healing Increase from C0: 52.7%* |
 *Total Team Healing Increase from C2: 6.58%*
-*Single-Target Healing Increase from C2: 11.2%*
 
-
-*Total Team Healing Increase from C0: 52.7%*
-*Single-Target Healing Increase from C0: 26.2%*
+*Single Target Increase from C0: 26.2%* |
+*Single Target Increase from C2: 11.2%*
 
 
 *Rating: 0/5*
@@ -138,16 +142,17 @@ Adds three levels to his Elemental Burst. A relatively straightforward Constella
 
 When Baizhu uses his Elemental Burst, he gives party members an additional 80 Elemental Mastery. While this may seem like a very good Constellation, since he will mostly be used in Dendro Reaction based teams, 80 Elemental Mastery is not as much as you might think. If your main focus is Elemental Mastery sharing for Baizhu, just equipping a 4PC Instructor set alone will give 120 Elemental Mastery for the whole team. While adding an extra 80 Elemental Mastery will still be a damage increase for the team, it’s not the biggest.
 
-*DPS Increase from C3: 32.81%*
-*DPS Increase from C0: 100.43%*
+*Team Aggravate DPS Increase from C0: 5.43%* |
+*Team Aggravate DPS Increase from C3: 2.53%*
 
+*Team Bloom DPS Increase from C0: 5.55%* |
+*Team Bloom DPS Increase from C3: 1.62%*
 
-*Total Team Healing Increase from C3: 0%*
-*Single-Target Healing Increase from C3: 0%*
+*Total Team Healing Increase from C0: 52.7%* |
+*Total Team Healing Increase from C3: 6.58%*
 
-
-*Total Team Healing Increase from C0: 52.7%*
-*Single-Target Healing Increase from C0: 26.2%*
+*Single Target Increase from C0: 26.2%* |
+*Single Target Increase from C3: 11.2%*
 
 
 *Rating: 2/5*
@@ -157,19 +162,19 @@ When Baizhu uses his Elemental Burst, he gives party members an additional 80 El
 ### **C5 - The Hidden Ebb and Flow**
 - *Increases the Level of **Universal Diagnosis** by 3*
 
-Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
+Adds three levels to Baizhu’s Elemental Skill Talent. Another negligible damage increase for Baizhu on this Constellation, but his healing will increase slightly. Despite this, it’s not much of a big deal, since his healing will very likely be more than enough regardless.
 
-*DPS Increase from C4: 1.06%*
-*DPS Increase from C0: 102.55%*
+*Team Aggravate DPS Increase from C0:5.57%* |
+*Team Aggravate DPS Increase from C4:0.13%*
 
+*Team Bloom DPS Increase from C0:5.69%* |
+*Team Bloom DPS Increase from C4:0.14%*
 
-*Total Team Healing Increase from C4: 11.8%*
-*Single-Target Healing Increase from C4: 7.2%*
+*Total Team Healing Increase from C0:70.7%* |
+*Total Team Healing Increase from C4:11.8%*
 
-
-*Total Team Healing Increase from C0: 70.7%*
-*Single-Target Healing Increase from C0: 35.3%*
-
+*Single Target Increase from C0:35.3%* |
+*Single Target Increase from C4:7.2%*
 
 *Rating: 0/5*
 
@@ -182,17 +187,17 @@ Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh�
 
 CAdds HP% DMG scaling to his Elemental Burst, which makes its damage more noticeable. When his Elemental Skill or his Constellation 2 hits an opponent, a new shield is created when he uses his Elemental Burst, increasing his Dendro application. This Constellation adds roughly around six more applications of Dendro into a 20s rotation, making it possible to run Baizhu as your solo Dendro character in certain teams where you normally would not be able to. A decent Constellation, but overall underwhelming compared to other limited 5-star C6s. 
 
-*DPS Increase from C5: 33.02%*
-*DPS Increase from C0: 169.44%*
+*Team Aggravate DPS Increase from C0: 1.26%* |
+*Team Aggravate DPS Increase from C5: 6.90%*
 
+*Team Bloom DPS Increase from C0: 6.02%* |
+*Team Bloom DPS Increase from C5: 0.31%*
 
-*Total Team Healing Increase from C5: 22.9%*
-*Single-Target Healing Increase from C5: 58.2%*
+*Total Team Healing Increase from C0: 109.8%* |
+*Total Team Healing Increase from C4: 22.9%*
 
-
-*Total Team Healing Increase from C0: 109.8%*
-*Single-Target Healing Increase from C0: 114.1%*
-
+*Single Target Increase from C0: 114    .1%* |
+*Single Target Increase from C5:5 8.2%*
 
 *Rating: 3/5*
 
@@ -213,7 +218,9 @@ For a more accurate approximation of his requirements for your rotation, please 
 
 ### Artifacts Stats
 *Sands of Eon:* HP% or ER%
+
 *Goblet of Eonothem:* HP%
+
 *Circlet of Logos:* HP% or HB%
 
 Due to Baizhu contributing very little team damage, it's best to focus strictly on his defensive utility by building mainly for HP%. On top of this, his A4 Passive scales with his Max HP up to 50k, meaning players should try to get as close to 50k HP as possible after meeting his Energy requirements. Due to having a high cost Burst and low Energy generation, some players may need to run an Energy Recharge% Sands to accommodate his needs. HP% Circlet tends to be better overall than Healing Bonus%, however it is a valid option if players have nothing else.
@@ -384,7 +391,7 @@ Hydro options: Kokomi / Xingqiu / Yelan / Ayato / Candace
 
 Dendro options: Nahida / Collei / Dendro Traveler / Alhaitham 
 
-## **BAIZHU OR NAHIDA?**
+## **Baizhu vs Nahida**
 
 *Authored by Leifa*
 
@@ -401,11 +408,22 @@ Dendro options: Nahida / Collei / Dendro Traveler / Alhaitham
 - Large Elemental Mastery buff, which affects all reactions.
 - Good, staggered, off-field particle generation.
 
-Due to both being 5-star Dendro Catalyst characters who also provide an Elemental Reaction buff through their passives, people will be quick to call Baizhu a “Defensive Nahida”. However, they are not interchangeable. For starters, Baizhu’s Elemental application is significantly weaker than Nahida’s. Due to Baizhu’s Elemental Burst projectiles being extremely small, they’re effectively single-target locked. This means that in AoE scenarios he will not only struggle to apply Dendro, but also consistently refresh Deepwood’s Resistance Shred. In comparison, Nahida’s Elemental Skill consistently applies Dendro to all enemies marked by her Skill, easily keeping Deepwood’s Resistance Shred active on all targets. 
+__**Analysis**__
+Due to both being 5-star Dendro Catalyst characters who also provide an Elemental Reaction buff through their passives, people will be quick to call Baizhu a “Defensive Nahida”. However, they are not interchangeable. 
+
+**Burst Particle AoE :**
+
+For starters, Baizhu’s Elemental application is significantly weaker than Nahida’s. Due to Baizhu’s Elemental Burst projectiles being extremely small, they’re effectively single-target locked. This means that in AoE scenarios he will not only struggle to apply Dendro, but also consistently refresh Deepwood’s Resistance Shred. In comparison, Nahida’s Elemental Skill consistently applies Dendro to all enemies marked by her Skill, easily keeping Deepwood’s Resistance Shred active on all targets. 
+
+**Dendro Application :**
 
 On top of this, Baizhu’s Elemental Burst application is only 1U, compared to Nahida’s 1.5U, meaning that as a solo Dendro unit, he won’t be enabling nearly as many reactions as Nahida. This is notable for teams such as Quickbloom, where your Quicken aura will not only be wiped out quicker, but fewer Bloom Cores will be created from it as well. On the other hand, this means his Elemental Burst hits will almost always be applying Dendro onto an Electro-Charged aura, resulting in both a Bloom Core and Quicken aura again. Unfortunately, this interaction isn’t enough for his application to allow for more Elemental Reactions off one Dendro aura compared to Nahida. 
 
+**Buffing Teammates :**
+
 Thirdly, although Baizhu and Nahida both boost their teammates’ Reaction DMG through their passives, Baizhu’s buff is Quicken and Bloom Reaction DMG%, while Nahida’s is pure Elemental Mastery. This means that Nahida’s buff will be less effective when there are already other Elemental Mastery sources on the team. In contrast, Baizhu’s A4 does not suffer the same diminishing returns as EM does, making it better in situations where characters would already be building a lot of Elemental Mastery.
+
+**ER Requirements :**
 
 Finally, when being run as a solo Dendro unit, Baizhu’s ER Reqs are much higher than Nahida’s, who doesn’t rely as heavily on her Elemental Burst. This can result in players having to run not only Prototype Amber, but also even an Energy Recharge% Sands in extreme scenarios. Even though it’s not a great hit to his personal damage, it can be harder to build for, on top of all the other differences mentioned. 
 In the end though, this doesn’t mean Nahida is “just better” than Baizhu. They perform drastically different roles and can’t truly replace one another in a solo Dendro scenario. However, when they are run together, Nahida and Baizhu cover each other’s weaknesses. Nahida provides strong off-field damage, as well as high Dendro application, and Baizhu provides large amounts of healing and defensive utility. To sweeten the duo, Nahida’s Elemental Mastery buff on top of Dendro Resonance means Baizhu’s Reaction DMG Bonus buff gives more Effective EM to the on-field character. Although they do drastically different things solo, when together, they create a strong Double Dendro core for teams to build around. 

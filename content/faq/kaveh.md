@@ -4,7 +4,7 @@ character: 'Kaveh'
 character_star: 4
 element: 'dendro'
 aliases: []
-author: ['redd', 'FeatherLatte', 'jd baby', 'sigurd']
+author: ['redd', 'FeatherLatte', 'jd', 'sigurd']
 ---
 
 <br>
@@ -19,6 +19,7 @@ author: ['redd', 'FeatherLatte', 'jd baby', 'sigurd']
 - *sigurd#3854 - Author (Energy Recharge Requirement)*
 - *Athena#2444 - Consultation*
 - *jrm.spirit#2671 - Framecounting*
+- *Mastersheet Template - kol#1593, FeatherLatte#0974*
 
 
 For all Kaveh Calcs you can reference: [Kaveh Mastersheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing) by Redd and jd and [Kaveh Frames Mastersheet](https://docs.google.com/spreadsheets/d/1D9uFBSk1fICRzX2n0sAVxHrCS3k_Kl_hAZ3lTr4MuaM/edit?usp=sharing) by jrm.spirit
@@ -80,7 +81,7 @@ Unsurprisingly, our architect’s passive has to do with the Serenitea Pot: Kave
 
 
 ## **Constellations**
-*Authored by jd
+*Authored by jd*
 
 ![](/faq/kaveh/c1.png)
 ### **C1 - Sublime Salutations** 
@@ -247,7 +248,7 @@ Transitionary sets. The best combination depends on the substats and what team y
 
 This set should only be considered if Kaveh is triggering a high to moderate amount of Blooms (e.g teams with high Hydro application and/or low Dendro application or if Kaveh is the only Dendro character). In such scenarios, FoPL is quite strong. 
 
-![](/faq/kaveh/4totm.png)
+![](/faq/kaveh/4gd.png)
 **4PC Gilded Dreams:** 
 
 Like 4pc FoPL, this set isn’t particularly noteworthy unless Kaveh has a high to moderate ownership of Blooms. It’s slightly worse than 4pc FoPL, and could have uptime issues. On the contrary, it does provide better healing, and you’ll likely have a set if you were already farming DW. 
@@ -270,7 +271,7 @@ One of Kaveh’s better 5-star options, regardless of what team he plays in. He 
 
 Kaveh is deficient in ATK, so it’s no surprise that Wolf’s Gravestone is a good pick for him with its abundance of ATK% stats. Although it’s highly conditional, the team buff it grants can be useful.
 
-**Other 5-Star Weapons**
+**Other 5 ★ Weapons**
 
 All other 5-star Claymores act as a fat stat stick and perform similarly to each other. Remember that Kaveh’s DPS output is poor — it is perfectly fine to not optimize his damage and give a much needed DPS Claymore to another character, and instead use a 4-star Greatsword on Kaveh. 
 
@@ -321,14 +322,13 @@ Kaveh is an on-field Dendro unit with self-healing and Interruption Resistance, 
 - Because of his long field time, his teammates are off-field units.
 - He only heals himself, not his teammates. For some people this is more than enough, but for others you might still want an extra healer.
 - He has high ER needs, which incentivizes bringing a second Dendro unit. He can still play as a solo Dendro, but you’ll have to invest in a lot of ER (check part 5: ER Requirement for more details)
-
 ### **Bloom**
 
-Kaveh | Hydro | Hydro | Dendro or Flex
+**Kaveh | Hydro | Hydro | Dendro or Flex**
 
-Example Team: Kaveh/Xingqiu/Kokomi/Nahida
+*Example Team:* Kaveh/Xingqiu/Kokomi/Nahida
 
-Example Team 2: Kaveh/Yelan/Ayato/Kazuha
+*Example Team 2:* Kaveh/Yelan/Ayato/Kazuha
 
 ![](/faq/kaveh/bloom.png)
 
@@ -336,12 +336,12 @@ Kaveh’s utilities are geared towards Bloom teams — he can drive, heal himsel
 
 *Nilou Bloom Variant*
 
-Kaveh | Nilou | Hydro | Dendro
+**Kaveh | Nilou | Hydro | Dendro**
 
 
-- Example Team: Kaveh/Nilou/Xingqiu/Baizhu
+- *Example Team:* Kaveh/Nilou/Xingqiu/Baizhu
 
-- Example Team 2: Kaveh/Nilou/Yelan/Xingqiu
+- *Example Team 2:* Kaveh/Nilou/Yelan/Xingqiu
 
 ![](/faq/kaveh/niloubloom.png)
 
@@ -353,11 +353,11 @@ Contrary to what the last week of beta changes said, testing shows that Kaveh’
 
 ### **Burgeon & Hyperbloom**
 
-Burgeon: Kaveh | Hydro | Pyro | Flex
+**Burgeon: Kaveh | Hydro | Pyro | Flex**
 
-- Example Team: Kaveh/Xingqiu/Thoma/Bennett
+- **Example Team:** Kaveh/Xingqiu/Thoma/Bennett
 
-- Example Team 2: Kaveh/Xingqiu/Kazuha/Bennett
+- **Example Team 2:** Kaveh/Xingqiu/Kazuha/Bennett
 
 
 Hyperbloom: Kaveh | Hydro | Electro | Flex
