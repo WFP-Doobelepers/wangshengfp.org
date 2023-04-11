@@ -46,7 +46,7 @@ A large portion of Baizhu’s healing, shielding, and buffing scales with his Ma
 
 **Normal Attacks: The Classics of Acupuncture**
 
-Baizhu’s Normal Attack multipliers are slightly lower than Nahida’s. That being said, although the latter can be run on-field in certain scenarios, Baizhu prefers stacking HP% and ER% over any other offensive stats. Hence, there is little to no reason to run him on-field if your team does not need the additional Dendro application, unless you specifically wish to build him to do so. However, be prepared for  Baizhu’s extremely small Normal Attack hitboxes, which will require you to essentially facehug your opponents in order to hit them.
+Baizhu’s Normal Attack multipliers are slightly lower than Nahida’s. That being said, although the latter can be run on-field in certain scenarios, Baizhu prefers stacking HP% and ER% over any other offensive stats. Hence, there is little to no reason to run him on-field if your team does not need the additional Dendro application, unless you specifically wish to build him to do so. However, be prepared for Baizhu’s extremely small Normal Attack hitboxes, which will require you to essentially facehug your opponents in order to hit them.
 
 **Elemental Skill: Universal Diagnosis [10s CD]**
 
