@@ -117,27 +117,19 @@ Kaveh’s Burst holds great priority given its boost to Bloom damage, but having
 
 *DPS increase from C0 : 5.72%*  
 
-*Team DPS increase from C2 : ~1.4%*
-
 *Rating : 2/5*
 
 ![](/faq/kaveh/c4.png)
 ### **C4 - Feast of Apadana**
 - *Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.*
 
-If you’re running Bloom Kaveh, this is one of his best Constellations. Unfortunately, for any other build, you won’t be getting much benefit. It is important to note that this Constellation does not work with Burgeons or Hyperblooms, which limits his choice of teammates. However, it does make Kaveh an excellent support for Bloom teams that don’t utilize Nilou, as it brings a heavy amount of damage to the table with proper management. The Cores are still reliant upon the EM of the character who created them, and gain the 60% DMG Bonus as long as Kaveh triggers its eruption. 
-
-In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 3.41% from C3. This constellation will gain more value the lower the EM your team has.
-
-The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
+This constellation gives a straight bonus to Kaveh’s Bloom DMG, which is helpful if you intend on running him as a main DPS or driver. Unfortunately, he might still struggle to keep up with other Bloom DPS, since his own multipliers are quite low. Kaveh’s bonus will not apply to Burgeon or Hyperblooms, so his choice of teammates is limited if you want to take advantage of this. Kaveh will need a decent amount of ownership in order to do the best with this bonus.
 
 *DPS increase from C3 : 5.84%*
 
 *DPS increase from C0 : 11.90%*  
 
-*Team Bloom DPS increase from C3 : ~2.0%*
-
-*Rating: 3/5*
+*Rating: 2/5*
 
 ![](/faq/kaveh/c5.png)
 ### **C5 - Treasures of Bonkhanak**
@@ -157,19 +149,13 @@ Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh�
 
 - *When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during **Painted Dome**, it will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.*
 
-C6 is Kaveh’s best constellation for non-Nilou Bloom teams, giving him 3-4 more detonations, C4 procs, *and* Dendro application. Because Kaveh forces multiple Blooms to rupture at once, you may get less value than you’re hoping for from his Skill usage if you have more than two Cores from a single owner. His Elemental Skill is on a 6 second cooldown, meaning that Pairidaeza’s Light can sneak in some extra forced Core explosions while waiting. Furthermore, Kaveh’s C4 buff works on C6 explosions.
-
-On Bloom teams, C6 provides a modest boost to team damage when used in conjunction with C4, almost doubling the number of C4 procs. This further enhances Kaveh’s viability as a Bloom support. In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 16 of the team’s 40 Blooms, his team gains an increase of about 2.0% from C4. This isn’t as necessary when running Nilou teams, since Bountiful Cores already explode quicker than Kaveh can trigger them, making C6 less valuable. Furthermore, C6 can prematurely rupture your Hyperblooms and Burgeons, possibly resulting in lower team DPS.
+C6 gives Kaveh 3-4 more detonations and Dendro application, making it a fairly valuable constellation on Bloom teams. Because Kaveh forces multiple Blooms to rupture at once, you may get less value than you’re hoping for from his Skill usage if you have more than two Cores from a single owner. His Elemental Skill is on a 6 second cooldown, meaning that Pairidaeza’s Light can sneak in some extra forced Core explosions while waiting. In Bloom comps, this extra frontloaded damage is appreciated, but not so useful in Nilou teams where Blooms instantly explode. Furthermore, C6 procs can prematurely rupture your Hyperblooms and Burgeons, possibly resulting in lower team DPS (although the extra Bloom damage might mitigate this DPS loss). Regardless, you get more AoE Dendro application with this constellation, which is useful on most teams. 
 
 The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom. 
 
 *DPS increase from C5 : 1.22%* 
 
 *DPS increase from C0 : 14.31%*
-
-*Team Bloom DPS increase from C4 : ~2.0%*
-
-*Team Bloom DPS increase from C0 : ~5.5%*
 
 *Rating 3/5*
 
@@ -202,7 +188,9 @@ For a more accurate approximation of his requirements for your rotation, please 
 
 ### Artifacts Stats
 *Sands of Eon:* ER% or EM
+
 *Goblet of Eonothem:* EM
+
 *Circlet of Logos:* EM
 
 *ER or ATK/DMG/CRIT also work, although not necessarily recommended.*
@@ -264,12 +252,6 @@ Weapon rankings depend on how many reactions Kaveh procs. As a general rule, EM-
 **Skyward Pride** 
 
 One of Kaveh’s better 5-star options, regardless of what team he plays in. He usually lacks in ATK% and DMG%, making Skyward Pride’s high Base ATK and DMG% passive particularly valuable in addition to its ER substat.
-
-![](/faq/kaveh/wgs.png)
-
-**Wolf's Gravestone** 
-
-Kaveh is deficient in ATK, so it’s no surprise that Wolf’s Gravestone is a good pick for him with its abundance of ATK% stats. Although it’s highly conditional, the team buff it grants can be useful.
 
 **Other 5 ★ Weapons**
 
