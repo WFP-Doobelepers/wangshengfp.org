@@ -32,7 +32,9 @@ For all Baizhu Calcs you can reference: [Baizhu Mastersheet](https://docs.google
 
 ![](/faq/baizhu/baizhu.png)
 
-Baizhu is a 5-star defensive character, providing high amounts of healing through  both his Elemental Skill and Burst. On top of this, his A4 provides a substantial Dendro Reaction DMG buff to characters healed by his Elemental Burst, based on his Max HP. This incentivises players to build him with as much HP as possible, which is made easier by his HP% Ascension stat. His personal damage will be relatively low in exchange for the comfort he provides. In terms of teams, Baizhu is quite flexible, finding a spot  in most teams where his sustained Dendro application and defensive utility is appreciated. Baizhu also has relatively low field time, needing only to cast his Skill, Burst, and then swap off.
+Baizhu is a 5-star defensive character, providing high amounts of healing through  both his Elemental Skill and Burst. On top of this, his A4 provides a substantial Dendro Reaction DMG buff to characters healed by his Elemental Burst, based on his Max HP. This incentivises players to build him with as much HP as possible, which is made easier by his HP% Ascension stat. His personal damage will be relatively low in exchange for the comfort he provides. 
+
+In terms of teams, Baizhu is quite flexible, finding a spot  in most teams where his sustained Dendro application and defensive utility is appreciated. Baizhu also has relatively low field time, needing only to cast his Skill, Burst, and then swap off.
 
 ## **Talents**
 
@@ -54,15 +56,23 @@ Baizhu’s Skill will create a **Gossamer Sprite** that will either travel in th
 
 **Elemental Burst: Holistic Revivification[20s CD] [80 Energy]** 
 
- Baizhu’s Burst makes him enter the **Pulsing Clarity** state for 14 seconds, generating a **Seamless Shield** that absorbs Dendro DMG with 250% effectiveness and reforms every 2.5 seconds after its initial creation. Although Baizhu’s shielding prowess isn’t his forte (1.36% Max HP + 156 at T9 - about 836HP absorption w/ Baizhu having 50,000 Max HP), the constant refreshing and healing every 2.5 seconds means that your active character should be well-protected, even in teams that are more dangerous to play in nature (e.g. Nilou Bloom). Furthermore, thanks to the shields, your active character will also have noticeably increased resistance to interruption, even considering how small the shields are.
+ Baizhu’s Burst makes him enter the **Pulsing Clarity** state for 14 seconds, generating a **Seamless Shield** that absorbs Dendro DMG with 250% effectiveness and reforms every 2.5 seconds after its initial creation. 
+ 
+ Although Baizhu’s shielding prowess isn’t his forte, the constant refreshing and healing every 2.5 seconds means that your active character should be well-protected, even in teams that are more dangerous to play in nature (e.g. Nilou Bloom). 
+ 
+ Furthermore, thanks to the shields, your active character will also have noticeably increased resistance to interruption, even considering how small the shields are.
 
 **Ascension 1 Passive: Five Fortunes Forever**
 
-Baizhu’s Ascension 1 Talent has two components to it, being somewhat similar in nature to a Constellation 0 Bennett. When your active character is below 50% HP, Baizhu will gain an additional 20% Healing Bonus, enabling him to more reliably keep your active character healthy. On the other hand, when your active character’s HP is equal to or above 50%, Baizhu will gain 25% Dendro DMG Bonus, which can be helpful when the team does not require the excess healing.
+Baizhu’s Ascension 1 Talent has two components to it, being somewhat similar in nature to a Constellation 0 Bennett. When your active character is below 50% HP, Baizhu will gain an additional 20% Healing Bonus, enabling him to more reliably keep your active character healthy. 
+
+On the other hand, when your active character’s HP is equal to or above 50%, Baizhu will gain 25% Dendro DMG Bonus, which can be helpful when the team does not require the excess healing.
 
 **Ascension 4 Passive: All Things Are of the Earth**
 
-Baizhu’s Ascension 4 Talent gives him some much needed team buffing to help set him apart from other defensive characters, providing characters healed by his Burst 2% Bloom Reaction DMG and 0.8% Quicken Reaction DMG for every 1,000 Max HP he has, up to 50,000. This means he can provide up to 100% Bloom and 40% Quicken Reaction DMG at 50,000 HP,. incentivising players to stack HP on Baizhu. Thankfully, Baizhu doesn’t particularly care for stats outside of HP and ER, meaning building for this Passive doesn’t hinder his performance. Unfortunately, this buff only lasts six seconds until it needs to be refreshed again, meaning it doesn’t benefit off-field teammates much, if at all.
+Baizhu’s Ascension 4 Talent gives him some much needed team buffing to help set him apart from other defensive characters, providing characters healed by his Burst 2% Bloom Reaction DMG and 0.8% Quicken Reaction DMG for every 1,000 Max HP he has, up to 50,000. This means he can provide up to 100% Bloom and 40% Quicken Reaction DMG at 50,000 HP,. incentivising players to stack HP on Baizhu. 
+
+Thankfully, Baizhu doesn’t particularly care for stats outside of HP and ER, meaning building for this Passive doesn’t hinder his performance. Unfortunately, this buff only lasts six seconds until it needs to be refreshed again, meaning it doesn’t benefit off-field teammates much, if at all.
 
 
 **Overworld Passive: Herbal Nourishment**
@@ -97,7 +107,9 @@ This Constellation gives Baizhu’s Elemental Skill an extra charge. This Conste
 - *Gossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as Dendro DMG and healing for 20% of Universal Diagnosis's Gossamer Sprite's normal healing.*
 - *DMG dealt this way is considered Elemental Skill DMG. This effect can be triggered once every 5s.*
 
-This Constellation adds negligible damage and a decent amount of healing. The most important part of this Constellation is that it adds an extra instance of Dendro application every 5s. This extra Dendro application can be very helpful for reaction teams that rely heavily on Baizhu for Dendro application. This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
+This Constellation adds negligible damage and a decent amount of healing. The most important part of this Constellation is that it adds an extra instance of Dendro application every 5s. This extra Dendro application can be very helpful for reaction teams that rely heavily on Baizhu for Dendro application. 
+
+This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
 
 *Team Aggravate DPS Increase from C0: 2.73%* |
 *Team Aggravate DPS Increase from C1: 1.48%*
@@ -223,7 +235,9 @@ For a more accurate approximation of his requirements for your rotation, please 
 
 *Circlet of Logos:* HP% or HB%
 
-Due to Baizhu contributing very little team damage, it's best to focus strictly on his defensive utility by building mainly for HP%. On top of this, his A4 Passive scales with his Max HP up to 50k, meaning players should try to get as close to 50k HP as possible after meeting his Energy requirements. Due to having a high cost Burst and low Energy generation, some players may need to run an Energy Recharge% Sands to accommodate his needs. HP% Circlet tends to be better overall than Healing Bonus%, however it is a valid option if players have nothing else.
+Due to Baizhu contributing very little team damage, it's best to focus strictly on his defensive utility by building mainly for HP%. On top of this, his A4 Passive scales with his Max HP up to 50k, meaning players should try to get as close to 50k HP as possible after meeting his Energy requirements. 
+
+Since Baizhu's Burst has a high energy cost and he has low Energy generation, some players may need to run an Energy Recharge% Sands to accommodate his needs. HP% Circlet tends to be better overall than Healing Bonus%, however it is a valid option if players have nothing else.
 
 **Substats:** ER% (Until ER Reqs are met) > HP% (Until 50k) > EM (If Nilou Bloom)
 
@@ -272,7 +286,7 @@ If you’re struggling for artifacts, these are some 2pc sets that can work: HP%
 
 **Jadefall’s Splendor** 
 
-Baizhu’s Signature weapon, providing a large amount of HP% from its substat, as well as Flat Energy and Elemental DMG Bonus from the passive whenever he casts his Burst or creates shields. This synergises perfectly with his kit, getting him closer to maxing out his A4 Passive. Although he doesn’t make great use of the DMG Bonus, due to his already low personal damage, the flat energy lowers his ER Reqs immensely, providing up to 27 Flat Energy consistently. 
+Baizhu’s Signature weapon, providing a large amount of HP% from its substat, as well as Flat Energy and Elemental DMG Bonus from the passive whenever he casts his Burst or creates shields. This synergises perfectly with his kit, getting him closer to maxing out his A4 Passive. Although he doesn’t make great use of the DMG Bonus, due to his already low personal damage, the flat energy lowers his ER Reqs immensely, providing up to 27 Flat Energy consistently.
 
 ![](/faq/baizhu/1kfd.png)
 
@@ -310,7 +324,7 @@ A more supportive option, providing Energy Recharge from the substat and a team-
 
 ![](/faq/baizhu/ttds.png)
 
-**Thrilling Tales of Dragon Slayers** 
+**Thrilling Tales of Dragon Slayers (R5)** 
 
 A 3-star weapon, providing HP% from the substat and a large ATK% buff to the next character to take the field. Although the substat can help you max out Baizhu’s A4 easier, he may struggle to easily Burst due to not having enough Energy, requiring you to run an Energy Recharge% Sands as well. 
 
@@ -323,7 +337,11 @@ Baizhu | Electro | Electro / Dendro | Flex
 
 ![](/faq/baizhu/quicken.png)
 
-For defensive options in Quicken teams, Baizhu competes strongly with characters like Zhongli and Yaoyao. Zhongli generally takes the place of an Anemo character, due to providing Universal Resistance Shred on top of immense comfort. On the other hand, Yaoyao is able to keep the team healthy while providing enough Dendro application to easily sustain a Quicken aura if players are using their more prominent Dendro characters elsewhere. Baizhu is able to fill the same role of Dendro Applicator and healer while providing up to 40% Quicken Reaction DMG. Unfortunately, his personal damage is rather poor and he can’t effectively build the CRIT or EM stats needed to provide meaningful Spreads to the team. Although Zhongli doesn’t do this either, his Universal Resistance Shred goes a long way in boosting the output of the team’s main damage dealers. Alongside Nahida, Baizhu can make a strong Double Dendro core, though it won’t be setting any DPS records.
+For defensive options in Quicken teams, Baizhu competes strongly with characters like Zhongli and Yaoyao. Zhongli generally takes the place of an Anemo character, due to providing Universal Resistance Shred on top of immense comfort. 
+
+On the other hand, Yaoyao is able to keep the team healthy while providing enough Dendro application to easily sustain a Quicken aura if players are using their more prominent Dendro characters elsewhere. Baizhu is able to fill the same role of Dendro Applicator and healer while providing up to 40% Quicken Reaction DMG. 
+
+Unfortunately, his personal damage is rather poor and he can’t effectively build the CRIT or EM stats needed to provide meaningful Spreads to the team. Although Zhongli doesn’t do this either, his Universal Resistance Shred goes a long way in boosting the output of the team’s main damage dealers. Alongside Nahida, Baizhu can make a strong Double Dendro core, though it won’t be setting any DPS records.
 
 
 Electro options: Keqing / Raiden / Fischl / Yae / Sara / Beidou
@@ -339,7 +357,9 @@ Baizhu | Electro | Hydro | Flex
 
 ![](/faq/baizhu/hb.png)
 
-Baizhu is also able to bring defensive utility to Hyperbloom teams. However, his role is more contested here due to the existence of Kuki, covering the roles of both Hyperbloom trigger and healer. If players find Kuki’s healing to not be enough, both characters can be ran together due to Kuki still being a strong Hyperbloom trigger. Alternatively, she can be replaced for Raiden, due to her frequent off-field Elemental Skill hits. The main downside to Baizhu in Hyperbloom teams is his A4 Passive being effectively useless, due to only being applied to the on-fielder. It also only lasts 6 seconds at a time, meaning that it generally isn’t worth swapping to your Hyperbloom trigger just for the buff. If running Baizhu, players may also wish to bring a second Dendro character for consistent application, due to Baizhu’s Elemental Burst being single-target and applying a lot slower than Bloom Reactions can hit.
+Baizhu is also able to bring defensive utility to Hyperbloom teams. However, his role is more contested here due to the existence of Kuki, covering the roles of both Hyperbloom trigger and healer. If players find Kuki’s healing to not be enough, both characters can be ran together due to Kuki still being a strong Hyperbloom trigger. Alternatively, she can be replaced for Raiden, due to her frequent off-field Elemental Skill hits. 
+
+The main downside to Baizhu in Hyperbloom teams is his A4 Passive being effectively useless, due to only being applied to the on-fielder. It also only lasts 6 seconds at a time, meaning that it generally isn’t worth swapping to your Hyperbloom trigger just for the buff. If running Baizhu, players may also wish to bring a second Dendro character for consistent application, due to Baizhu’s Elemental Burst being single-target and applying a lot slower than Bloom Reactions can hit.
 
 
 Electro options: Raiden / Kuki
@@ -354,7 +374,9 @@ Baizhu | Electro | Hydro | Flex
 
 ![](/faq/baizhu/quickbloom.png)
 
-A variation on Hyperbloom teams that allows for both Quicken and Hyperbloom Reactions to be triggered simultaneously. For Quickbloom teams specifically, Baizhu’s main standout partner is Cyno, due to him utilizing both the Reaction DMG buffs from Baizhu’s A4 Passive as well as benefiting from the increased Interruption Resistance and more healing than current popular alternatives (such as Kuki). Baizhu’s staggered Dendro application can also be a benefit in multiwave content, due to not expiring once the first wave dies. In Quickbloom, players have the choice to run a second Dendro for more consistent application, or a second Electro to capitalize on Aggravates and Electro Resonance. However, characters such as Cyno may have Energy issues in Double Dendro scenarios without multiple Favonius weapons.
+A variation on Hyperbloom teams that allows for both Quicken and Hyperbloom Reactions to be triggered simultaneously. For Quickbloom teams specifically, Baizhu’s main standout partner is Cyno, due to him utilizing both the Reaction DMG buffs from Baizhu’s A4 Passive as well as benefiting from the increased Interruption Resistance and more healing than current popular alternatives (such as Kuki). Baizhu’s staggered Dendro application can also be a benefit in multiwave content, due to not expiring once the first wave dies. 
+
+In Quickbloom, players have the choice to run a second Dendro for more consistent application, or a second Electro to capitalize on Aggravates and Electro Resonance. However, characters such as Cyno may have Energy issues in Double Dendro scenarios without multiple Favonius weapons.
 
 
 Electro options: Cyno / Keqing / Raiden / Kuki / Yae / Fischl
@@ -369,7 +391,9 @@ Baizhu | Pyro | Hydro | Flex
 
 ![](/faq/baizhu/burgeon.png)
 
-Although Baizhu’s Dendro application isn’t great in AoE, he can be used as a defensive option in Burgeon teams, providing more comfort to players who aren’t comfortable playing Thoma on a full EM build as the only defensive option. Despite this, Burgeon teams will generally still want a second Dendro character for consistent Dendro application, as well as enabling Dendro Resonance, increasing the overall EM of the team. However, like Hyperbloom teams, Burgeon teams also generally rely on an off-field trigger, making Baizhu’s A4 Passive effectively useless again.
+Although Baizhu’s Dendro application isn’t great in AoE, he can be used as a defensive option in Burgeon teams, providing more comfort to players who aren’t comfortable playing Thoma on a full EM build as the only defensive option.
+
+Despite this, Burgeon teams will generally still want a second Dendro character for consistent Dendro application, as well as enabling Dendro Resonance, increasing the overall EM of the team. However, like Hyperbloom teams, Burgeon teams also generally rely on an off-field trigger, making Baizhu’s A4 Passive effectively useless again.
 
 
 Pyro options: Thoma
@@ -384,7 +408,12 @@ Baizhu | Nilou | Hydro | Dendro
 
 ![](/faq/baizhu/niloubloom.png)
 
-In Nilou Bloom teams, Baizhu has his strength as an alternative to Yaoyao. Although his Burst application is relatively Single-target locked, it’s staggered over the duration of 14 seconds compared to Yaoyao’s Burst, which instead concentrates its AoE Dendro Application into a short period. On top of large amounts of healing, he also provides shields, which may not be the largest, but still absorb Dendro DMG with 250% effectiveness, adding extra comfort and Interruption Resistance to the team. Finally, Baizhu also provides up to 100% Bloom Reaction DMG to teammates when healing with his Burst. Due to the quickswap nature of Nilou teams, this buff can quite easily be applied to several party members in a rotation, increasing its usefulness. At the end of the day, he’s another defensive Dendro option that players can slot into Nilou teams over Yaoyao if they’d like.
+In Nilou Bloom teams, Baizhu has his strength as an alternative to Yaoyao. Although his Burst application is relatively Single-target locked, it’s staggered over the duration of 14 seconds compared to Yaoyao’s Burst, which instead concentrates its AoE Dendro Application into a short period.
+
+On top of large amounts of healing, he also provides shields, which may not be the largest, but still absorb Dendro DMG with 250% effectiveness, adding extra comfort and Interruption Resistance to the team. Finally, Baizhu also provides up to 100% Bloom Reaction DMG to teammates when healing with his Burst.
+
+Due to the quickswap nature of Nilou teams, this buff can quite easily be applied to several party members in a rotation, increasing its usefulness. At the end of the day, he’s another defensive Dendro option that players can slot into Nilou teams over Yaoyao if they’d like.
+
 
 
 Hydro options: Kokomi / Xingqiu / Yelan / Ayato / Candace 
