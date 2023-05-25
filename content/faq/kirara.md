@@ -173,7 +173,7 @@ Unlike Baizhu, Kirara does not require a Burst activation to deploy defensive ut
 
 *Substats:*  HP% > HP > ATK%/ATK/CRIT%/CRIT DMG%
 
-### Artifacts Set
+### Artifacts Sets
 
 ![](/faq/kirara/2hp2hp.png)
 **2PC HP / 2PC HP:**  
@@ -271,7 +271,7 @@ Kirara provides adequate off-field shielding in Quicken scenarios where she is s
 
 When C4 is unlocked, Kirara can potentially feel more comfortable in being a solo Dendro character in single target situations because of the additional coordinated attacks applying Dendro on enemies.
 
-__**Teammates**__
+<u>**Teammates**</u>
 
 **Electro options:** Keqing / Raiden / Fischl / Yae / Sara / Beidou
 
@@ -289,7 +289,7 @@ Being a Dendro Unit, Kirara can easily slot into Bloom teams as a survivability 
 
 The possibility of on-field Kirara as a Dendro applicator in her Urgent Neko Parcel state requires further testing.
 
-__**Teammates**__
+<u>**Teammates**</u>
 
 **Hydro options:** Kokomi / Xingqiu / Yelan / Ayato / Candace
 
@@ -304,6 +304,8 @@ __**Teammates**__
 Aside from Kirara's general utility leaning towards defense, her viability as a Dendro driver for Burgeon/Hyperbloom during the Urgent Neko Parcel state is questionable and requires further testing. Since Kirara is unable to trigger Normal Attacks during this state, any Hydro application using Xingqiu or Yelan is not possible, which limits options for a Hydro applicator in such teams.
 
 It is important to note that unlocking Kirara’s C4 potentially allowing her to function as an off-field Dendro applicator with shield capabilities for hyperbloom teams. More testing is needed on both her C4 and Hold Skill capabilities in this scenario.
+
+<u>**Teammates**</u>
 
 **Pyro (Burgeon)** options: Thoma / Dehya
 
