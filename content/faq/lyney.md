@@ -40,13 +40,13 @@ Because he takes up much of his teams’ field time, his teammates are typically
 
 ![](/faq/lyney/talent.png)
 
-__**ANALYSIS**__
+### ANALYSIS
 
 All Pyrotechnic Strike damage scales off of Lyney’s Normal Attack talent, and his Charged Attacks themselves do a significant amount of damage, so maxing Lyney’s Normal Attack talent is first priority.
 
 After his NA talent, leveling either of his Skill or Burst talents provide similar returns, so they should be leveled in tandem. Leveling Lyney’s Skill talent is slightly more valuable if Bursting only once every 2 rotations, and leveling his Burst talent pulls ahead slightly if Bursting every rotation.
 
-__**TALENT OVERVIEW**__
+### TALENT OVERVIEW
 
 **Normal Attack: Card Force Translocation** - Lyney has a Charged Attack mechanic similar to the likes of Ganyu or Tighnari, where Charged Attacks can be charged past the typical fully-charged state for a unique attack. In Lyney’s case, a Charge Level 2 Attack fires a Prop Arrow, which summons a Grin-Malkin Hat upon hitting anything. 
 
