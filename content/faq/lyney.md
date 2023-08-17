@@ -114,7 +114,7 @@ The first ever Constellation to increase Normal Attack Talent levels, Lyney’s 
 
 *DPS Increase from C0: 33.2%*
 
-*DPS Increase from C1: 12.3%*
+*DPS Increase from C2: 12.3%*
 
 *Rating: 2/5*
 
@@ -127,7 +127,7 @@ C4 is a solid increase to all of Lyney’s damage in all teams, but its value in
 
 *DPS Increase from C0: 45.8%*
 
-*DPS Increase from C1: 9.5%*
+*DPS Increase from C3: 9.5%*
 
 *Rating: 2.5/5*
 
@@ -140,7 +140,7 @@ C5 is a mostly negligible damage increase, especially in teams where Lyney only 
 
 *DPS Increase from C0: 48.1%*
 
-*DPS Increase from C1: 1.5%*
+*DPS Increase from C4: 1.5%*
 
 *Rating: 0.5/5*
 
@@ -155,7 +155,7 @@ Overall, Lyney’s Constellations increase his damage while changing little abou
 
 *DPS Increase from C0: 96.9%*
 
-*DPS Increase from C1: 33.0%*
+*DPS Increase from C5: 33.0%*
 
 *Rating: 3.5/5*
 
