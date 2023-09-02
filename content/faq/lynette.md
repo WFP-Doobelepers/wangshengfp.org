@@ -32,7 +32,7 @@ At C0, her team options are quite restrictive; National teams may struggle with 
 
 That said, the majority of the time, Lynette will serve as a dedicated support, rather than a DPS.
 
-Compared to other Viridescent Venerer-wielders, Lynette falls behind. While her Burst taunts enemies, her crowd control is severely lacking compared to Sucrose, another 4-star Anemo character who can be acquired for free through Paimon’s Bargains. In Hyperbloom teams, Sucrose remains a stronger option due to her being able to share her Elemental Mastery stat, whereas Lynette’s teamwide ATK buff is less relevant, and Sucrose’s Anemo application is not dependent on an infusion like Lynette, offering Sucrose more consistency. For raw damage in An3mo teams, 4-star Heizou is a fierce competition and doesn’t need to rely on an infusion through max Constellations to deal respectable Anemo damage.
+Compared to other Viridescent Venerer-wielders, Lynette falls behind. While her Burst taunts enemies, her crowd control is severely lacking compared to Sucrose, another 4-star Anemo character. In Hyperbloom teams, Sucrose remains a stronger option due to her being able to share her Elemental Mastery stat, whereas Lynette’s teamwide ATK buff is less relevant, and Sucrose’s Anemo application is not dependent on an infusion like Lynette, offering Sucrose more consistency. For raw damage in An3mo teams, 4-star Heizou is a fierce competition and doesn’t need to rely on an infusion through max Constellations to deal respectable Anemo damage.
 
 To summarize, Lynette is seldom the best choice for any circumstance outside of being an Anemo character with the Ousia alignment. When it comes to support, ATK damage, and reactions, other 4-stars and 5-stars are more efficient at their jobs. Lynette’s true power evaluation, then, depends on exactly how essential Ousia alignment becomes from 4.0 onward.
 
@@ -48,11 +48,11 @@ To summarize, Lynette is seldom the best choice for any circumstance outside of 
 ![](/faq/lynette/talent2.png)
 - C6 on-field - Burst > Normal Attack >= Skill
 
-### ANALYSIS
+### Analysis
 
 At C0, Lynette generally just wants to Skill, Burst and swap out, whilst Absorbing an element into her Elemental Burst to increase its damage output. At C6, Lynette is able to on-field with Anemo-Infused Normal Attacks, giving her some alternative playstyles.
 
-### TALENT OVERVIEW
+### Talent Overview
 
 **Normal Attack: Rapid Ritesword:**
 Lynette performs a quick, 4-hit attack string with a multihit on the 3rd attack. At C0, these are underwhelming due to Lynette not being suited for Physical DMG, but her C6 grants a short Anemo Infusion, allowing her to have some on-field presence.
@@ -69,7 +69,7 @@ Lynette’s Skill has both a Tap and Hold function. On Tap, Lynette unleashes **
 **Elemental Burst: Magic Trick: Astonishing Shift** 
 Lynette hits around her in an AoE whilst summoning a **Bogglecat Box**, which taunts enemies and deals Anemo DMG every second. When the Bogglecat Box is hit by a Cryo, Pyro, Hydro or Electro attack, it absorbs the element and starts firing **Vivid Shots**, one every 2.3 seconds.
 
-- Her Burst is her highest source of damage, lasting for 12 seconds on an 18 second cooldown with a 70 Energy Cost. It has similar properties to Amber’s Baron Bunny, in which it can be pushed around easily by players and enemies. The Bogglecat Box also shares the same absorption priority as Anemo Traveler, being Cryo > Pyro > Hydro > Electro. With C2, the Elemental application from her Vivid Shots doubles to once every wave, compared to once every other wave, allowing her to trigger more reactions against enemies.
+- Her Burst is her highest source of damage, lasting for 12 seconds on an 18 second cooldown with a 70 Energy Cost. It has similar properties to other abilities in the game, such as Amber’s Baron Bunny, in which it can be pushed around easily by players and enemies. The Bogglecat Box also shares the same absorption rules as Dendro Traveler, absorbing the first Element it comes into contact with. With C2, the Elemental application from her Vivid Shots doubles to once every wave, compared to once every other wave, allowing her to trigger more reactions against enemies. Her Burst is also dynamic, meaning buffs such as Marechaussee Hunter will grant all 3 stacks to her Burst, rather than snapshotting 1 or 2 stacks upon casting.
 
 
 **A1 Passive: Sophisticated Energy** 
@@ -134,7 +134,7 @@ Three extra levels to Lynette’s Burst, granting more damage from both the Bogg
 
 - _When Lynette uses Enigmatic Feint's Enigma Thrust, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s._
 
-Her last Constellation grants a new playstyle to Lynette, allowing her to take the field for a portion of your rotation, whilst also gaining a 20% Anemo DMG Bonus, which can be snapshotted onto her Elemental Burst. This Constellation allows her to drive teams such as Hyperbloom, where EM stats can be valuable compared to her traditional ADC build. The increased field time also lowers her Energy requirements, allowing more offensive substats in her gear. Anemo Infusions also allow for Lynette to swirl other infusions off her weapon, allowing for unique double swirl setups with other infusions such as C6 Bennett, Chongyun or Candace.
+Her last Constellation grants a new playstyle to Lynette, allowing her to take the field for a portion of your rotation, whilst also gaining a 20% Anemo DMG Bonus, increasing the damage from the rest of her kit. This Constellation allows her to drive teams such as Hyperbloom, where EM stats can be valuable compared to her traditional ADC build. The increased field time also lowers her Energy requirements, allowing more offensive substats in her gear. Anemo Infusions also allow for Lynette to swirl other infusions off her weapon, allowing for unique double swirl setups with other infusions such as C6 Bennett, Chongyun or Candace.
 
 *Rating: 3.5/5*
 
@@ -219,7 +219,7 @@ An option over Gilded Dreams that grants slightly more Hyperbloom damage in exch
 ![](/faq/lynette/4mh.png)
 **4pc Marechaussee Hunter (MH)**
 
-Due to Lynette’s Skill healing and then slowly draining her HP, she is able to activate the 4pc effect of Marechaussee Hunter, granting her large amounts of CRIT Rate. However, her Burst will only snapshot 1-2 stacks depending on if she gains one from healing or not due to needing to capture particles. At C6, this is much less of an issue, with Lynette gaining the ability to drive on-field with a 36% CRIT Rate buff to her Normal Attacks. 
+Due to Lynette’s Skill healing and then slowly draining her HP, she is able to activate the 4pc effect of Marechaussee Hunter, granting her large amounts of CRIT Rate. However,a s the set only procs on-field, the stacks will not stay for her Burst’s whole duration unless she is played on-field at C6
 
 ![](/faq/lynette/4dpc.png)
 **4pc Desert Pavilion Chronicle (DPC)**
@@ -348,7 +348,7 @@ Best craftable for her personal damage while also outranking other options, incl
 This craftable does less damage, but can offer a leaf that buffs Elemental Mastery. This is probably better on support builds, but is still worth mentioning.
 
 ## **Team Building**
-*Authored by leifa*
+*Authored by Leifa*
 
 At C0, Lynette leans much more to a general Anemo slot in for teams, especially against Pneuma-aligned enemies and mechanics. Her Skill gives short but fast mobility whilst her Burst gives fast, off-field Anemo DMG. With constellations, she gains grouping, increased Absorption application, an extra Skill charge and an Anemo Infusion, granting her more utility and flexibility.
 
@@ -362,7 +362,7 @@ Lynette’s field time varies depending on your build and team:
 
 - Hyperbloom: 6-7s+6-7s or 12-13s (whether you infuse two separate times, or use all your field time at once); when Normal Attacking with infusion, N3D is best for Swirl count.
 
-### An3mo
+### Hyperbloom
 ![](/faq/lynette/an3mo.png)
 
 Due to Lynette being an Anemo character that generally builds for ATK and CRIT over EM stats, she finds a nice place in An3mo. Bennett is highly recommended for the flex slot of this team due to the large attack buff he brings on top of general survivability. However, he must be C5 or lower, due to Lynette’s infusion being swirled away by the Pyro Infusion granted by his Burst. C6 Faruzan is also another large increase, lowering her and the team's ER requirements whilst also dealing good off-field damage, allowing C6 Lynette or another Anemo character to take the field.
