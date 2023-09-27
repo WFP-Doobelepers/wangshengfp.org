@@ -19,6 +19,8 @@ author: ["Athena", "Leifa"]
 -   _fianwens - Writing Verification_
 -   _natc - Calcs Verification_
 
+For all Wriothesley Calcs you can reference: [Wriothesley Mastersheet](https://docs.google.com/spreadsheets/d/1YGaDBgqcvBpb-BWadJyoPycg1Ql5OmR4Z5PcFg5cmm4/edit?usp=sharing) by Athena
+
 Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.
 
 ## **Character Overview**
