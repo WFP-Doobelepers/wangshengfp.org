@@ -4,7 +4,7 @@ character: "Neuvillette"
 character_star: 5
 element: "hydro"
 aliases: []
-author: ["kolvii", "leifa"]
+author: ["kolvii", "Leifa"]
 ---
 
 <br>
@@ -21,7 +21,7 @@ author: ["kolvii", "leifa"]
 -   _cuzimori - Consulting, Writing Verification_
 -   _mien - Calculations Verification_
 
-For all Neuvillette Calcs you can reference: [Neuvillette Mastersheet](https://docs.google.com/spreadsheets/d/1_hF11-NbyqKxUpVA89oYiCJNZRORp3PX5GHPpty3cVg/edit?usp=sharing) by kolvii
+For all Neuvillette Calcs you can reference: [Neuvillette Mastersheet](https://docs.google.com/spreadsheets/d/16yvjzY7-ygeyzQQoKp2aMahFu_OCPiO56fs-jBk1PnA/edit?usp=sharing) by kolvii
 
 _Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt._
 
