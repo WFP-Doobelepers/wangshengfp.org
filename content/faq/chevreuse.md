@@ -72,6 +72,8 @@ Chevreuse decreases the sprinting Stamina consumption of party members by 20%, a
 
 _Authored by Leifa_
 
+DPS% increases assume an average of her personal damage increases between both damage and healing-oriented builds. Although their increases are similar, please check the [Chevreuse Mastersheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit?usp=sharing) for specifics.
+
 ![](/faq/chevreuse/c1.png)
 
 ### Constellation 1 - Stable Front Line's Resolve
@@ -197,12 +199,14 @@ For more details on how Favonius weapons will affect your team, please use Ac1d�
 
 ## Artifacts
 
-_Authored by Athena_
+_Authored by Leifa_
 
 ### Artifact Stats
 
 **Sands of Eon:** HP%
+
 **Goblet of Eonothem:** HP%
+
 **Circlet of Logos:** HP% / HB%
 
 If players require the use of Chevreuse’s Elemental Burst, her ER Requirements should be met first before looking for other stats. Chevreuse prefers to stack as much HP% as possible, helping her to reach 40,000 HP to maximize her A4 Passive. After that, she is able to focus on other stats that benefit her healing, such as a Healing Bonus Circlet. In Raiden teams, Chevreuse’s ER Requirements are low enough that she can aim for more offensive substats, such as CRIT and ATK%.
