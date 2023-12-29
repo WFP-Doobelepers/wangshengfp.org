@@ -310,14 +310,6 @@ Yoimiya Overloaded teams are a viable alternative to her current options whilst 
 
 Lyney Overloaded teams prefer to play shorter rotations compared to other teams and are able to keep a consistent Pyro aura for his A4 Passive, whilst also getting consistent Overloaded reactions to trigger Chevreuse’s A1. Dehya is also a viable alternative to Bennett, providing interruption resistance, utility that is greatly appreciated on Bow characters.
 
-### Lyney
-
-**Chevreuse | Lyney | Fischl | Dehya / Bennett**
-
-![](/faq/chevreuse/lyney.png)
-
-Lyney Overloaded teams prefer to play shorter rotations compared to other teams and are able to keep a consistent Pyro aura for his A4 Passive, whilst also getting consistent Overloaded reactions to trigger Chevreuse’s A1. Dehya is also a viable alternative to Bennett, providing interruption resistance, utility that is greatly appreciated on Bow characters.
-
 ### Other Options
 
 **Chevreuse | Pyro / Electro | Flex | Flex**
