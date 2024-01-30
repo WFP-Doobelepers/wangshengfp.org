@@ -4,7 +4,7 @@ character: "Gaming"
 character_star: 4
 element: "pyro"
 aliases: []
-author: ["Leifa", "Whalien"]
+author: ["Leifa", "June", "Duckfero", "Nooot", "Quinslay", "Whalien"]
 ---
 
 <br>
@@ -13,7 +13,7 @@ author: ["Leifa", "Whalien"]
 
 -   _Emiliabyss - Lead_
 -   _Leifa - Consultation, Writing Verification, Author | Overview_
--   _June - Transcription, Author | Talents, Constellations, Calcs | Constellations_
+-   _June - Transcription, Author | Talents, Constellations, Combos, Calcs | Constellations_
 -   _Duckfero - Author | ER Requirements_
 -   _Nooot - Author & Calcs | Artifacts_
 -   _Quinslay - Author & Calcs | Weapons_
@@ -40,8 +40,12 @@ Gaming will primarily be played as an on-field DPS, repeatedly dashing at enemie
 _Authored by June_
 
 -   **Leveling Priority:** Elemental Skill > Elemental Burst > Normal Attack
+
     ![](/faq/gaming/talent1.png)
--   **With C6 Bennett and Xianyun:** Elemental Skill > Normal Attack > lemental Burst
+
+-   **With C6 Bennett and Xianyun:** Elemental Skill > Normal Attack > Elemental Burst
+
+    ![](/faq/gaming/talent2.png)
 
 ### Analysis
 
@@ -174,22 +178,22 @@ Please note that if you want to Swirl Pyro, you will have to switch to Xianyun o
 
 For the discussion of in-depth gameplay details, please check the Teambuilding section of this FAQ.
 
-**If Xianyun: EP focus, JP or NA in between EP**
-With Xianyun in the team, Gaming would want to maximize her A4 Passive's Flat DMG Bonus with his Charmed Cloudstrider Plunges. Regular Plunging Attacks or Normal Attacks can be used in between Charmed Cloudstrider Plunges.
+-   **If Xianyun: EP focus, JP or NA in between EP**
+    With Xianyun in the team, Gaming would want to maximize her A4 Passive's Flat DMG Bonus with his Charmed Cloudstrider Plunges. Regular Plunging Attacks or Normal Attacks can be used in between Charmed Cloudstrider Plunges.
 
-**If Xianyun AND C6 Bennett: Alternate between EP and JP**
-With C6 Bennett's ATK buff and 15% Pyro DMG Bonus, use Charmed Cloudstrider Plunges with regular Plunging Attacks to fully utilize Xianyun's A4 Passive and maximize Gaming's damage output.
+-   **If Xianyun AND C6 Bennett: Alternate between EP and JP**
+    With C6 Bennett's ATK buff and 15% Pyro DMG Bonus, use Charmed Cloudstrider Plunges with regular Plunging Attacks to fully utilize Xianyun's A4 Passive and maximize Gaming's damage output.
 
 Keep in mind that if you are using regular Plunging Attacks, it makes it harder to meet up with Man Chai to reset Gaming's Skill CD, which means that there would be 1 less Skill per rotation most of the time.
 
-**If Xingqiu or Yelan: Weave NAs before any PA**
-Weaving Normal Attacks in between Plunging Attacks triggers Xingqiu's Rain Swords or Yelan's Exquisite Throw to ensure Gaming's Plunging Attacks trigger Vaporize.
+-   **If Xingqiu or Yelan: Weave NAs before any PA**
+    Weaving Normal Attacks in between Plunging Attacks triggers Xingqiu's Rain Swords or Yelan's Exquisite Throw to ensure Gaming's Plunging Attacks trigger Vaporize.
 
-**If Melt with C6 Bennett: Dash towards Man Chai and only EP**
-Dashing to meet Man Chai would maximize the amount of Charmed Cloudstrider Plunges Gaming is able to use. Due to the insufficient amount of Cryo application, focusing on Charmed Cloudstrider Plunge's Melt damage would be more optimal instead of weaving in any regular Plunging Attacks or Normal Attacks.
+-   **If Melt with C6 Bennett: Dash towards Man Chai and only EP**
+    Dashing to meet Man Chai would maximize the amount of Charmed Cloudstrider Plunges Gaming is able to use. Due to the insufficient amount of Cryo application, focusing on Charmed Cloudstrider Plunge's Melt damage would be more optimal instead of weaving in any regular Plunging Attacks or Normal Attacks.
 
-**Else: NA between EP until E CD resets**
-To deal as much damage as possible while waiting for Gaming's Elemental Skill CD, weave Normal Attacks in between Charmed Cloudstrider Plunges.
+-   **Else: NA between EP until E CD resets**
+    To deal as much damage as possible while waiting for Gaming's Elemental Skill CD, weave Normal Attacks in between Charmed Cloudstrider Plunges.
 
 ## ER Requirement
 

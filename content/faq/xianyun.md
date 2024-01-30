@@ -55,8 +55,6 @@ The essential parts of Xianyun’s kit are her Burst and Passive Talents. Her ki
 
 **Normal Attack: Word of Wind and Flower**
 
-Furina performs a 4-hit attack string. At C0, she has almost no reason to use these. However, at C6, she gains a Hydro Infusion and increased scalings based on her Max HP. Her Charged Attack may be used often to change her Arkhe alignment between Ousia and Pneuma, changing the effects of her Elemental Skill and helping with overworld puzzles. Both Arkhe Attacks have a 6s CD each, making her excel at any content involving Arkhe mechanics compared to previous Fontainian characters.
-
 Xianyun performs a 4-hit Anemo attack string. This Talent is not essential to her kit, although with her being an Anemo Catalyst character, her Normal Attacks allow her to be a driver for various teams.
 
 **Elemental Skill: White Clouds at Dawn**
@@ -265,7 +263,7 @@ A direct downgrade to Ocean-Hued Clam, since its buff is weaker than the potenti
 ![](/faq/xianyun/4eosf.png)
 **4pc Emblem of Severed Fate**
 
-This set helps Xianyun reach her ER Requirements whilst buffing her Burst damage ever so slightly. That being said, Xianyun’s Burst doesn’t have a lot of damage contribution compared to the rest of her team, so this set is slightly lackluster..
+This set helps Xianyun reach her ER Requirements whilst buffing her Burst damage ever so slightly. That being said, Xianyun’s Burst doesn’t have a lot of damage contribution compared to the rest of her team, so this set is slightly lackluster.
 
 ## **Weapons**
 
@@ -333,7 +331,7 @@ Not all Plunging Attacks are made equal, although they’re generally similar ov
 
 -   **Sword** - Standard Plunging Attack with the Collision hitbox positioned at the center of the attack. Can be dash-canceled immediately and flows into N1.
 
--   **- Alternative Sword** - Considerably faster startup lag than the traditional Sword Plunging Attack. Only applicable to Albedo and Bennett.
+    -   **Alternative Sword** - Considerably faster startup lag than the traditional Sword Plunging Attack. Only applicable to Albedo and Bennett.
 
 -   **Polearm** - Very similar to Sword Plunging Attacks. They cannot be dash-canceled but have a slightly faster N1 cancellation.
 
@@ -362,7 +360,7 @@ Depending on the content, Xiao can play both a shorter or a longer rotation, var
 **Xiao / Xianyun / Faruzan / Furina**
 ER Reqs: 185–190% / 120–130% (C0 vs C6 Faruzan, ranging from 22s to 26s rotations)
 
-#### **Gamingy**
+#### **Gaming**
 
 ![](/faq/xianyun/gaming.png)
 
@@ -397,6 +395,7 @@ Xianyun is also playable in VV Vape setups, being able to shred the resistances 
 Even though his kit wasn’t designed around it, Diluc already utilized Plunging Attacks through the use of Dragonstriking, a technique involving using the hitlag from hitting an enemy to increase a character’s jump height. This was due to Diluc having an above average Plunging Attack Multiplier compared to the rest of his Multipliers, resulting in tight execution combos for a majority of players that utilized Plunging Attacks. With Xianyun’s release, this is no longer an issue, due to her granting an increased jump height to perform Plunging Attacks with ease. Additionally, Diluc gains a significant buff from Xianyun’s A4 Passive, which is further enhanced by triggering Amplifying reactions on his Plunging Attacks. Players can opt for slower Plunges, weaving in N1s to keep Diluc targeting the nearest enemy, whilst triggering off-fielders such as Xingqiu or Yelan. Alternatively, Sword, Claymore, and Catalyst characters are able to immediately dash and jump upon landing with a Plunging Attack, resulting in faster Plunging Attacks at the cost of Stamina. Additionally, Plunging Attacks do not auto target onto enemies, resulting in the possibility of missing Diluc’s Plunging Attacks if players are carelessly Dash Plunging. Diluc also greatly benefits from Bennett’s C6 in this team, granting a Pyro Infusion and large ATK buff. Bennett’s Pyro Infusion also allows Diluc to ignore his own Elemental Burst, meaning he has no need for Energy Recharge stats and can focus fully on damage.
 
 **Diluc / Xianyun / Furina / Yelan** ER Reqs: 265%
+
 **Diluc / Xianyun / Xingqiu / Bennett** ER Reqs: 275–300% (24.5s rot using Diluc EEEQ vs 21s rot without his E or Q)
 
 #### **Freminet**
@@ -412,7 +411,9 @@ Alongside his Level 0 Skill, Cryo Freminet utilizes Chongyun's Skill to infuse h
 With an Electro teammate like Fischl or Yae Miko, Physical Freminet can be played, using his Skill before performing Plunging Attacks in order to trigger Superconduct. The fourth team slot can be various units with off-field utility, including defensive options such as Zhongli or Layla, who provide comfort at the cost of damage; damage dealers such as Furina, Xingqiu, or Rosaria; or buffers such as pre-C6 Bennett or Mika, whose C6 is pivotal to him being useful in the team. Depending on your 4th teammate, Xianyun can optionally change her Artifact set from 4pc Viridescent Venerer to any of 4pc Noblesse Oblige, 4pc Ocean-Hued Clam or 4pc Song of Days Past. However, 4pc VV will generally be preferred if being paired with another off-field damage dealer.
 
 **Freminet / Xianyun / Xingqiu / Bennett C6** ER Reqs: 275%
+
 **Freminet / Xianyun / Chongyun / Furina** ER Reqs: 250%
+
 **Freminet / Xianyun / Fischl / Mika C6** ER Reqs: 265%
 
 #### **Bennett**
@@ -424,6 +425,7 @@ Whilst many characters utilizing Plunging Attacks use Bennett for his large ATK 
 Because of his fast Plunges and large buffs, he can make use of other Elemental Infusions, in order to trigger other Amplifying reactions, such as Candace for Forward Vaporize and Chongyun for Reverse Melt. In these teams, Bennett will use the corresponding Elemental Goblet to match his Infusion, whilst generally being paired with Xiangling for both high off-field damage and Pyro Application. Please note that Chongyun’s Cryo Infusion will be overwritten by Bennett’s C6 Pyro Infusion due to Melting the Infusion. However, Candace does not have this issue, due to Vaporizing away Bennett’s Pyro Infusion.
 
 **Bennett / Xianyun / Furina / Yelan** ER Reqs: 235%
+
 **Bennett / Xianyun / Candace / Xiangling** ER Reqs: 265%
 
 #### **Raiden**
@@ -433,6 +435,7 @@ Because of his fast Plunges and large buffs, he can make use of other Elemental 
 Unfortunately, due to Raiden’s Burst stance being considered Burst DMG, she is unable to receive the Flat DMG buff provided by Xianyun’s A4. Despite this, she still has access to a new combo, being 4(N1CJP). Although this combo was previously possible via Dragonstriking, it was very hard to execute and only worked under specific scenarios. The execution can still be tight to get the 4th Plunging Attack in whilst getting both hits of her Charged Attack before jumping, however, Xianyun’s release makes this combo more accessible, whilst allowing the use of a wider variety of teammates. Characters such as Sara and Bennett can be used for a Hyper-style team, Nahida for an Aggravate team or teammates such as Xiangling for high off-field damage or Furina for both off-field damage and buffing. Raiden also helps to significantly lower Xianyun’s ER Requirements, granting ~20–25 Flat Energy to all teammates depending on her Energy Recharge.
 
 **Raiden / Xianyun / Sara / Bennett** ER Reqs: 175%
+
 **Raiden / Xianyun / Furina / Yelan** ER Reqs: 165%
 
 #### **Wriothesley**
