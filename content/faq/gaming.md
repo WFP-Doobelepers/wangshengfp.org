@@ -1,6 +1,6 @@
 ---
-title: "Chevreuse Pre-TC FAQ"
-character: "Chevreuse"
+title: "Gaming Pre-TC FAQ"
+character: "Gaming"
 character_star: 4
 element: "pyro"
 aliases: []
@@ -37,162 +37,173 @@ Gaming will primarily be played as an on-field DPS, repeatedly dashing at enemie
 
 ## **Talents**
 
-_Authored by Leifa_
+_Authored by June_
 
--   **Leveling Priority:** Elemental Skill > Elemental Burst >> Normal Attack
-    ![](/faq/gaming/talent.png)
+-   **Leveling Priority:** Elemental Skill > Elemental Burst > Normal Attack
+    ![](/faq/gaming/talent1.png)
+-   **With C6 Bennett and Xianyun:** Elemental Skill > Normal Attack > lemental Burst
 
 ### Analysis
 
-Chevreuse’s buffs are unrelated to her Talent levels, however her healing scales with her Elemental Skill, making that the first priority for some extra comfort. Her Normal Attacks are unused, making her Elemental Burst next in line for leveling. Although her Burst Talent levels are extra damage, Chevreuse is not dealing a large amount of damage in a majority of teams and sometimes does not cast her Elemental Burst at all, meaning this can also be ignored if players aren't using it.
+-   Gaming’s kit revolves around his Charmed Cloudstrider Plunging Attacks; hence, his Elemental Skill should be prioritized in leveling. The Wushou Stance granted by his Burst helps him perform these enhanced Plunging Attacks in rapid succession. These enhanced Plunging Attacks cannot deal Collision Plunge Damage.
+
+-   With C6 Bennett and Xianyun, Gaming’s Normal Attacks and regular Plunging Attacks contribute notably to his damage output due to Xianyun’s Plunging Attack buffs and C6 Bennett’s Pyro infusion, along with a 15% Pyro DMG Bonus. Therefore, in such teams, it is recommended to level his Normal Attack Talent as well.
+
+-   Gaming has a HP fluctuation mechanic similar to Fontaine characters, consuming and recovering his own HP upon using his Skill. It is recommended to keep him above 50% HP as much as possible to fully maximize his self-buffs and Man Chai’s Elemental Skill CD reset.
 
 ### Talent Overview
 
-**Normal Attack: Line Bayonet Thrust EX**
+**Normal Attack: Stellar Rend**
 
-Chevreuse performs a 4-hit attack string. However, her kit doesn’t require using them at all, meaning they can be safely ignored.
+Gaming’s Normal and Plunging Attacks are often used in between his Charmed Cloudstrider Plunging Attacks. Regular Plunging Attacks are used when Xianyun is in the team to maximize her A4 Passive. Hence, it is not recommended to fully ignore this Talent.
 
-**Elemental Skill: Short-Range Rapid Interdiction Fire**
+**Elemental Skill: Bestial Ascent**
 
-When tapped, Chevreuse’s Elemental Skill fires a quick shot from her musket, dealing AoE Pyro DMG. When held, Chevreuse enters an Aiming Mode, locking onto a target in her crosshair to fire a more precise shot, dealing increased Pyro DMG with a slight increase to her interruption resistance. If an Overloaded reaction has been recently triggered, her Hold Skill will become enhanced, firing an Overcharged Ball for even higher DMG upon its next use. After casting her Skill, the current active character will receive a healing over time effect for 12 seconds, triggering once every two seconds and scaling off of her Max HP. This healing typically ranges from around 3,000 - 4,000 per tick when using her Burst, and around 5,000 when not, making her a good defensive slot in for teams. Chevreuse’s Skill generates 4 particles with a cooldown of 15 seconds, meaning she will generally only get one set of particles per rotation. Because of the extra benefits granted by her enhanced Hold Skill, there is little reason to use her Tap Skill in combat.
+The crème de la crème of Gaming’s kit and the source of most of his damage. Gaming lunges forward and launches himself upwards after colliding with an enemy. Upon going down, he performs his special Charmed Cloudstrider Plunging Attack, which is a Pyro-converted Plunging Attack that cannot be overridden by other infusions. Gaming also consumes 15% of his Max HP upon landing a Charmed Cloudstrider Plunging Attack. This consumption stops when only 10% of his Max HP remains. Charmed Cloudstrider Plunging Attacks cannot deal Collision Plunge Damage.
 
-**Elemental Burst: Ring of Bursting Grenades**
+**Elemental Burst: Suanni's Gilded Dance**
 
-Chevreuse’s Elemental Burst fires an explosive grenade, dealing AoE Pyro DMG and exploding into 8 smaller cluster shells, which detonate after a short period. These cluster shells have inward knockback, meaning enemies will be hit towards the center of her Elemental Burst’s explosion. However, these cluster shells will only apply Pyro on the 1st and 4th hits and explode relatively quickly compared to other bomblets, such as Klee or Kirara’s, which stick around after being created, making it unreliable as a form of off-field Pyro application. Although her Burst costs 60 Energy to cast, it’s not required to activate any of her buffs, meaning players will generally prefer to stack HP / Healing Bonus for healing and buffs rather than ER / ATK% / CRIT for Burst damage.
+Gaming enters Wushou Stance upon using his Burst. During its initial cast, Gaming regains 30% of his Max HP, briefly applies Pyro to himself, and summons his companion, Suanni Man Chai, who smashes into the enemy and deals damage. Man Chai then rolls to a nearby location and collides with Gaming. After colliding, Gaming’s Elemental Skill CD resets.
 
-**A1 Passive: Vanguard’s Coordinated Tactics**
+If Gaming performs a Charmed Cloudstrider Plunging Attack whilst above 50% HP during the Wushou Stance, he summons Man Chai again, who rolls and collides with Gaming once more. This resets his Skill CD again and allows him to do Charmed Cloudstrider Plunges 4–5 times within Wushou Stance’s duration.
 
-When the team is only composed of Pyro and Electro characters, Chevreuse reduces the Pyro and Electro RES of opponents hit by Overloaded by 40% for 6 seconds. Although this means her teams are unable to run teammates of a different Element, such as an Anemo character for grouping, she is able to reliably shred the Resistances of two Elements at once and from off-field, compared to 4pc Viridescent Venerer which requires an on-field Swirl Reaction. This also allows her to shred the Resistance of enemies in scenarios where 4pc VV can not, such as on enemies with innate auras.
+**A1 Passive: Dance of Amity**
+This Passive allows Gaming to heal himself outside of his Burst’s initial cast. For 0.8s, he recovers 1.5% of his HP per 0.2s, which means he heals 6% of his HP total for 0.8s after hitting an opponent with his Charmed Cloudstrider Plunging Attack.
 
-**A4 Passive: Vertical Force Coordination**
-Upon firing an Overcharged Ball, Chevreuse increases the ATK of Pyro and Electro teammates by 1% for every 1,000 Max HP she has, maxing out at 40% ATK. These effects will be maxed out at 40,000 HP, meaning players generally want to build her fully on HP rather than damage stats.
+**A4 Passive: Air of Prosperity**
+Depending on the amount of HP Gaming has, he receives different buffs from this Passive. He gains 20% Healing Bonus if his HP is below 50%, and a 20% increase on the damage dealt by his Charmed Cloudstrider Plunges if his HP is above 50% instead.
 
-**Utility Passive: Double Time March**
+**Utility Passive: The Striding Beast**
 
-Chevreuse decreases the sprinting Stamina consumption of party members by 20%, allowing for more dashes before Stamina is fully depleted, helping with both survivability and convenience.
+Gaming gives Movement SPD to the whole party, but only during the daytime in the overworld.
 
 ## Constellations
 
-_Authored by Leifa_
-
-DPS% increases assume an average of her personal damage increases between both damage and healing-oriented builds. Although their increases are similar, please check the [Chevreuse Mastersheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit?usp=sharing) for specifics.
+_Authored by June_
 
 ![](/faq/gaming/c1.png)
 
 ### Constellation 1 - Stable Front Line's Resolve
 
--   _When the active character with the "Coordinated Tactics" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s._
+**Constellation 1 - Bringer of Blessing**
+_When the Suanni Man Chai from Suanni's Gilded Dance meets back up with Gaming, it will heal 15% of Gaming's HP._
 
--   _You must first unlock the Passive Talent "Vanguard's Coordinated Tactics."_
+Gaming gains even more self-healing outside of his Burst’s initial cast and his A1 Passive, which aids in keeping him above 50% HP. Unfortunately, this Constellation doesn’t really do anything to directly increase his own damage.
 
-Although this Constellation may look good on paper, in reality it’s difficult to control which characters trigger Overloaded and when, requiring near-perfect timing to proc this effect twice for a typical 20-second rotation. Although it may help some characters, the Energy provided from this Constellation is not to be relied on, but treated as an extra bonus for the on-field character that receives this effect.
+_DPS% Increase vs. C0: 0.00%_
 
-_DPS% Increase vs. C0: 0%_
-
-_Healing% Increase vs. C0: 0%_
-
-_Rating: 1/5_
+_Rating: 1.5/5_
 
 ![](/faq/gaming/c2.png)
 
-### Constellation 2 - Sniper Induced Explosion
+### Constellation 2 - Plum Blossoms Underfoot
 
-_After Holding Short-Range Rapid Interdiction Fire and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals Pyro DMG equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG._
+_When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s._
 
-After Chevreuse uses her Hold Skill, her bullet will explode into two smaller explosions with inward knockback, applying an extra instance of Pyro and dealing Pyro DMG. Unfortunately, her personal damage isn’t particularly high, leading to this Constellation being quite underwhelming. However, the two extra hits can be useful to trigger effects such as Favonius Lance’s passive.
+Gaming buffs himself for any instance of overhealing he receives, adding a little more value to his self-healing and other healers.
 
-_DPS% Increase vs. C1: 17.08%_
+_DPS% Increase vs. C1: 4.02%_
 
-_DPS% Increase vs. C0: 17.08%_
+_DPS% Increase vs. C0: 4.02%_
 
-_Healing% Increase vs. C1: 0%_
-
-_Healing% Increase vs. C0: 0%_
-
-_Rating: 1/5_
+_Rating: 1.5/5_
 
 ![](/faq/gaming/c3.png)
 
-### Constellation 3 - Practiced Field Stripping Technique
+### Constellation 3 - Awakening Spirit
 
-_Increases the Level of Short-Range Rapid Interdiction Fire by 3.Maximum upgrade level is 15._
+_Increases the Level of Bestial Ascent by 3. Maximum upgrade level is 15._
 
-C3 increases the levels of Chevreuse’s Elemental Skill, increasing her healing and slightly increasing her damage.
+An increase on Gaming’s Elemental Skill level, which in turn, is a welcome increase on his Charmed Cloudstrider Plunging Attack’s damage.
 
-_DPS% Increase vs. C2: 5.67%_
+_DPS% Increase vs. C2: 6.66%_
 
-_DPS% Increase vs. C0: 23.73%_
-
-_Healing% Increase vs. C2: 19.43%_
-
-_Healing% Increase vs. C0: 19.43%_
+_DPS% Increase vs. C0: 10.94%_
 
 _Rating: 2.5/5_
 
 ![](/faq/gaming/c4.png)
 
-### Constellation 4 - The Secret to Rapid-Fire Multishots
+### **Constellation 4 - Soar Across Mountains**
 
-_After using Ring of Bursting Grenades, the Hold mode of Short-Range Rapid Interdiction Fire will not enter cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s._
+_When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s._
 
-After casting her Elemental Burst, Chevreuse is granted the ability to use her Hold Skill an extra two times, allowing up to three quick and consecutive Skill casts. Unfortunately, these extra Skill uses don’t generate particles due to her 10-second cooldown on particle generation. Additionally, this Constellation doesn’t reset her Skill’s cooldown, meaning Chevreuse will be unable to use her C4 if she uses her Skill before her Burst. In a 25-second rotation, it is possible for Chevreuse to cast her Burst and 1 Skill early on, then come back 10 seconds later for another Skill cast, allowing her to generate up to 8 particles per rotation. While only a few rotations can actually accommodate this, those that can may find it helpful to funnel the extra particles to another teammate.
+Notably lowers Gaming’s ER Requirements (to be discussed further in the next section), allowing more leeway for offensive substats to increase his damage output.
 
-_DPS% Increase vs. C3: 35.18%_
+_DPS% Increase vs. C3: 5.46%_
 
-_DPS% Increase vs. C0: 67.25%_
+_DPS% Increase vs. C0: 17.00%_
 
-_Healing% Increase vs. C3: 0%_
-
-_Healing% Increase vs. C0: 19.43%_
-
-_Rating: 1/5_
-
-_DMG Build Rating: 3/5_
+_Rating: 2/5_
 
 ![](/faq/gaming/c5.png)
 
-### Constellation 5 - Enhanced Incendiary Firepower
+### **Constellation 5 - Evil-Daunting Roar**
 
-_Increases the Level of Ring of Bursting Grenades by 3.Maximum upgrade level is 15._
+_Increases the Level of Suanni's Gilded Dance by 3. Maximum upgrade level is 15._
 
-C5 increases the levels of Chevreuse’s Elemental Burst, slightly increasing her personal damage.
+An increase on Gaming’s Burst level. His Burst is not a significant portion of his overall damage output, but an increase is still welcome nonetheless.
 
-_DPS% Increase vs. C4: 6.57%_
+_DPS% Increase vs. C4: 1.92%_
 
-_DPS% Increase vs. C0: 78.23%_
+_DPS% Increase vs. C0: 19.25%_
 
-_Healing% Increase vs. C4: 0%_
-
-_Healing% Increase vs. C0: 19.43%_
-
-_Rating: 0/5_
+_Rating: 1/5_
 
 ![](/faq/gaming/c6.png)
 
-### Constellation 6 - Esteem for the Innocent
+### **Constellation 6 - To Tame All Beasts**
 
-_After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once._
+_Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased._
 
-_After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently._
+Gaming’s strongest Constellation. His Charmed Cloudstrider Plunging Attacks gain a notable CRIT buff, which increases its damage by roughly 31%. Charmed Cloudstrider Plunging Attacks also gain an attack radius increase from 4m to 6m, which makes its AoE the same size as Bennett’s Burst radius.
 
-Chevreuse’s C6 provides a 20% DMG Bonus to any characters she heals, stacking up to 3 times for a maximum of 60% Pyro and Electro DMG Bonus. This effect can take some time to stack up due to her slow healing intervals but is a potent buff for any Chevreuse team. Additionally, after 12 seconds of healing from her Skill, Chevreuse heals the entire party, helping for extra survivability and granting them a stack of her DMG Bonus buff, increasing the team’s overall damage output further. Keep in mind, the results here are for personal damage, the teamwide damage increase is ~10% overall.
+_DPS% Increase vs. C5: 19.25%_
 
-_DPS% Increase vs. C5: 0%_
-
-_DPS% Increase vs. C0: 78.23%_
-
-_Healing% Increase vs. C5: 96.66%_
-
-_Healing% Increase vs. C0: 134.87%_
+_DPS% Increase vs. C0: 42.20%_
 
 _Rating: 4/5_
 
+## Combos
+
+_Authored by June_
+
+Gaming's combos can vary between several factors such as Xianyun, Xingqiu, or Yelan's inclusion in the team, Bennett's Constellation level, and the moment Man Chai collides to reset Gaming's Skill CD.
+
+Please note that if you want to Swirl Pyro, you will have to switch to Xianyun or Kazuha AFTER using Bennett’s Burst, meaning funneling from Bennett to Gaming during setup is not possible. Nevertheless, this can still happen at the end of the rotation by doing an Elemental Skill on Bennett then switching back to Gaming to do a final Elemental Skill.
+
+For the discussion of in-depth gameplay details, please check the Teambuilding section of this FAQ.
+
+**If Xianyun: EP focus, JP or NA in between EP**
+With Xianyun in the team, Gaming would want to maximize her A4 Passive's Flat DMG Bonus with his Charmed Cloudstrider Plunges. Regular Plunging Attacks or Normal Attacks can be used in between Charmed Cloudstrider Plunges.
+
+**If Xianyun AND C6 Bennett: Alternate between EP and JP**
+With C6 Bennett's ATK buff and 15% Pyro DMG Bonus, use Charmed Cloudstrider Plunges with regular Plunging Attacks to fully utilize Xianyun's A4 Passive and maximize Gaming's damage output.
+
+Keep in mind that if you are using regular Plunging Attacks, it makes it harder to meet up with Man Chai to reset Gaming's Skill CD, which means that there would be 1 less Skill per rotation most of the time.
+
+**If Xingqiu or Yelan: Weave NAs before any PA**
+Weaving Normal Attacks in between Plunging Attacks triggers Xingqiu's Rain Swords or Yelan's Exquisite Throw to ensure Gaming's Plunging Attacks trigger Vaporize.
+
+**If Melt with C6 Bennett: Dash towards Man Chai and only EP**
+Dashing to meet Man Chai would maximize the amount of Charmed Cloudstrider Plunges Gaming is able to use. Due to the insufficient amount of Cryo application, focusing on Charmed Cloudstrider Plunge's Melt damage would be more optimal instead of weaving in any regular Plunging Attacks or Normal Attacks.
+
+**Else: NA between EP until E CD resets**
+To deal as much damage as possible while waiting for Gaming's Elemental Skill CD, weave Normal Attacks in between Charmed Cloudstrider Plunges.
+
 ## ER Requirement
 
-_Authored by Leifa_
+_Authored by Duckfero_
 
-In general, Chevreuse’s ER Requirements are quite high, ranging from 175% - 205%. Thankfully, she is able to run weapons such as Favonius Lance to benefit the team’s Energy or the Fontaine craftable Polearm, Rightful Reward. Rightful Reward can lower her ER Requirements by ~25% - 50% depending on refinements, and even further if she’s able to trigger its passive twice per rotation. However, Chevreuse’s Burst isn’t required to activate any of her buffs, meaning players can choose to ignore ER% stats and focus on offensive or supportive stats if they aren’t interested in its inward knockback, or don’t need to activate artifact set bonuses such as Noblesse Oblige.
-When run with Raiden, her ER Requirements plummet to around 105% - 135%, allowing her to further focus on offensive or supportive stats depending on how players want to build her, whilst easily Bursting every rotation.
+Gaming generates 2 particles per Elemental Skill with an ICD of 3s. Depending on your rotation, you will either do 4, 5 or 6 Skills per rotation, with only 3 or 4 of them generating particles.
+
+Gaming’s ER Requirements depend a lot on the team, their gear, and the rotation: whether Bennett is present or not, whether you feed Bennett's particles to Gaming, the number of Favonius weapons in the team, and whether your Gaming is C0 or C4+.
+
+Gaming’s C4 generates 2 Flat Energy per Skill. As mentioned previously, you will do 4, 5 or 6 Elemental Skills per rotation, which corresponds to 8/10/12 Flat Energy per rotation.
+
+Also, keep in mind that if you play Gaming with Bennett C6 and Xianyun, you will likely do some normal Plunging Attacks. This makes it harder to pick up Man Chai to reset your Elemental Skill CD, which means that you will do 1 less Skill per rotation most of the time.
+
+Moreover, if you want to Swirl Pyro, you will have to switch to Xianyun or Kazuha AFTER using Bennett’s Burst, meaning you won’t be able to funnel from Bennett to Gaming during setup. Nevertheless, this can still happen at the end of the rotation by doing an Elemental Skill on Bennett then switching back to Gaming to do a final Elemental Skill.
 
 ![](/faq/gaming/erreq.png)
 
@@ -202,136 +213,174 @@ For more details on how Favonius weapons will affect your team, please use Ac1d�
 
 ## Artifacts
 
-_Authored by Leifa_
+_Authored by Nooot_
 
 ### Artifact Stats
 
-**Sands of Eon:** HP%
+**Sands of Eon:** EM/ATK%
 
-**Goblet of Eonothem:** HP%
+**Goblet of Eonothem:** Pyro DMG%
 
-**Circlet of Logos:** HP% / HB%
+**Circlet of Logos:** CRIT
 
-If players require the use of Chevreuse’s Elemental Burst, her ER Requirements should be met first before looking for other stats. Chevreuse prefers to stack as much HP% as possible, helping her to reach 40,000 HP to maximize her A4 Passive. After that, she is able to focus on other stats that benefit her healing, such as a Healing Bonus Circlet. In Raiden teams, Chevreuse’s ER Requirements are low enough that she can aim for more offensive substats, such as CRIT and ATK%.
+EM Sands is preferred due to Gaming’s reliance on Vaporize/Melt. Nevertheless, ATK% Sands can be viable with better substats or within Overload/Mono teams.
 
-**Substats:** ER% until requirement (if Bursting) > HP until ~40,000 > HB% > HP% > Flat HP
+**Substats:** ER until requirement > CRIT DMG = CRIT Rate > EM > ATK%
 
 ### Artifact Sets
 
-![](/faq/gaming/sdp.png)
-**4pc Song of Days Past (SDP)**
+![](/faq/gaming/4mh.png)
+**4pc Marechaussee Hunter**
 
-4pc Song of Days Past is a new artifact set releasing in 4.3, granting five instances of Flat DMG Bonus to the on-field character based on the total healing recorded after 6 seconds. This effect works the same way as Shenhe’s Icy Quill effect, resulting in the additive stacks being used up quicker in AoE compared to single-target. On top of this, other characters may accidentally use up these stacks during a rotation if it triggers during their field time. However, Chevreuse is able to max out the set’s effect with her C6 and can be a viable alternative in some teams already running other supportive sets. For players ignoring her Elemental Burst, Chevreuse can max out this set’s effect twice in a rotation, due to the increased healing from additional HP and Healing Bonus stats.
+This is Gaming’s BiS set both with and without Furina. Whilst he does not get the most usage out of the 2pc effect, he is able to consistently obtain all 3 stacks of the 4pc effect quickly. This allows Gaming wider weapon options and less reliance on a lot of CRIT substats. It is highly recommended to not build above 64% CRIT Rate to avoid overcapping.
 
-![](/faq/gaming/no.png)
-**4pc Noblesse Oblige (NO)**
+![](/faq/gaming/4cwof.png)
+**4pc Crimson Witch of Flames**
 
-4pc Noblesse Oblige further increases the buffs Chevreuse grants, providing a 20% ATK buff to the party, although it requires building ER% for her Elemental Burst.
+Crimson Witch of Flames is tied with Marechaussee Hunter for Gaming’s BiS set within Vaporize/Melt teams due to the reaction bonus the set provides. Gaming is able to build stacks of the 4pc effect over a rotation as a result of his Elemental Burst resetting the cooldown of his Elemental Skill. However, it is recommended to farm Marechaussee Hunter due to it not being reliant on reactions to get value.
 
-![](/faq/gaming/maiden.png)
-**4pc Maiden Beloved (MB)**
+![](/faq/gaming/4gd.png)
+**4pc Gilded Dreams**
 
-4pc Maiden Beloved Further increases Chevreuse’s healing, granting the team an extra 20% Incoming Healing Bonus after she casts her Elemental Skill or Burst.
-
-![](/faq/gaming/clam.png)
-**4pc Ocean-Hued Clam (OHC)**
-
-4pc Ocean-Hued Clam can be considered for some extra damage when building for Chevreuse’s healing. Although she doesn’t max out the Sea-Dyed Foam, it deals an equal amount of damage in AoE, compared to Song of Days Past being more single-target oriented.
-
-![](/faq/gaming/totm.png)
-**4pc Tenacity of the Millelith (TotM)**
-
-4pc Tenacity of the Millelith increases Chevreuse’s healing with its 20% HP (2pc effect), whilst also granting a short teamwide 20% ATK buff upon hitting an enemy with her Skill. TotM can be considered when running Chevreuse with teammates who are able to quickly snapshot the 4pc effect.
+Gilded Dreams is a viable set to run on Gaming as it is only ~5% worse than both Crimson Witch and Marechaussee Hunter. Similar to Crimson Witch, Gilded Dreams benefits more from being used in a Vaporize/Melt team due to the EM that the set gives. Outside of reaction-heavy teams, Marechaussee Hunter becomes much more consistent.
 
 ![](/faq/gaming/2mix.png)
-**2pc HB/HP/ER Combos**
 
-2pc combinations of Maiden Beloved, Ocean-Hued Clam, Song of Days Past, Tenacity of the Millelith, Vourukasha’s Glow and Emblem of Severed Fate will generally provide higher healing than the aforementioned 4pc set bonuses (outside of 4pc Maiden Beloved), but lack the extra team utility.
+**2pc ATK%/EM/DMG%**
+
+2pc combinations are usable as an alternative to the above sets if you are still farming for a 4pc set. Simply aim for enough ER along with as much CRIT and EM as you can muster.
+
+![](/faq/gaming/4vh.png)
+**4pc Vermillion Hereafter**
+
+Vermillion Hereafter may seem to be a viable alternative to use on Gaming due to his HP drain, however due to Gaming’s synergy with Bennett, this set actually performs considerably worse than other 4pc sets. Furthermore, Vermillion Hereafter only performs slightly better than 2pc combinations for Gaming. Generally only use this set if you have really favorable substats; otherwise, use the aforementioned 4pc sets or a 2pc/2pc combination.
 
 ## **Weapons**
 
-_Authored by Leifa_
+_Authored by quinslay_
 
-![](/faq/gaming/btassel.png)
-**Black Tassel**
+![](/faq/gaming/spine.png)
+**Serpent Spine**
 
-Chevreuse’s weapon of choice for maximizing both her healing and her buffing, allowing her to run both a Healing Bonus Circlet and Energy Recharge Sands if players want to consistently use her Burst. Being a 3-star weapon also makes it extremely affordable for all players.
+_Gaming’s self HP drain does not affect Serpent Spine’s Passive._
+Serpent Spine’s CRIT Rate substat and massive DMG% passive makes it Gaming’s BiS weapon across all refinements assuming you can maintain the passive. The only thing holding Serpent Spine back is its lower Base ATK, which is remedied by the inclusion of Bennett or Xianyun in most Gaming teams. While R5 Serpent Spine is by far Gaming’s BiS, if you have a lower refinement Serpent Spine, it may be worth considering other options if you aren’t running a shielder, due to Serpent Spine losing value if Gaming takes damage. It also loses some value if Gaming is used with units that give high amounts of DMG% such as Furina.
 
-![](/faq/gaming/favlance.png)
-**Favonius Lance**
+If you have C6 Gaming, it's recommended to use 4pc Crimson Witch with Serpent Spine as it is easy to overcap his CRIT Rate.
 
-Favonius weapons are generally a good choice on any supportive teammate, helping to lower all party member’s ER Requirements. This can also help Chevreuse to Burst more frequently whilst focusing fully on HP substats to improve her healing.
+![](/faq/gaming/crit.png)
+**5-star CRIT Weapons**
 
-![](/faq/gaming/rightful.png)
-**Rightful Reward**
+These include Verdict, Redhorn Stonethresher, and Beacon of the Reed Sea. All these weapons are viable options as more consistent alternatives to a lower refinement Serpent Spine. Although none of their passives are extremely noteworthy, their 5-star stats allow them to be quite decent on Gaming. It should be noted that Gaming cannot trigger the passive of Beacon of the Reed Sea with his Skill as it is considered Plunging Attack damage.
 
-A craftable weapon from Fontaine, providing HP% from its substat and flat Energy upon being healed. With C6’s teamwide healing, Chevreuse is guaranteed to trigger this once per rotation, due to the weapon passive working off-field, lowering her ER Requirements and allowing her to run a Healing Bonus Circlet. However, a C0 Chevreuse may struggle to trigger this without a secondary healer, due to her Elemental Skill’s healing being slightly delayed after casting. For players who don’t care for Chevreuse’s Burst, this weapon provides much less HP% than Black Tassel, making it weaker across the board.
+![](/faq/gaming/rainslasher.png)
+**Rainslasher**
 
-**Any other HP% or ER% Polearm**
+Rainslasher’s EM substat and increased DMG% against Hydro-affected enemies make it a strong unconditional weapon for Gaming in Vaporize teams. It scales heavily with refinements; being competitive with the 5-star CRIT weapons at R5 for personal damage. It is not worth using Rainslasher outside of Vaporize teams, and the weapon loses some value if Gaming is used with units that give high amounts of DMG% such as Furina.
 
-Any weapon that provides Chevreuse with HP% or Energy Recharge can be useful to help her reach ~40,000 HP to maximize her buff, whilst being able to Burst every rotation. However, ER% weapons outside of Favonius Lance become useless when not utilizing Chevreuse’s Burst, shrinking her total number of available weapons.
+![](/faq/gaming/atk.png)
+**Wolf’s Gravestone and The Unforged**
 
-![](/faq/gaming/homa.png)
-**Staff of Homa**
+Both these weapons provide large amounts of ATK% in various forms. However, since Bennett and Xianyun are common teammates in Gaming teams, the value of these ATK buffs is diminished. Without these two, they have the potential to surpass some of the above weapons, but optimal teams usually include either Bennett or Xianyun. This being said, Wolf’s Gravestone can also provide an ATK% team buff, which allows teammates to deal more damage. The Unforged does not, which leads to it being slightly worse than Wolf's Gravestone.
 
-An offensive weapon choice that provides a small amount of HP% to help with Chevreuse’s healing and buffing. Its passive also converts HP into ATK for the wielder, increasing Chevreuse’s damage on a support-oriented build, or increasing her supportive capabilities when built for damage. Keep in mind, this weapon doesn’t provide any Energy Recharge, meaning players will need to gain ER% elsewhere for her to consistently Burst in an offensive scenario.
+![](/faq/gaming/pines.png)
+**Song of Broken Pines**
+
+Despite its Physical DMG% substat, Song of Broken Pines is still a decent option on Gaming for its high Base ATK and ATK% passive. It also provides an ATK% team buff if Gaming uses at least four Normal Attacks, which may allow teammates to deal more damage. It loses value if you use Gaming with a unit that can infuse his Normal Attacks. It also loses value in Xianyun teams if Gaming uses Plunging Attacks instead of Normal Attacks during his downtime.
+
+![](/faq/gaming/talk.png)
+**Talking Stick**
+
+Talking Stick is always a downgrade to Serpent Spine, so it’s not recommended to get Talking Stick from the Battle Pass. That said, if you already have Talking Stick, it’s a decent option for Gaming because he can at least guarantee half of the passive by imbuing himself with Pyro. Even if you can somehow guarantee the other half of the passive, it still performs worse than Serpent Spine.
+
+![](/faq/gaming/pride.png)
+**Skyward Pride**
+
+Skyward Pride’s value largely depends on Gaming’s ER Requirements. In teams with Bennett, they’re often low enough for Skyward to lose some value. Gaming’s C4 also reduces his ER Requirements, which subsequently makes this weapon lose even more value. That said, even with lower ER needs, it’s still a weapon with high Base ATK, unconditional DMG%, and some mild Physical damage procs from the passive.
+
+![](/faq/gaming/flower.png)
+**Mailed Flower**
+
+An event exclusive weapon that gives high amounts of EM and ATK%. It does lose the buff on one of Gaming’s Plunging Attacks which causes it to lose a small amount of value, but it’s still a great weapon for those who obtained it.
+
+![](/faq/gaming/lithic.png)
+**Lithic Blade**
+
+Since Gaming is a Liyue character, this weapon is guaranteed to have at least one stack. The average assumption for Lithic Blade is that you have at least two stacks, otherwise it's not recommended to use this weapon. The ATK% is decent, but pales in comparison to the CRIT Rate% it gives. This weapon scales well with refinements, which can be seen as a downside because of Lithic Blade’s exclusivity to the weapon banner.
+
+![](/faq/gaming/tidal.png)
+**Tidal Shadow**
+
+A F2P craftable weapon that requires being healed in exchange for a massive ATK% buff. Gaming heals himself upon using a Plunging Attack, so he can easily maintain the passive. However, since Bennett and Xianyun are common teammates for Gaming teams, the value of this ATK% buff is diminished. Tidal Shadow sees higher value if used in teams that give Gaming large amounts of DMG%.
+
+![](/faq/gaming/mega.png)
+**Ultimate Overlord’s Mega Magic Sword**
+
+A decent alternative to Tidal Shadow for those who obtained it in the recent 4.3 event. Ultimate Overlord’s Mega Magic Sword’s value largely depends on Gaming’s ER Requirements. In teams with Bennett, these are typically low enough for this weapon to lose some value. Gaming’s C4 also reduces his ER Requirements, which subsequently makes this weapon lose value.
 
 ## **Team Building**
 
-_Authored by Leifa and Whalien_
+_Authored by Whalien_
 
-Although Chevreuse teams utilize the Overloaded reaction, this is only as a catalyst to activating her buffs, meaning characters will prefer to be built for raw damage rather than solely on Elemental Mastery. These periodic Overloaded triggers are required to keep up her A1 Passive, meaning either off-field Elemental application or quickly swapping between characters is recommended for maximum uptime. In solo Pyro scenarios or teams with no off-field Pyro Application (such as Chevreuse and Bennett), a Pyro Skill can be used before your Electro DPS’s field time, in order to maximize the uptime on her A1. In a lot of teams, Chevreuse will be replacing an Anemo character, due to her teambuilding restriction of only Pyro and Electro teammates, whilst providing Resistance Shred on par with 4pc Viridescent Venerer. If players are struggling with Chevreuse as their only healer, characters like Beidou or Dehya can be used for extra defensive utility.
+### **Bennett**
 
-Most teams will not have much use for Chevreuse’s Elemental Burst, instead preferring to funnel her Skill into another Pyro teammate. Its unique inward knockback may be useful in AoE scenarios to help group enemies without an Anemo character; however, its strength compared to other forms of grouping is questionable.
+![](/faq/gaming/bennett.png)
 
-Currently, Chevreuse does not have many teams that can satisfy her team constraints without giving up some form of extra utility. For example, pairing Chevreuse with Bennett gives a strong buffing duo, but leaves limited options for making the most of her kit. If Xiangling is chosen to consolidate off-field Pyro Application, the last slot is forced to be an Electro character, preferably one with on-field presence, in order to activate Chevreuse’s buffs effectively. If players choose a character like Fischl, the 4th team slot is open for choice, but may struggle with uptime on Chevreuse’s A1 RES Shred due to no off-field Pyro if an Electro on-fielder is chosen. On top of this, Chevreuse is unable to make use of grouping provided by Anemo characters without deactivating her A1 Passive. Despite these teambuilding restrictions, she has some use in teams without utilizing all of her buffs, being able to provide up to 60% DMG Bonus to Pyro and Electro teammate at C6 unconditionally, and 40% ATK if used with at least one Electro teammate.
+Bennett is a particularly important teammate for Gaming for multiple reasons. Not only are the ATK buff and healing from Bennett’s Burst useful — the former for obvious reasons and the latter to help Gaming maintain his DMG Bonus from his A4 Passive — but with C6 Bennett, Gaming gains a Pyro infusion on his Plunging Attacks, allowing him to trigger more reactions, increasing his damage significantly. Bennett’s Burst does have the issue of being tied to a fixed area, which can be limiting with regards to Gaming’s gameplay, which involves dashing towards enemies before doing Plunging Attacks. This is, however, less of an issue in fights with heavy enemies in single-target scenarios, or if Xianyun is on the team since you can opt to execute normal Plunging Attacks instead. Generally, it’s highly preferred to have Benentt on Gaming teams.
 
-### Raiden
+### **Vaporize**
 
-**Chevreuse | Raiden | Pyro | Pyro/Electro**
-![](/faq/gaming/raiden.png)
+**Gaming | Bennett | Hydro | Anemo**
 
-Raiden Overloaded teams have a mix of high damage and great flexibility, allowing for a great selection of off-fielders in the 4th slot. Xiangling will generally be used alongside Bennett in this team thanks to her consistent off-field Pyro application and high damage, but Electro off-fielders such as Fischl, Sara and Yae can be used instead, at the sacrifice of some uptime on Chevreuse’s A1 Passive. Compared to an Anemo character, Chevreuse can apply her RES Shred on multiple waves, allowing for 100% RES Shred uptime during Raiden’s field time. Due to the low ER Requirements in Raiden teams, Chevreuse can be built for some damage rather than pure utility without sacrificing much overall team damage.
+![](/faq/gaming/vape.png)
+
+The most recommended team for Gaming, in which for Gaming can trigger Vaporize on his Plunging Attacks, alongside other buffs to increase his damage. The Hydro and Anemo slots are flexible, as their primary roles are to allow Gaming to Vaporize his Plunging Attacks and provide RES Shred from 4pc Viridescent Venerer respectively, and neither function is fixed to one unit.
 
 **Teammates :**
 
--   **Pyro Options:** Xiangling, Bennett
--   **Flex Options:** Bennett, Yae, Sara, Fischl
+**Hydro Options:** Furina, Yelan, Xingqiu
 
-### Yoimiya
+**Anemo Options:** Kazuha, Xianyun, Sucrose
 
-**Chevreuse | Yoimiya | Fischl | Bennett / Raiden**
-![](/faq/gaming/yoimiya.png)
+### **Mono Pyro**
 
-Yoimiya Overloaded teams are a viable alternative to her current options whilst being less reliant on shields. In Vaporize teams, Yoimiya wants to Vaporize both her N3 and N5, resulting in her being unable to dodge easily. In Overloaded teams, which hits apply Pyro aren’t as important, meaning she can reliably dodge without sacrificing much damage. On top of this, the knockback provided by Overloaded can help reduce pressure against lighter enemies, further reducing Yoimiya’s shield reliance. Raiden and Yoimiya can also be used together in longer rotations, due to both providing on-field and off-field application via Raiden’s Skill and Yoimiya’s Burst.
+**Gaming | Bennett | Xiangling | Anemo**
 
-### Lyney
+![](/faq/gaming/monopyro.png)
 
-**Chevreuse | Lyney | Fischl | Dehya / Bennett**
+Mono Pyro teams take advantage of shared Elemental Particles to reduce ER Requirements and VV shred for multiple members in order to boost damage without other reactions. Gaming, with his strong synergy with Bennett, fits well into Mono Pyro teams. Kazuha provides a large amount of Pyro DMG Bonus to both Gaming and Xiangling, while Xianyun is able to buff Gaming’s Plunging Attack damage; other Anemo characters do not differ significantly.
 
-![](/faq/gaming/lyney.png)
+**Teammates :**
 
-Lyney Overloaded teams prefer to play shorter rotations compared to other teams and are able to keep a consistent Pyro aura for his A4 Passive, whilst also getting consistent Overloaded reactions to trigger Chevreuse’s A1. Dehya is also a viable alternative to Bennett, providing interruption resistance, utility that is greatly appreciated on Bow characters.
+**Anemo Options:** Xianyun, Kazuha
 
-### Other Options
+### **Overloaded**
 
-**Chevreuse | Pyro / Electro | Flex | Flex**
+**Gaming | Chevreuse | Electro | Pyro/Electro**
 
-![](/faq/gaming/options.png)
+![](/faq/gaming/overload.png)
 
-Most other on-fielders do not benefit greatly from Chevreuse’s buffs compared to their original teams, but can be played if you so choose. Please note that Razor should be played with C6 Bennett if there is no other off-field Pyro application, allowing Razor to trigger Overloaded by himself on-field.
+Overloaded teams have seen an increase in viability due to the introduction of Chevreuse. While the playstyle certainly still has issues with knocking enemies away from Bennett’s Burst circle, it can be a decent option against heavy enemies in single-target scenarios. Note that units such as Beidou and Xiangling may have very high ER Requirements.
 
-### Hu Tao VV Vape
+**Teammates :**
 
-**Chevreuse | Hu Tao | Xingqiu | Anemo**
+**Electro Options:** Fischl, Yae Miko, Beidou
 
-![](/faq/gaming/hutao.png)
+**Pyro Options:** Bennett, Xiangling
 
-In Hu Tao VV Vape teams, there isn’t much competition for the 2nd Pyro slot, namely Amber with Elegy for buffs or Thoma and Yanfei for shielding. As Chevreuse isn’t reliant on a 5-star weapon to perform well in this team, she works as an offensive buffer with slight healing for defensive utility. However, C6 is required for this due to not having an Electro teammate to trigger her Overcharged Ball. Although Bennett works as a 2nd Pyro for this team, Chevreuse’s lower healing benefits Hu Tao’s A4 Passive, which wants Hu Tao to stay below 50% HP. Chevreuse’s lower healing also allows Hu Tao to equip 4pc Marechaussee Hunter for a large 36% CRIT Rate when her HP changes. For more consistent uptime on this passive, players can ignore HP% on Chevreuse entirely, instead aiming for either Energy Recharge or offensive stats. This will allow Chevreuse to provide further buffs from artifact set bonuses, such as 4pc Noblesse Oblige or 4pc Instructor.
+### **Melt**
 
-### Lyney Mono Pyro
+**Gaming | Cryo | Flex | Flex**
 
-**Chevreuse | Lyney | Dehya / Bennett | Flex**
-![](/faq/gaming/lyney1.png)
+![](/faq/gaming/melt.png)
 
-An alternative to Lyney’s Overloaded team with Chevreuse, allowing for a flex teammate, such as an Anemo character or Zhongli. As Lyney teams tend to use shorter rotations than most teams, Chevreuse can continue to ignore her Burst, allowing her to focus on her healing. Ignoring ER% can allow Chevreuse to equip 4pc Song of Days Past, maxing out the set’s buff twice. Because of Lyney’s large amounts of DMG Bonus and CRIT, the effects of 4pc Song of Days Past are greatly amplified when compared to other characters. Players can further buff this damage with Kazuha for his A4 DMG Bonus buff, or Zhongli for his shielding and 4pc Archaic Petra’s DMG Bonus buffs.
+While Melt teams have high potential for damage, they do have issues that make them more difficult to play than other teams. In Melt teams, C6 Bennett can cause an enemy’s Cryo Aura to be lost for Plunging Attacks if Normal Attacks are weaved into Gaming’s on-field combos. If C6 Bennett is in the team, it is recommended to dash towards Man Chai for faster Skill-Plunging Attack combos. The greater risk of losing reactions on key hits, in conjunction with the high ER Requirements for many teammates, makes the team hard to play and not highly recommended.
+
+Only C6 Kaeya can enable Gaming to consistently Melt as solo Cryo; other Cryo teammates (including Kaeya without C6) require being paired with another Cryo character or an Anemo character who can absorb Cryo on their Burst to do the same. After the Cryo character(s) have been slotted in, Bennett and/or an Anemo character can be added to the team; double Anemo may be viable in select situations.
+
+**Teammates :**
+
+**Cryo Options:** Kaeya, Rosaria, Layla
+
+**Anemo Options:** Xianyun, Kazuha, Sucrose
+
+**Other Flex:** Bennett
