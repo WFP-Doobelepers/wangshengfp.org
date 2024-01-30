@@ -14,9 +14,6 @@
                         <p class="px-2 text-center text-white">
                             {{ faq.author.join(', ') }}
                         </p>
-                        <p class="px-2 pb-1 text-center text-gray-300">
-                            Last updated on {{ new Date(faq.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
-                        </p>
                     </div>
                 </NuxtLink>
             </div>

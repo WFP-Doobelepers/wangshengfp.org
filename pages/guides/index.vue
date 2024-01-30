@@ -21,7 +21,7 @@
                                     {{ guide.author.join(', ') }}
                                 </p>
                                 <p class="text-white lg:text-2xl">
-                                    Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+                                    Last updated for {{ guide.last_updated_game_version }}
                                 </p>
                             </div>
                         </NuxtLink>
@@ -53,7 +53,7 @@
                             {{ guide.author.join(', ') }}
                         </p>
                         <p class="px-2 pb-1 text-center text-gray-300">
-                            Last updated for {{ guide.last_updated_game_version }} on {{ new Date(guide.updatedAt).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}
+                            Last updated for {{ guide.last_updated_game_version }}
                         </p>
                     </div>
                 </NuxtLink>
