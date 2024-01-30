@@ -106,9 +106,9 @@ _When Gaming receives healing and this instance of healing overflows, his ATK wi
 
 Gaming buffs himself for any instance of overhealing he receives, adding a little more value to his self-healing and other healers.
 
-_DPS% Increase vs. C1: 4.02%_
+_DPS% Increase vs. C1: 3.87%_
 
-_DPS% Increase vs. C0: 4.02%_
+_DPS% Increase vs. C0: 3.87%_
 
 _Rating: 1.5/5_
 
@@ -120,9 +120,9 @@ _Increases the Level of Bestial Ascent by 3. Maximum upgrade level is 15._
 
 An increase on Gaming’s Elemental Skill level, which in turn, is a welcome increase on his Charmed Cloudstrider Plunging Attack’s damage.
 
-_DPS% Increase vs. C2: 6.66%_
+_DPS% Increase vs. C2: 6.41%_
 
-_DPS% Increase vs. C0: 10.94%_
+_DPS% Increase vs. C0: 10.53%_
 
 _Rating: 2.5/5_
 
@@ -136,7 +136,7 @@ Notably lowers Gaming’s ER Requirements (to be discussed further in the next s
 
 _DPS% Increase vs. C3: 5.46%_
 
-_DPS% Increase vs. C0: 17.00%_
+_DPS% Increase vs. C0: 16.56%_
 
 _Rating: 2/5_
 
@@ -148,9 +148,9 @@ _Increases the Level of Suanni's Gilded Dance by 3. Maximum upgrade level is 15.
 
 An increase on Gaming’s Burst level. His Burst is not a significant portion of his overall damage output, but an increase is still welcome nonetheless.
 
-_DPS% Increase vs. C4: 1.92%_
+_DPS% Increase vs. C4: 1.85%_
 
-_DPS% Increase vs. C0: 19.25%_
+_DPS% Increase vs. C0: 18.72%_
 
 _Rating: 1/5_
 
@@ -162,9 +162,9 @@ _Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 2
 
 Gaming’s strongest Constellation. His Charmed Cloudstrider Plunging Attacks gain a notable CRIT buff, which increases its damage by roughly 31%. Charmed Cloudstrider Plunging Attacks also gain an attack radius increase from 4m to 6m, which makes its AoE the same size as Bennett’s Burst radius.
 
-_DPS% Increase vs. C5: 19.25%_
+_DPS% Increase vs. C5: 19.29%_
 
-_DPS% Increase vs. C0: 42.20%_
+_DPS% Increase vs. C0: 41.62%_
 
 _Rating: 4/5_
 
