@@ -175,7 +175,7 @@ _Rating: 1/5_
 
 ![](/faq/xianyun/c6.png)
 
-### Constellation 6 - "Hear Me — Let Us Raise the Chalice of Love!"
+### Constellation 6 - They Call Her Cloud Retainer
 
 _After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by White Clouds at Dawn, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%._
 _Within 16s after Xianyun has used Stars Gather at Dusk, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times._
