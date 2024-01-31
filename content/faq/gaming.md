@@ -21,7 +21,7 @@ author: ["Leifa", "June", "Duckfero", "Nooot", "Quinslay", "Whalien"]
 -   _Luno - Calc Verification_
 -   _Athena - Transcription_
 
-For all Gaming Calcs you can reference: [Gaming Mastersheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit#gid=981902297) by fianwens, quinslay, noootnooot, and duckfero
+For all Gaming Calcs you can reference: [Gaming Mastersheet](https://docs.google.com/spreadsheets/d/1GaF3EbvTntMcmIj_niyZn5hSBOxnV03mmLJ5890yoAI/edit#gid=981902297) by fianwens, quinslay, noootnooot, and duckfero
 
 Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.
 
