@@ -201,38 +201,40 @@ _Authored by NatC_
 ### Artifact Stats
 
 **Sands of Eon**: DEF%
+
 **Goblet of Eonothem**: Geo DMG% / DEF%
+
 **Circlet of Logos**: CRIT / DEF%
 
 Although Chiori is a character that scales with both ATK% and DEF%, the scaling on her DEF% is more important than her ATK%. Hence, it is recommended to avoid going for artifacts with ATK% main stat unless you have no better options.
 
 DEF% is Chiori’s most valuable stat behind CRIT, to the point where going DEF / DEF / CRIT is only 3% worse than going DEF / Geo DMG% / CRIT.
 
-**Substats** : CRIT > DEF% > ATK% >= Flat DEF
+**Substats**: CRIT > DEF% > ATK% >= Flat DEF
 
 As mentioned in previous sections, building Energy Recharge on Chiori is not worth it in nearly all situations, giving her the freedom to focus on offensive substats such as CRIT and DEF%.
 
 ### **Artifact Sets**
 
-![](/faq/chiori/4gt.png)
-
 **4pc Golden Troupe**
+
+![](/faq/chiori/4gt.png)
 
 With Chiori’s Elemental Skill being her bread and butter, it should come as no surprise that 4pc Golden Troupe is one of, if not her best, artifact set. Providing up to a whopping 70% Skill DMG when the wearer is off-field, the 4pc set bonus has basically 100% uptime on Chiori’s doll hits, making this set stand out from the rest of its alternatives.
 
 It is also worth considering that the Golden Troupe / Marechausse Hunter domain is resin-efficient, since plenty of other characters’ (e.g., Furina, Fischl, Neuvillette etc.) Best-in-Slot artifact sets can also be found here.
 
-![](/faq/chiori/4husk.png)
-
 **4pc Husk of Opulent Dreams**
+
+![](/faq/chiori/4husk.png)
 
 Another great set for Chiori. The 4pc set bonus provides up to 24% bonus Geo DMG and DEF when fully stacked on top of a base 30% DEF on the 2pc set, both stats that are extremely useful for Chiori. This puts the 4pc Husk set just ever so slightly behind 4pc GT assuming equal substat distribution, with 4pc Husk actually pulling ahead should Chiori have the freedom to Burst every rotation in either Energy-rich environments or in Mono Geo teams where there is a high rate of Geo Particle generation.
 
 Another notable use case for 4pc Husk would be in teams where Chiori is used as a quickswap damage dealer with her infusion, most notably at C6. With her damage split skewing more towards her on-field damage and lower Golden Troupe uptime, 4pc Husk should theoretically pull much further ahead than any other set combination for Chiori, since it benefits all aspects of her damage.
 
-![](/faq/chiori/2mix.png)
-
 **2pc Golden Troupe / Husk / Archaic Petra / ATK% combos**
+
+![](/faq/chiori/2mix.png)
 
 If you have yet to farm for Chiori and want to give her a temporary set to make do with, flexing 2pc set bonuses gives her decent options to work with. It is recommended to eventually pivot to a proper 4pc set when given the opportunity. With Chiori’s damage coming from multiple avenues, she has plenty of options to work with, although Chiori does prefer GT, Husk, and AP noticeably more than ATK% sets.
 
