@@ -168,9 +168,9 @@ A massive 90 CV added onto Arlecchino plus a greater multiplier based on Bond of
 
 **Overloaded DPS% Increase vs. C0**: 103.7%
 
-**Vaporize DPS% Increase vs. C5**: 24.9%25.2%
+**Vaporize DPS% Increase vs. C5**: 24.9%
 
-**Vaporize DPS% Increase vs. C0**: 99.1%97.6%
+**Vaporize DPS% Increase vs. C0**: 99.1%
 
 **Rating**: 4/5
 
