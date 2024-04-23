@@ -211,7 +211,7 @@ Even in Vaporize playstyles, ATK% and EM are comparable, though EM remains the b
 ### Artifact Sets
 **4pc Fragment of Harmonic Whimsy**
 ![](/faq/arlecchino/4pcfhw.png)
-A hyper-specific artifact set, meaning the main character you’re going to be farming this for is Arlecchino. It is roughly 5% better than 4pc Gladiator’s Finale.
+A hyper-specific artifact set, meaning the main character you’re going to be farming this for is Arlecchino. It is roughly 5%+ better than 4pc Gladiator’s Finale.
 
 **4pc Gladiator’s Finale**
 ![](/faq/arlecchino/4pcgf.png)
@@ -219,7 +219,7 @@ If you’ve been playing Genshin Impact for a long time, you are bound to have a
 
 **2pc Pyro DMG%/ATK%/EM (Vaporize) Combinations**
 ![](/faq/arlecchino/2pc.png)
-Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses will, but these differences are so small, you should probably just go with the 2pc combinations with the best substats. These combinations are roughly 10% less effective than Harmonic Whimsy.
+Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses will, but these differences are so small that you should probably just go with the 2pc combinations with the best substats. These combinations are roughly 10%+ less effective than Harmonic Whimsy.
 
 
 ## Weapons
