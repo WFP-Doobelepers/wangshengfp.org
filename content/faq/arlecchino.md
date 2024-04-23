@@ -4,7 +4,7 @@ character: 'Arlecchino'
 character_star: 5
 element: 'pyro'
 aliases: ['arle']
-author: ['Leifa', 'Emiliabyss', 'Raikh', 'NoootNooot', 'Snowclipsed', 'Ac1d', 'Kol', 'June', 'SirVaughan']
+author: ['Leifa', 'Emiliabyss', 'Ac1d', 'Kol']
 ---
 <br>
 
@@ -104,9 +104,9 @@ A minor DPS increase. Roughly 8% is still potent, but it feels a bit underwhelmi
 
 ### Constellation 3 - "You Shall Become a New Member of Our Family..."
 ![](/faq/arlecchino/normal.png)
-_"Increases the Level of Normal Attack: Invitation to a Beheading by 3._
+_Increases the Level of Normal Attack: Invitation to a Beheading by 3._
 
-_Maximum upgrade level is 15."_
+_Maximum upgrade level is 15._
 
 Arlecchino loves using her Normal Attacks, so this is a potent Constellation for her. The DPS increase that results from this is about what would be expected of a typical Constellation.
 
@@ -185,7 +185,7 @@ Arlecchino has a Burst that is detrimental to her damage output. However, it is 
 | All teams, Burst every other rotation |       100%      |                   0%                   |                     0%                     |
 |   Second Pyro, Burst every rotation   |    140%–150%    |                   17%                  |                     10%                    |
 |   Triple Pyro, Burst every rotation   |       120%      |                   12%                  |                     8%                     |
-|   Double hydro, Burst every rotation  |      150%       |                   19%                  |                     12%                    |
+|   Double Hydro, Burst every rotation  |      150%       |                   19%                  |                     12%                    |
 
 Arlecchino’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the [Energy Recharge Calculator](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/).
 
@@ -237,7 +237,7 @@ R1 Homa surpasses this weapon only when you can keep Arlecchino below 50% Max HP
 
 **Staff of the Scarlet Sands (Vaporize)**
 ![](/faq/arlecchino/sotss.png)
-– A comfortable choice when building CRIT Rate on artifacts proves to be challenging. In Overloaded teams, it is within 1% of Primordial Jade-Winged Spear, but just under 3% better than it in Vaporize teams when using EM Sands.
+A comfortable choice when building CRIT Rate on artifacts proves to be challenging. In Overloaded teams, it is within 1% of Primordial Jade-Winged Spear, but just under 3% better than it in Vaporize teams when using EM Sands.
 
 **Deathmatch R5 (General Single-Target) / Ballad of the Fjords R5 (Where EM Matters)**
 ![](/faq/arlecchino/deathmatch_botf.png)
