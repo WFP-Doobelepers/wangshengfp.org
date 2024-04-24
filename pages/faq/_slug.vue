@@ -134,7 +134,7 @@ export default Vue.extend({
                 { slug: params.slug },
                 { aliases: { $contains: params.slug } }
             ]
-        }).fetch()
+        }).sortBy('slug', 'asc').fetch()
 
         const faq: any = Array.isArray(faqFetch) ? faqFetch[0] : faqFetch
 
