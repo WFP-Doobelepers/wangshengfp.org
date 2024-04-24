@@ -34,7 +34,7 @@ export default Vue.extend({
     },
     async fetch () {
         this.faqs = await this.$content('faq')
-            .sortBy('updatedAt', 'desc')
+            // .sortBy('updatedAt', 'desc')
             .only([
                 'title',
                 'character',
