@@ -24,7 +24,7 @@ _Pre-TC is volatile and, as always, perpetually subject to change until release 
 
 -   Hey everyone, the WFP TC team would like to present our Clorinde FAQ and Mastersheet! This time around we are leveraging our [wfpsim tool](wfpsim.com) to handle a majority of our calculations instead of the traditional spreadsheets. This is a new process for us but should hopefully improve the quality of our content.
 
--   Like how we did things in the past, WFP staff (mainly KB) will be around to answer any questions in the comments.
+-   Like how we did things in the past, WFP staff (mainly KB) will be around to answer any questions in the [discord server](https://discord.gg/hutao).
 
 ## Character Overview
 
