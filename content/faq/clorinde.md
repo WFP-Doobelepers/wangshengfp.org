@@ -3,7 +3,7 @@ title: "Clorinde Pre-TC FAQ"
 character: "Clorinde"
 character_star: 5
 element: "pyro"
-author: ["KB", "June"]
+author: ["KB", "June", "Leifa"]
 ---
 
 <br>
@@ -13,7 +13,9 @@ author: ["KB", "June"]
 -   KB - Lead, Author
 -   June - Writing: Constellations, Talents
 -   Leifa - Writing: Overview
--   Athena: Calc Verification
+-   Acacia - Consultant
+-   Avocado - FAQ Verification
+-   Athena - Calc Verification
 
 All calculations can be accessed through the [Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit#gid=981902297).
 
@@ -70,7 +72,7 @@ _Authored by June_
 #### Normal Attack: Oath of Hunting Shadows
 
 ![](/faq/clorinde/normal.png)
-Clorinde’s regular Normal Attacks are nothing special to look at. Instead, Clorinde’s Electro-infused pistolet attacks during her special state on her Skill are her main source of damage.
+Clorinde’s regular Normal Attacks are nothing special to look at. Instead, Clorinde’s Electro-infused pistolet attacks during her special state on her Skill are her main source of damage and will be further discussed in the Elemental Skill section.
 
 #### Elemental Skill: Hunter's Vigil
 
@@ -121,7 +123,7 @@ On paper, many of Clorinde’s core Constellations (C1/C2/C4/C6) are actually pr
 
 For players more interested in playing Aggravate or even Hypercarry Clorinde teams, these Constellations will be more influential than our listed ratings.
 
-Sims done with R1 Sig in a Fischl Sucrose Kirara team. Please check the [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing) for more details.
+Sims done with R1 Absolution in a Fischl Sucrose Kirara team. Please check the [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing) for more details.
 
 ### Constellation 1 - "From This Day, I Pass the Candle's Shadow-Veil"
 
@@ -200,7 +202,8 @@ _For 12s after Hunter's Vigil is used, Clorinde's CRIT Rate will be increased by
 -   _When Clorinde is about to be attacked by an opponent._
 -   _When Clorinde uses Impale the Night: Pact._
 
-_1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration._ > _In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades._
+_1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration._
+_In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades._
 
 Here we go, Clorinde is now a mobile, utility, self healing driver that **also** does an absurd amount of damage. In addition, Clorinde at C6 is impossible to kill with how much damage reduction and healing she has. This Constellation really does ascend her to a DPS unit that does almost everything well.
 
@@ -254,7 +257,7 @@ A fine budget option to use before farming for 4pc FHW. Roughly 10% less persona
 
 _Authored by KB_
 
-\*Sims are done for both 4pc TF Quickbloom and 4pc FHW Agg teams. Please read the [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing) for more details.
+\*Sims are done for both 4pc TF Quickbloom and 4pc FOHW Aggravate teams. Please read the [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing) for more details.
 
 **Absolution**
 ![](/faq/clorinde/absolution.png)
@@ -281,19 +284,52 @@ _Authored by KB_
 ![](/faq/clorinde/furina.png)
 Furina has a pretty nice interaction with how Clorinde heals from her Skill. Healing Bonus applies to the huge 110% Max HP healing from her lunging attacks before the Bond of Life reduces the healing. This means that even having only 150 Fanfare stacks on Furina will make Clorinde heal more than double her normal amount. For players with access to C1/C2 Furina, they can increase the healing to roughly half of Clorinde’s Max HP!
 
-|                  | Healing Bonus | Amount of Max HP Healed |
-| ---------------- | ------------- | ----------------------- |
-| Base             | 0%            | 10.50%                  |
-| 150 Fanfare      | 14%           | 26.09%                  |
-| 300 Fanfare      | 27%           | 41.69%                  |
-| 400 Fanfare (C1) | 36%           | 52.08%                  |
+<!-- |                  | Healing Bonus\* | Amount of Max HP Healed\* |
+| ---------------- | --------------- | ------------------------- |
+| Base             | 0%              | 10.50%                    |
+| 150 Fanfare      | 14%             | 26.09%                    |
+| 300 Fanfare      | 27%             | 41.69%                    |
+| 400 Fanfare (C1) | 36%             | 52.08%                    | -->
+
+<table>
+  <thead>
+    <tr>
+      <th style="padding: 10px;">                  </th>
+      <th style="padding: 10px; border-left: 2px solid white;"> Healing Bonus* </th>
+      <th style="padding: 10px; border-left: 2px solid white;"> Amount of Max HP Healed* </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;"> Base             </td>
+      <td style="padding: 10px;">      0%       </td>
+      <td style="padding: 10px; border-left: 1px solid black;">          10.50%         </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"> 150 Fanfare      </td>
+      <td style="padding: 10px;">     14%       </td>
+      <td style="padding: 10px; border-left: 1px solid black;">          26.09%         </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"> 300 Fanfare      </td>
+      <td style="padding: 10px;">     27%       </td>
+      <td style="padding: 10px; border-left: 1px solid black;">          41.69%         </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"> 400 Fanfare (C1) </td>
+      <td style="padding: 10px;">     36%       </td>
+      <td style="padding: 10px; border-left: 1px solid black;">          52.08%         </td>
+    </tr>
+  </tbody>
+</table>
 
 \*Furina Talent Level 9 Burst
 
 #### Furina Quickbloom (Meta)
 
 ![](/faq/clorinde/quickbloom.png)
-4 Thundering Fury Recommended
+
+4pc Thundering Fury Recommended
 
 **Clorinde | Furina | Dendro | Dendro/Electro**
 
@@ -321,14 +357,15 @@ Electro Options:
 
 -   **Beidou:** Not recommended in single-target, but is a good option when fighting multiple enemies. Her interruption resistance is much appreciated by Clorinde and the additional damage reduction will make her close to immortal. Clorinde’s pistol and lunge attacks both proc Beidou’s Burst effectively, making her a decent driver.
 
-## Aggravate (Meta)
+### Aggravate (Meta)
 
 ![](/faq/clorinde/agg.png)
+
 **Clorinde | Electro | Dendro| Flex**
 
 Ideal Setup
 
-**Clorinde | Fischl| Kirara/Nahida| Kazuha/Sucrose**
+**Clorinde | Fischl | Kirara/Nahida | Kazuha/Sucrose**
 
 Clorinde’s Skill has fantastic synergy with Fischl in Aggravate teams since her application and attack rate are faster than most Electro characters. Clorinde’s Aggravate teams are similar to Keqing’s Aggravate except Clorinde brings much more mobility and has self-healing. Usually other Aggravate teams have to sacrifice a decent amount of damage or grouping for survivability since the defensive options are not great (Kuki/Kirara/Jean).
 
@@ -360,14 +397,15 @@ Flex Options:
 
 -   **Beidou:** Can be a decent option vs 2+ targets while also granting damage reduction and interruption resistance.
 
-## Taser
+### Taser
 
 ![](/faq/clorinde/taser.png)
+
 **Clorinde | Electro| Hydro | Anemo/Hydro**
 
 Ideal Setup
 
-**Clorinde | Furina | Yelan/Fischl| Kazuha**
+**Clorinde | Furina | Yelan/Fischl | Kazuha**
 
 Although Clorinde is the first “good” Electro Taser driver character to come out, her Quickbloom and Aggravate teams usually utilizes her kit better. That being said, her function as a Taser unit is perfectly fine and the Hydro units that can pair with her are rather strong (Xingqiu/Yelan/Furina).
 
@@ -393,12 +431,13 @@ Anemo Options:
 
 -   **Jean/Sayu:** Can be used in Furina teams for faster Fanfare generation.
 
-## Hypercarry/Overload Clorinde (Not Recommended)
+### Hypercarry / Overload Clorinde (Not Recommended)
 
 ![](/faq/clorinde/hyper.png)
-**Clorinde | Buffer| Buffer| Buffer or Anemo if no Chevreuse**
 
-Ideal Setup (For higher invest players only)
+**Clorinde | Buffer | Buffer | Buffer or Anemo if no Chevreuse**
+
+_Ideal Setup (For higher invest players only)_
 
 **Clorinde | Sara | Chevreuse | Xiangling**
 
