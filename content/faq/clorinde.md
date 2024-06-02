@@ -13,7 +13,8 @@ author: ["KB", "June", "Leifa"]
 -   KB - Lead, Author
 -   June - Writing: Constellations, Talents
 -   Leifa - Writing: Overview
--   Acacia - Consultant
+-   Acacia - FAQ Consultant
+-   xf3 - TC Verification
 -   Avocado - FAQ Verification
 -   Athena - Calc Verification
 
