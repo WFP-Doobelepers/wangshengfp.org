@@ -266,7 +266,7 @@ Her signature and best weapon. It is a significant personal damage increase that
 
 **Light of Foliar Incision**
 ![](/faq/clorinde/lofi.png)
-On the same launch banner as her signature weapon. It is actually the 2nd best option for her so it’s pretty hard to be upset about losing in the banner. Foliar is also a bit more versatile than her signature which is nice if you have multiple sword DPS units.
+On the same launch banner as her signature weapon. It is one of the stronger 5-star options for her so it’s pretty hard to be upset about losing in the banner. Foliar is also a bit more versatile than her signature which is nice if you have multiple sword DPS units.
 
 **The Black Sword**
 ![](/faq/clorinde/blacksword.png)
