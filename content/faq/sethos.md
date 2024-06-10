@@ -3,7 +3,7 @@ title: "Sethos Pre-TC FAQ"
 character: "Sethos"
 character_star: 4
 element: "electro"
-author: ["Leifa", "Emiliabyss", "Ac1d", "Kol"]
+author: ["NatC", "June", "Quincy"]
 ---
 
 <br>
