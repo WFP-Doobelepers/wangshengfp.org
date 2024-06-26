@@ -89,7 +89,7 @@ Normal Attack DPS: Burst > NA > Skill
 
 _Authored by June_
 
-### **Constellation 1 - "Sealed Shrine’s Spiritsong"**
+### **Constellation 1 - Sealed Shrine’s Spiritsong**
 
 ![](/faq/sethos/c1.png)
 
@@ -103,7 +103,7 @@ _The CRIT Rate of Shadowpiercing Shot is increased by 15%._
 
 **Rating**: 3/5
 
-### **Constellation 2 - "Papyrus Scripture of Silent Secrets"**
+### **Constellation 2 - Papyrus Scripture of Silent Secrets**
 
 ![](/faq/sethos/c2.png)
 
@@ -125,7 +125,7 @@ _When any of the following conditions are met, Sethos gains a 15% Electro DMG Bo
 
 **Rating**: 3/5
 
-### **Constellation 3 - "Ode to the Moonrise Sage"**
+### **Constellation 3 - Ode to the Moonrise Sage**
 
 ![](/faq/sethos/c3.png)
 
@@ -143,7 +143,7 @@ An increase in Sethos’ Normal Attack Talent, providing a damage increase to bo
 
 **Rating**: 2/5
 
-### **Constellation 4 - "Beneficent Plumage"**
+### **Constellation 4 - Beneficent Plumage**
 
 ![](/faq/sethos/c4.png)
 
@@ -161,7 +161,7 @@ Sethos provides a teamwide EM buff upon hitting multiple enemies with his Level 
 
 **Rating**: 2/5
 
-### **Constellation 5 - "Record of the Desolate God's Burning Sands"**
+### **Constellation 5 - Record of the Desolate God's Burning Sands**
 
 ![](/faq/sethos/c5.png)
 
@@ -180,7 +180,7 @@ An increase in Sethos’ Burst Level, boosting the Additive DMG Bonus his infuse
 
 **Rating**: 3/5
 
-### **Constellation 6 - "Pylon of the Sojourning Sun Temple"**
+### **Constellation 6 - Pylon of the Sojourning Sun Temple**
 
 ![](/faq/sethos/c6.png)
 
@@ -199,8 +199,6 @@ Regains the Energy consumed by Sethos’ A1 Passive once every rotation, which c
 **Rating**: 3.5/5
 
 ## Energy Recharge Requirements
-
-_Authored by Ac1d_
 
 _Authored by quinslay_
 
@@ -282,7 +280,7 @@ Unconditional mixed set options. They are not much worse than 4pc Gilded Dreams.
 ![](/faq/sethos/4dpc.png)
 **4pc Desert Pavilion Chronicle**
 
-Only used for Sethos’ Burst-NA playstyle, this weapon has more CA DMG Bonus than Wanderer’s Troupe, but lacks the EM. This being said, the ATK SPD increase can lead to Sethos being able to hit more times during his Burst, which can make it roughly equal to Wanderer’s Troupe.
+Only used for Sethos’ Burst-NA playstyle, this set has more CA DMG Bonus than Wanderer’s Troupe, but lacks the EM. This being said, the ATK SPD increase can lead to Sethos being able to hit more times during his Burst, which can make it roughly equal to Wanderer’s Troupe.
 
 ## Weapons
 
