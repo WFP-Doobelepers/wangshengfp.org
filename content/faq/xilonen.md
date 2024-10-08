@@ -4,191 +4,219 @@ character: "Xilonen"
 character_star: 5
 element: "geo"
 aliases: []
-author: ["Emiliabyss", "Leifa", "Ac1d", "Duckfero", "Whalien"]
+author: ["Ac1d", "Sew", "snowclipsed"]
 ---
 
 <br>
 
 ## Credits:
 
--   _Emiliabyss - Lead, Author | Talents, Weapons_
--   _Sew - Lead, Consultation_
--   _Leifa - Author | Overview_
--   _Ac1d - Author | Constellations, ER_
--   _Duckfero | Artifacts_
--   _Whalien | Teambuilding_
--   _sirvaughan | Framecounting_
--   _fianwens - Writing Verification_
--   _natc - Calcs Verification_
+-   _Ac1d - Lead | Writing: Overview, ER Requirement, Subjective analysis, Teambuilding_
+-   _NatC - Calc Verification: Weapons_
+-   _haafr - Calc Verification: Constellations, Artifacts_
+-   _lilith - Writing: Weapons | Calculations: Weapons_
+-   _Acacia - Calculations: Constellations, Artifacts_
+-   _Sew - Writing: Artifacts_
+-   _snowclipsed - Writing: Talents_
 
-For all Navia Calcs you can reference: [Navia Mastersheet](https://docs.google.com/spreadsheets/d/1znCN_WT2ZaXxaVrSMi6CVpbGK3VR9ZEzWt3ymCn-0Z4/edit#gid=981902297) by Emiliabyss, Sew, Ac1d, Duckfero
+For all Xilonen Calcs you can reference: [Xilonen Mastersheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?gid=981902297#gid=981902297) by Ac1d, Acacia, Lilith
 
 Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.
 
 ## **Character Overview**
 
-_Authored by Leifa_
+_Authored by Acid_
 
-![](/faq/xilonen/navia.png)
+![](/faq/xilonen/xilonen.png)
 
-Navia is a 5-star Geo Claymore character aligned with Ousia whose kit revolves around gaining Crystal Shrapnel charges to strengthen her Elemental Skill. Crystal Shrapnel charges can be gained from collecting Crystallize Shards or periodically from her Elemental Burst, dealing damage frequently from off-field. After using her Elemental Skill, Navia will gain a short Geo Infusion in order to deal some extra damage whilst on-field.
+Xilonen is a 5-star Geo Sword character from Natlan whose kit revolves around activating her samples, which are based on her teammates’ elements. These samples provide Geo, Pyro, Electro, Cryo or Hydro RES Shred. Xilonen’s Elemental Skill makes her enter the Nightsoul's Blessing state, during which, if there are at least 2 Pyro, Electro, Cryo or Hydro characters in the team, she can use her Normal Attacks to activate her samples and thus her RES Shred. In that team, Xilonen’s Elemental Burst heals the active character for an amount based on her DEF.
 
-Navia can be played both as an on-field DPS or as an off-field DPS. If used on-field, players can use Navia’s infused Normal Attacks and treat her as a main carry. She can also be played as an off-field DPS, where she ignores the infusion and relies solely on her Skill and Burst to deal her damage with minimal field time. Preferably, she will be played alongside Pyro, Electro, Cryo and Hydro teammates, due to her A4 Passive granting an extra 20% ATK for each teammate of those elements, which can stack up to two times.
+Xilonen is mainly a support for characters of the aforementioned element. That being said, when using her in a team where there is only one or less Pyro, Electro, Cryo or Hydro characters, she can be used as a damage dealer, using her Geo-infused Normal Attacks or Plunges and Elemental Burst to deal damage.
+
+## WFP SUBJECTIVE ANALYSIS
+
+As far as Geo units go, Xilonen surpasses all the expectations set for her. She provides about as much as Kazuha, who is widely regarded as one of the best and most universal buffers in the game. Additionally, she also comes with healing and access to easy multi-Element RES Shred. She is also extraordinarily easy to build, requiring only a 4-piece set of the Scroll of the Hero of Cinder City artifact set, with no real need to level any of the pieces at base, except for perhaps the Sands of Eon piece for the increased Energy Recharge as well as a CRIT Rate Circlet if paired with the Favonius Sword. Her weapon options are also extremely simplistic, where aside from her Best-in-Slot(BiS)as well as Favonius Sword in teams where more ER is needed, running any other weapon (yes even Dull Blade) will not noticeably alter her performance.
+
+### Is she a replacement for Kazuha?
+
+As with everything, it depends. While she provides almost the same magnitude of buffs along with healing, she lacks the AOE damage of Kazuha, which cannot be overlooked. Additionally, she possesses no CC capabilities, giving Kazuha a huge edge in AOE scenarios.
+
+### Should I pull for Xilonen?
+
+If you like her, absolutely.
+If you don’t like her but feel like you need a buffer like her, yes.
+If you only play Mono Anemo, Dendro-based, or Mono Geo teams, she will be of little use to you and you can afford to skip her easily.
+
+### Should I get C1 or R1?
+
+Since the Weapon banner is now less costly on average than the Character banner, pulling for a Character’s Signature Weapon is now easier than ever. In Xilonen’s case especially, her C1 provides marginal to no benefits at all aside from lengthening her fast movement state for exploration and slightly increasing the active character’s interruption resistance, while her Signature Weapon provides a solid buff for her team. Hence, pulling for her C1 should only be done if one wishes to pull for her C2 as well. However, it is still not advised to pull on the weapon banner if you cannot guarantee the weapon, because unlike the character banner, you will lose the Fate Point when the banner goes away.
+
+### Should I try to get C2?
+
+C2 is generally a larger buff to the team than R1, but is also way more costly. Something else to consider is that spending a significant number of wishes this close to Natlan’s Archon release may not be a wise choice, especially if you do not have a surplus of Primogems. Additionally, Xilonen’s C2 provides no gameplay changes aside from larger damage numbers, making it “functionally boring” compared to other constellations.
 
 ## **Talents**
 
-_Authored by Emiliabyss_
+_Authored by snowclipsed_
 
--   **On-field:** Elemental Skill > Normal Attack > Elemental Burst
-    ![](/faq/xilonen/onfield.png)
-
--   **Quickswap:** Elemental Skill > Elemental Burst >> Normal Attack
-    ![](/faq/xilonen/quickswap.png)
+-   **Leveling Priority:** Elemental Skill > Elemental Burst
+    ![](/faq/xilonen/talent.png)
 
 ### Analysis
 
-Navia’s kit revolves around using her Burst and Normal Attacks to maximize the damage output of her Skill, which is a powerful shotgun blast to the face of enemies. Her kit is overall synergistic with many ways to buff her own damage. She is also one of the few Geo characters to effectively utilize Crystallize reactions even when shielded by someone else like Zhongli, setting a new precedent for Geo DPS characters.
+The most important part of Xilonen's kit, the multi-Element RES Shred, is applied via her Elemental Skill, while the RES Shred scales off the Skill’s talent level, which should be prioritized over all her other talents. Next up are her healing capabilities, which is provided by her Burst. That being said, leveling her Burst is only a necessity if you desire more healing and / or want to improve her synergy with Furina. Leveling her Normal Attack is only a notable benefit if you are looking to build her to be an on-field DPS.
 
 ### Talent Overview
 
-**Normal Attack: Blunt Refusal**
+**Normal Attack: Ehecatl’s Roar**
+![](/faq/xilonen/normal.png)
 
--   Four consecutive strikes; spinning Charged Attack
+Outside of her Nightsoul’s Blessing state, Xilonen's Normal Attacks are lackluster. Additionally, while her Normal and Plunging Attacks are infused with Geo while she is in the Nightsoul’s Blessing state, her damage does not warrant investing in it when she is not used as an on-field DPS. This however, changes when her C6 is unlocked, which greatly improves her personal DMG.
 
-Navia’s Normal and Charged Attacks are buffed by her First Ascension Passive, offering an absolute Geo infusion that cannot be overwritten and a large boost to her damage.
+**Elemental Skill: Yohual’s Scratch**
+![](/faq/xilonen/skill.png)
 
-That said, since Navia will need to utilize her Normal Attack Talent to maximize her kit’s damage output, it’s recommended to level this Talent as high as possible, but not before Navia’s Skill.
+Xilonen’s Elemental Skill is the highlight of her character kit, providing multi-Element RES Shred based on her team's Elemental composition. Xilonen's Elemental Skill gives her 3 Samplers which can sample the Element of her teammates. Initially, these samplers start as Geo, and when activated, reduce the Elemental RES of nearby enemies by 33% for the sampled Elements (at Talent Level 9, C0).
 
-**Elemental Skill: Ceremonial Crystalshot**
+After her Elemental Skill is used, she will gain 45 Nightsoul Points and enter the Nightsoul's Blessing state, which starts her samplers as Geo. When her team has at least 2 Pyro/Cryo/Electro/Hydro characters, her Ascension 1 Passive Talent allows her to gain 35 Nightsoul points after performing a Normal or Plunging Attack during her Nightsoul's Blessing state, with a maximum of 90 points. When her Nightsoul points reach 90 after two Normal/Plunging Attacks, she will consume all her Nightsoul points and activate her 3 Source Samplers, which decrease the Elemental RES shred of her enemies by 33% for each element from Pyro/Cryo/Electro/Hydro/Geo in her party. It is important to note that two Samplers of the same Element will not stack buffs.
 
--   Gains a stack (6 max) whenever anyone obtains a Crystallize shard. On Skill use, she consumes all her stacks to hit the enemy a number of times (5-11) based on her stacks (0-3). Each stack beyond the third that’s consumed will each buff her Skill DMG by 15%, up to 45% max. Has two uses per rotation.
+**Elemental Burst: Ocelotlicue Point!**
+![](/faq/xilonen/burst.png)
 
-The bread-and-butter of Navia’s kit. It’s easy to both acquire max stacks for each Skill use and hit the enemy with every hit. As a Claymore-wielder using Normal Attacks, you’re going to be in point-blank range with your enemy anyways.
+The functionality of Xilonen's Elemental Burst is based on the state of her Source Samplers. Xilonen deals an initial instance of Nightsoul Aligned Geo DMG that scales off of her DEF. If at least 2 Source Samplers are sampling an Element from Pyro/Cryo/Electro/Hydro, Xilonen will heal the active character over time, the amount of healing increasing with her DEF. However, if less than 2 of the Samplers have their Elements changed from Geo, she will deal an additional instance of Nightsoul-aligned Geo DMG. Overall, this skill is good for ensuring survivability in multi-Element team compositions and for some additional Geo DMG in Geo teams.
 
-Navia’s Skill is more than half of her damage output, which makes this talent a top priority to maximize.
+**A1 Passive: Netotiliztli’s Echoes**
+![](/faq/xilonen/a1.png)
 
-**Elemental Burst: As the Sunlit Sky's Singing Salute**
+Her A1 Passive allows her to consistently activate her Source Samplers to sample Elements outside Geo. Similar to her Elemental Burst, Xilonen's A1 Passive has two outcomes based on the state of her samplers. When Xilonen is in her Nightsoul's Blessing state with at least 2 samplers being Pyro/Cryo/Electro/Hydro, her Normal and Plunging Attacks give her 35 Nightsoul Points. If she has less than 2 samplers that have not switched Elements from Geo, she will gain a 30% Normal Attack Bonus.
 
--   One initial hit, 17 smaller hits over time. Hits from Burst generate one Crystal Shrapnel stack every 2.4 seconds.
+**A4 Passive: Portable Armored Sheath**
+![](/faq/xilonen/a4.png)
 
-One of Navia’s primary ways to gain stacks and generate Crystallize shards, which is especially valuable on her Best-in-Slot artifact set, Nighttime Whispers in the Echoing Woods.
+Her Ascension 4 Passive Talent allows her to trigger an additional Nightsoul Burst, which increases her DEF by 20% and can also trigger any Nightsoul Burst-related effects, such as the 2pc effect of the Scroll of the Hero of Cinder City artifact set.
 
-While it offers plenty of utility, it is not an exceptional source of damage output, so this talent can be leveled last.
+**Night Realm's Gift: Blessing of Forge-Fire**
+![](/faq/xilonen/nightrealm.png)
+This talent allows Xilonen to consume Phlogiston to extend her Nightsoul’s Blessing state for longer while exploring Natlan. Similar to Kachina, this talent also allows an active character that is sprinting/climbing to switch to Xilonen, which grants her 20 Nightsoul points and activates her Nightsoul’s Blessing state.
 
-**Ascension 1: Undisclosed Distribution Channels**
-
--   For four seconds after using her Skill, the Normal Attack Talent is infused with Geo and cannot be overridden. Additionally, attacks using her Normal Attack Talent gain a 40% DMG Bonus
-
-This is the main reason to use Navia’s Normal Attacks. Without it, she would have the same boring Normal Attacks as a typical 4-Star Claymore wielder. Most of the time, you’ll be using Normal Attacks.
-**Ascension 4: Mutual Assistance Network**
-
--   For each Pyro, Electro, Hydro, Or Cryo character in your party, Navia gains 20% ATK, maxing out at 40% (two different elements).
-
-Another incentive to pair Navia with other non-Geo characters, which is recommended in order to maximize Crystallize generation.
-
-**Utility Passive: Painstaking Transaction**
-
--   20% more rewards on Fontaine expeditions.
-
-You should probably just mine for ore instead, but there may be a non-zero number of cases where this comes in handy.
+**Utility Passive: Tour of Tepeilhuitl**
+![](/faq/xilonen/ultil.png)
+This talent restores 15 Phlogiston when an active character switches to Xilonen based on the Night Realm’s Gift Talent.
 
 ## Constellations
 
-_Authored by Ac1d_
+_Authored by Sew_
 
 ![](/faq/xilonen/c1.png)
 
-### Constellation 1 - A Lady's Rules for Keeping a Courteous Distance
+### Constellation 1 - Sabbatical Phrase
 
-_Each stack of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 3 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 9 Energy can be gained this way, and the CD of "As the Sunlit Sky's Singing Salute" can be decreased by up to 3s._
+_Xilonen's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30%, and her Nightsoul point time limit is extended by 45%. Additionally, when Xilonen's Source Samples are active, she can also increase nearby active characters' interruption resistance._
 
-Completely fixes any ER issues she might have in any possible team by effectively making her Burst a 42 energy cost from the original 60. Power depends on her original Energy Recharge needs at c0. More information about this Constellation can be found in the Energy Recharge section. It is worth noting that this Constellation will not be a damage improvement if she can run 100% ER, but that requires abundant enemy particles or running more than 1 extra geo character, which is not recommended.
+Xilonen’s first Constellation is a QoL constellation for both exploration and combat. The decreased Phlogiston consumption and increased Nightsoul limit helps her while exploring with her Skill. The Constellation also provides the active character 0.5 IR, which is as much as Hu Tao during her Elemental Skill infusion or Beidou during the duration of her Elemental Burst, when her Source Samples are active.
 
-_DPS% Increase vs. C0: ~13%_
+_Team DPS% Increase vs. C0: 0%_
 
-_Rating: 4/5_
+_Rating: 2/5_
 
 ![](/faq/xilonen/c2.png)
 
-### Constellation 2 - The President's Pursuit of Victory
+### **Constellation 2 - Chiucue Mix**
 
-_Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this Ceremonial Crystalshot instance by 12%. CRIT Rate can be increased by up to 36% in this way. In addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG._
+_Xilonen's Geo Source Sample will always remain active. Additionally, when her Source Samples activate, all nearby party members will gain effects corresponding to the active Source Sample that matches their Elemental Type:_
 
-Provides 36% CRIT Rate for her Skill damage. However, players will need to adjust her CRIT Rate to around 64% in order to not surpass 100% CRIT Rate. It also adds 2 extra hits to her Burst, which will be a minor increase to her damage and may generate an extra stack of Crystal Shrapnel.
+-   Geo: DMG +50%.
+-   Pyro: ATK +45%.
+-   Hydro: Max HP +45%.
+-   Cryo: CRIT DMG +60%.
+-   Electro: Restore 25 Energy, decrease Elemental Burst CD by 6s.
 
-_DPS% Increase vs. C1: 14%_
+Xilonen’s C2 is one of the best Constellations in the game. Considering how universal she is, increasing her buffing capabilities significantly makes the Constellation hold high value. In addition to the increased buffs, it enables her to shred Geo without the use of her Skill.
 
-_DPS% Increase vs. C0: ~29%_
-
+_Team DPS% Increase vs. C1: 13-16%_
+_Team DPS% Increase vs. C0: 13-16%_
 _Rating: 4/5_
 
 ![](/faq/xilonen/c3.png)
 
-### Constellation 3 - Businesswoman's Broad Vision
+### **Constellation 3 - Tonalpohualli's Loop**
 
-_Increases the Level of Ceremonial Crystalshot by 3. Maximum upgrade level is 15._
+_Increases the Level of Yohual's Scratch by 3. Maximum upgrade level is 15._
 
-Additional damage on Skill, which is her main source of damage.
+Increases the level of Xilonen’s Elemental Skill by 3, which increases her maximum RES Shred from 36% at TL 10 to 45% at TL13.
 
-_DPS% Increase vs. C2: 10%_
+_Team DPS% Increase vs. C2: 3.5-4%_
 
-_DPS% Increase vs. C0: ~42%_
+_Team DPS% Increase vs. C0: 17-21%_
 
-_Rating: 3/5_
+_Rating: 2/5_
 
 ![](/faq/xilonen/c4.png)
 
-### Constellation 4 - The Oathsworn Never Capitulate
+### **Constellation 4 - Suchitl's Trance**
 
-_When As the Sunlit Sky's Singing Salute hits an opponent, that opponent's Geo RES will be decreased by 20% for 8s._
+_After Xilonen uses Yohual's Scratch, she will grant all nearby party members the Blooming Blessing effect for 15s._
+_Characters with Blooming Blessing deal 65% of Xilonen's DEF as increased Normal, Charged, and Plunging Attack DMG. This effect will be removed after triggering 6 times or when the duration ends._
+_When you hit more than one opponent, trigger counts will be consumed based on the number of opponents hit. The counts for each party member with Blooming Blessing are counted independently._
 
-Buffs all her abilities. Combined with Geo Resonance’s effect, it simulates having Viridescent Venerer active but for Geo.
+Provides the team with 6 instances of added damage, similar to Shenhe and Yun Jin’s buffs, on their Normal, Charged and Plunging Attacks.
 
-_DPS% Increase vs. C3: 9.5%_
+_Team DPS% Increase vs. C3: 7-13%_
 
-_DPS% Increase vs. C0: ~55%_
+_Team DPS% Increase vs. C0: 25-37%_
 
 _Rating: 3/5_
 
 ![](/faq/xilonen/c5.png)
 
-### Constellation 5 - Negotiator's Resolute Negotiations
+### **Constellation 5 - Tlaltecuhtli's Crossfade**
 
-_Increases the Level of As the Sunlit Sky's Singing Salute by 3. Maximum upgrade level is 15._
+_Increases the Level of Ocelotlicue Point! by 3. Maximum upgrade level is 15._
 
 This Constellation does not provide a sizable benefit due to Navia’s Burst being only a minor portion to her overall damage.
 
-_DPS% Increase vs. C4: 2.8%_
+_Team DPS% Increase vs. C4: 0%_
 
-_DPS% Increase vs. C0: ~60%_
+_Team DPS% Increase vs. C0: 25-37%_
 
 _Rating: 1/5_
 
 ![](/faq/xilonen/c6.png)
 
-### Constellation 6 - The Flexible Finesse of the Spina's President
+### **Constellation 6 - Imperishable Night Carnival**
 
-_If more than 3 stacks of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia._
+_When Xilonen is in the Nightsoul's Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night's Blessing, ignoring the limitations of her Nightsoul's Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s._
+_During this time:_
 
-Navia’s strongest Constellation by far. It increases her Skill damage by about 40% if she has all 6 stacks of Crystal Shrapnel, which enables her to deal massive amounts of damage in an instant, increasing her already substantial frontload.
+-   Her Nightsoul's Blessing time limit countdown will be paused. Xilonen's Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul's Blessing state will not end either.
+-   Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul's Blessing state.
+-   She heals nearby party members for 120% of her DEF every 1.5s.
+    _She can gain 1 Imperishable Night's Blessing once every 15s._
 
-_DPS% Increase vs. C5: 26%_
+This Constellation greatly enhances Xilonen’s personal damage in a frontloaded manner by giving her added damage on her Normal and Plunging attacks while also providing teamwide healing, enabling Furina much better compared to a lower Constellation Xilonen.
 
-_DPS% Increase vs. C0: ~93-100%_
+_Team DPS% Increase vs. C5: 2-6%_
 
-_Rating: 5/5_
+_Team DPS% Increase vs. C0: 27-45%_
+
+_Rating: 3/5_
 
 ## **ER Requirement**
 
 _Authored by Ac1d_
 
-In teams lacking Favonius weapons, Navia finds herself needing upwards of 190% ER. Additionally, due to Navia’s curse of being Geo, she has limited options when it comes to generating Geo particles, and her best options rely on Geo constructs to create particles, which can break very easily.
+Xilonen’s ER requirements in order to Burst every rotation depend largely on her team, with teams which have additional Geo characters needing very little ER, while the opposite means her ER needs can shoot up to 230% ER, and that’s only if she catches her own particles.
 
-It is strongly recommended to use Zhongli as a Favonius holder and funnel the particles to Navia. This is easily achieved and ties into her playstyle as it is typical on rotations to use Zhongli’s Hold Skill then swap to Navia to activate her Burst. Doing this will reduce her ER requirements by 20% to 30%, which is immensely valuable.
+Her Burst does not contribute much damage and can be safely disregarded unless needed for every rotation for survivability and/or to provide healing for Furina’s drain to work.
 
-By playing in a way that Zhongli’s pillar is not destroyed, you can further reduce her ER by another 30%, bringing her to a comfortable ER need of 130%. Nonetheless, there are alternatives like using Ningguang or Itto as particle generators, who can reliably provide similar levels of Energy as Zhongli’s pillar.
+It is worth noting that using her Burst every other rotation instead reduces her ER requirements by roughly half.
 
-![](/faq/xilonen/erreq.png)
+| Scenario       | Energy Requirements \[funneled e in brackets\] | ER Saved per Favonius Trigger | ER Saved per Funneled Favonius Trigger |
+| -------------- | ---------------------------------------------- | ----------------------------- | -------------------------------------- |
+| Solo Geo 1 e   | 230% \[280%\]                                  | 25-35%                        | 40-60%                                 |
+| Double Geo 1 e | 140-160% \[160-180%\]                          | 10-15%                        | 15-25%                                 |
+| Solo Geo 2 e   | 120% \[135%\]                                  | 10%                           | 10-15%                                 |
+| Double Geo 2 e | 100-110% \[120%\]                              | 5%                            | 10%                                    |
 
 Energy requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
 
@@ -200,125 +228,95 @@ _Authored by Duckfero_
 
 ### Artifact Stats
 
-**Sands of Eon:** ATK%
-**Goblet of Eonothem:** Geo DMG%
-**Circlet of Logos:** CRIT
+**Sands of Eon:** DEF% or ER
+**Goblet of Eonothem:** DEF%
+**Circlet of Logos:** Healing Bonus% or DEF% or CR (If Fav)
 
-ER sands can be considered, especially if Navia is played as a quickswap unit.
-
-**Substats:** ER until requirement > CRIT DMG = CRIT Rate > ATK%
+**Substats:** ER% (until requirement) > CR (If Fav) > DEF%
 
 ### Artifact Sets
 
-![](/faq/xilonen/4whispers.png)
-**4PC Nighttime Whispers in the Echoing Woods:**
+![](/faq/xilonen/4scroll.png)
+**4pc Scroll of the Hero of Cinder City**
 
-BiS in practically every team except in a Mono Element team when Navia is a sub DPS. It gives a decent amount of Geo DMG Bonus with the condition of being shielded by a Crystallize reaction. However, it might not be easy to maintain the shield against aggressive enemies because it is somewhat weak, and having another shielder in the team doesn’t help since two shields cannot stack on top of another (both shields will each take 100% of damage). Although, even if you lose the effect for the last few Normal Attacks, this set is still Best-in-Slot.
-
-![](/faq/xilonen/4mh.png)
-**4PC Marechaussee Hunter:**
-
-Very competitive option with Nighttime Whispers set but Furina is required in the team as the only reliable way to drain HP is through Furina’s Skill. However, it is not as good as it looks, since you will likely have 0 or 1 stack of this set for Navia’s first Skill (since stacks can only be gained while on-field, and stacks cannot be gained during a Burst animation due to i-frames). This is still a very good option, just slightly behind the signature set even if we consider this issue, especially if you don’t want to farm the other set.
-
-It is recommended to build less than 64% CRIT Rate to avoid overcapping, but it’s better to have more than 55-60% CRIT Rate, because it would be a shame if the first E has only 40% CRIT Rate after all.
-
-![](/faq/xilonen/4gt.png)
-**4pc Golden Troupe:**
-
-Good option which is only slightly better than 2pc combos, because it buffs the Elemental Skill, which is about 50% of her total DPS (on rotation n°2). It is recommended to switch out between the 2 Skills to make sure both get the 70% Damage Bonus. If you don’t, it’s only equal or below the 2pc combos. Furthermore, make sure to switch out between Burst and Skill to guarantee the 70% Damage Bonus. The set is a bit more competitive if you play Navia as a sub DPS, since a significant portion of her damage comes from her Skill.
-
-![](/faq/xilonen/2mix.png)
-**2PC Skill/Geo/ATK/ER combos**
-
-2pc combos are still a great option if you have good substats and don’t want to farm Navia’s signature set. It is about 11-12% weaker than her best set. The 2pc combos effects are also unconditional, unlike most 4pc sets. With Bennett, 2pc Geo becomes better than 2pc ATK. Without Bennett, the 2pc ATK is better overall.
+Xilonen’s undisputed BiS Artifact set. The 2pc lowers her ER requirements and the 4pc grants all party members a 40% Geo DMG bonus and an additional Elemental DMG Bonus depending on the Element with which Crystallize is generated.
 
 ![](/faq/xilonen/4ap.png)
 **4pc Archaic Petra**
 
-This option is very competitive (sometimes Best-in-Slot) if you play Navia as sub DPS in a Mono Element team. Although Navia loses about 20% of her personal damage compared to her best set, it is still usually a gain in overall team DPS in teams where Navia’s DPS contribution isn’t high.
+Practically wasted 2pc effect because of Xilonen’s low multipliers. The 4pc effect provides a 35% dmg bonus, but it requires that a Crystallize shard be picked up, making it harder to utilize compared to Scroll while providing a lower buff, on top of not buffing Geo.
 
-![](/faq/xilonen/4mix.png)
-**4PC Gladiator's Finale / 4PC Husk of Opulent Dreams / 4PC Vermillion Hereafter**
+![](/faq/xilonen/4ins.png)
+**4pc Instructor**
 
-These options are viable, but there is less than 1% difference between them and a 2pc combo. They can still be considered if the substats are very good. Keep in mind that the Vermillion set is only viable with Furina in the team because her drain mechanic is required.
+Being a 4 Star Artifact Set, Xilonen holding Instructor will likely result in her overall stats being lower compared to other 5 star artifact sets, which in turn will lead to lower healing and buffing if she is holding her Signature Weapon. The buff provided is also worth less compared to Scroll and is only useful if her team members rely on Elemental Mastery.
+
+![](/faq/xilonen/4codex.png)
+**4pc Obsidian Codex**
+
+Xilonen’s best set for her personal damage because of the amount of buffs it provides for Natlanian characters. However, using Xilonen as a damage dealer at low Constellations is not recommended, with her supportive builds very much preferred.
 
 ## **Weapons**
 
-_Authored by Emiliabyss_
+_Authored by lilith_
 
-![](/faq/xilonen/verdict.png)
-**Verdict:**
+![](/faq/xilonen/peak.png)
+**Peak Patrol Song**
 
-Navia’s signature weapon and Best-in-Slot. Most signature weapons have about a 10-15% advantage over other options, but for Navia, there are three competitors within about 5% of this weapon. There’s nothing particularly interesting about this weapon that will change your playstyle, so just consider it to be a good stat stick.
+Xilonen’s Best-in-Slot weapon increases both her personal and the entire team’s damage through its strong passive. While it is a guaranteed damage increase for the entire team over Favonius Sword, due to the nature of teams often appreciating the added help with their ER needs, the mileage you get out of this weapon will vary based on the ER needs of her teams, meaning that its effect will be most noticeable in teams that aren’t energy hungry.
 
-![](/faq/xilonen/serpent.png)
-**Serpent Spine (R5)**
+![](/faq/xilonen/favsword.png)
+**Favonius Sword**
 
-Assumes max stacks, which is easy to accomplish in Spiral Abyss. Just make Navia the party lead and wait for all the stacks to accumulate before hitting start on the floor. Time and time again, Serpent Spine has shown itself to be of impeccable value to Claymore-wielders, and even with the new Battle Pass options, this reigns supreme over all other 4-star and 5-star options.
+Her second best option overall, and definitely her best 4\* Weapon, Favonius Sword is so beneficial to her teams overall that it is worth using over any weapon that focuses on increasing Xilonen’s pitifully low personal damage. It is recommended that players build enough CRIT Rate to consistently trigger its passive. Naturally, Favonius will perform best on higher refinements, but for players that don’t have her Signature Weapon, there is no reason not to use Favonius Sword even on lower refinements.
 
-Make sure to use a CRIT Rate hat, and not a CRIT DMG hat, since Navia’s CRIT DMG Ascension stat compensates for the lack of CRIT DMG Hat. On most other characters, Serpent Spine wants a CRIT DMG hat.
+![](/faq/xilonen/key.png)
+**Key of Khaj-Nisut**
 
-![](/faq/xilonen/redhorn.png)
-**Redhorn Stonethresher:**
+Key requires 3 Skill uses to activate its teamwide EM buff. With how her rotations line up, the Weapon can only have the buff active in the second rotation at the earliest, with some teams potentially taking three rotations for the Weapon passive to activate. In either case, the mediocre buff the weapon provides along with it encouraging Xilonen to build high HP, a stat she doesn’t normally favor, makes it hard to justify using this weapon over her other options, even for teams that favor EM buffs.
 
-A massive CRIT DMG stat stick with the added bonus of buffing her Normal Attacks a small amount. There isn’t much else to say here. 88% CRIT DMG is hard to ignore, and the numbers show. This weapon becomes better if you’re using the Husk of Opulent Dreams artifact set.
+![](/faq/xilonen/fs.png)
+**Freedom-Sworn**
 
-![](/faq/xilonen/beacon.png)
-**Beacon of the Reed Sea (One Passive Trigger):**
+In most of Xilonen’s teams, it will perform similarly, if not worse, than all options not listed here. While the buff might look good at first glance, Xilonen can have a hard time triggering the passive. Hence, even for teams that benefit fully from the buff it provides, it will not be consistent enough or last long enough to justify using Freedom-Sworn over her other options. In teams that heavily favor ATK buffs, such as Arlecchino or Navia teams, while equipping Freedom-Sworn on Xilonen theoretically results in very high damage for the on-field carries, the lack of team utility and adjusted rotations to accommodate its buff means that it might at times negatively affect uptime of other buffs and Bursts, making it fall behind her other options.
 
-Good due to its CRIT Rate stat and, at minimum, 20% ATK boost. It’s important to note that the first Skill does not grant stacks. It has the potential to surpass other weapons if she gets hit, but if you’re not perpetually shielded with Navia, you have probably done something wrong in your gameplay to drop your DPS in other ways.
+![](/faq/xilonen/xiphos.png)
+**Xiphos Moonlight**
 
-![](/faq/xilonen/wgs.png)
-**Wolf’s Gravestone / The Unforged:**
+In most of her teams, Xiphos will be a downgrade compared to her other options despite the ER it provides to the entire team. Xilonen herself doesn’t value the EM this weapon requires building in order to benefit from the passive, and even then ER it provides is significantly lower than what Favonius Sword can offer. This weapon should only be considered if you do not have an available Favonius Sword and your team really needs help with the Energy.
 
-Both weapons are more than 10% less than Navia’s signature weapon, and both have similar effects. Unforged assumes a shield at all times because Navia also wants a shield at all times. If you end up not using Bennett on your team, these weapons become much more valuable. Keep in mind that Wolf’s Gravestone can buff teammates as well, even if that buff is not reliable.
+![](/faq/xilonen/mix.png)
+**Wolf-Fang/Uraku Misugiri/Cinnabar Spindle/Dull Blade**
 
-![](/faq/xilonen/sac.png)
-**Sacrificial Greatsword / "Ultimate Overlord’s Mega Magic Sword":**
-
-These perform slightly better than craftable options, and the event weapon is very easy to acquire. If you help all of the Melusines, the 48% ATK boost is much appreciated.
-
-As for Sacrificial Greatsword, its value skyrockets if you can somehow get 18 stacks (6 for each Skill) per rotation, but without any stacks active, the extra damage is insignificant, as it’s half the motion value and can lengthen rotations. Current calculations assume no stacks on the 3rd Skill use.
-
-![](/faq/xilonen/craft.png)
-**Katsuragikiri Nagamasa / Tidal Shadow:**
-
-Tidal Shadow outshines Katsuragikiri if she starts her rotations at less than full health, but this is hard to manage on the first floor of Spiral Abyss and with Zhongli’s shield. Katsuragiri Nagamasa satisfies most of her Energy Recharge requirements while being a more selfish version of a Favonius weapon; she gains more energy, but only for herself. Katsuragikiri also buffs Navia’s Skill damage, which is much-desired.
+Xilonen’s personal damage is low even when she is built for damage, so all weapons that are focused on her personal damage over team buffs will perform similarly, with less than a 1% difference between them. If the team doesn’t require the help with ER and you don’t own her Signature Weapon, Dull Blade would unironically be a great option for her considering how close it is to other weapons, limited 5\*s included, that could benefit other characters way more.
 
 ## **Team Building**
 
-_Authored by Whalien_
+_Authored by Ac1d_
 
-### On-field DPS
+In short, Xilonen’s role in teams is almost identical to that of Kazuha, minus the AOE damage and Crowd Control, but with the addition of strong healing and the ability to buff the Geo element. She can also be used as a Zhongli replacement when his Shielding capabilities aren’t needed for the interruption resistance since she provides more RES Shred as well as healing to sustain the team. Xilonen is also able to be used as an on-field DPS even at low Constellations, but that will often result in less damage than if she were to be used to buff another carry.
 
-**Navia | Geo | Flex | Flex**
-![](/faq/xilonen/onfielddps.png)
+### **Arlecchino Vaporize**
 
-Navia’s team building strategy focuses on having 2 Pyro/Electro/Cryo/Hydro units with her to activate her A4 passive which gives her up to 40 ATK%. In addition to the previous units, Navia heavily favors a second Geo unit to activate Geo Resonance, help with off-field Crystallize generation, and provide Energy.
+**Arlecchino | Hydro | Bennett | Xilonen**
+![](/faq/xilonen/arle.png)
+
+As mentioned above, this team replaces Kazuha with Xilonen. However, since her healing doesn’t benefit Arlecchino and Kazuha can also easily provide RES Shred and DMG% for both Hydro and Pyro, she is not an upgrade unless dealing with multi-wave content where Kazuha cannot easily refresh his Res Shred.
 
 #### Teammates
 
-**Geo options:**
+**Hydro Options:** Yelan, Xingqiu
 
--   **Zhongli** - Zhongli is a very strong candidate for the Geo slot, as he brings a strong shield for Geo resonance and universal 20% RES Shred. He can hold 4pc Tenacity of the Millielith or simply 2pc combinations of HP for better Shield Strength.
--   **Albedo** - Albedo is another option for the Geo slot, with solid personal damage and consistent Crystallize and Energy generation. He can be built with 4pc Husk of Opulent Dreams or 4pc Golden Troupe.
--   **Geo MC** - Geo MC is a strong option as a 4\*, with high particle generation, a CRIT Rate buff, and solid personal DPS. However, their constructs, especially from skill, can prevent Navia from hitting enemies, whether by covering them in front or raising them up.
+### **Neuvillette Hypercarry**
 
-**The two remaining slots can be any combination of buffers or off-field DPS:**
+**Neuvillette | Furina | Kazuha | Xilonen**
+![](/faq/xilonen/neuvi.png)
 
--   **Furina** - provides a strong buff, but requires a teamwide healer to consistently take advantage of it. She also has some Hydro application which helps generate Crystallize shards, and decent off-field DPS, but she does lengthen rotations. She wants 4pc Golden Troupe.
--   \*_Kokomi_ - serves well as a healer in teams with Furina, brings strong AoE Hydro application for Crystallize, and can carry Thrilling Tales of Dragon Slayers to help buff Navia. She can hold 4pc Tenacity of the Millielith.
--   **Bennett** - is another option for the healer slot, and brings a large ATK buff of his own, but has very little Pyro application. He can hold 4pc Noblesse Oblige.
--   **Fischl, Yae Miko, Xiangling, Xingqiu, Yelan, Ganyu, and Rosaria** all provide good off-field damage with strong application of their respective elements, which is valuable for Crystallize shields. Fischl and Yae Miko want 4pc Golden Troupe, Yae in part due to her Burst being a DPS loss. Xiangling, Xingqiu, Yelan, and Ganyu want 4pc Emblem of Severed Fate. Rosaria wants 4pc Noblesse Oblige.
+Neuvillette doesn’t have many decent options for his fourth slot in this team, and Xilonen fits perfectly here, providing almost a second Kazuha’s worth of buffs, with the addition of healing which offers more survivability and which Furina is able to utilize to gain more stacks for her Elemental Burst’s buff.
 
-_Recommended combinations include Bennett-Fischl, Furina-Kokomi, Xingqiu-Yelan, Bennett-Furina, Bennett-Yelan, Fischl-Yelan, FIschl-Yae, Ganyu-Rosaria, and Bennett-Xiangling._
+### **Navia**
 
-### Quickswap
+**Navia | Furina/Fischl | Bennett | Xilonen**
+![](/faq/xilonen/navia.png)
 
-Quickswap Navia is not recommended because her damage is greatly reduced when played as a quickswap DPS, making her not worth running over other potential options.
-
-**Noelle | Navia | Xingqiu | Furina**
-![](/faq/xilonen/noelle.png)
-
-**Neuvillette | Furina | Navia | Kazuha**
-![](/faq/xilonen/neuv.png)
+Navia benefits immensely from Xilonen since her other options for a second Geo slot were either Zhongli, who has lackluster particle generation and thus hinders Navia, or Chiori who while providing an excellent amount of particles, is not fully utilized in this team at Constellation 0 due to Navia’s lack of Geo Constructs. In addition to solving both issues while buffing Navia, Xilonen also provides a large amount of healing, enabling greater synergy with Furina.
