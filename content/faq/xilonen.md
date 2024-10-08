@@ -35,6 +35,8 @@ Xilonen is mainly a support for characters of the aforementioned element. That b
 
 ## WFP SUBJECTIVE ANALYSIS
 
+_Authored by Acid_
+
 As far as Geo units go, Xilonen surpasses all the expectations set for her. She provides about as much as Kazuha, who is widely regarded as one of the best and most universal buffers in the game. Additionally, she also comes with healing and access to easy multi-Element RES Shred. She is also extraordinarily easy to build, requiring only a 4-piece set of the Scroll of the Hero of Cinder City artifact set, with no real need to level any of the pieces at base, except for perhaps the Sands of Eon piece for the increased Energy Recharge as well as a CRIT Rate Circlet if paired with the Favonius Sword. Her weapon options are also extremely simplistic, where aside from her Best-in-Slot(BiS)as well as Favonius Sword in teams where more ER is needed, running any other weapon (yes even Dull Blade) will not noticeably alter her performance.
 
 ### Is she a replacement for Kazuha?
@@ -134,7 +136,9 @@ _Xilonen's Geo Source Sample will always remain active. Additionally, when her S
 Xilonen’s C2 is one of the best Constellations in the game. Considering how universal she is, increasing her buffing capabilities significantly makes the Constellation hold high value. In addition to the increased buffs, it enables her to shred Geo without the use of her Skill.
 
 _Team DPS% Increase vs. C1: 13-16%_
+
 _Team DPS% Increase vs. C0: 13-16%_
+
 _Rating: 4/5_
 
 ![](/faq/xilonen/c3.png)
@@ -186,12 +190,14 @@ _Rating: 1/5_
 ### **Constellation 6 - Imperishable Night Carnival**
 
 _When Xilonen is in the Nightsoul's Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night's Blessing, ignoring the limitations of her Nightsoul's Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s._
+
 _During this time:_
 
 -   Her Nightsoul's Blessing time limit countdown will be paused. Xilonen's Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul's Blessing state will not end either.
 -   Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul's Blessing state.
 -   She heals nearby party members for 120% of her DEF every 1.5s.
-    _She can gain 1 Imperishable Night's Blessing once every 15s._
+
+_She can gain 1 Imperishable Night's Blessing once every 15s._
 
 This Constellation greatly enhances Xilonen’s personal damage in a frontloaded manner by giving her added damage on her Normal and Plunging attacks while also providing teamwide healing, enabling Furina much better compared to a lower Constellation Xilonen.
 
@@ -224,12 +230,14 @@ For more details on how Favonius weapons will affect your team, please use Ac1d�
 
 ## Artifacts
 
-_Authored by Duckfero_
+_Authored by Sew_
 
 ### Artifact Stats
 
 **Sands of Eon:** DEF% or ER
+
 **Goblet of Eonothem:** DEF%
+
 **Circlet of Logos:** Healing Bonus% or DEF% or CR (If Fav)
 
 **Substats:** ER% (until requirement) > CR (If Fav) > DEF%
