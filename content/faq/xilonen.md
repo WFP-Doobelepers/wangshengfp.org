@@ -4,7 +4,7 @@ character: "Xilonen"
 character_star: 5
 element: "geo"
 aliases: []
-author: ["Ac1d", "Sew", "snowclipsed"]
+author: ["Ac1d", "Sew", "lilith", "snowclipsed"]
 ---
 
 <br>
@@ -177,7 +177,7 @@ _Rating: 3/5_
 
 _Increases the Level of Ocelotlicue Point! by 3. Maximum upgrade level is 15._
 
-This Constellation does not provide a sizable benefit due to Navia’s Burst being only a minor portion to her overall damage.
+The added healing from this constellation is not very useful. The Constellation should only be pulled if going for C6.
 
 _Team DPS% Increase vs. C4: 0%_
 
