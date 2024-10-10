@@ -66,6 +66,7 @@ Xianyun generates five Anemo Particles regardless of how many times her Skill is
 **Elemental Burst: Stars Gather at Dusk**
 
 The main attraction of Xianyun’s kit. Xianyun heals the team and summons a Starwicker upon the initial cast of her Burst. Starwicker mainly does three things: heal, increase active characters’ jumping height, and deal damage. Its healing is Xianyun’s only source of healing pre-C4 but is completely teamwide and heals once every 2.5 seconds. The Healing provided by Xianyun’s Elemental Burst is strong enough to sustain a majority of teams for players, without the need for additional defensive characters, such as another healer or shielder.
+
 A Starwicker has 8 stacks of Adeptal Assistance upon summoning. Adeptal Assistance allows the character to have an increased jumping height. Upon hitting an enemy with a Plunging Attack, Starwicker will unleash a coordinated attack, dealing Anemo DMG and consuming one stack of Adeptal Assistance. Adeptal Assistance stacks cannot be regained, hence only a maximum of 8 Starwicker hits can be triggered throughout Xianyun’s Burst duration.
 
 Xianyun’s Burst allows basically everyone to spam Plunging Attacks, which opens up possibilities for new teams and combos. These will be discussed in the Teambuilding section of this FAQ.
@@ -76,7 +77,7 @@ All party members will gain additional CRIT Rate to their Plunging Attacks for 2
 **A4 Passive: Consider, the Adeptus in Her Realm**
 When Xianyun has Adeptal Assistance stacks from her Burst, she grants an Additive DMG Bonus of 200% of her ATK for Plunging Attacks. This Flat DMG Bonus caps at 9,000 and can only be applied once per Plunging Attack.
 
-**Utility Passive: Crane Form **
+**Utility Passive: Crane Form**
 
 Xianyun gives a 15% gliding SPD boost to aid in your exploration.
 
